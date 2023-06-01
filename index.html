@@ -11,28 +11,23 @@
   <form class="search-form">
     <input type="text" class="search" placeholder="課程名稱或授課老師">
     <ul class="suggestions">
-      <li>輸入課程名稱</li>
-      <li>或是授課老師</li>
     </ul>
   </form>
 <script>
-  const endpoint = 'https://raw.githubusercontent.com/JadarTheObscurity/NYCUTimeTableLookup/main/result.json';
-  let cities = []
+  let courses = []
   fetch('./result.json').then(blob => blob.json()).then(data => {
-    console.log(data);
-    cities.push(...data);
-    console.log(cities);
+    courses.push(...data);
   });
 
-  function findMatch(keyword, cities){
+  function findMatch(keyword, courses){
     const regex = RegExp(`${keyword}`, "gi");
-    return cities.filter(place => {
+    return courses.filter(place => {
       return place.courseName.match(regex) || place.courseTeacher.match(regex);
     })
   }
 
   function displayMatch() {
-    const matches = findMatch(this.value, cities);
+    const matches = findMatch(this.value, courses);
     const regex = RegExp(`${this.value}`, "gi");
     const htmlAll = matches.map( course => {
       const courseName = course.courseName.replace(regex, `<span class="hl">${this.value}</span>`)
@@ -41,10 +36,10 @@
       const courseTime = course.courseTime
       return `
       <li>
-        <span class="courseName"> ${courseName} </span>
-        <span class="coursePath"> ${coursePath}</span>
-        <span class="courseTeacher"> ${courseTeacher}</span>
-        <span class="courseTime"> ${courseTime}</span>
+        <span class="courseName"> 課程名稱：${courseName} </span>
+        <span class="coursePath"> 課程路徑：${coursePath}</span>
+        <span class="courseTeacher"> 授課老師：${courseTeacher}</span>
+        <span class="courseTime"> 課程時間：${courseTime}</span>
       </li>
       `
     });
