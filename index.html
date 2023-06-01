@@ -6,6 +6,8 @@
     <title>尋找陽明交大課程在哪裡 👀</title>
     <link rel="stylesheet" href="style.css">
     <link rel="icon" href="https://fav.farm/🔥" />
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
 </head>
 
 <body>
@@ -35,13 +37,16 @@
             const matches = findMatch(this.value, courses);
             const regex = RegExp(`${this.value}`, "gi");
             const htmlAll = matches.map(course => {
+                const courseSem = course.courseSemester.substr(course.courseSemester.length-1, 1)
+                const courseAcy = course.courseSemester.substr(0, course.courseSemester.length-1)
+                const courseURL = `https://timetable.nycu.edu.tw/?r=main/crsoutline&Acy=${courseAcy}&Sem=${courseSem}&CrsNo=${course.courseId}&lang=zh-tw`;
                 const courseName = course.courseName.replace(regex, `<span class="hl">${this.value}</span>`)
                 const coursePath = course.coursePath
                 const courseTeacher = course.courseTeacher.replace(regex, `<span class="hl">${this.value}</span>`)
                 const courseTime = course.courseTime
                 return `
                     <li>
-                        <span class="courseName"> 課程名稱：${courseName} </span>
+                        <a href=${courseURL} class="links"> 課程名稱：${courseName} </a>
                         <span class="coursePath"> 課程路徑：${coursePath}</span>
                         <span class="courseTeacher"> 授課老師：${courseTeacher}</span>
                         <span class="courseTime"> 課程時間：${courseTime}</span>
