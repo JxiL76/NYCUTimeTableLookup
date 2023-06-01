@@ -63,7 +63,9 @@ def saveCourses(courses, coursePath, coursesWithPath):
                 courseName = courseInfo['cos_cname']
                 courseTeacher = courseInfo['teacher']
                 courseTime = courseInfo['cos_time']
-                coursesWithPath[courseId] = {
+                courseIndex = f"{courseId}_{courseName}"
+                coursesWithPath[courseIndex] = {
+                    "courseId": courseId,
                     "courseName": courseName,
                     "courseSemester": courseSemester,
                     "courseTeacher": courseTeacher,
@@ -80,8 +82,6 @@ for file in os.listdir("tmp"):
         coursePath = file.split(".")[0]
         saveCourses(courses, coursePath, courseWithPath)
     loopCounter += 1
-    # if (loopCounter == 10):
-    #     break
 
 with open("result.json", "w") as f:
     json.dump(courseWithPath, f, indent=4, ensure_ascii=False, sort_keys=True)
