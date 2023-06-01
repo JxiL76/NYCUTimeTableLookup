@@ -1,0 +1,61 @@
+{
+    "F25F72ED-9F1C-469A-A174-6FF0F0367955": {
+        "dep_id": "F25F72ED-9F1C-469A-A174-6FF0F0367955",
+        "dep_cname": "電機資訊學士班",
+        "dep_ename": "EECS Undergraduate Honors Program",
+        "2": {
+            "1121_230009": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "230009",
+                "cos_code": "MGBM30051",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "統計方法與資料分析",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "張延彰",
+                "cos_time": "W234-TB307[BM]",
+                "memo": "",
+                "cos_ename": "Statistical Methods and Data Analyis",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "500",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊學士班",
+                "dep_ename": "EECS Undergraduate Honors Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            }
+        },
+        "costype": {
+            "1121_230009": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_230009": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_230009": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    }
+}

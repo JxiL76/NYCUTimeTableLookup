@@ -1,0 +1,429 @@
+{
+    "219FB90A-3490-4DDC-8FF6-CF9B4EDFA833": {
+        "dep_id": "219FB90A-3490-4DDC-8FF6-CF9B4EDFA833",
+        "dep_cname": "管理學院碩士在職專班-資管組",
+        "dep_ename": "Degree Program of Information Management",
+        "1": {
+            "1121_557600": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "557600",
+                "cos_code": "MGIM30022",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "碩士論文研究",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "資管所",
+                "cos_time": "",
+                "memo": "",
+                "cos_ename": "Research on Master Theses",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "716",
+                "dep_primary": "1",
+                "dep_cname": "管理學院碩士在職專班-資管組",
+                "dep_ename": "Degree Program of Information Management",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_557601": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "557601",
+                "cos_code": "MGIM30038",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "資訊管理論文研討",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "資管所",
+                "cos_time": "S34-MB312[GF]",
+                "memo": "",
+                "cos_ename": "Seminars on Information Management",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "716",
+                "dep_primary": "1",
+                "dep_cname": "管理學院碩士在職專班-資管組",
+                "dep_ename": "Degree Program of Information Management",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_557602": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "557602",
+                "cos_code": "MGIM30013",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "數位內容與機器學習",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "蔡銘箴",
+                "cos_time": "Mabc-MB304[GF]",
+                "memo": "",
+                "cos_ename": "Digital Content and Machine Learning",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "716",
+                "dep_primary": "1",
+                "dep_cname": "管理學院碩士在職專班-資管組",
+                "dep_ename": "Degree Program of Information Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_557603": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "557603",
+                "cos_code": "MGIM30021",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "演算法",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://bmtlin.lab.nycu.edu.tw/",
+                "teacher": "林妙聰",
+                "cos_time": "Mabc-MB311[GF]",
+                "memo": "",
+                "cos_ename": "Computer Algorithms",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "716",
+                "dep_primary": "1",
+                "dep_cname": "管理學院碩士在職專班-資管組",
+                "dep_ename": "Degree Program of Information Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_557604": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "557604",
+                "cos_code": "MGIM30035",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "資訊安全",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "古政元",
+                "cos_time": "Tabc-MB312[GF]",
+                "memo": "",
+                "cos_ename": "Information Security",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "716",
+                "dep_primary": "1",
+                "dep_cname": "管理學院碩士在職專班-資管組",
+                "dep_ename": "Degree Program of Information Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_557605": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "557605",
+                "cos_code": "MGIM30019",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "演算式決策與學習",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "陳柏安",
+                "cos_time": "Tabc-MB311[GF]",
+                "memo": "",
+                "cos_ename": "Algorithmic Decision & Learning",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "716",
+                "dep_primary": "1",
+                "dep_cname": "管理學院碩士在職專班-資管組",
+                "dep_ename": "Degree Program of Information Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_557606": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "557606",
+                "cos_code": "MGIM30015",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "智慧醫院管理與實務",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "黃興進",
+                "cos_time": "Wabc-MB312[GF]",
+                "memo": "",
+                "cos_ename": "Smart Hospital in Practice",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "716",
+                "dep_primary": "1",
+                "dep_cname": "管理學院碩士在職專班-資管組",
+                "dep_ename": "Degree Program of Information Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_557607": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "557607",
+                "cos_code": "MGIM30042",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "資料探勘研究與實務",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "劉敦仁",
+                "cos_time": "Rabc-MB311[GF]",
+                "memo": "",
+                "cos_ename": "Data Mining Research & Practice",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "716",
+                "dep_primary": "1",
+                "dep_cname": "管理學院碩士在職專班-資管組",
+                "dep_ename": "Degree Program of Information Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_557608": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "557608",
+                "cos_code": "MGIM30032",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "網路科學與社會計算",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://web.it.nctu.edu.tw/~yml/",
+                "teacher": "李永銘",
+                "cos_time": "Rabc-MB312[GF]",
+                "memo": "",
+                "cos_ename": "Network Science & Social Computing",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "716",
+                "dep_primary": "1",
+                "dep_cname": "管理學院碩士在職專班-資管組",
+                "dep_ename": "Degree Program of Information Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "J"
+            }
+        },
+        "costype": {
+            "1121_557600": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_557601": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_557602": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_557603": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_557604": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_557605": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_557606": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_557607": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_557608": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_557600": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_557601": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_557602": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_557603": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_557604": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_557605": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_557606": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_557607": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_557608": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_557600": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_557601": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_557602": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_557603": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_557604": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_557605": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_557606": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_557607": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_557608": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    }
+}

@@ -1,0 +1,935 @@
+{
+    "8AA1026B-EF42-43C9-85AF-68D87EFB0A1E": {
+        "dep_id": "8AA1026B-EF42-43C9-85AF-68D87EFB0A1E",
+        "dep_cname": "光電工程學系",
+        "dep_ename": "Institute of Electro-Optical Engineering",
+        "2": {
+            "1121_535400": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535400",
+                "cos_code": "EEEO30004",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "個別研討",
+                "cos_credit": "1.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "光電系",
+                "cos_time": "S567-",
+                "memo": "光電系碩、博必選",
+                "cos_ename": "Independent Study",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "514",
+                "dep_primary": "2",
+                "dep_cname": "光電工程學系",
+                "dep_ename": "Institute of Electro-Optical Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "102",
+                "depType": "D"
+            },
+            "1121_535401": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535401",
+                "cos_code": "EEEO30047",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "專題演講 (碩一、博一)",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "冉曉雯、陳俐吟",
+                "cos_time": "F56-EO103[GF]",
+                "memo": "光電系碩、博必選",
+                "cos_ename": "Colloquium",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "514",
+                "dep_primary": "2",
+                "dep_cname": "光電工程學系",
+                "dep_ename": "Institute of Electro-Optical Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_535402": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535402",
+                "cos_code": "EEEO30027",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "光電顯示實驗",
+                "cos_credit": "1.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "光電系",
+                "cos_time": "Mabcd-EO115[GF]",
+                "memo": "1.光電系碩士班必修 2.限光電系碩士班學生選修，其他學生另外加簽",
+                "cos_ename": "Experiments of Electro-Optics Display Technology",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "514",
+                "dep_primary": "2",
+                "dep_cname": "光電工程學系",
+                "dep_ename": "Institute of Electro-Optical Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_535403": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535403",
+                "cos_code": "EEEO30027",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "光電顯示實驗",
+                "cos_credit": "1.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "光電系",
+                "cos_time": "Wabcd-EO115[GF]",
+                "memo": "1.光電系碩士班必修 2.限光電系碩士班學生選修，其他學生另外加簽",
+                "cos_ename": "Experiments of Electro-Optics Display Technology",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "514",
+                "dep_primary": "2",
+                "dep_cname": "光電工程學系",
+                "dep_ename": "Institute of Electro-Optical Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_535404": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535404",
+                "cos_code": "EEEO30023",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "光電子學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "李柏璁、張祐嘉",
+                "cos_time": "W567-CY201[GF]",
+                "memo": "1.光電系碩士班必修 2.光電系碩博士班優先選課3.碩一生統一由本系分發上課班級4.線上同步教學",
+                "cos_ename": "Optoelectronics",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "514",
+                "dep_primary": "2",
+                "dep_cname": "光電工程學系",
+                "dep_ename": "Institute of Electro-Optical Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_535405": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535405",
+                "cos_code": "EEEO30023",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "光電子學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "陳俐吟",
+                "cos_time": "W567-CY203[GF]",
+                "memo": "1.光電系碩士班必修 2.光電系碩博士班優先選課3.碩一生統一由本系分發上課班級",
+                "cos_ename": "Optoelectronics",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "514",
+                "dep_primary": "2",
+                "dep_cname": "光電工程學系",
+                "dep_ename": "Institute of Electro-Optical Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_535406": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535406",
+                "cos_code": "EEEO30122",
+                "num_limit": "70",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "顯示電子電路",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "戴亞翔",
+                "cos_time": "F234-CY201[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Electronic Circuits for Display",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "514",
+                "dep_primary": "2",
+                "dep_cname": "光電工程學系",
+                "dep_ename": "Institute of Electro-Optical Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_535407": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535407",
+                "cos_code": "EEEO30046",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "富氏光學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "許根玉",
+                "cos_time": "M4W34-EO115[GF]",
+                "memo": "",
+                "cos_ename": "Fourier Optics",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "514",
+                "dep_primary": "2",
+                "dep_cname": "光電工程學系",
+                "dep_ename": "Institute of Electro-Optical Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_535408": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535408",
+                "cos_code": "EEEO30059",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "液晶導論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "陳皇銘",
+                "cos_time": "Rabc-CY203[GF]",
+                "memo": "",
+                "cos_ename": "Intro. to Liquid Crystals",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "514",
+                "dep_primary": "2",
+                "dep_cname": "光電工程學系",
+                "dep_ename": "Institute of Electro-Optical Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_535409": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535409",
+                "cos_code": "EEEO30034",
+                "num_limit": "70",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "半導體元件及物理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "冉曉雯",
+                "cos_time": "T8F34-CY203[GF]",
+                "memo": "",
+                "cos_ename": "Semiconductor Devices & Physics",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "514",
+                "dep_primary": "2",
+                "dep_cname": "光電工程學系",
+                "dep_ename": "Institute of Electro-Optical Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_535410": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535410",
+                "cos_code": "EEEO30067",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生醫光子學導論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "孫家偉",
+                "cos_time": "T567-EO115[GF]",
+                "memo": "",
+                "cos_ename": "Introduction to Biophotonics",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "514",
+                "dep_primary": "2",
+                "dep_cname": "光電工程學系",
+                "dep_ename": "Institute of Electro-Optical Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_535411": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535411",
+                "cos_code": "EEEO30031",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "加速器光源之應用(二)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "徐嘉鴻",
+                "cos_time": "T567-",
+                "memo": "上課地點:同步輻射中心D251",
+                "cos_ename": "Introduction to Applications of Synchrotron Radiation II",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "514",
+                "dep_primary": "2",
+                "dep_cname": "光電工程學系",
+                "dep_ename": "Institute of Electro-Optical Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_535412": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535412",
+                "cos_code": "EEEO30010",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "光學設計與像差理論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "陳政寰",
+                "cos_time": "T678-CY201[GF]",
+                "memo": "",
+                "cos_ename": " Optical design and aberration theory",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "514",
+                "dep_primary": "2",
+                "dep_cname": "光電工程學系",
+                "dep_ename": "Institute of Electro-Optical Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_535413": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535413",
+                "cos_code": "EEEO30072",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "矽光子學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "張祐嘉",
+                "cos_time": "W2F34-CY202[GF]",
+                "memo": "",
+                "cos_ename": "Silicon photonics",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "514",
+                "dep_primary": "2",
+                "dep_cname": "光電工程學系",
+                "dep_ename": "Institute of Electro-Optical Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_535415": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535415",
+                "cos_code": "EEEO30057",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "材料光學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://tim.tclu.googlepages.com/",
+                "teacher": "盧廷昌",
+                "cos_time": "F789-CY203[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "The Optical Properties of Materials",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "514",
+                "dep_primary": "2",
+                "dep_cname": "光電工程學系",
+                "dep_ename": "Institute of Electro-Optical Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_535416": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535416",
+                "cos_code": "EEEO30011",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "光學微影與解析度增益技術",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://www.ieo.nctu.edu.tw/ieophasor/",
+                "teacher": "余沛慈",
+                "cos_time": "T234-EO115[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Optical Micro-lithography(OML) and Resolution Enhancement Techniques",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "514",
+                "dep_primary": "2",
+                "dep_cname": "光電工程學系",
+                "dep_ename": "Institute of Electro-Optical Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_535417": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535417",
+                "cos_code": "EEEO30096",
+                "num_limit": "20",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "超穎介面",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://ywhuang.com/",
+                "teacher": "黃耀緯",
+                "cos_time": "M567-EO115[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Metasurfaces",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "514",
+                "dep_primary": "2",
+                "dep_cname": "光電工程學系",
+                "dep_ename": "Institute of Electro-Optical Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_535418": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535418",
+                "cos_code": "EEEO30042",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "固態物理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "黃嘉彥",
+                "cos_time": "R567-CY202[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Solid State Physics",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "514",
+                "dep_primary": "2",
+                "dep_cname": "光電工程學系",
+                "dep_ename": "Institute of Electro-Optical Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_535419": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535419",
+                "cos_code": "EEEO30111",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "雷射原理與超快光學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://sites.google.com/view/tzuling-chen/cover?authuser=0",
+                "teacher": "陳姿伶",
+                "cos_time": "F234-EO115[GF]",
+                "memo": "",
+                "cos_ename": "Laser principles and ultrafast optics",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "514",
+                "dep_primary": "2",
+                "dep_cname": "光電工程學系",
+                "dep_ename": "Institute of Electro-Optical Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_535420": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535420",
+                "cos_code": "EEEO30065",
+                "num_limit": "70",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "物理光學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "賴英杰",
+                "cos_time": "R234-CY201[GF]",
+                "memo": "1.光電系碩士班及博士班必修2.光電系碩博士班學生優先選課",
+                "cos_ename": "Physical Optics",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "514",
+                "dep_primary": "2",
+                "dep_cname": "光電工程學系",
+                "dep_ename": "Institute of Electro-Optical Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            }
+        },
+        "costype": {
+            "1121_535400": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535401": {
+                "專題演講_專題演講": {
+                    "course_category_cname": "專題演講_專題演講",
+                    "course_category_ename": "",
+                    "course_category_type": "62",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535402": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535403": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535404": {
+                "遠距課程_遠距": {
+                    "course_category_cname": "遠距課程_遠距",
+                    "course_category_ename": "Distance  Learning Courses_DL",
+                    "course_category_type": "4",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535405": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535406": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535407": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535408": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535409": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535410": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535411": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535412": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535413": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535415": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535416": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535417": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535418": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535419": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535420": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_535400": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535401": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535402": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535403": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535404": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535405": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535406": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535407": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535408": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535409": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535410": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535411": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535412": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535413": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535415": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535416": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535417": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535418": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535419": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535420": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_535400": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_535401": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_535402": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_535403": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_535404": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_535405": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_535406": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535407": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_535408": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_535409": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_535410": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_535411": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_535412": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_535413": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_535415": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535416": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535417": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535418": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535419": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_535420": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    }
+}

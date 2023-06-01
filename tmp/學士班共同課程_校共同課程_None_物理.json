@@ -1,0 +1,1395 @@
+{
+    "867086D9-6B6D-46F8-8F76-CC6B834551DB": {
+        "dep_id": "867086D9-6B6D-46F8-8F76-CC6B834551DB",
+        "dep_cname": "物理教學小組",
+        "dep_ename": "Physical section",
+        "1": {
+            "1121_565000": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "565000",
+                "cos_code": "GEPS10003",
+                "num_limit": "85",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "物理(一)榮譽班",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "http://nqpl.ep.nctu.edu.tw",
+                "teacher": "簡紋濱",
+                "cos_time": "M34R78-SA321[GF]",
+                "memo": "含近代物理",
+                "cos_ename": "Physics(I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUD",
+                "dep_primary": "1",
+                "dep_cname": "物理教學小組",
+                "dep_ename": "Physical section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_565001": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "565001",
+                "cos_code": "GEPS10003",
+                "num_limit": "85",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "物理(一)榮譽班",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "郭昌洋",
+                "cos_time": "M34R78-SA320[GF]",
+                "memo": "[English Medium Course]含近代物理",
+                "cos_ename": "Physics(I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUD",
+                "dep_primary": "1",
+                "dep_cname": "物理教學小組",
+                "dep_ename": "Physical section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_565002": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "565002",
+                "cos_code": "GEPS10001",
+                "num_limit": "85",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "物理(一)",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "科契諾",
+                "cos_time": "M34R78-SC106[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Physics(I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUD",
+                "dep_primary": "1",
+                "dep_cname": "物理教學小組",
+                "dep_ename": "Physical section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_565003": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "565003",
+                "cos_code": "GEPS10001",
+                "num_limit": "85",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "物理(一)",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "林貴林",
+                "cos_time": "M34R78-SC001[GF]",
+                "memo": "",
+                "cos_ename": "Physics(I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUD",
+                "dep_primary": "1",
+                "dep_cname": "物理教學小組",
+                "dep_ename": "Physical section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_565004": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "565004",
+                "cos_code": "GEPS10001",
+                "num_limit": "85",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "物理(一)",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "http://gate.ep.nctu.edu.tw/~chenyc",
+                "teacher": "陳煜璋",
+                "cos_time": "M34R78-EC015[GF]",
+                "memo": "",
+                "cos_ename": "Physics(I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUD",
+                "dep_primary": "1",
+                "dep_cname": "物理教學小組",
+                "dep_ename": "Physical section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_565005": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "565005",
+                "cos_code": "GEPS10003",
+                "num_limit": "80",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "物理(一)榮譽班",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "楊本立",
+                "cos_time": "T78F34-SA321[GF]",
+                "memo": "含近代物理",
+                "cos_ename": "Physics(I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUD",
+                "dep_primary": "1",
+                "dep_cname": "物理教學小組",
+                "dep_ename": "Physical section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_565006": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "565006",
+                "cos_code": "GEPS10003",
+                "num_limit": "80",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "物理(一)榮譽班",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "https://ep.nycu.edu.tw/faculty_info/%e6%9e%97%e4%bf%8a%e8%89%af/",
+                "teacher": "林俊良",
+                "cos_time": "T78F34-SA320[GF]",
+                "memo": "含近代物理[English Medium Course]",
+                "cos_ename": "Physics(I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUD",
+                "dep_primary": "1",
+                "dep_cname": "物理教學小組",
+                "dep_ename": "Physical section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_565007": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "565007",
+                "cos_code": "GEPS10001",
+                "num_limit": "80",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "物理(一)",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "籔下篤史",
+                "cos_time": "T78F34-ED116[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Physics(I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUD",
+                "dep_primary": "1",
+                "dep_cname": "物理教學小組",
+                "dep_ename": "Physical section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_565008": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "565008",
+                "cos_code": "GEPS10001",
+                "num_limit": "80",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "物理(一)",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "孟心飛",
+                "cos_time": "T78F34-EDB27[GF]",
+                "memo": "",
+                "cos_ename": "Physics(I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUD",
+                "dep_primary": "1",
+                "dep_cname": "物理教學小組",
+                "dep_ename": "Physical section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_565009": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "565009",
+                "cos_code": "GEPS10001",
+                "num_limit": "180",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "物理(一)",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "李威儀",
+                "cos_time": "T78-SC001[GF]",
+                "memo": "遠距課程",
+                "cos_ename": "Physics(I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUD",
+                "dep_primary": "1",
+                "dep_cname": "物理教學小組",
+                "dep_ename": "Physical section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_565010": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "565010",
+                "cos_code": "GEPS10011",
+                "num_limit": "100",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "物理(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "張正宏",
+                "cos_time": "T7F34-SC106[GF]",
+                "memo": "生科系優先",
+                "cos_ename": "Physics(I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUD",
+                "dep_primary": "1",
+                "dep_cname": "物理教學小組",
+                "dep_ename": "Physical section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_565011": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "565011",
+                "cos_code": "GEPS10007",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "物理一(榮譽班)作業演算",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "http://nqpl.ep.nctu.edu.tw",
+                "teacher": "簡紋濱",
+                "cos_time": "Fbc-SA321[GF]",
+                "memo": "",
+                "cos_ename": "Physics Recitation(I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUD",
+                "dep_primary": "1",
+                "dep_cname": "物理教學小組",
+                "dep_ename": "Physical section",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_565012": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "565012",
+                "cos_code": "GEPS10007",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "物理一(榮譽班)作業演算",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "郭昌洋",
+                "cos_time": "Fbc-SA320[GF]",
+                "memo": "",
+                "cos_ename": "Physics Recitation(I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUD",
+                "dep_primary": "1",
+                "dep_cname": "物理教學小組",
+                "dep_ename": "Physical section",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_565013": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "565013",
+                "cos_code": "GEPS10005",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "物理一作業演算",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "科契諾",
+                "cos_time": "Fbc-SC106[GF]",
+                "memo": "",
+                "cos_ename": "Physics Recitation(I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUD",
+                "dep_primary": "1",
+                "dep_cname": "物理教學小組",
+                "dep_ename": "Physical section",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_565014": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "565014",
+                "cos_code": "GEPS10005",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "物理一作業演算",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "林貴林",
+                "cos_time": "Fbc-SC109[GF]",
+                "memo": "",
+                "cos_ename": "Physics Recitation(I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUD",
+                "dep_primary": "1",
+                "dep_cname": "物理教學小組",
+                "dep_ename": "Physical section",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_565015": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "565015",
+                "cos_code": "GEPS10005",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "物理一作業演算",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "http://gate.ep.nctu.edu.tw/~chenyc",
+                "teacher": "陳煜璋",
+                "cos_time": "Fbc-SC110[GF]",
+                "memo": "",
+                "cos_ename": "Physics Recitation(I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUD",
+                "dep_primary": "1",
+                "dep_cname": "物理教學小組",
+                "dep_ename": "Physical section",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_565016": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "565016",
+                "cos_code": "GEPS10007",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "物理一(榮譽班)作業演算",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "楊本立",
+                "cos_time": "Fbc-SC152[GF]",
+                "memo": "",
+                "cos_ename": "Physics Recitation(I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUD",
+                "dep_primary": "1",
+                "dep_cname": "物理教學小組",
+                "dep_ename": "Physical section",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_565017": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "565017",
+                "cos_code": "GEPS10007",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "物理一(榮譽班)作業演算",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "https://ep.nycu.edu.tw/faculty_info/%e6%9e%97%e4%bf%8a%e8%89%af/",
+                "teacher": "林俊良",
+                "cos_time": "Fbc-SC157[GF]",
+                "memo": "",
+                "cos_ename": "Physics Recitation(I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUD",
+                "dep_primary": "1",
+                "dep_cname": "物理教學小組",
+                "dep_ename": "Physical section",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_565018": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "565018",
+                "cos_code": "GEPS10005",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "物理一作業演算",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "籔下篤史",
+                "cos_time": "Fbc-SC158[GF]",
+                "memo": "",
+                "cos_ename": "Physics Recitation(I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUD",
+                "dep_primary": "1",
+                "dep_cname": "物理教學小組",
+                "dep_ename": "Physical section",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_565019": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "565019",
+                "cos_code": "GEPS10005",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "物理一作業演算",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "孟心飛",
+                "cos_time": "Fbc-SC160[GF]",
+                "memo": "",
+                "cos_ename": "Physics Recitation(I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUD",
+                "dep_primary": "1",
+                "dep_cname": "物理教學小組",
+                "dep_ename": "Physical section",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_565020": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "565020",
+                "cos_code": "GEPS10009",
+                "num_limit": "56",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "物理實驗(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "待聘",
+                "cos_time": "M567-SA014[GF]",
+                "memo": "機械 A",
+                "cos_ename": "Physics Lab. (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUD",
+                "dep_primary": "1",
+                "dep_cname": "物理教學小組",
+                "dep_ename": "Physical section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_565021": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "565021",
+                "cos_code": "GEPS10009",
+                "num_limit": "56",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "物理實驗(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "待聘",
+                "cos_time": "M567-SA015[GF]",
+                "memo": "機械 B",
+                "cos_ename": "Physics Lab. (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUD",
+                "dep_primary": "1",
+                "dep_cname": "物理教學小組",
+                "dep_ename": "Physical section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_565022": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "565022",
+                "cos_code": "GEPS10009",
+                "num_limit": "56",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "物理實驗(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "待聘",
+                "cos_time": "T234-SA014[GF]",
+                "memo": "光電系",
+                "cos_ename": "Physics Lab. (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUD",
+                "dep_primary": "1",
+                "dep_cname": "物理教學小組",
+                "dep_ename": "Physical section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_565023": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "565023",
+                "cos_code": "GEPS10009",
+                "num_limit": "56",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "物理實驗(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "待聘",
+                "cos_time": "T234-SA015[GF]",
+                "memo": "奈米學士班",
+                "cos_ename": "Physics Lab. (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUD",
+                "dep_primary": "1",
+                "dep_cname": "物理教學小組",
+                "dep_ename": "Physical section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_565024": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "565024",
+                "cos_code": "GEPS10009",
+                "num_limit": "56",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "物理實驗(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "待聘",
+                "cos_time": "W234-SA014[GF]",
+                "memo": "電物系 電物組",
+                "cos_ename": "Physics Lab. (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUD",
+                "dep_primary": "1",
+                "dep_cname": "物理教學小組",
+                "dep_ename": "Physical section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_565025": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "565025",
+                "cos_code": "GEPS10009",
+                "num_limit": "56",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "物理實驗(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "待聘",
+                "cos_time": "W234-SA015[GF]",
+                "memo": "電物系 光電組",
+                "cos_ename": "Physics Lab. (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUD",
+                "dep_primary": "1",
+                "dep_cname": "物理教學小組",
+                "dep_ename": "Physical section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_565026": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "565026",
+                "cos_code": "GEPS10009",
+                "num_limit": "56",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "物理實驗(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "待聘",
+                "cos_time": "Wn56-SA014[GF]",
+                "memo": "材料系",
+                "cos_ename": "Physics Lab. (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUD",
+                "dep_primary": "1",
+                "dep_cname": "物理教學小組",
+                "dep_ename": "Physical section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_565027": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "565027",
+                "cos_code": "GEPS10009",
+                "num_limit": "56",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "物理實驗(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "待聘",
+                "cos_time": "Wn56-SA015[GF]",
+                "memo": "應化系",
+                "cos_ename": "Physics Lab. (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUD",
+                "dep_primary": "1",
+                "dep_cname": "物理教學小組",
+                "dep_ename": "Physical section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_565028": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "565028",
+                "cos_code": "GEPS10009",
+                "num_limit": "56",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "物理實驗(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "待聘",
+                "cos_time": "R234-SA014[GF]",
+                "memo": "生科 A",
+                "cos_ename": "Physics Lab. (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUD",
+                "dep_primary": "1",
+                "dep_cname": "物理教學小組",
+                "dep_ename": "Physical section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_565029": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "565029",
+                "cos_code": "GEPS10009",
+                "num_limit": "56",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "物理實驗(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "待聘",
+                "cos_time": "R234-SA015[GF]",
+                "memo": "生科 B",
+                "cos_ename": "Physics Lab. (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUD",
+                "dep_primary": "1",
+                "dep_cname": "物理教學小組",
+                "dep_ename": "Physical section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "O"
+            }
+        },
+        "costype": {
+            "1121_565000": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_565001": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_565002": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_565003": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_565004": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_565005": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_565006": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_565007": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_565008": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_565009": {
+                "遠距課程_遠距": {
+                    "course_category_cname": "遠距課程_遠距",
+                    "course_category_ename": "Distance  Learning Courses_DL",
+                    "course_category_type": "4",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_565010": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_565011": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_565012": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_565013": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_565014": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_565015": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_565016": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_565017": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_565018": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_565019": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_565020": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_565021": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_565022": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_565023": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_565024": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_565025": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_565026": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_565027": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_565028": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_565029": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_565000": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_565001": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_565002": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_565003": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_565004": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_565005": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_565006": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_565007": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_565008": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_565009": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_565010": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_565011": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_565012": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_565013": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_565014": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_565015": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_565016": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_565017": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_565018": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_565019": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_565020": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_565021": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_565022": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_565023": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_565024": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_565025": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_565026": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_565027": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_565028": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_565029": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_565000": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_565001": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_565002": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_565003": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_565004": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_565005": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_565006": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_565007": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_565008": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_565009": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_565010": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_565011": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_565012": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_565013": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_565014": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_565015": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_565016": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_565017": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_565018": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_565019": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_565020": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_565021": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_565022": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_565023": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_565024": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_565025": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_565026": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_565027": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_565028": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_565029": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    }
+}

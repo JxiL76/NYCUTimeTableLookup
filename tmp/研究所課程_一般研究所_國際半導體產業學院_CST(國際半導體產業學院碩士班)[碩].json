@@ -1,0 +1,905 @@
+{
+    "E10261D7-7062-4CE1-B7D7-FD3EF2068864": {
+        "dep_id": "E10261D7-7062-4CE1-B7D7-FD3EF2068864",
+        "dep_cname": "國際半導體產業學院碩士班",
+        "dep_ename": "International College of Semiconductor Technology",
+        "1": {
+            "1121_535900": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535900",
+                "cos_code": "STST30014",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "學位論文研究",
+                "cos_credit": ".00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "半導體所",
+                "cos_time": "",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Academic Dissertation Research",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "591",
+                "dep_primary": "1",
+                "dep_cname": "國際半導體產業學院碩士班",
+                "dep_ename": "International College of Semiconductor Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "6",
+                "depType": "G"
+            },
+            "1121_535901": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535901",
+                "cos_code": "STST30018",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "書報討論",
+                "cos_credit": ".00",
+                "cos_hours": "3.00",
+                "TURL": "https://icst.nycu.edu.tw/?page_id=1732",
+                "teacher": "吳添立",
+                "cos_time": "W567-AB101[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Seminar",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "591",
+                "dep_primary": "1",
+                "dep_cname": "國際半導體產業學院碩士班",
+                "dep_ename": "International College of Semiconductor Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "35",
+                "depType": "G"
+            },
+            "1121_535902": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535902",
+                "cos_code": "STST30006",
+                "num_limit": "35",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "半導體元件可靠度及其失效物理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://icst.nycu.edu.tw/?page_id=1732",
+                "teacher": "吳添立",
+                "cos_time": "M234-EE116[GF]",
+                "memo": "國際半導體產業學院優先；前瞻所甲組、乙組選修課程[English Medium Course]",
+                "cos_ename": "Reliability and Failure Physics of Semiconductor Devices",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "591",
+                "dep_primary": "1",
+                "dep_cname": "國際半導體產業學院碩士班",
+                "dep_ename": "International College of Semiconductor Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_535903": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535903",
+                "cos_code": "STST30039",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "量子流體與低溫技術",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "河野公俊",
+                "cos_time": "M567-SC162[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Quantum Fluids and Cryogenics",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "591",
+                "dep_primary": "1",
+                "dep_cname": "國際半導體產業學院碩士班",
+                "dep_ename": "International College of Semiconductor Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_535904": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535904",
+                "cos_code": "STST30016",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "數位積體電路",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://sites.google.com/site/nctueecslab/",
+                "teacher": "黃柏蒼",
+                "cos_time": "M567-AB101[GF]",
+                "memo": "前瞻所丙組核心課程；智能所甲組、丙組選修課程[English Medium Course]",
+                "cos_ename": "Digital Integrated Circuits",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "591",
+                "dep_primary": "1",
+                "dep_cname": "國際半導體產業學院碩士班",
+                "dep_ename": "International College of Semiconductor Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_535905": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535905",
+                "cos_code": "STST30011",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "固態物理學導論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "葉勝玄",
+                "cos_time": "T234-EE117[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Introduction to solid state physics",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "591",
+                "dep_primary": "1",
+                "dep_cname": "國際半導體產業學院碩士班",
+                "dep_ename": "International College of Semiconductor Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_535906": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535906",
+                "cos_code": "STST30029",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "程式語言於半導體技術應用",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "阿圖爾Artur Useinov",
+                "cos_time": "T234-EE116[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Introduction to Programming for Semiconductor Devices",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "591",
+                "dep_primary": "1",
+                "dep_cname": "國際半導體產業學院碩士班",
+                "dep_ename": "International College of Semiconductor Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_535907": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535907",
+                "cos_code": "STST30026",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "類比積體電路II",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "尹大根",
+                "cos_time": "W234-EE116[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Analog Circuit Design II",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "591",
+                "dep_primary": "1",
+                "dep_cname": "國際半導體產業學院碩士班",
+                "dep_ename": "International College of Semiconductor Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_535908": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535908",
+                "cos_code": "STST30022",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "通訊系統數位信號處理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://sipcas.web.nycu.edu.tw/",
+                "teacher": "管延城",
+                "cos_time": "W34n-EE118[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Digital Signal Processing for Communication Systems",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "591",
+                "dep_primary": "1",
+                "dep_cname": "國際半導體產業學院碩士班",
+                "dep_ename": "International College of Semiconductor Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_535909": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535909",
+                "cos_code": "STST30008",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "半導體材料與元件特性分析",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "林群雄",
+                "cos_time": "R234-EE210[GF]",
+                "memo": "前瞻所甲組、乙組選修課程[English Medium Course]",
+                "cos_ename": "Semiconductor Material and Device Characterization",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "591",
+                "dep_primary": "1",
+                "dep_cname": "國際半導體產業學院碩士班",
+                "dep_ename": "International College of Semiconductor Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_535910": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535910",
+                "cos_code": "STST30028",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "工程設計",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "鍾錦翰",
+                "cos_time": "R34n-EE116[GF]",
+                "memo": "修課學生需自備筆電；前瞻所乙組選修課程[English Medium Course]",
+                "cos_ename": "Engineering Design",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "591",
+                "dep_primary": "1",
+                "dep_cname": "國際半導體產業學院碩士班",
+                "dep_ename": "International College of Semiconductor Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_535911": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535911",
+                "cos_code": "STST30007",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "半導體光電",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "唐奈歐",
+                "cos_time": "R567-EE116[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Semiconductor Optoelectronics",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "591",
+                "dep_primary": "1",
+                "dep_cname": "國際半導體產業學院碩士班",
+                "dep_ename": "International College of Semiconductor Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_535912": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535912",
+                "cos_code": "STST30027",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "半導體與能源",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://yushengsu.wixsite.com/bestlab",
+                "teacher": "蘇育陞",
+                "cos_time": "F234-EE130[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Semiconductor and Energy",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "591",
+                "dep_primary": "1",
+                "dep_cname": "國際半導體產業學院碩士班",
+                "dep_ename": "International College of Semiconductor Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_535913": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535913",
+                "cos_code": "STST30013",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "太赫茲系統",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "尹大根",
+                "cos_time": "F234-EE116[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Terahertz Systems",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "591",
+                "dep_primary": "1",
+                "dep_cname": "國際半導體產業學院碩士班",
+                "dep_ename": "International College of Semiconductor Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_535914": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535914",
+                "cos_code": "STST30038",
+                "num_limit": "10",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "波導與元件設計概論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "許恒通",
+                "cos_time": "T567-EE116[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Introduction to Waveguides and Component Design",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "591",
+                "dep_primary": "1",
+                "dep_cname": "國際半導體產業學院碩士班",
+                "dep_ename": "International College of Semiconductor Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            }
+        },
+        "costype": {
+            "1121_535900": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535901": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535902": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535903": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535904": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535905": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535906": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535907": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535908": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535909": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535910": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535911": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535912": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535913": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535914": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536301": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536303": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536306": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536313": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_535900": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535901": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535902": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535903": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535904": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535905": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535906": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535907": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535908": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535909": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535910": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535911": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535912": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535913": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535914": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536301": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536303": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536306": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536313": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_535900": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535901": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535902": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535903": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535904": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535905": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535906": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535907": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535908": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535909": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535910": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535911": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535912": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535913": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535914": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_536301": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_536303": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_536306": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_536313": {
+                "授課語言代碼": "en-us"
+            }
+        },
+        "2": {
+            "1121_536301": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536301",
+                "cos_code": "ENMS30009",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "固態熱力學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "鄒年棣",
+                "cos_time": "W234-EF201[GF]",
+                "memo": "[English Medium Course]1.限材料系所、奈米所、國際半導體學院加選 2.外系及外校限用書面加選",
+                "cos_ename": "Thermodymanics of Solid",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "591",
+                "dep_primary": "2",
+                "dep_cname": "國際半導體產業學院碩士班",
+                "dep_ename": "International College of Semiconductor Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536303": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536303",
+                "cos_code": "ENMS30056",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "高分子化學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "林宏洲",
+                "cos_time": "M234-EF207[GF]",
+                "memo": "[English Medium Course]1.第一階段限材料系、奈米所、國際半導體學院加選 2.開學後開放外系或外校加選",
+                "cos_ename": "Polymer Chemistry",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "591",
+                "dep_primary": "2",
+                "dep_cname": "國際半導體產業學院碩士班",
+                "dep_ename": "International College of Semiconductor Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536306": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536306",
+                "cos_code": "ENMS30013",
+                "num_limit": "86",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "奈米材料簡介",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "韋光華",
+                "cos_time": "T789-EF201[GF]",
+                "memo": "[English Medium Course]1.第一階段限材料系、奈米所、國際半導體學院、前瞻半導體研究所加選 2.開學後開放外系或外校加選",
+                "cos_ename": "Introduction to Nanostructured Materials",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "591",
+                "dep_primary": "2",
+                "dep_cname": "國際半導體產業學院碩士班",
+                "dep_ename": "International College of Semiconductor Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "26",
+                "depType": "G"
+            },
+            "1121_536313": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536313",
+                "cos_code": "ENMS30007",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "半導體製程",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "張翼",
+                "cos_time": "T56R6-EF201[GF]",
+                "memo": "[English Medium Course]1.第一階段限材料系、奈米所、國際半導產業學院、前瞻半導體研究所加選 2.開學後開放外系或外校加選",
+                "cos_ename": "Semiconductor Processings",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "591",
+                "dep_primary": "2",
+                "dep_cname": "國際半導體產業學院碩士班",
+                "dep_ename": "International College of Semiconductor Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            }
+        }
+    }
+}

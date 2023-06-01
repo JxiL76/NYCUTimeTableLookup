@@ -1,0 +1,659 @@
+{
+    "E25FE1D1-CF28-47D7-8B7E-F142EFEA208E": {
+        "dep_id": "E25FE1D1-CF28-47D7-8B7E-F142EFEA208E",
+        "dep_cname": "微菌轉譯研究學分學程",
+        "dep_ename": "Microbiota Translation Research Credits Program",
+        "1": {
+            "1121_113200": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "113200",
+                "cos_code": "MDDM10006",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "微生物及免疫學(含實驗)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.70",
+                "TURL": "",
+                "teacher": "黃雪莉、徐嘉琳、蔡明翰、蔡雨寰、高正彥",
+                "cos_time": "R5678-YB102[YM],R5678-YEC211[YM]",
+                "memo": "",
+                "cos_ename": "Microbiology ＆ Immunology(＆ Laboratory)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "P12",
+                "dep_primary": "1",
+                "dep_cname": "微菌轉譯研究學分學程",
+                "dep_ename": "Microbiota Translation Research Credits Program",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "P"
+            },
+            "1121_130200": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130200",
+                "cos_code": "MDPH30051",
+                "num_limit": "135",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生物統計學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "林逸芬",
+                "cos_time": "R34-YX216[YM]",
+                "memo": "",
+                "cos_ename": "Biostatistics",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "P12",
+                "dep_primary": "1",
+                "dep_cname": "微菌轉譯研究學分學程",
+                "dep_ename": "Microbiota Translation Research Credits Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "P"
+            },
+            "1121_131005": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131005",
+                "cos_code": "MDBI30036",
+                "num_limit": "45",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "生物醫學資訊學基礎(一)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "黃宣誠、巫坤品、吳俊穎、王禹超、陳卓逸",
+                "cos_time": "M78-YR101[YM]",
+                "memo": "第一階段及第二階段初選限生醫資訊所學生選修，生醫資訊所、微菌學程、跨領域醫學學程合班上課。",
+                "cos_ename": "Foundations for Biomedical Informatics I",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "P12",
+                "dep_primary": "1",
+                "dep_cname": "微菌轉譯研究學分學程",
+                "dep_ename": "Microbiota Translation Research Credits Program",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "P"
+            },
+            "1121_131007": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131007",
+                "cos_code": "MDBI30006",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "分子細胞生物學概論",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "楊永正",
+                "cos_time": "T78-YR105[YM]",
+                "memo": "生醫資訊所、微菌學程合班上課。",
+                "cos_ename": "Molecular & Cell Biology",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "P12",
+                "dep_primary": "1",
+                "dep_cname": "微菌轉譯研究學分學程",
+                "dep_ename": "Microbiota Translation Research Credits Program",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "P"
+            },
+            "1121_131008": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131008",
+                "cos_code": "MDBI30022",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "深度學習應用",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "洪哲倫",
+                "cos_time": "M34-YL403[YM]",
+                "memo": "須具備python程式撰寫經驗以及深度學習或是神經網路套件使用經驗，生醫資訊所、微菌學程合班上課。",
+                "cos_ename": "Deep Learning Applications",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "P12",
+                "dep_primary": "1",
+                "dep_cname": "微菌轉譯研究學分學程",
+                "dep_ename": "Microbiota Translation Research Credits Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "P"
+            },
+            "1121_131019": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131019",
+                "cos_code": "MDBI30088",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生物網路分析",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "林振慶、黃宣誠",
+                "cos_time": "T56-YR103[YM]",
+                "memo": "生醫資訊所、微菌學程合班上課。",
+                "cos_ename": "Biological Network Analysis",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "P12",
+                "dep_primary": "1",
+                "dep_cname": "微菌轉譯研究學分學程",
+                "dep_ename": "Microbiota Translation Research Credits Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "P"
+            },
+            "1121_131108": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131108",
+                "cos_code": "MDBS30036",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "菌- 腦 - 腸‘ 軸特論",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "盧俊良",
+                "cos_time": "F4n-YL845[YM]",
+                "memo": "碩、博士班均可，開放隨班附讀",
+                "cos_ename": "Microbiiota - Brain - Gut interaction",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "P12",
+                "dep_primary": "1",
+                "dep_cname": "微菌轉譯研究學分學程",
+                "dep_ename": "Microbiota Translation Research Credits Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "P"
+            },
+            "1121_132814": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132814",
+                "cos_code": "LSMI30063",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "藥品微生物學：品保和品管",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "黃雪莉",
+                "cos_time": "Sn-YC313[YM]",
+                "memo": "",
+                "cos_ename": "Pharmacentical Microbiology ：Quality Assurance and Quality Control",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "P12",
+                "dep_primary": "1",
+                "dep_cname": "微菌轉譯研究學分學程",
+                "dep_ename": "Microbiota Translation Research Credits Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "P"
+            },
+            "1121_140305": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "140305",
+                "cos_code": "MDCM30004",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "先天免疫反應在人類疾病的角色 ",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳斯婷、黃怡翔、陳世彬、陳念榮、蔡肇基、邱政洵、謝世良、王鵬惠、陳相成",
+                "cos_time": "W56-YL405[YM]",
+                "memo": "",
+                "cos_ename": "Innate Immune Response in Human Diseases   ",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "P12",
+                "dep_primary": "1",
+                "dep_cname": "微菌轉譯研究學分學程",
+                "dep_ename": "Microbiota Translation Research Credits Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "P"
+            },
+            "1121_430100": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "430100",
+                "cos_code": "BTBI30025",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "專題演講B-生資組",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "朱智瑋、吳妍華",
+                "cos_time": "T56-",
+                "memo": "",
+                "cos_ename": "Departmental Seminar B",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "P12",
+                "dep_primary": "1",
+                "dep_cname": "微菌轉譯研究學分學程",
+                "dep_ename": "Microbiota Translation Research Credits Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "P"
+            },
+            "1121_430105": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "430105",
+                "cos_code": "BTBI30076",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "結構生物資訊",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://140.113.239.51",
+                "teacher": "楊進木",
+                "cos_time": "R567-BI305[BA]",
+                "memo": "",
+                "cos_ename": "Structural Bioinformatics",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "P12",
+                "dep_primary": "1",
+                "dep_cname": "微菌轉譯研究學分學程",
+                "dep_ename": "Microbiota Translation Research Credits Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "P"
+            },
+            "1121_535503": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535503",
+                "cos_code": "CSIC30083",
+                "num_limit": "40",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生醫資料探勘",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "胡毓志",
+                "cos_time": "Rabc-ED302[GF]",
+                "memo": "[English Medium Course]資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級",
+                "cos_ename": "Biomedical Data Mining",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "P12",
+                "dep_primary": "1",
+                "dep_cname": "微菌轉譯研究學分學程",
+                "dep_ename": "Microbiota Translation Research Credits Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "P"
+            },
+            "1121_545454": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "545454",
+                "cos_code": "EEBM30006",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "微奈米製作技術與感測器",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "許鉦宗",
+                "cos_time": "R567-EE209[GF]",
+                "memo": "不開放隨班附讀",
+                "cos_ename": "Micro/Nano fabrications and Sensors ",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "P12",
+                "dep_primary": "1",
+                "dep_cname": "微菌轉譯研究學分學程",
+                "dep_ename": "Microbiota Translation Research Credits Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "P"
+            },
+            "1121_545455": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "545455",
+                "cos_code": "EEBM30008",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生物微型檢測技術",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://liborran.weebly.com/",
+                "teacher": "李博仁",
+                "cos_time": "T234-EE113[GF]",
+                "memo": "英文授課、開放隨班附讀[English Medium Course]",
+                "cos_ename": "Biomedical Micro Analysis Systems",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "P12",
+                "dep_primary": "1",
+                "dep_cname": "微菌轉譯研究學分學程",
+                "dep_ename": "Microbiota Translation Research Credits Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "P"
+            }
+        },
+        "costype": {
+            "1121_113200": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130200": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131005": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131007": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131008": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131019": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131108": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132814": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_140305": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_430100": {
+                "專題演講_專題演講": {
+                    "course_category_cname": "專題演講_專題演講",
+                    "course_category_ename": "",
+                    "course_category_type": "62",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_430105": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535503": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_545454": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_545455": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_113200": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130200": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131005": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131007": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131008": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131019": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131108": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132814": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_140305": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_430100": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_430105": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535503": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_545454": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_545455": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_113200": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130200": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131005": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131007": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131008": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131019": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131108": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132814": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_140305": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_430100": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_430105": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_535503": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_545454": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_545455": {
+                "授課語言代碼": "en-us"
+            }
+        }
+    }
+}

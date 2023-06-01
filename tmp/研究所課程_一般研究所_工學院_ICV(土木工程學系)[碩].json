@@ -1,0 +1,1211 @@
+{
+    "52AA5301-0713-48B6-817E-07CE0041FCD4": {
+        "dep_id": "52AA5301-0713-48B6-817E-07CE0041FCD4",
+        "dep_cname": "土木工程學系",
+        "dep_ename": "Institute of Civil Engineering",
+        "1": {
+            "1121_536200": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536200",
+                "cos_code": "ENCV30079",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "海洋再生能源",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "于弋翔",
+                "cos_time": "W34-EB404[GF]",
+                "memo": "[English Medium Course]第三小時為非同步方式授課。 大四、研究所合開。",
+                "cos_ename": "Marine Renewable Energy",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "612",
+                "dep_primary": "1",
+                "dep_cname": "土木工程學系",
+                "dep_ename": "Institute of Civil Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536201": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536201",
+                "cos_code": "ENCV30025",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "工程採購與契約管理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "楊黎熙",
+                "cos_time": "W234-EB118[GF]",
+                "memo": "大四、研究所合開",
+                "cos_ename": "Engineering Procurement and Contract Management",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "612",
+                "dep_primary": "1",
+                "dep_cname": "土木工程學系",
+                "dep_ename": "Institute of Civil Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536202": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536202",
+                "cos_code": "ENCV30080",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "人工智能於專案管理之應用",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "高明秀",
+                "cos_time": "R567-EB118[GF]",
+                "memo": "[English Medium Course]大四、研究所合開",
+                "cos_ename": "Applications of Artificial Intelligence in Project Management",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "612",
+                "dep_primary": "1",
+                "dep_cname": "土木工程學系",
+                "dep_ename": "Institute of Civil Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536203": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536203",
+                "cos_code": "ENCV30088",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "大地工程失敗案例",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "方永壽",
+                "cos_time": "T567-EB402[GF]",
+                "memo": "大四、研究所合開",
+                "cos_ename": "Cases of Failure in Geotechnical Engineering",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "612",
+                "dep_primary": "1",
+                "dep_cname": "土木工程學系",
+                "dep_ename": "Institute of Civil Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536204": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536204",
+                "cos_code": "ENCV30072",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "高等土壤力學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "單信瑜",
+                "cos_time": "M234-EB404[GF]",
+                "memo": "",
+                "cos_ename": "Advanced Soil Mechanics",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "612",
+                "dep_primary": "1",
+                "dep_cname": "土木工程學系",
+                "dep_ename": "Institute of Civil Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536205": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536205",
+                "cos_code": "ENCV30039",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "波浪理論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "張憲國",
+                "cos_time": "M567-EB404[GF]",
+                "memo": "",
+                "cos_ename": "Water Wave Theory",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "612",
+                "dep_primary": "1",
+                "dep_cname": "土木工程學系",
+                "dep_ename": "Institute of Civil Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536206": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536206",
+                "cos_code": "ENCV30026",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "平差理論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://space.cv.nctu.edu.tw",
+                "teacher": "黃金維",
+                "cos_time": "M567-EB403[GF]",
+                "memo": "",
+                "cos_ename": "Adjustment and Statistics",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "612",
+                "dep_primary": "1",
+                "dep_cname": "土木工程學系",
+                "dep_ename": "Institute of Civil Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536207": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536207",
+                "cos_code": "ENCV30057",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "計算水力學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "楊尊華",
+                "cos_time": "T234-EB404[GF]",
+                "memo": "",
+                "cos_ename": "Computational Hydraulics",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "612",
+                "dep_primary": "1",
+                "dep_cname": "土木工程學系",
+                "dep_ename": "Institute of Civil Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536208": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536208",
+                "cos_code": "ENCV30064",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "進階地形測量 ",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "史天元",
+                "cos_time": "T234-EB403[GF]",
+                "memo": "",
+                "cos_ename": "Advanced Topics on Terrain Mapping",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "612",
+                "dep_primary": "1",
+                "dep_cname": "土木工程學系",
+                "dep_ename": "Institute of Civil Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536209": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536209",
+                "cos_code": "ENCV30052",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "結構動力學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "王彥博",
+                "cos_time": "T567-EB403[GF]",
+                "memo": "",
+                "cos_ename": "Structural Dynamics",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "612",
+                "dep_primary": "1",
+                "dep_cname": "土木工程學系",
+                "dep_ename": "Institute of Civil Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536210": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536210",
+                "cos_code": "ENCV30033",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "時頻分析與土砂監測之應用",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://vvnchao.blogspot.tw/",
+                "teacher": "趙韋安",
+                "cos_time": "T567-EB404[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Time Frequency Analysis and its Ａpplication to Ｓediment Ｍonitoring  ",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "612",
+                "dep_primary": "1",
+                "dep_cname": "土木工程學系",
+                "dep_ename": "Institute of Civil Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536211": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536211",
+                "cos_code": "ENCV30045",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "測量及空間資訊專題討論(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "3.00",
+                "TURL": "https://geoai.lab.nycu.edu.tw",
+                "teacher": "張智安",
+                "cos_time": "T567-EB227[GF]",
+                "memo": "",
+                "cos_ename": "Seminar in Surveying and Geomatics Engineering (I)\t",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "612",
+                "dep_primary": "1",
+                "dep_cname": "土木工程學系",
+                "dep_ename": "Institute of Civil Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536212": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536212",
+                "cos_code": "ENCV30076",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "高科技廠房設施設計",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "莊子壽",
+                "cos_time": "Tabc-EB117[GF]",
+                "memo": "",
+                "cos_ename": "High-tech Facility Design",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "612",
+                "dep_primary": "1",
+                "dep_cname": "土木工程學系",
+                "dep_ename": "Institute of Civil Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536213": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536213",
+                "cos_code": "ENCV30066",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "遙測學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://geoai.lab.nycu.edu.tw",
+                "teacher": "張智安",
+                "cos_time": "W234-EB402[GF]",
+                "memo": "",
+                "cos_ename": "Remote Sensing",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "612",
+                "dep_primary": "1",
+                "dep_cname": "土木工程學系",
+                "dep_ename": "Institute of Civil Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536214": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536214",
+                "cos_code": "ENCV30082",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "研究所專題討論(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "翁孟嘉",
+                "cos_time": "Wn56-EB117[GF],Wn56-EB227[GF]",
+                "memo": "限本系結構、營管、水利、大地、資訊等五組研究所學生修課。",
+                "cos_ename": "Seminar (I)",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "612",
+                "dep_primary": "1",
+                "dep_cname": "土木工程學系",
+                "dep_ename": "Institute of Civil Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536215": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536215",
+                "cos_code": "ENCV30089",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "高等材料力學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "楊子儀",
+                "cos_time": "R234-EB402[GF]",
+                "memo": "",
+                "cos_ename": "Advanced Mechanics of Materials",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "612",
+                "dep_primary": "1",
+                "dep_cname": "土木工程學系",
+                "dep_ename": "Institute of Civil Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536216": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536216",
+                "cos_code": "ENCV30012",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "地工數值方法",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "羅佳明",
+                "cos_time": "R234-EB404[GF]",
+                "memo": "",
+                "cos_ename": "Numerical and Analytical Methods in Geotechnical Eng",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "612",
+                "dep_primary": "1",
+                "dep_cname": "土木工程學系",
+                "dep_ename": "Institute of Civil Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536217": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536217",
+                "cos_code": "ENCV30073",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "高等水文學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "石棟鑫",
+                "cos_time": "R234-EB403[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Advanced Hydrology",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "612",
+                "dep_primary": "1",
+                "dep_cname": "土木工程學系",
+                "dep_ename": "Institute of Civil Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536218": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536218",
+                "cos_code": "ENCV30032",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "數值攝影測量",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://www.dgsi.xyz/",
+                "teacher": "莊子毅",
+                "cos_time": "R567-EB402[GF]",
+                "memo": "",
+                "cos_ename": "Digital Photogrammetry",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "612",
+                "dep_primary": "1",
+                "dep_cname": "土木工程學系",
+                "dep_ename": "Institute of Civil Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536219": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536219",
+                "cos_code": "ENCV30019",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "岩石力學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "翁孟嘉",
+                "cos_time": "R567-EB404[GF]",
+                "memo": "",
+                "cos_ename": "Rock Mechanics",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "612",
+                "dep_primary": "1",
+                "dep_cname": "土木工程學系",
+                "dep_ename": "Institute of Civil Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536220": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536220",
+                "cos_code": "ENCV30010",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "地下水流與污染物輸送模式",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "張良正",
+                "cos_time": "R567-EB403[GF]",
+                "memo": "",
+                "cos_ename": "Subsurface Flow and Contaminant Transport Modeling",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "612",
+                "dep_primary": "1",
+                "dep_cname": "土木工程學系",
+                "dep_ename": "Institute of Civil Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536221": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536221",
+                "cos_code": "ENCV30027",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "彈性力學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "郭心怡",
+                "cos_time": "F234-EB108[GF]",
+                "memo": "",
+                "cos_ename": "Elasticity",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "612",
+                "dep_primary": "1",
+                "dep_cname": "土木工程學系",
+                "dep_ename": "Institute of Civil Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536222": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536222",
+                "cos_code": "ENCV30084",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "力學基本解和相關分析法",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "潘爾年",
+                "cos_time": "F567-EB227[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Fundamental Solutions and Related Methods",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "612",
+                "dep_primary": "1",
+                "dep_cname": "土木工程學系",
+                "dep_ename": "Institute of Civil Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536223": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536223",
+                "cos_code": "ENCV30018",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "大型專案財務學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "黃玉霖",
+                "cos_time": "F567-EB415[GF]",
+                "memo": "",
+                "cos_ename": "Project Finance",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "612",
+                "dep_primary": "1",
+                "dep_cname": "土木工程學系",
+                "dep_ename": "Institute of Civil Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536224": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536224",
+                "cos_code": "ENCV30004",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "個別研究",
+                "cos_credit": "1.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "土木系",
+                "cos_time": "",
+                "memo": "[English Medium Course]限土木系研究所外籍生選修",
+                "cos_ename": "Independent Study",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "612",
+                "dep_primary": "1",
+                "dep_cname": "土木工程學系",
+                "dep_ename": "Institute of Civil Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536225": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536225",
+                "cos_code": "ENCV30090",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "土壤動力學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "黃郁惟",
+                "cos_time": "T34-EB108[GF]",
+                "memo": "[English Medium Course]大四、研究所合開。第三小時為非同步方式授課。",
+                "cos_ename": "Soil Dynamics",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "612",
+                "dep_primary": "1",
+                "dep_cname": "土木工程學系",
+                "dep_ename": "Institute of Civil Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            }
+        },
+        "costype": {
+            "1121_536200": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536201": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536202": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536203": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536204": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536205": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536206": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536207": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536208": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536209": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536210": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536211": {
+                "專題演講_專題演講": {
+                    "course_category_cname": "專題演講_專題演講",
+                    "course_category_ename": "",
+                    "course_category_type": "62",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536212": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536213": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536214": {
+                "專題演講_專題演講": {
+                    "course_category_cname": "專題演講_專題演講",
+                    "course_category_ename": "",
+                    "course_category_type": "62",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536215": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536216": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536217": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536218": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536219": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536220": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536221": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536222": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536223": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536224": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536225": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_536200": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536201": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536202": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536203": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536204": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536205": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536206": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536207": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536208": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536209": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536210": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536211": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536212": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536213": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536214": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536215": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536216": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536217": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536218": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536219": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536220": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536221": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536222": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536223": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536224": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536225": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_536200": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_536201": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536202": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_536203": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536204": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536205": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536206": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536207": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536208": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536209": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536210": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_536211": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536212": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536213": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536214": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536215": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536216": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536217": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_536218": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536219": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536220": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536221": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536222": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_536223": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536224": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_536225": {
+                "授課語言代碼": "en-us"
+            }
+        }
+    }
+}

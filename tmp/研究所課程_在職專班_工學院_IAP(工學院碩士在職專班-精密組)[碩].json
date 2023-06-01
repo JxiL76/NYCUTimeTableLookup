@@ -1,0 +1,247 @@
+{
+    "8295113B-FFF7-4AD9-A7CB-2B372A8CB71F": {
+        "dep_id": "8295113B-FFF7-4AD9-A7CB-2B372A8CB71F",
+        "dep_cname": "工學院碩士在職專班-精密組",
+        "dep_ename": "Degree Program of Automation and Precision Engineering",
+        "1": {
+            "1121_556100": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "556100",
+                "cos_code": "ENAP30021",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "碩士論文研究",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "精密專班",
+                "cos_time": "",
+                "memo": "",
+                "cos_ename": "Thesis Research",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "607",
+                "dep_primary": "1",
+                "dep_cname": "工學院碩士在職專班-精密組",
+                "dep_ename": "Degree Program of Automation and Precision Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_556101": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "556101",
+                "cos_code": "ENAP30028",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "雷射精密加工實務",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "鄭中緯",
+                "cos_time": "Tabc-EE230[GF]",
+                "memo": "",
+                "cos_ename": "Laser Precision Microfabrication and Practice",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "607",
+                "dep_primary": "1",
+                "dep_cname": "工學院碩士在職專班-精密組",
+                "dep_ename": "Degree Program of Automation and Precision Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_556102": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "556102",
+                "cos_code": "ENAP30003",
+                "num_limit": "35",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "微/奈米機電系統之晶片實作",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "鍾添淦",
+                "cos_time": "Rabc-EE230[GF]",
+                "memo": "",
+                "cos_ename": "MEMS/NEMS-Chips Laboratory",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "607",
+                "dep_primary": "1",
+                "dep_cname": "工學院碩士在職專班-精密組",
+                "dep_ename": "Degree Program of Automation and Precision Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_556103": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "556103",
+                "cos_code": "ENAP30016",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "有限元素法在工程上之應用",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "金大仁",
+                "cos_time": "Fabc-EE230[GF]",
+                "memo": "",
+                "cos_ename": "Engineering Applications of the Finite Element Method",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "607",
+                "dep_primary": "1",
+                "dep_cname": "工學院碩士在職專班-精密組",
+                "dep_ename": "Degree Program of Automation and Precision Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "J"
+            }
+        },
+        "costype": {
+            "1121_556100": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_556101": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_556102": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_556103": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_556301": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_556100": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_556101": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_556102": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_556103": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_556301": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_556100": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_556101": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_556102": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_556103": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_556301": {
+                "授課語言代碼": "zh-tw"
+            }
+        },
+        "2": {
+            "1121_556301": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "556301",
+                "cos_code": "ENSE30009",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "專題討論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "半導體專班、精密專班",
+                "cos_time": "S234-EF207[GF]",
+                "memo": "",
+                "cos_ename": "Seminar",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "607",
+                "dep_primary": "2",
+                "dep_cname": "工學院碩士在職專班-精密組",
+                "dep_ename": "Degree Program of Automation and Precision Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "J"
+            }
+        }
+    }
+}

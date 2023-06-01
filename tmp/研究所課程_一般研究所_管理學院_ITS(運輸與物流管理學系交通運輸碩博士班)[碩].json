@@ -1,0 +1,843 @@
+{
+    "A81D8BD9-229D-4E17-8966-0544BDF3BE34": {
+        "dep_id": "A81D8BD9-229D-4E17-8966-0544BDF3BE34",
+        "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+        "dep_ename": "Institute of Traffic and Transportation",
+        "1": {
+            "1121_537200": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537200",
+                "cos_code": "MGTM30010",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "專題研討（甲組）一",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "盧宗成",
+                "cos_time": "M56-A901[GF]",
+                "memo": "新竹校區開課",
+                "cos_ename": "SeminarⅠ",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "702",
+                "dep_primary": "1",
+                "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+                "dep_ename": "Institute of Traffic and Transportation",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_537201": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537201",
+                "cos_code": "MGTM30012",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "專題研討(乙組)一",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳穆臻",
+                "cos_time": "M56-TB429[BM]",
+                "memo": "台北校區開課",
+                "cos_ename": "Seminar Ⅰ ",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "702",
+                "dep_primary": "1",
+                "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+                "dep_ename": "Institute of Traffic and Transportation",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_537202": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537202",
+                "cos_code": "MGTM30011",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "專題研討(甲組)二",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "運管系",
+                "cos_time": "W78-A905[GF]",
+                "memo": "新竹校區開課",
+                "cos_ename": "Seminar II",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "702",
+                "dep_primary": "1",
+                "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+                "dep_ename": "Institute of Traffic and Transportation",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_537203": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537203",
+                "cos_code": "MGTM30013",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "專題研討(乙組)二",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "運管系",
+                "cos_time": "F56-TB429[BM]",
+                "memo": "台北校區開課",
+                "cos_ename": "Seminar Ⅱ ",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "702",
+                "dep_primary": "1",
+                "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+                "dep_ename": "Institute of Traffic and Transportation",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_537204": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537204",
+                "cos_code": "MGTM30034",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "運輸需求分析",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "閻姿慧",
+                "cos_time": "R567-A904[GF]",
+                "memo": "新竹校區開課[English Medium Course]",
+                "cos_ename": "Travel Demand Analysis",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "702",
+                "dep_primary": "1",
+                "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+                "dep_ename": "Institute of Traffic and Transportation",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_537205": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537205",
+                "cos_code": "MGTM30048",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "運輸系統分析",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "水敬心",
+                "cos_time": "W234-A905[GF]",
+                "memo": "新竹校區開課[English Medium Course]",
+                "cos_ename": "Transportation System Analysis",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "702",
+                "dep_primary": "1",
+                "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+                "dep_ename": "Institute of Traffic and Transportation",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_537206": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537206",
+                "cos_code": "MGTM30019",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "智慧型運輸系統",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "黃家耀",
+                "cos_time": "T234-A905[GF]",
+                "memo": "新竹校區開課[English Medium Course]",
+                "cos_ename": "Intelligent Transportation Systems",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "702",
+                "dep_primary": "1",
+                "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+                "dep_ename": "Institute of Traffic and Transportation",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_537207": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537207",
+                "cos_code": "MGTM30008",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "啟發式解法",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "姚銘忠",
+                "cos_time": "T234-A904[GF]",
+                "memo": "新竹校區開課[English Medium Course]",
+                "cos_ename": "Heuristics",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "702",
+                "dep_primary": "1",
+                "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+                "dep_ename": "Institute of Traffic and Transportation",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_537208": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537208",
+                "cos_code": "MGTM30039",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "運輸計量分析",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "吳昆峰",
+                "cos_time": "M789-A901[GF]",
+                "memo": "新竹校區開課[English Medium Course]",
+                "cos_ename": "Transportation Econometrics",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "702",
+                "dep_primary": "1",
+                "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+                "dep_ename": "Institute of Traffic and Transportation",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_537209": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537209",
+                "cos_code": "MGTM30057",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "海運產業經營與管理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "呂錦山",
+                "cos_time": "T567-A905[GF]",
+                "memo": "[English Medium Course]英文授課",
+                "cos_ename": "Shipping Operations and Management",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "702",
+                "dep_primary": "1",
+                "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+                "dep_ename": "Institute of Traffic and Transportation",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_537210": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537210",
+                "cos_code": "MGTM30055",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "先進交通號誌控制",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "陳彥佑",
+                "cos_time": "T567-A904[GF]",
+                "memo": "新竹校區開課[English Medium Course]",
+                "cos_ename": "Advanced Traffic Signal Control",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "702",
+                "dep_primary": "1",
+                "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+                "dep_ename": "Institute of Traffic and Transportation",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_537211": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537211",
+                "cos_code": "MGTM30044",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "運輸經濟與政策",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "鍾易詩",
+                "cos_time": "M234-TB429[BM]",
+                "memo": "台北校區開課",
+                "cos_ename": "Transportation Economics and Policy",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "702",
+                "dep_primary": "1",
+                "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+                "dep_ename": "Institute of Traffic and Transportation",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_537212": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537212",
+                "cos_code": "MGTM30045",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "運輸風險管理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "胡守任",
+                "cos_time": "R234-TB429[BM]",
+                "memo": "台北校區開課",
+                "cos_ename": "Transportation Risk Management",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "702",
+                "dep_primary": "1",
+                "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+                "dep_ename": "Institute of Traffic and Transportation",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_537213": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537213",
+                "cos_code": "MGTM30009",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "多變量分析與應用",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "邱裕鈞",
+                "cos_time": "F234-TB429[BM]",
+                "memo": "台北校區開課",
+                "cos_ename": "Multivariate Analysis and Application",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "702",
+                "dep_primary": "1",
+                "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+                "dep_ename": "Institute of Traffic and Transportation",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_537214": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537214",
+                "cos_code": "MGTM30014",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "巨量資料分析",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "陳穆臻",
+                "cos_time": "W678-TB429[BM]",
+                "memo": "台北校區主開",
+                "cos_ename": "Big Data Analytics",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "702",
+                "dep_primary": "1",
+                "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+                "dep_ename": "Institute of Traffic and Transportation",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_537215": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537215",
+                "cos_code": "MGTM30026",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "網路模式分析",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "盧宗成",
+                "cos_time": "R567-TB429[BM]",
+                "memo": "台北校區開課",
+                "cos_ename": "Network Modeling Analysis",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "702",
+                "dep_primary": "1",
+                "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+                "dep_ename": "Institute of Traffic and Transportation",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_537216": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537216",
+                "cos_code": "MGTM30054",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "高等運輸學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "馮正民",
+                "cos_time": "M789-TB429[BM]",
+                "memo": "台北校區開課",
+                "cos_ename": "Advanced Transportation",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "702",
+                "dep_primary": "1",
+                "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+                "dep_ename": "Institute of Traffic and Transportation",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_537217": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537217",
+                "cos_code": "MGTM30062",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "車流理論與交通統計",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "邱裕鈞",
+                "cos_time": "T567-TB429[BM]",
+                "memo": "台北校區開課",
+                "cos_ename": "Traffic Flow Theory and  Traffic Statistics",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "702",
+                "dep_primary": "1",
+                "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+                "dep_ename": "Institute of Traffic and Transportation",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            }
+        },
+        "costype": {
+            "1121_537200": {
+                "專題演講_專題演講": {
+                    "course_category_cname": "專題演講_專題演講",
+                    "course_category_ename": "",
+                    "course_category_type": "62",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537201": {
+                "專題演講_專題演講": {
+                    "course_category_cname": "專題演講_專題演講",
+                    "course_category_ename": "",
+                    "course_category_type": "62",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537202": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537203": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537204": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537205": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537206": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537207": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537208": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537209": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537210": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537211": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537212": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537213": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537214": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537215": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537216": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537217": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_537200": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537201": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537202": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537203": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537204": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537205": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537206": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537207": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537208": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537209": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537210": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537211": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537212": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537213": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537214": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537215": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537216": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537217": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_537200": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_537201": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_537202": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_537203": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_537204": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_537205": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_537206": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_537207": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_537208": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_537209": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_537210": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_537211": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_537212": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_537213": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_537214": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_537215": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_537216": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_537217": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    }
+}

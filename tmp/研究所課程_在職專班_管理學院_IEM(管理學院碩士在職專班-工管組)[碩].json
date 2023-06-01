@@ -1,0 +1,245 @@
+{
+    "7B1AC97F-AB3C-4A03-AFC4-8B3F825AB632": {
+        "dep_id": "7B1AC97F-AB3C-4A03-AFC4-8B3F825AB632",
+        "dep_cname": "管理學院碩士在職專班-工管組",
+        "dep_ename": "Degree Program of Industrial Engineering and Management",
+        "1": {
+            "1121_557400": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "557400",
+                "cos_code": "MGEM30075",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "碩士論文研究",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "工工專班",
+                "cos_time": "",
+                "memo": "限本組專班生選修。",
+                "cos_ename": "Thesis Research",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "714",
+                "dep_primary": "1",
+                "dep_cname": "管理學院碩士在職專班-工管組",
+                "dep_ename": "Degree Program of Industrial Engineering and Management",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_557401": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "557401",
+                "cos_code": "MGEM30060",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "資料科學應用",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "劉建良",
+                "cos_time": "Mabc-MB415[GF]",
+                "memo": "本專班課程不准本系及他系一般生選修，不可旁聽。",
+                "cos_ename": "Data Science Applications",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "714",
+                "dep_primary": "1",
+                "dep_cname": "管理學院碩士在職專班-工管組",
+                "dep_ename": "Degree Program of Industrial Engineering and Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_557402": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "557402",
+                "cos_code": "MGEM30072",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "營運與專案管理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "王志軒",
+                "cos_time": "Tabc-MB520[GF]",
+                "memo": "本專班課程不准本系及他系一般生選修，不可旁聽。",
+                "cos_ename": "Operation and project management",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "714",
+                "dep_primary": "1",
+                "dep_cname": "管理學院碩士在職專班-工管組",
+                "dep_ename": "Degree Program of Industrial Engineering and Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_557403": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "557403",
+                "cos_code": "MGEM30006",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "供應鏈管理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://wenchihchen.wordpress.com/",
+                "teacher": "陳文智",
+                "cos_time": "Rabc-MB110[GF]",
+                "memo": "本專班課程不准本系及他系一般生選修，不可旁聽。",
+                "cos_ename": "Supply Chain Management",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "714",
+                "dep_primary": "1",
+                "dep_cname": "管理學院碩士在職專班-工管組",
+                "dep_ename": "Degree Program of Industrial Engineering and Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_557404": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "557404",
+                "cos_code": "MGEM30029",
+                "num_limit": "30",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "模擬學與應用",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "陳勝一",
+                "cos_time": "Fabc-EB415[GF]",
+                "memo": "本專班課程不准本系及他系一般生選修，不可旁聽。",
+                "cos_ename": "Simulation Modeling and Application",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "714",
+                "dep_primary": "1",
+                "dep_cname": "管理學院碩士在職專班-工管組",
+                "dep_ename": "Degree Program of Industrial Engineering and Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "J"
+            }
+        },
+        "costype": {
+            "1121_557400": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_557401": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_557402": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_557403": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_557404": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_557400": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_557401": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_557402": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_557403": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_557404": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_557400": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_557401": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_557402": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_557403": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_557404": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    }
+}

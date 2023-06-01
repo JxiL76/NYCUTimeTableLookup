@@ -1,0 +1,61 @@
+{
+    "746B061D-7159-4B5C-8891-9898199350CF": {
+        "dep_id": "746B061D-7159-4B5C-8891-9898199350CF",
+        "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+        "dep_ename": "Institute of Traffic and Transportation",
+        "1": {
+            "1121_547100": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "547100",
+                "cos_code": "MGTM30036",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "運輸與物流研究專題",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "運管系",
+                "cos_time": "F78-TB429[BM]",
+                "memo": "台北校區開課，新竹校區視訊上課(A806)[English Medium Course]",
+                "cos_ename": "Research Seminar",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "701",
+                "dep_primary": "1",
+                "dep_cname": "運輸與物流管理學系交通運輸碩博士班",
+                "dep_ename": "Institute of Traffic and Transportation",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            }
+        },
+        "costype": {
+            "1121_547100": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_547100": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_547100": {
+                "授課語言代碼": "en-us"
+            }
+        }
+    }
+}

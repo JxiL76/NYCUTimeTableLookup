@@ -1,0 +1,1819 @@
+{
+    "0F4AE32B-3968-43DC-8CA5-980F34D2B514": {
+        "dep_id": "0F4AE32B-3968-43DC-8CA5-980F34D2B514",
+        "dep_cname": "藥學系",
+        "dep_ename": "Department of Pharmacy",
+        "1": {
+            "1121_111926": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111926",
+                "cos_code": "PSPM00001",
+                "num_limit": "30",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "藥你更棒(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "胡德民",
+                "cos_time": "W34-YK533[YM]",
+                "memo": "一年級導師時間，含基礎服務學習，活動安排另行公告。",
+                "cos_ename": "Pursuing your preeminence in pharmacy land (Ⅰ)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "231",
+                "dep_primary": "1",
+                "dep_cname": "藥學系",
+                "dep_ename": "Department of Pharmacy",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_111927": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111927",
+                "cos_code": "PSPM00001",
+                "num_limit": "30",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "藥你更棒(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "胡德民",
+                "cos_time": "W34-YK533[YM]",
+                "memo": "一年級導師時間，含基礎服務學習，活動安排另行公告。",
+                "cos_ename": "Pursuing your preeminence in pharmacy land (Ⅰ)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "231",
+                "dep_primary": "1",
+                "dep_cname": "藥學系",
+                "dep_ename": "Department of Pharmacy",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            }
+        },
+        "costype": {
+            "1121_111926": {
+                "基礎服務學習_基礎服務學習": {
+                    "course_category_cname": "基礎服務學習_基礎服務學習",
+                    "course_category_ename": "",
+                    "course_category_type": "76",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111927": {
+                "基礎服務學習_基礎服務學習": {
+                    "course_category_cname": "基礎服務學習_基礎服務學習",
+                    "course_category_ename": "",
+                    "course_category_type": "76",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_111926": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111927": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_111926": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111927": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    },
+    "6364089A-4693-4A80-B2D0-3F341DF5EBFF": {
+        "dep_id": "6364089A-4693-4A80-B2D0-3F341DF5EBFF",
+        "dep_cname": "生物科技學系",
+        "dep_ename": "Department of Biological Science and Technology",
+        "1": {
+            "1121_410017": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "410017",
+                "cos_code": "BTBT00003",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "服務學習(二)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳文亮、謝仁俊、林奇宏、吳妍華",
+                "cos_time": "M9Fn-SC152[GF]",
+                "memo": "",
+                "cos_ename": "Service Learning II",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "350",
+                "dep_primary": "1",
+                "dep_cname": "生物科技學系",
+                "dep_ename": "Department of Biological Science and Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            }
+        },
+        "costype": {
+            "1121_410017": {
+                "基礎服務學習_基礎服務學習": {
+                    "course_category_cname": "基礎服務學習_基礎服務學習",
+                    "course_category_ename": "",
+                    "course_category_type": "76",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_410017": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_410017": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    },
+    "16F59D39-254D-4EE9-B742-6E9EF801F297": {
+        "dep_id": "16F59D39-254D-4EE9-B742-6E9EF801F297",
+        "dep_cname": "外國語文學系",
+        "dep_ename": "Department of Foreign Languages and Literatures",
+        "1": {
+            "1121_514107": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514107",
+                "cos_code": "HSFL10020",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "服務學習(一)",
+                "cos_credit": ".00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "盧郁安、胡心瑜",
+                "cos_time": "",
+                "memo": "限外文系",
+                "cos_ename": "Service Learning (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "1",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            }
+        },
+        "costype": {
+            "1121_514107": {
+                "基礎服務學習_基礎服務學習": {
+                    "course_category_cname": "基礎服務學習_基礎服務學習",
+                    "course_category_ename": "",
+                    "course_category_type": "76",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_514107": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_514107": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    },
+    "1CFC1720-6FE9-4265-98E5-06916C1DFF0D": {
+        "dep_id": "1CFC1720-6FE9-4265-98E5-06916C1DFF0D",
+        "dep_cname": "人文社會學系",
+        "dep_ename": "Department of Humanities and Social Sciences",
+        "1": {
+            "1121_310024": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "310024",
+                "cos_code": "HKHS10017",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "基礎服務學習",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "張藝曦",
+                "cos_time": "T8-A309[GF]",
+                "memo": "",
+                "cos_ename": "Student Service Education",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "481",
+                "dep_primary": "1",
+                "dep_cname": "人文社會學系",
+                "dep_ename": "Department of Humanities and Social Sciences",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_310027": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "310027",
+                "cos_code": "HKHS00002",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "服務學習(二)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "http://hs.nctu.edu.tw/Faculty/HCTuan",
+                "teacher": "段馨君",
+                "cos_time": "R5-",
+                "memo": "",
+                "cos_ename": "Student Service Education (II)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "481",
+                "dep_primary": "1",
+                "dep_cname": "人文社會學系",
+                "dep_ename": "Department of Humanities and Social Sciences",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            }
+        },
+        "costype": {
+            "1121_310024": {
+                "基礎服務學習_基礎服務學習": {
+                    "course_category_cname": "基礎服務學習_基礎服務學習",
+                    "course_category_ename": "",
+                    "course_category_type": "76",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_310027": {
+                "基礎服務學習_基礎服務學習": {
+                    "course_category_cname": "基礎服務學習_基礎服務學習",
+                    "course_category_ename": "",
+                    "course_category_type": "76",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_310024": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_310027": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_310024": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_310027": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    },
+    "73CEC435-74FF-49FE-88E7-63F369B3A3C5": {
+        "dep_id": "73CEC435-74FF-49FE-88E7-63F369B3A3C5",
+        "dep_cname": "電機工程學系",
+        "dep_ename": "Department of Electrical and Computer Engineering",
+        "1": {
+            "1121_515100": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515100",
+                "cos_code": "EEEC00002",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "服務學習 (二)",
+                "cos_credit": ".00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "陳福川",
+                "cos_time": "W5-ED203[GF]",
+                "memo": "讓剛踏進大學的新生建立正確的學習服務觀念，為未來四年奠立正確的學習觀念，將自己所長發揮出來給社會大眾。\n請同學注意：學生服務學習課程分為服務學習(一)及服務學習(二)，以依序修習為原則，但不得於同一學期修習二門服務學習(一)、(二)課程",
+                "cos_ename": "Service Learning II",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "511",
+                "dep_primary": "1",
+                "dep_cname": "電機工程學系",
+                "dep_ename": "Department of Electrical and Computer Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_515105": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515105",
+                "cos_code": "EEEC00002",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "服務學習 (二)",
+                "cos_credit": ".00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "陳福川",
+                "cos_time": "W6-ED203[GF]",
+                "memo": "讓剛踏進大學的新生建立正確的學習服務觀念，為未來四年奠立正確的學習觀念，將自己所長發揮出來給社會大眾。\n請同學注意：學生服務學習課程分為服務學習(一)及服務學習(二)，以依序修習為原則，但不得於同一學期修習二門服務學習(一)、(二)課程",
+                "cos_ename": "Service Learning II",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "511",
+                "dep_primary": "1",
+                "dep_cname": "電機工程學系",
+                "dep_ename": "Department of Electrical and Computer Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            }
+        },
+        "costype": {
+            "1121_515100": {
+                "基礎服務學習_基礎服務學習": {
+                    "course_category_cname": "基礎服務學習_基礎服務學習",
+                    "course_category_ename": "",
+                    "course_category_type": "76",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515105": {
+                "基礎服務學習_基礎服務學習": {
+                    "course_category_cname": "基礎服務學習_基礎服務學習",
+                    "course_category_ename": "",
+                    "course_category_type": "76",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_515100": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515105": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_515100": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515105": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    },
+    "2F76991A-211C-4D75-B046-335E65EAE656": {
+        "dep_id": "2F76991A-211C-4D75-B046-335E65EAE656",
+        "dep_cname": "光電工程學系",
+        "dep_ename": "Department  of Photonics",
+        "1": {
+            "1121_515409": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515409",
+                "cos_code": "EEDP10013",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "服務學習(二)",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "高宗聖、鄒志偉、黃嘉彥、張祐嘉",
+                "cos_time": "F5-CY202[GF]",
+                "memo": "光電系學生必修",
+                "cos_ename": "Service Learning II",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "514",
+                "dep_primary": "1",
+                "dep_cname": "光電工程學系",
+                "dep_ename": "Department  of Photonics",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "38",
+                "depType": "U"
+            }
+        },
+        "costype": {
+            "1121_515409": {
+                "基礎服務學習_基礎服務學習": {
+                    "course_category_cname": "基礎服務學習_基礎服務學習",
+                    "course_category_ename": "",
+                    "course_category_type": "76",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_515409": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_515409": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    },
+    "E2D47D2E-B529-4449-8619-8561D3401D32": {
+        "dep_id": "E2D47D2E-B529-4449-8619-8561D3401D32",
+        "dep_cname": "資訊工程學系",
+        "dep_ename": "Department of Computer Science",
+        "1": {
+            "1121_515601": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515601",
+                "cos_code": "CSCS00002",
+                "num_limit": "218",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "服務學習(二)",
+                "cos_credit": ".00",
+                "cos_hours": "1.00",
+                "TURL": "http://acm.cs.nctu.edu.tw/",
+                "teacher": "黃敬群",
+                "cos_time": "",
+                "memo": "限資工系同學選課；學生必修服務學習(一)及服務學習(二)，以依序修習為原則，但不得於同一學期修習二門服務學習課程；本系生優先權順序：2年級，4年級，3年級，1年級",
+                "cos_ename": "Service Learning II",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "550",
+                "dep_primary": "1",
+                "dep_cname": "資訊工程學系",
+                "dep_ename": "Department of Computer Science",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            }
+        },
+        "costype": {
+            "1121_515601": {
+                "基礎服務學習_基礎服務學習": {
+                    "course_category_cname": "基礎服務學習_基礎服務學習",
+                    "course_category_ename": "",
+                    "course_category_type": "76",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_515601": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_515601": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    },
+    "81FEC6E5-A78C-4641-A47F-D06FD9B448C7": {
+        "dep_id": "81FEC6E5-A78C-4641-A47F-D06FD9B448C7",
+        "dep_cname": "奈米科學及工程學士學位學程",
+        "dep_ename": "Undergraduate Honors Program of Nano Science and Engineering",
+        "1": {
+            "1121_516005": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "516005",
+                "cos_code": "ENPN10011",
+                "num_limit": "25",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "服務學習 (二)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "簡昭欣",
+                "cos_time": "U78-",
+                "memo": "",
+                "cos_ename": "Service Learning II",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "610",
+                "dep_primary": "1",
+                "dep_cname": "奈米科學及工程學士學位學程",
+                "dep_ename": "Undergraduate Honors Program of Nano Science and Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "64",
+                "depType": "C"
+            }
+        },
+        "costype": {
+            "1121_516005": {
+                "基礎服務學習_基礎服務學習": {
+                    "course_category_cname": "基礎服務學習_基礎服務學習",
+                    "course_category_ename": "",
+                    "course_category_type": "76",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_516005": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_516005": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    },
+    "EA401C63-54EF-4F56-B1AE-E398629D9005": {
+        "dep_id": "EA401C63-54EF-4F56-B1AE-E398629D9005",
+        "dep_cname": "機械工程學系",
+        "dep_ename": "Department of Mechanical Engineering",
+        "1": {
+            "1121_516104": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "516104",
+                "cos_code": "ENME00003",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "服務學習(一)",
+                "cos_credit": ".00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "黃正昇",
+                "cos_time": "",
+                "memo": "",
+                "cos_ename": "Service Learning I",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "611",
+                "dep_primary": "1",
+                "dep_cname": "機械工程學系",
+                "dep_ename": "Department of Mechanical Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            }
+        },
+        "costype": {
+            "1121_516104": {
+                "基礎服務學習_基礎服務學習": {
+                    "course_category_cname": "基礎服務學習_基礎服務學習",
+                    "course_category_ename": "",
+                    "course_category_type": "76",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_516104": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_516104": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    },
+    "C4C32026-B85E-4A0B-942E-EA4821B77242": {
+        "dep_id": "C4C32026-B85E-4A0B-942E-EA4821B77242",
+        "dep_cname": "土木工程學系",
+        "dep_ename": "Department of Civil Engineering",
+        "1": {
+            "1121_516201": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "516201",
+                "cos_code": "ENCV00002",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "服務學習(一)",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "https://geoai.lab.nycu.edu.tw",
+                "teacher": "張智安",
+                "cos_time": "W9a-EB117[GF]",
+                "memo": "限土木系大一生；其他同學請自行找老師加簽。",
+                "cos_ename": "Service Learning I",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "612",
+                "dep_primary": "1",
+                "dep_cname": "土木工程學系",
+                "dep_ename": "Department of Civil Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            }
+        },
+        "costype": {
+            "1121_516201": {
+                "基礎服務學習_基礎服務學習": {
+                    "course_category_cname": "基礎服務學習_基礎服務學習",
+                    "course_category_ename": "",
+                    "course_category_type": "76",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_516201": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_516201": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    },
+    "37CB05FC-64B3-4152-85F6-561A9606CFB2": {
+        "dep_id": "37CB05FC-64B3-4152-85F6-561A9606CFB2",
+        "dep_cname": "材料科學與工程學系",
+        "dep_ename": "Department of Materials Science and Engineering",
+        "1": {
+            "1121_516307": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "516307",
+                "cos_code": "ENMS10014",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "服務學習 (二)",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "楊朝堯",
+                "cos_time": "F78-",
+                "memo": "限材料系選修",
+                "cos_ename": "Service Learning II",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "613",
+                "dep_primary": "1",
+                "dep_cname": "材料科學與工程學系",
+                "dep_ename": "Department of Materials Science and Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "49",
+                "depType": "U"
+            }
+        },
+        "costype": {
+            "1121_516307": {
+                "基礎服務學習_基礎服務學習": {
+                    "course_category_cname": "基礎服務學習_基礎服務學習",
+                    "course_category_ename": "",
+                    "course_category_type": "76",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_516307": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_516307": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    },
+    "900C8A5B-25F1-4110-8F09-E9ACB0D68CFD": {
+        "dep_id": "900C8A5B-25F1-4110-8F09-E9ACB0D68CFD",
+        "dep_cname": "電子物理學系",
+        "dep_ename": "Department of Electro-Physics",
+        "1": {
+            "1121_516606": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "516606",
+                "cos_code": "SCEP00007",
+                "num_limit": "111",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "服務學習(二)",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "張文豪",
+                "cos_time": "R56-SC158[GF]",
+                "memo": "",
+                "cos_ename": "Service Learning II",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "651",
+                "dep_primary": "1",
+                "dep_cname": "電子物理學系",
+                "dep_ename": "Department of Electro-Physics",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            }
+        },
+        "costype": {
+            "1121_516606": {
+                "基礎服務學習_基礎服務學習": {
+                    "course_category_cname": "基礎服務學習_基礎服務學習",
+                    "course_category_ename": "",
+                    "course_category_type": "76",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_516606": {
+                "A505,Z106": {
+                    "brief_code": "A505,Z106",
+                    "brief": "校基本素養(106),領域課程-個人、社會與文化(110)"
+                }
+            }
+        },
+        "language": {
+            "1121_516606": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    },
+    "A0C3EB6F-4D5A-440D-9634-EB826A8587E5": {
+        "dep_id": "A0C3EB6F-4D5A-440D-9634-EB826A8587E5",
+        "dep_cname": "應用數學系",
+        "dep_ename": "Department of Applied Mathematics",
+        "1": {
+            "1121_516701": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "516701",
+                "cos_code": "SCMA00002",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "服務學習(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "康明軒、王國仲",
+                "cos_time": "M9a-SA223[GF]",
+                "memo": "",
+                "cos_ename": "Service Learning I",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "652",
+                "dep_primary": "1",
+                "dep_cname": "應用數學系",
+                "dep_ename": "Department of Applied Mathematics",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            }
+        },
+        "costype": {
+            "1121_516701": {
+                "基礎服務學習_基礎服務學習": {
+                    "course_category_cname": "基礎服務學習_基礎服務學習",
+                    "course_category_ename": "",
+                    "course_category_type": "76",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_516701": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_516701": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    },
+    "FBD12D47-AE15-4D1E-AA2E-1398CCCADD45": {
+        "dep_id": "FBD12D47-AE15-4D1E-AA2E-1398CCCADD45",
+        "dep_cname": "應用化學系",
+        "dep_ename": "Department of Applied Chemistry",
+        "1": {
+            "1121_516806": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "516806",
+                "cos_code": "SCAC00010",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "服務學習(二)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "詹揚翔",
+                "cos_time": "M56-SB201[GF]",
+                "memo": "",
+                "cos_ename": "Service Learning II",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "654",
+                "dep_primary": "1",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Department of Applied Chemistry",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "49",
+                "depType": "U"
+            }
+        },
+        "costype": {
+            "1121_516806": {
+                "基礎服務學習_基礎服務學習": {
+                    "course_category_cname": "基礎服務學習_基礎服務學習",
+                    "course_category_ename": "",
+                    "course_category_type": "76",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_516806": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_516806": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    },
+    "5BD3020C-C88A-410B-959F-C95CD8D05F45": {
+        "dep_id": "5BD3020C-C88A-410B-959F-C95CD8D05F45",
+        "dep_cname": "管理科學系",
+        "dep_ename": "Department of Management Science",
+        "1": {
+            "1121_517305": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "517305",
+                "cos_code": "MGMS00004",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "服務學習(二)",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "吳浩庠",
+                "cos_time": "Wa-M301[GF]",
+                "memo": "",
+                "cos_ename": "Service Learning II",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "700",
+                "dep_primary": "1",
+                "dep_cname": "管理科學系",
+                "dep_ename": "Department of Management Science",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            }
+        },
+        "costype": {
+            "1121_517305": {
+                "基礎服務學習_基礎服務學習": {
+                    "course_category_cname": "基礎服務學習_基礎服務學習",
+                    "course_category_ename": "",
+                    "course_category_type": "76",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_517305": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_517305": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    },
+    "B325F6A9-EF12-4439-960A-3EE27528AD19": {
+        "dep_id": "B325F6A9-EF12-4439-960A-3EE27528AD19",
+        "dep_cname": "運輸與物流管理學系",
+        "dep_ename": "Department of Transportation and Logistics Management",
+        "1": {
+            "1121_517205": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "517205",
+                "cos_code": "MGTM00004",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "服務學習(二)",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "呂錦山",
+                "cos_time": "R8-A905[GF]",
+                "memo": "",
+                "cos_ename": "Service Learning II",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "701",
+                "dep_primary": "1",
+                "dep_cname": "運輸與物流管理學系",
+                "dep_ename": "Department of Transportation and Logistics Management",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            }
+        },
+        "costype": {
+            "1121_517205": {
+                "基礎服務學習_基礎服務學習": {
+                    "course_category_cname": "基礎服務學習_基礎服務學習",
+                    "course_category_ename": "",
+                    "course_category_type": "76",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_517205": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_517205": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    },
+    "E40323F1-85D9-4F05-B944-070B2BD3550C": {
+        "dep_id": "E40323F1-85D9-4F05-B944-070B2BD3550C",
+        "dep_cname": "工業工程與管理學系",
+        "dep_ename": "Department of Industrial Engineering and Management",
+        "1": {
+            "1121_517403": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "517403",
+                "cos_code": "MGEM10004",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "服務學習(一)",
+                "cos_credit": ".00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "工管系",
+                "cos_time": "",
+                "memo": "限工工系；服務學習課程分為服務學習(一)及服務學習(二)，以依序修習為原則，但不得於同一學期修習服務學習(一)、(二)",
+                "cos_ename": "Service Learning I",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "704",
+                "dep_primary": "1",
+                "dep_cname": "工業工程與管理學系",
+                "dep_ename": "Department of Industrial Engineering and Management",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            }
+        },
+        "costype": {
+            "1121_517403": {
+                "基礎服務學習_基礎服務學習": {
+                    "course_category_cname": "基礎服務學習_基礎服務學習",
+                    "course_category_ename": "",
+                    "course_category_type": "76",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_517403": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_517403": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    },
+    "2899D2A7-74F5-4778-9D0E-348CB10E9BCB": {
+        "dep_id": "2899D2A7-74F5-4778-9D0E-348CB10E9BCB",
+        "dep_cname": "資訊管理與財務金融系",
+        "dep_ename": "Department of Information and Finance Management",
+        "1": {
+            "1121_517504": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "517504",
+                "cos_code": "MGIF00001",
+                "num_limit": "50",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "服務學習(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "李漢星",
+                "cos_time": "W56-M-b09[GF]",
+                "memo": "大一必修；限資財系學生選課；服務學習課程分為服務學習(一)及服務學習(二)，以依序修習為原則，但不得於同一學期修習服務學習(一)、(二)。",
+                "cos_ename": "Service Learning I",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "705",
+                "dep_primary": "1",
+                "dep_cname": "資訊管理與財務金融系",
+                "dep_ename": "Department of Information and Finance Management",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_517511": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "517511",
+                "cos_code": "MGIF00006",
+                "num_limit": "30",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "高齡財務規劃與實作",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "https://imf.nycu.edu.tw/",
+                "teacher": "黃星華",
+                "cos_time": "W56-M-b10[GF]",
+                "memo": "專業服務學習課程。",
+                "cos_ename": "Elderly Financial Planning and Practice",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "705",
+                "dep_primary": "1",
+                "dep_cname": "資訊管理與財務金融系",
+                "dep_ename": "Department of Information and Finance Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            }
+        },
+        "costype": {
+            "1121_517504": {
+                "基礎服務學習_基礎服務學習": {
+                    "course_category_cname": "基礎服務學習_基礎服務學習",
+                    "course_category_ename": "",
+                    "course_category_type": "76",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_517511": {
+                "專業服務學習_專業服務學習": {
+                    "course_category_cname": "專業服務學習_專業服務學習",
+                    "course_category_ename": "",
+                    "course_category_type": "77",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_517504": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_517511": {
+                "A505,Z104": {
+                    "brief_code": "A505,Z104",
+                    "brief": "校基本素養(106),基本素養-生命及品格教育(110)"
+                }
+            }
+        },
+        "language": {
+            "1121_517504": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_517511": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    },
+    "028758A1-A365-44DB-9EF4-5B97C510A2E2": {
+        "dep_id": "028758A1-A365-44DB-9EF4-5B97C510A2E2",
+        "dep_cname": "百川學士學位學程",
+        "dep_ename": "I",
+        "1": {
+            "1121_519515": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "519515",
+                "cos_code": "XDAP00005",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "服務學習(二)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "http://www.cc.nctu.edu.tw/~globe/",
+                "teacher": "王美鴻",
+                "cos_time": "W9a-A205[GF]",
+                "memo": "",
+                "cos_ename": "Service Learning II",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "950",
+                "dep_primary": "1",
+                "dep_cname": "百川學士學位學程",
+                "dep_ename": "I",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "C"
+            }
+        },
+        "costype": {
+            "1121_519515": {
+                "基礎服務學習_基礎服務學習": {
+                    "course_category_cname": "基礎服務學習_基礎服務學習",
+                    "course_category_ename": "",
+                    "course_category_type": "76",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_519515": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_519515": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    },
+    "CF366320-3E10-4874-A393-3A028DEC5E79": {
+        "dep_id": "CF366320-3E10-4874-A393-3A028DEC5E79",
+        "dep_cname": "系統工程與科技學士學位學程",
+        "dep_ename": "Undergraduate Degree Program of System Engineering and Technology",
+        "1": {
+            "1121_910035": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "910035",
+                "cos_code": "SESE00039",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "服務學習 (2)",
+                "cos_credit": ".00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "系統工程",
+                "cos_time": "M2-",
+                "memo": "資工組，上課地點在國防理工",
+                "cos_ename": "Service Learning(2)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "951",
+                "dep_primary": "1",
+                "dep_cname": "系統工程與科技學士學位學程",
+                "dep_ename": "Undergraduate Degree Program of System Engineering and Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "T"
+            },
+            "1121_910142": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "910142",
+                "cos_code": "SESE00038",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "服務學習 (1)",
+                "cos_credit": ".00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "系統工程",
+                "cos_time": "R1-",
+                "memo": "化材組，上課地點在國防理工",
+                "cos_ename": "Service Learning (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "951",
+                "dep_primary": "1",
+                "dep_cname": "系統工程與科技學士學位學程",
+                "dep_ename": "Undergraduate Degree Program of System Engineering and Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "7",
+                "depType": "T"
+            },
+            "1121_910179": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "910179",
+                "cos_code": "SESE00039",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "服務學習 (2)",
+                "cos_credit": ".00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "李志國",
+                "cos_time": "T9-",
+                "memo": "上課地點在國防理工",
+                "cos_ename": "Service Learning(2)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "951",
+                "dep_primary": "1",
+                "dep_cname": "系統工程與科技學士學位學程",
+                "dep_ename": "Undergraduate Degree Program of System Engineering and Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "17",
+                "depType": "T"
+            },
+            "1121_910278": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "910278",
+                "cos_code": "SESE00039",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "服務學習 (2)",
+                "cos_credit": ".00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "系統工程",
+                "cos_time": "F1-",
+                "memo": "上課地點在國防理工 ，授課教師:林盈志",
+                "cos_ename": "Service Learning(2)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "951",
+                "dep_primary": "1",
+                "dep_cname": "系統工程與科技學士學位學程",
+                "dep_ename": "Undergraduate Degree Program of System Engineering and Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "T"
+            },
+            "1121_910279": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "910279",
+                "cos_code": "SESE00039",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "服務學習 (2)",
+                "cos_credit": ".00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "系統工程",
+                "cos_time": "F1-",
+                "memo": "上課地點在國防理工，授課教師:陳冠宇",
+                "cos_ename": "Service Learning(2)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "951",
+                "dep_primary": "1",
+                "dep_cname": "系統工程與科技學士學位學程",
+                "dep_ename": "Undergraduate Degree Program of System Engineering and Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "T"
+            }
+        },
+        "costype": {
+            "1121_910035": {
+                "基礎服務學習_基礎服務學習": {
+                    "course_category_cname": "基礎服務學習_基礎服務學習",
+                    "course_category_ename": "",
+                    "course_category_type": "76",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_910142": {
+                "基礎服務學習_基礎服務學習": {
+                    "course_category_cname": "基礎服務學習_基礎服務學習",
+                    "course_category_ename": "",
+                    "course_category_type": "76",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_910179": {
+                "基礎服務學習_基礎服務學習": {
+                    "course_category_cname": "基礎服務學習_基礎服務學習",
+                    "course_category_ename": "",
+                    "course_category_type": "76",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_910278": {
+                "基礎服務學習_基礎服務學習": {
+                    "course_category_cname": "基礎服務學習_基礎服務學習",
+                    "course_category_ename": "",
+                    "course_category_type": "76",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_910279": {
+                "基礎服務學習_基礎服務學習": {
+                    "course_category_cname": "基礎服務學習_基礎服務學習",
+                    "course_category_ename": "",
+                    "course_category_type": "76",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_910035": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_910142": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_910179": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_910278": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_910279": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_910035": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_910142": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_910179": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_910278": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_910279": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    },
+    "B285CF89-A49E-EC11-85F4-005056816DA7": {
+        "dep_id": "B285CF89-A49E-EC11-85F4-005056816DA7",
+        "dep_cname": "醫學人文暨教育學科",
+        "dep_ename": "Department of Medical Humanities and Education",
+        "1": {
+            "1121_113809": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "113809",
+                "cos_code": "MDMD10129",
+                "num_limit": "0",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "醫學人文的實踐",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "楊秀儀、凌憬峰、盧鴻毅、鄭健禹、葉圜叡、蔡紫君",
+                "cos_time": "Ucd-",
+                "memo": "限111-2部桃復健組(暑)、健康傳播組(暑)",
+                "cos_ename": "The Practice of Medical Humanities",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "D28",
+                "dep_primary": "1",
+                "dep_cname": "醫學人文暨教育學科",
+                "dep_ename": "Department of Medical Humanities and Education",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "11",
+                "depType": "U"
+            }
+        },
+        "costype": {
+            "1121_113809": {
+                "專業服務學習_專業服務學習": {
+                    "course_category_cname": "專業服務學習_專業服務學習",
+                    "course_category_ename": "",
+                    "course_category_type": "77",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_113809": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_113809": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    },
+    "E4B848D2-58DF-43DD-998B-CC5E9883A416": {
+        "dep_id": "E4B848D2-58DF-43DD-998B-CC5E9883A416",
+        "dep_cname": "服務學習中心",
+        "dep_ename": "Center for Service-Learning",
+        "1": {
+            "1121_571000": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "571000",
+                "cos_code": "GESL00010",
+                "num_limit": "30",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "青銀共學太極拳─專業服務學習",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳俊銘",
+                "cos_time": "R9a-YK101[YM]",
+                "memo": "",
+                "cos_ename": "Intergenerational TaiChi Chuan learning course-Professional Service Learning",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OU8",
+                "dep_primary": "1",
+                "dep_cname": "服務學習中心",
+                "dep_ename": "Center for Service-Learning",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_571001": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "571001",
+                "cos_code": "GESL00008",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "校務活動培訓與實作-基礎服務學習",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "游鳳芸",
+                "cos_time": "W9-",
+                "memo": "上課教室於【光復】活動中心四樓會議室",
+                "cos_ename": "The Practice training of Campus Activities - Foundational Service Learning",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OU8",
+                "dep_primary": "1",
+                "dep_cname": "服務學習中心",
+                "dep_ename": "Center for Service-Learning",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_571002": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "571002",
+                "cos_code": "GESL00005",
+                "num_limit": "30",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "健康餐點與關懷弱勢-服務學習(二)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "蕭智尹",
+                "cos_time": "MnTn-ED202[GF]",
+                "memo": "",
+                "cos_ename": "Servicing Learning II",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OU8",
+                "dep_primary": "1",
+                "dep_cname": "服務學習中心",
+                "dep_ename": "Center for Service-Learning",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            }
+        },
+        "costype": {
+            "1121_571000": {
+                "專業服務學習_專業服務學習": {
+                    "course_category_cname": "專業服務學習_專業服務學習",
+                    "course_category_ename": "",
+                    "course_category_type": "77",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_571001": {
+                "基礎服務學習_基礎服務學習": {
+                    "course_category_cname": "基礎服務學習_基礎服務學習",
+                    "course_category_ename": "",
+                    "course_category_type": "76",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_571002": {
+                "基礎服務學習_基礎服務學習": {
+                    "course_category_cname": "基礎服務學習_基礎服務學習",
+                    "course_category_ename": "",
+                    "course_category_type": "76",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_571000": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_571001": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_571002": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_571000": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_571001": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_571002": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    },
+    "B886CB13-AD6F-434E-AEA4-BE0CB5599D4F": {
+        "dep_id": "B886CB13-AD6F-434E-AEA4-BE0CB5599D4F",
+        "dep_cname": "國際衛生碩士學位學程",
+        "dep_ename": "International Health Program",
+        "1": {
+            "1121_131224": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131224",
+                "cos_code": "MDIH00001",
+                "num_limit": "15",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "國際學生在台協輔基礎服務學習",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "莊宜芳",
+                "cos_time": "U2-YS405[YM]",
+                "memo": "因配合國際學生抵台時間，本課程擬於8月14~25日期間進行實體與線上同步進行之行前訓練授\n課。9月4~8日期間舉辦與國際學生相見歡的活動。第一階段服務活動於9月11~28日。10月份將舉\n辦一場期中分享會，第二階段服務活動於12/2進行，並進行期末總檢討會。因課程性質，學生需於第一階段選課，登記後需完成行前訓練者方能參與本課程。",
+                "cos_ename": "International students guidance and care service learning",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "114",
+                "dep_primary": "1",
+                "dep_cname": "國際衛生碩士學位學程",
+                "dep_ename": "International Health Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            }
+        },
+        "costype": {
+            "1121_131224": {
+                "基礎服務學習_基礎服務學習": {
+                    "course_category_cname": "基礎服務學習_基礎服務學習",
+                    "course_category_ename": "",
+                    "course_category_type": "76",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_131224": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_131224": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    }
+}

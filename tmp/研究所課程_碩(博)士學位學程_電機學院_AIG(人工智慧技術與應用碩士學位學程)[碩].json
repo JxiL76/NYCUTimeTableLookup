@@ -1,0 +1,1075 @@
+{
+    "959D70AB-C5F4-408C-9BDF-3AC79C12FB18": {
+        "dep_id": "959D70AB-C5F4-408C-9BDF-3AC79C12FB18",
+        "dep_cname": "人工智慧技術與應用碩士學位學程",
+        "dep_ename": "Artificial Intelligence Graduate Program",
+        "2": {
+            "1121_535100": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535100",
+                "cos_code": "EEEE30025",
+                "num_limit": "150",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "論文研討",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "http://adclab.nctu.edu.tw/faculty/",
+                "teacher": "陳佳宏",
+                "cos_time": "W56-ED220[GF]",
+                "memo": "資安學程必選修課程。AI學程學生修業期間應修習2學期論文研討(書報討論)。",
+                "cos_ename": "Seminar",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "505",
+                "dep_primary": "2",
+                "dep_cname": "人工智慧技術與應用碩士學位學程",
+                "dep_ename": "Artificial Intelligence Graduate Program",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535218": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535218",
+                "cos_code": "EEIE30030",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "智慧霧運算系統和設計",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://wintech.ee.nctu.edu.tw/",
+                "teacher": "黃經堯",
+                "cos_time": "F234-",
+                "memo": "上課教室ED108",
+                "cos_ename": "Intelligent Fog Computing Systems and Designs",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "505",
+                "dep_primary": "2",
+                "dep_cname": "人工智慧技術與應用碩士學位學程",
+                "dep_ename": "Artificial Intelligence Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535222": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535222",
+                "cos_code": "EEIE30061",
+                "num_limit": "100",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "類比積體電路",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "陳巍仁",
+                "cos_time": "M34-ED219[GF],R7-ED220[GF]",
+                "memo": "",
+                "cos_ename": "Analog Integrated Circuits",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "505",
+                "dep_primary": "2",
+                "dep_cname": "人工智慧技術與應用碩士學位學程",
+                "dep_ename": "Artificial Intelligence Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535301": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535301",
+                "cos_code": "EECN30188",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "論文研討",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳鴻祺、蕭得聖",
+                "cos_time": "W56-EEB24[GF]",
+                "memo": "工程五館國際會議廳EEB24。AI學程學生修業期間應修習2學期論文研討(書報討論)。",
+                "cos_ename": "Seminar",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "505",
+                "dep_primary": "2",
+                "dep_cname": "人工智慧技術與應用碩士學位學程",
+                "dep_ename": "Artificial Intelligence Graduate Program",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535302": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535302",
+                "cos_code": "EECN30062",
+                "num_limit": "25",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "嵌入式作業系統",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://rtes.cn.nctu.edu.tw",
+                "teacher": "黃育綸",
+                "cos_time": "F34n-EE209[GF]",
+                "memo": "Lab:EE616 *電控所學生注意：畢業學分須修本所課程至少15學分(本所課程為永久課號EECN開頭之課程) 【AI學程專業選修】\n【智能所甲組、丙組選修】",
+                "cos_ename": "Embedded Operating Systems ",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "505",
+                "dep_primary": "2",
+                "dep_cname": "人工智慧技術與應用碩士學位學程",
+                "dep_ename": "Artificial Intelligence Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535304": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535304",
+                "cos_code": "EECN30072",
+                "num_limit": "80",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "影像處理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "歐陽盟",
+                "cos_time": "M234-EE102[GF]",
+                "memo": "【AI學程專業選修】、[智能所甲、乙、丙組選修]",
+                "cos_ename": "Image Processing",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "505",
+                "dep_primary": "2",
+                "dep_cname": "人工智慧技術與應用碩士學位學程",
+                "dep_ename": "Artificial Intelligence Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535305": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535305",
+                "cos_code": "EECN30169",
+                "num_limit": "25",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "自走式機器人  ",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://isci.cn.nctu.edu.tw",
+                "teacher": "宋開泰",
+                "cos_time": "F234-EE632[GF]",
+                "memo": "【AI學程專業選修】、[智能所甲組選修]",
+                "cos_ename": "Mobile Robots",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "505",
+                "dep_primary": "2",
+                "dep_cname": "人工智慧技術與應用碩士學位學程",
+                "dep_ename": "Artificial Intelligence Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535306": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535306",
+                "cos_code": "EECN30137",
+                "num_limit": "90",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "機器人學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "楊谷洋",
+                "cos_time": "R234-EE209[GF]",
+                "memo": "【AI學程專業選修】、[智能所甲組選修]",
+                "cos_ename": "Robotics",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "505",
+                "dep_primary": "2",
+                "dep_cname": "人工智慧技術與應用碩士學位學程",
+                "dep_ename": "Artificial Intelligence Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535310": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535310",
+                "cos_code": "EECN30168",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "自主駕駛車技術",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "王傑智",
+                "cos_time": "R34n-EE635[GF]",
+                "memo": "【AI學程專業選修】",
+                "cos_ename": "Self-Driving Cars",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "505",
+                "dep_primary": "2",
+                "dep_cname": "人工智慧技術與應用碩士學位學程",
+                "dep_ename": "Artificial Intelligence Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535313": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535313",
+                "cos_code": "EECN30095",
+                "num_limit": "60",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "數位訊號處理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://web.it.nctu.edu.tw/~ypl/",
+                "teacher": "林源倍",
+                "cos_time": "F234-EE102[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Digital Signal Processing",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "505",
+                "dep_primary": "2",
+                "dep_cname": "人工智慧技術與應用碩士學位學程",
+                "dep_ename": "Artificial Intelligence Graduate Program",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535314": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535314",
+                "cos_code": "EECN30124",
+                "num_limit": "40",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "最佳化理論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "林顯易",
+                "cos_time": "F234-EE113[GF]",
+                "memo": "",
+                "cos_ename": "Optimization Theory",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "505",
+                "dep_primary": "2",
+                "dep_cname": "人工智慧技術與應用碩士學位學程",
+                "dep_ename": "Artificial Intelligence Graduate Program",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535315": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535315",
+                "cos_code": "EECN30139",
+                "num_limit": "40",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "檢測與估計理論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "蔡尚澕",
+                "cos_time": "M567-EE208[GF]",
+                "memo": "電控所學生注意：畢業學分須修本所課程至少15學分(本所課程為永久課號EECN開頭之課程)",
+                "cos_ename": "Detection and Estimation Theory",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "505",
+                "dep_primary": "2",
+                "dep_cname": "人工智慧技術與應用碩士學位學程",
+                "dep_ename": "Artificial Intelligence Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535351": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535351",
+                "cos_code": "EECM30097",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "論文研討-系統組",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "呂學錦、伍紹勳",
+                "cos_time": "W56-ED219[GF]",
+                "memo": "[AI學程學生修業期間應修習2學期論文研討(書報討論)]",
+                "cos_ename": "Graduate Seminar",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "505",
+                "dep_primary": "2",
+                "dep_cname": "人工智慧技術與應用碩士學位學程",
+                "dep_ename": "Artificial Intelligence Graduate Program",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535353": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535353",
+                "cos_code": "EECM30100",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "論文研討-電波組",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "http://vlsi-eda.cm.nctu.edu.tw/yumin/",
+                "teacher": "李育民",
+                "cos_time": "W56-EDB26[GF]",
+                "memo": "[AI學程學生修業期間應修習2學期論文研討(書報討論)]",
+                "cos_ename": "Graduate Seminar",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "505",
+                "dep_primary": "2",
+                "dep_cname": "人工智慧技術與應用碩士學位學程",
+                "dep_ename": "Artificial Intelligence Graduate Program",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535354": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535354",
+                "cos_code": "EECM30118",
+                "num_limit": "100",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "隨機過程",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://sites.google.com/g2.nctu.edu.tw/gaurunghung/home",
+                "teacher": "高榮鴻",
+                "cos_time": "M567-EDB26[GF]",
+                "memo": "[English Medium Course]、【AI學程專業選修】、[智能所甲組選修、丙組核心]",
+                "cos_ename": "Stochastic Processes",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "505",
+                "dep_primary": "2",
+                "dep_cname": "人工智慧技術與應用碩士學位學程",
+                "dep_ename": "Artificial Intelligence Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535356": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535356",
+                "cos_code": "EECM30063",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "消息理論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://sites.google.com/site/ycjerryhuang/",
+                "teacher": "黃昱智",
+                "cos_time": "W234-ED103[GF]",
+                "memo": "【AI學程專業選修】、[智能所甲、丙組選修]、「資安學程必選修課程」",
+                "cos_ename": "Information Theory",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "505",
+                "dep_primary": "2",
+                "dep_cname": "人工智慧技術與應用碩士學位學程",
+                "dep_ename": "Artificial Intelligence Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535358": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535358",
+                "cos_code": "EECM30062",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "檢測與估計理論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://140.113.144.123",
+                "teacher": "伍紹勳",
+                "cos_time": "T567-EDB01[GF]",
+                "memo": "【AI學程專業選修】、[智能所甲組選修、丙組核心]",
+                "cos_ename": "Detection and Estimation Theory",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "505",
+                "dep_primary": "2",
+                "dep_cname": "人工智慧技術與應用碩士學位學程",
+                "dep_ename": "Artificial Intelligence Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535368": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535368",
+                "cos_code": "EECM30060",
+                "num_limit": "80",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "機器學習",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://chien.cm.nycu.edu.tw",
+                "teacher": "簡仁宗",
+                "cos_time": "F567-ED219[GF]",
+                "memo": "資訊學院博碩士班同學修習本課程需遞送「碩士生修習非本院專業課程申請書」、「博士生修習非本院專業課程申請書」。本課程不可抵免資訊學院之各博士班資格考科。\n【AI學程專業必修】、[智能所甲乙丙組核心]",
+                "cos_ename": "Machine Learning ",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "505",
+                "dep_primary": "2",
+                "dep_cname": "人工智慧技術與應用碩士學位學程",
+                "dep_ename": "Artificial Intelligence Graduate Program",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535369": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535369",
+                "cos_code": "EECM30064",
+                "num_limit": "100",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "深度學習",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://www.eed.nctu.edu.tw/people/bio.php?PID=10805",
+                "teacher": "李佳翰",
+                "cos_time": "T567-ED219[GF]",
+                "memo": "[English Medium Course]、【AI學程專業必修】、[智能所甲丙組核心]",
+                "cos_ename": "Deep Learning",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "505",
+                "dep_primary": "2",
+                "dep_cname": "人工智慧技術與應用碩士學位學程",
+                "dep_ename": "Artificial Intelligence Graduate Program",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535515": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535515",
+                "cos_code": "CSIC30062",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "機器學習",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://www.jhhlab.tw",
+                "teacher": "洪瑞鴻、邱維辰",
+                "cos_time": "M7R34-EC115[GF]",
+                "memo": "資訊學院優先(不開放在職專班網路選課)；博士班資格考考核科目；[English Medium Course]第一階段選課上限45人, 第二階段開放到60人",
+                "cos_ename": "Machine Learning ",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "505",
+                "dep_primary": "2",
+                "dep_cname": "人工智慧技術與應用碩士學位學程",
+                "dep_ename": "Artificial Intelligence Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535655": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535655",
+                "cos_code": "CSIC30048",
+                "num_limit": "90",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "影像處理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "莊仁輝",
+                "cos_time": "T2F56-EC122[GF]",
+                "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；博士班資格考考核科目；請依各所入學年度之修業要點選課；[English Medium Course],",
+                "cos_ename": "Image Processing",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "505",
+                "dep_primary": "2",
+                "dep_cname": "人工智慧技術與應用碩士學位學程",
+                "dep_ename": "Artificial Intelligence Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535701": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535701",
+                "cos_code": "CSDS30009",
+                "num_limit": "80",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "資料探勘",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "曾新穆",
+                "cos_time": "W34-EC015[GF]",
+                "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；博士班資格考考核科目；數據科學與工程研究所二選一；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]",
+                "cos_ename": "Data Mining",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "505",
+                "dep_primary": "2",
+                "dep_cname": "人工智慧技術與應用碩士學位學程",
+                "dep_ename": "Artificial Intelligence Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            }
+        },
+        "costype": {
+            "1121_535100": {
+                "專題演講_專題演講": {
+                    "course_category_cname": "專題演講_專題演講",
+                    "course_category_ename": "",
+                    "course_category_type": "62",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535218": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535222": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535301": {
+                "專題演講_專題演講": {
+                    "course_category_cname": "專題演講_專題演講",
+                    "course_category_ename": "",
+                    "course_category_type": "62",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535302": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535304": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535305": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535306": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535310": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535313": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535314": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535315": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535351": {
+                "專題演講_專題演講": {
+                    "course_category_cname": "專題演講_專題演講",
+                    "course_category_ename": "",
+                    "course_category_type": "62",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535353": {
+                "專題演講_專題演講": {
+                    "course_category_cname": "專題演講_專題演講",
+                    "course_category_ename": "",
+                    "course_category_type": "62",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535354": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535356": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535358": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535368": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535369": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535450": {
+                "專題演講_專題演講": {
+                    "course_category_cname": "專題演講_專題演講",
+                    "course_category_ename": "",
+                    "course_category_type": "62",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535515": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535655": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535701": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_535100": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535218": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535222": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535301": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535302": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535304": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535305": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535306": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535310": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535313": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535314": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535315": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535351": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535353": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535354": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535356": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535358": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535368": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535369": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535450": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535515": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535655": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535701": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_535100": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_535218": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_535222": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_535301": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_535302": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_535304": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_535305": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_535306": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_535310": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_535313": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535314": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_535315": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_535351": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_535353": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_535354": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535356": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_535358": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_535368": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_535369": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535450": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_535515": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535655": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535701": {
+                "授課語言代碼": "zh-tw"
+            }
+        },
+        "1": {
+            "1121_535450": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535450",
+                "cos_code": "EEAI30001",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "論文研討",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "黃紹華、廖元甫",
+                "cos_time": "W56-ED301[GF]",
+                "memo": "人工智慧技術與應用碩士學位學程與智能系統所學生優先。\nAI學程學生修業期間應修習2學期論文研討(書報討論)。",
+                "cos_ename": "Seminars",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "505",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧技術與應用碩士學位學程",
+                "dep_ename": "Artificial Intelligence Graduate Program",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "M"
+            }
+        }
+    }
+}

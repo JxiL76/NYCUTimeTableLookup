@@ -1,0 +1,61 @@
+{
+    "711EAA07-BBA2-4F80-93BF-5FD04A8E612F": {
+        "dep_id": "711EAA07-BBA2-4F80-93BF-5FD04A8E612F",
+        "dep_cname": "理學院院本部",
+        "dep_ename": "College of Science",
+        "1": {
+            "1121_536500": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536500",
+                "cos_code": "SCCS30001",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "神經科學導論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "葉伯壽",
+                "cos_time": "F234-SC152[GF]",
+                "memo": "",
+                "cos_ename": "Introduction to Neruoscience",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "6S1",
+                "dep_primary": "1",
+                "dep_cname": "理學院院本部",
+                "dep_ename": "College of Science",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            }
+        },
+        "costype": {
+            "1121_536500": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_536500": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_536500": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    }
+}

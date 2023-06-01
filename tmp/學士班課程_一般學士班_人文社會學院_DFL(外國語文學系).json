@@ -1,0 +1,2306 @@
+{
+    "16F59D39-254D-4EE9-B742-6E9EF801F297": {
+        "dep_id": "16F59D39-254D-4EE9-B742-6E9EF801F297",
+        "dep_cname": "外國語文學系",
+        "dep_ename": "Department of Foreign Languages and Literatures",
+        "1": {
+            "1121_514100": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514100",
+                "cos_code": "HSFL10015",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "大一英文(一)：文學作品導讀",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "葛家榮",
+                "cos_time": "W234-F326[GF]",
+                "memo": "限外文系[English Medium Course]",
+                "cos_ename": "Freshman English (1):an Introductory Approach to Literature",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "1",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_514101": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514101",
+                "cos_code": "HSFL10011",
+                "num_limit": "28",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "初級日文(一)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "王瑋婷",
+                "cos_time": "M34-F207[GF]",
+                "memo": "開放三四年級選修",
+                "cos_ename": "Elementary Japanese (1)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "1",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_514102": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514102",
+                "cos_code": "HSFL10023",
+                "num_limit": "18",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "英文作文(一) A組",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "胡心瑜",
+                "cos_time": "M34-HC404[GF]",
+                "memo": "A組，限外文系。",
+                "cos_ename": "English Composition (1) A",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "1",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_514103": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514103",
+                "cos_code": "HSFL10024",
+                "num_limit": "18",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "英文作文(一) B組",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "辜崇豪",
+                "cos_time": "M34-HC402[GF]",
+                "memo": "B組，限外文系",
+                "cos_ename": "English Composition (1) B",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "1",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_514104": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514104",
+                "cos_code": "HSFL10025",
+                "num_limit": "18",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "英文作文(一) C組",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "廖秀真",
+                "cos_time": "M34-HC401[GF]",
+                "memo": "C組，限外文系",
+                "cos_ename": "English Composition (1) C",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "1",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_514105": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514105",
+                "cos_code": "HSFL10032",
+                "num_limit": "80",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "語言學概論(一)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "盧郁安",
+                "cos_time": "R34-F210[GF]",
+                "memo": "華語學程，共掛核心課程[English Medium Course]",
+                "cos_ename": "Introduction to Linguistics (1)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "1",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_514106": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514106",
+                "cos_code": "HSFL10019",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "導師時間",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "盧郁安",
+                "cos_time": "W78-",
+                "memo": "限外文系",
+                "cos_ename": "Mentor's Hours",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "1",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_514107": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514107",
+                "cos_code": "HSFL10020",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "服務學習(一)",
+                "cos_credit": ".00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "盧郁安、胡心瑜",
+                "cos_time": "",
+                "memo": "限外文系",
+                "cos_ename": "Service Learning (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "1",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_514108": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514108",
+                "cos_code": "HSFL20015",
+                "num_limit": "55",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "英國文學(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "胡心瑜",
+                "cos_time": "T567-F207[GF]",
+                "memo": "限外文系[English Medium Course]，建議大二修習，其他年級依照自己需求彈性修課。",
+                "cos_ename": "English Literature (1)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "1",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "49",
+                "depType": "U"
+            },
+            "1121_514109": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514109",
+                "cos_code": "HSFL20021",
+                "num_limit": "18",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "高級寫作(一) A組",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "李家沂",
+                "cos_time": "W234-F206[GF]",
+                "memo": "A組，限外文系",
+                "cos_ename": "Advanced Writing (1) A",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "1",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "16",
+                "depType": "U"
+            },
+            "1121_514110": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514110",
+                "cos_code": "HSFL20022",
+                "num_limit": "18",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "高級寫作(一) B組",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "劉辰生",
+                "cos_time": "W234-HC401[GF]",
+                "memo": "B組，限外文系",
+                "cos_ename": "Advanced Writing (1) B",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "1",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "16",
+                "depType": "U"
+            },
+            "1121_514111": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514111",
+                "cos_code": "HSFL20023",
+                "num_limit": "18",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "高級寫作(一) C組",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "楊雅筑",
+                "cos_time": "W234-HC402[GF]",
+                "memo": "C組，限外文系",
+                "cos_ename": "Advanced Writing (1) C",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "1",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "16",
+                "depType": "U"
+            },
+            "1121_514112": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514112",
+                "cos_code": "HSFL20027",
+                "num_limit": "27",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "高級翻譯 A組",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "http://english.ecominfozone.net/",
+                "teacher": "吳煒聲",
+                "cos_time": "R34-HC402[GF]",
+                "memo": "A組，限外文系",
+                "cos_ename": "Advanced Translation A",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "1",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "22",
+                "depType": "U"
+            },
+            "1121_514113": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514113",
+                "cos_code": "HSFL20028",
+                "num_limit": "27",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "高級翻譯 B組",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳韙寧",
+                "cos_time": "R34-F207[GF]",
+                "memo": "B組，限外文系",
+                "cos_ename": "Advanced Translation B",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "1",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "25",
+                "depType": "U"
+            },
+            "1121_514114": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514114",
+                "cos_code": "HSFL20018",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "語音學/音韻學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "潘荷仙",
+                "cos_time": "R567-F210[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Phonetics/Phonology",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "1",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "48",
+                "depType": "U"
+            },
+            "1121_514115": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514115",
+                "cos_code": "HSFL10009",
+                "num_limit": "18",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "初級法文(一)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "楊啟嵐",
+                "cos_time": "M56-F206[GF]",
+                "memo": "開放三四年級選修",
+                "cos_ename": "Elementary French (1)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "1",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_514116": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514116",
+                "cos_code": "HSFL10007",
+                "num_limit": "22",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "初級西班牙文(一)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "詹閔如",
+                "cos_time": "M56-F203[GF]",
+                "memo": "開放三四年級選修",
+                "cos_ename": "Elementary Spanish (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "1",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_514117": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514117",
+                "cos_code": "HSFL10044",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "美國文學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://nctu.academia.edu/DeanBrink",
+                "teacher": "包德樂",
+                "cos_time": "W234-HC103[GF]",
+                "memo": "[English Medium Course]，建議大三修習，其他年級依照自己需求彈性修課。\n",
+                "cos_ename": "American Literature",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "1",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "50",
+                "depType": "U"
+            },
+            "1121_514118": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514118",
+                "cos_code": "HSFL20011",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "句法學/語意學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "劉辰生",
+                "cos_time": "T234-F210[GF]",
+                "memo": "",
+                "cos_ename": "Syntax/Semantics",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "1",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "50",
+                "depType": "U"
+            },
+            "1121_514119": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514119",
+                "cos_code": "HSFL10029",
+                "num_limit": "70",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "西洋文學概論(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://www.fl.nctu.edu.tw/~limk/",
+                "teacher": "林建國",
+                "cos_time": "T234-F326[GF]",
+                "memo": "共掛核心課程，建議大一修習，其他年級依照自己需求彈性修課。",
+                "cos_ename": "Introduction to Western Literature (1)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "1",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_514120": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514120",
+                "cos_code": "HSFL20005",
+                "num_limit": "28",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "中級日文(一)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "王瑋婷",
+                "cos_time": "M56-F207[GF]",
+                "memo": "開放四年級選修",
+                "cos_ename": "Intermediate Japanese (1)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "1",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_514121": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514121",
+                "cos_code": "HSFL20003",
+                "num_limit": "18",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "中級法文(一)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "楊啟嵐",
+                "cos_time": "M78-F206[GF]",
+                "memo": "開放四年級選修",
+                "cos_ename": "Intermediate French (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "1",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_514122": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514122",
+                "cos_code": "HSFL20001",
+                "num_limit": "22",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "中級西班牙文(一)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "詹閔如",
+                "cos_time": "M78-F203[GF]",
+                "memo": "開放四年級選修",
+                "cos_ename": "Intermediate Spanish (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "1",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_514123": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514123",
+                "cos_code": "HSFL20020",
+                "num_limit": "25",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "高級日文(一)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "王瑋婷",
+                "cos_time": "M78-F207[GF]",
+                "memo": "開放三四年級選修",
+                "cos_ename": "Advanced Japanese (1)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "1",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_514124": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514124",
+                "cos_code": "HSFL20017",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "英語能力評鑑",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "劉辰生",
+                "cos_time": "",
+                "memo": "限外文系",
+                "cos_ename": "English Competence Workshop",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "1",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_514125": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514125",
+                "cos_code": "HSFL10034",
+                "num_limit": "18",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "傳達技巧工作坊(一)：聽講訓練A組",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "陳韙寧",
+                "cos_time": "T567-HC402[GF]",
+                "memo": "A組，限外文系[English Medium Course]",
+                "cos_ename": "Communicative Skills Workshop (1): Listening and Oral Training A",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "1",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_514126": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514126",
+                "cos_code": "HSFL10035",
+                "num_limit": "18",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "傳達技巧工作坊(一)：聽講訓練B組",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "劉啟明",
+                "cos_time": "T567-F203[GF]",
+                "memo": "B組，限外文系[English Medium Course]",
+                "cos_ename": "Communicative Skills Workshop (1): Listening and Oral Training B",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "1",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_514127": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514127",
+                "cos_code": "HSFL10036",
+                "num_limit": "18",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "傳達技巧工作坊(一)：聽講訓練C組",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "楊雅筑",
+                "cos_time": "T567-HC401[GF]",
+                "memo": "C組，限外文系[English Medium Course]",
+                "cos_ename": "Communicative Skills Workshop (1): Listening and Oral Training C",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "1",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_514128": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514128",
+                "cos_code": "HSFL20029",
+                "num_limit": "18",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "傳達技巧工作坊(三)：討論與辯論技巧A組",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "馬紹芸",
+                "cos_time": "F34-F203[GF]",
+                "memo": "A組，限外文系[English Medium Course]",
+                "cos_ename": "Communicative Skills Workshop (3): Discussion and Debate A",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "1",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "14",
+                "depType": "U"
+            },
+            "1121_514129": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514129",
+                "cos_code": "HSFL20030",
+                "num_limit": "18",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "傳達技巧工作坊(三)：討論與辯論技巧B組",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "http://www.fl.nctu.edu.tw/~limk/",
+                "teacher": "林建國",
+                "cos_time": "F34-HC402[GF]",
+                "memo": "B組，限外文系[English Medium Course]",
+                "cos_ename": "Communicative Skills Workshop (3): Discussion and Debate B",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "1",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "16",
+                "depType": "U"
+            },
+            "1121_514130": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514130",
+                "cos_code": "HSFL20031",
+                "num_limit": "18",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "傳達技巧工作坊(三)：討論與辯論技巧C組",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "朱品璇",
+                "cos_time": "F34-F207[GF]",
+                "memo": "C組，限外文系[English Medium Course]",
+                "cos_ename": "Communicative Skills Workshop (3): Discussion and Debate C",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "1",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "16",
+                "depType": "U"
+            },
+            "1121_514131": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514131",
+                "cos_code": "HSFL10045",
+                "num_limit": "25",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "進階英語能力評鑑\t",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "朱品璇",
+                "cos_time": "T56-F210[GF]",
+                "memo": "限外文系，以大四優先。",
+                "cos_ename": "Advanced English Competence Workshop",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "1",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_514132": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514132",
+                "cos_code": "HSFL20043",
+                "num_limit": "24",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "英漢語意對比",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "廖秀真",
+                "cos_time": "R567-F207[GF]",
+                "memo": "專選，華語學程，開放二、三、四年級",
+                "cos_ename": "A Comparative Study of English and Chinese Semantics",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "1",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_514134": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514134",
+                "cos_code": "HSFL20044",
+                "num_limit": "15",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "文學理論（文類課：其他）",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "李家沂",
+                "cos_time": "R34-F206[GF]",
+                "memo": "專選，開放三四年級",
+                "cos_ename": "Literary Theories(Genre: Others)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "1",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_514135": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514135",
+                "cos_code": "HSFL20045",
+                "num_limit": "30",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "實務英文翻譯",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://english.ecominfozone.net/",
+                "teacher": "吳煒聲",
+                "cos_time": "R567-HC402[GF]",
+                "memo": "開放二三四年級選修",
+                "cos_ename": "Practical English translation",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "1",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_514136": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514136",
+                "cos_code": "HSFL20046",
+                "num_limit": "25",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "進階新聞英文:閱讀與聽力",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "待聘",
+                "cos_time": "R234-HC401[GF]",
+                "memo": "開放二三四年級選修。",
+                "cos_ename": "Advanced Journalistic English: Reading and Listening",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "1",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_514137": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514137",
+                "cos_code": "HSFL20010",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "口語科學概論(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "潘荷仙",
+                "cos_time": "M234-F322[GF]",
+                "memo": "專選，聽語學程",
+                "cos_ename": "Introduction to Speech Science(I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "1",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            }
+        },
+        "costype": {
+            "1121_514100": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_514101": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_514102": {
+                "寫作課程_寫作課程": {
+                    "course_category_cname": "寫作課程_寫作課程",
+                    "course_category_ename": "",
+                    "course_category_type": "69",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_514103": {
+                "寫作課程_寫作課程": {
+                    "course_category_cname": "寫作課程_寫作課程",
+                    "course_category_ename": "",
+                    "course_category_type": "69",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_514104": {
+                "寫作課程_寫作課程": {
+                    "course_category_cname": "寫作課程_寫作課程",
+                    "course_category_ename": "",
+                    "course_category_type": "69",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_514105": {
+                "博雅選修通識_博雅選修通識": {
+                    "course_category_cname": "博雅選修通識_博雅選修通識",
+                    "course_category_ename": "Optional Liberal Education_Optional Liberal Education",
+                    "course_category_type": "37",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "領域課程-個人、社會與文化_領域課程-個人、社會與文化": {
+                    "course_category_cname": "領域課程-個人、社會與文化_領域課程-個人、社會與文化",
+                    "course_category_ename": "Distribution-socioculture_DASC",
+                    "course_category_type": "49",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_514106": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_514107": {
+                "基礎服務學習_基礎服務學習": {
+                    "course_category_cname": "基礎服務學習_基礎服務學習",
+                    "course_category_ename": "",
+                    "course_category_type": "76",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_514108": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_514109": {
+                "寫作課程_寫作課程": {
+                    "course_category_cname": "寫作課程_寫作課程",
+                    "course_category_ename": "",
+                    "course_category_type": "69",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_514110": {
+                "寫作課程_寫作課程": {
+                    "course_category_cname": "寫作課程_寫作課程",
+                    "course_category_ename": "",
+                    "course_category_type": "69",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_514111": {
+                "寫作課程_寫作課程": {
+                    "course_category_cname": "寫作課程_寫作課程",
+                    "course_category_ename": "",
+                    "course_category_type": "69",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_514112": {
+                "寫作課程_寫作課程": {
+                    "course_category_cname": "寫作課程_寫作課程",
+                    "course_category_ename": "",
+                    "course_category_type": "69",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_514113": {
+                "寫作課程_寫作課程": {
+                    "course_category_cname": "寫作課程_寫作課程",
+                    "course_category_ename": "",
+                    "course_category_type": "69",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_514114": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_514115": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_514116": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_514117": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_514118": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_514119": {
+                "核心通識-藝術與文化_核心通識-藝術與文化": {
+                    "course_category_cname": "核心通識-藝術與文化_核心通識-藝術與文化",
+                    "course_category_ename": "Art and Cultures_Art and Cultures",
+                    "course_category_type": "36",
+                    "GECIName": "工,理,生,客,跨",
+                    "GECIEngName": "COE,COS,CBT,CHK,CI"
+                },
+                "通識校基本素養_通識校基本": {
+                    "course_category_cname": "通識校基本素養_通識校基本",
+                    "course_category_ename": "General Education Course: Literacy_GECL",
+                    "course_category_type": "15",
+                    "GECIName": "工,理,生,客,跨",
+                    "GECIEngName": "COE,COS,CBT,CHK,CI"
+                },
+                "通識核心課程_通識核心": {
+                    "course_category_cname": "通識核心課程_通識核心",
+                    "course_category_ename": "General Education Course_GEC",
+                    "course_category_type": "17",
+                    "GECIName": "工,理,生,客,跨",
+                    "GECIEngName": "COE,COS,CBT,CHK,CI"
+                },
+                "通識跨院基本素養_通識跨院": {
+                    "course_category_cname": "通識跨院基本素養_通識跨院",
+                    "course_category_ename": "General Education Course: Intercollegiate_GECI",
+                    "course_category_type": "16",
+                    "GECIName": "工,理,生,客,跨",
+                    "GECIEngName": "COE,COS,CBT,CHK,CI"
+                },
+                "領域課程-人文與美學_領域課程-人文與美學": {
+                    "course_category_cname": "領域課程-人文與美學_領域課程-人文與美學",
+                    "course_category_ename": "Distribution-humanity_DAHA",
+                    "course_category_type": "48",
+                    "GECIName": "工,理,生,客,跨",
+                    "GECIEngName": "COE,COS,CBT,CHK,CI"
+                }
+            },
+            "1121_514120": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_514121": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_514122": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_514123": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_514124": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_514125": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_514126": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_514127": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_514128": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_514129": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_514130": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_514131": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_514132": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_514134": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_514135": {
+                "寫作課程_寫作課程": {
+                    "course_category_cname": "寫作課程_寫作課程",
+                    "course_category_ename": "",
+                    "course_category_type": "69",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_514136": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_514137": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534103": {
+                "寫作課程_寫作課程": {
+                    "course_category_cname": "寫作課程_寫作課程",
+                    "course_category_ename": "",
+                    "course_category_type": "69",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534104": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534105": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534106": {
+                "性平相關課程_性平相關": {
+                    "course_category_cname": "性平相關課程_性平相關",
+                    "course_category_ename": "Gender Equality Related Courses_GER",
+                    "course_category_type": "9",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "通識校基本素養_通識校基本": {
+                    "course_category_cname": "通識校基本素養_通識校基本",
+                    "course_category_ename": "General Education Course: Literacy_GECL",
+                    "course_category_type": "15",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "領域課程-人文與美學_領域課程-人文與美學": {
+                    "course_category_cname": "領域課程-人文與美學_領域課程-人文與美學",
+                    "course_category_ename": "Distribution-humanity_DAHA",
+                    "course_category_type": "48",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534107": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_514100": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_514101": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_514102": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_514103": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_514104": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_514105": {
+                "A909,Z106": {
+                    "brief_code": "A909,Z106",
+                    "brief": "博雅選修通識 (90),領域課程-個人、社會與文化(110)"
+                }
+            },
+            "1121_514106": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_514107": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_514108": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_514109": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_514110": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_514111": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_514112": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_514113": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_514114": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_514115": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_514116": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_514117": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_514118": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_514119": {
+                "A501,A504,A505,A908,Z105": {
+                    "brief_code": "A501,A504,A505,A908,Z105",
+                    "brief": "核心-人文(106),跨院基本素養(106),校基本素養(106),核心通識-藝術與文化(90),領域課程-人文與美學(110)"
+                }
+            },
+            "1121_514120": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_514121": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_514122": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_514123": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_514124": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_514125": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_514126": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_514127": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_514128": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_514129": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_514130": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_514131": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_514132": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_514134": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_514135": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_514136": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_514137": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534103": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534104": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534105": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534106": {
+                "A505,Z105": {
+                    "brief_code": "A505,Z105",
+                    "brief": "校基本素養(106),領域課程-人文與美學(110)"
+                }
+            },
+            "1121_534107": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_514100": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_514101": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_514102": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_514103": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_514104": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_514105": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_514106": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_514107": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_514108": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_514109": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_514110": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_514111": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_514112": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_514113": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_514114": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_514115": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_514116": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_514117": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_514118": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_514119": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_514120": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_514121": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_514122": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_514123": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_514124": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_514125": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_514126": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_514127": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_514128": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_514129": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_514130": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_514131": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_514132": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_514134": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_514135": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_514136": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_514137": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534103": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534104": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534105": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534106": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_534107": {
+                "授課語言代碼": "en-us"
+            }
+        },
+        "2": {
+            "1121_514101": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514101",
+                "cos_code": "HSFL10011",
+                "num_limit": "28",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "初級日文(一)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "王瑋婷",
+                "cos_time": "M34-F207[GF]",
+                "memo": "開放三四年級選修",
+                "cos_ename": "Elementary Japanese (1)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "2",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_514108": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514108",
+                "cos_code": "HSFL20015",
+                "num_limit": "55",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "英國文學(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "胡心瑜",
+                "cos_time": "T567-F207[GF]",
+                "memo": "限外文系[English Medium Course]，建議大二修習，其他年級依照自己需求彈性修課。",
+                "cos_ename": "English Literature (1)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "2",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "49",
+                "depType": "U"
+            },
+            "1121_514115": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514115",
+                "cos_code": "HSFL10009",
+                "num_limit": "18",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "初級法文(一)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "楊啟嵐",
+                "cos_time": "M56-F206[GF]",
+                "memo": "開放三四年級選修",
+                "cos_ename": "Elementary French (1)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "2",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_514116": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514116",
+                "cos_code": "HSFL10007",
+                "num_limit": "22",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "初級西班牙文(一)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "詹閔如",
+                "cos_time": "M56-F203[GF]",
+                "memo": "開放三四年級選修",
+                "cos_ename": "Elementary Spanish (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "2",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_514117": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514117",
+                "cos_code": "HSFL10044",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "美國文學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://nctu.academia.edu/DeanBrink",
+                "teacher": "包德樂",
+                "cos_time": "W234-HC103[GF]",
+                "memo": "[English Medium Course]，建議大三修習，其他年級依照自己需求彈性修課。\n",
+                "cos_ename": "American Literature",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "2",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "50",
+                "depType": "U"
+            },
+            "1121_514119": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514119",
+                "cos_code": "HSFL10029",
+                "num_limit": "70",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "西洋文學概論(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://www.fl.nctu.edu.tw/~limk/",
+                "teacher": "林建國",
+                "cos_time": "T234-F326[GF]",
+                "memo": "共掛核心課程，建議大一修習，其他年級依照自己需求彈性修課。",
+                "cos_ename": "Introduction to Western Literature (1)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "2",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_514120": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514120",
+                "cos_code": "HSFL20005",
+                "num_limit": "28",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "中級日文(一)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "王瑋婷",
+                "cos_time": "M56-F207[GF]",
+                "memo": "開放四年級選修",
+                "cos_ename": "Intermediate Japanese (1)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "2",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_514121": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514121",
+                "cos_code": "HSFL20003",
+                "num_limit": "18",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "中級法文(一)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "楊啟嵐",
+                "cos_time": "M78-F206[GF]",
+                "memo": "開放四年級選修",
+                "cos_ename": "Intermediate French (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "2",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_514122": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514122",
+                "cos_code": "HSFL20001",
+                "num_limit": "22",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "中級西班牙文(一)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "詹閔如",
+                "cos_time": "M78-F203[GF]",
+                "memo": "開放四年級選修",
+                "cos_ename": "Intermediate Spanish (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "2",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_514123": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514123",
+                "cos_code": "HSFL20020",
+                "num_limit": "25",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "高級日文(一)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "王瑋婷",
+                "cos_time": "M78-F207[GF]",
+                "memo": "開放三四年級選修",
+                "cos_ename": "Advanced Japanese (1)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "2",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_514131": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "514131",
+                "cos_code": "HSFL10045",
+                "num_limit": "25",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "進階英語能力評鑑\t",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "朱品璇",
+                "cos_time": "T56-F210[GF]",
+                "memo": "限外文系，以大四優先。",
+                "cos_ename": "Advanced English Competence Workshop",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "2",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_534103": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534103",
+                "cos_code": "HSGF30006",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "研究方法",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://www.fl.nctu.edu.tw/~limk/",
+                "teacher": "林建國",
+                "cos_time": "F567-HC401[GF]",
+                "memo": "專選，開放二三四年級選修。",
+                "cos_ename": "Research Practicum",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "2",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_534104": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534104",
+                "cos_code": "HSGF30012",
+                "num_limit": "15",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "音韻實驗方法及語料探索",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "盧郁安",
+                "cos_time": "F234-HC401[GF]",
+                "memo": "專選，開放二三四年級選修",
+                "cos_ename": "Experimental Methods in Phonology and Data Exploration",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "2",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_534105": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534105",
+                "cos_code": "HSGF30023",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "女性主義文學批評（文類課：其他）",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "馮品佳",
+                "cos_time": "T567-F322[GF]",
+                "memo": "專選",
+                "cos_ename": "Feminist Literary Criticsm (Genre: Others)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "2",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_534106": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534106",
+                "cos_code": "HSGF30024",
+                "num_limit": "25",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "跨性別文學（文類課：其他）",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "辜崇豪",
+                "cos_time": "T234-HC402[GF]",
+                "memo": "專選，性平相關，共掛核心課程[English Medium Course]\n",
+                "cos_ename": "Transgender Literature(Genre: Others)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "2",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_534107": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534107",
+                "cos_code": "HSGF30025",
+                "num_limit": "30",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "日本動漫的哲學基礎(文類課：其他)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://nctu.academia.edu/DeanBrink",
+                "teacher": "包德樂",
+                "cos_time": "M567-HC402[GF]",
+                "memo": "專選[English Medium Course]",
+                "cos_ename": "Philosophical Underpinnings of Japanese Anime(Genre: Others)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "450",
+                "dep_primary": "2",
+                "dep_cname": "外國語文學系",
+                "dep_ename": "Department of Foreign Languages and Literatures",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            }
+        }
+    }
+}

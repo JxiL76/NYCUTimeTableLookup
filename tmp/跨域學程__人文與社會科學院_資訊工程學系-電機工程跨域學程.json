@@ -1,0 +1,1026 @@
+{
+    "8441CD36-F93E-495E-93C9-B7F30AD7D371": {
+        "dep_id": "8441CD36-F93E-495E-93C9-B7F30AD7D371",
+        "dep_cname": "資訊工程學系-電機工程跨域學程",
+        "dep_ename": "Department of Computer Science  for Cross-Disciplinary Program in E",
+        "1": {
+            "1121_515500": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515500",
+                "cos_code": "CSCS10015",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "計算機概論與程式設計",
+                "cos_credit": "3.00",
+                "cos_hours": "5.00",
+                "TURL": "",
+                "teacher": "王豐堅",
+                "cos_time": "M56R2-EC015[GF],Rabc-EC315[GF],Rabc-EC316[GF],Rabc-EC324[GF]",
+                "memo": "一年級必修僅開學才開放選課；外系生請於開學上網加選；資工系與電資學士班學生優先選課；Rabc上課教室:EC315、EC316 ；主開1年級；本系生優先權順序：1年級，4年級，3年級，2年級",
+                "cos_ename": "Introduction to Computers and Programming",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLD",
+                "dep_primary": "1",
+                "dep_cname": "資訊工程學系-電機工程跨域學程",
+                "dep_ename": "Department of Computer Science  for Cross-Disciplinary Program in E",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_515501": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515501",
+                "cos_code": "CSCS10015",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "計算機概論與程式設計",
+                "cos_credit": "3.00",
+                "cos_hours": "5.00",
+                "TURL": "http://www.cs.nctu.edu.tw/~tfchen",
+                "teacher": "陳添福",
+                "cos_time": "M56R2-EC122[GF],Mabc-EC315[GF],Mabc-EC316[GF],Mabc-EC324[GF]",
+                "memo": "一年級必修僅開學才開放選課；外系生請於開學上網加選；資工系與電資學士班學生優先選課；Mabc上課教室:EC315、EC316 ；主開1年級；本系生優先權順序：1年級，4年級，3年級，2年級",
+                "cos_ename": "Introduction to Computers and Programming",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLD",
+                "dep_primary": "1",
+                "dep_cname": "資訊工程學系-電機工程跨域學程",
+                "dep_ename": "Department of Computer Science  for Cross-Disciplinary Program in E",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_515502": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515502",
+                "cos_code": "CSCS10015",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "計算機概論與程式設計",
+                "cos_credit": "3.00",
+                "cos_hours": "5.00",
+                "TURL": "http://acm.cs.nctu.edu.tw/",
+                "teacher": "黃敬群",
+                "cos_time": "M56R2-EC114[GF],Tabc-EC315[GF],Tabc-EC316[GF],Tabc-EC324[GF]",
+                "memo": "一年級必修僅開學才開放選課；外系生請於開學上網加選；資工系與電資學士班學生優先選課；Tabc上課教室:EC315、EC316 ；主開1年級[English Medium Course]，本系生優先權順序：1年級，4年級，3年級，2年級。實地線上混合教學課程 (陽明校區：線上，請向教師索取線上連結)",
+                "cos_ename": "Introduction to Computers and Programming",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLD",
+                "dep_primary": "1",
+                "dep_cname": "資訊工程學系-電機工程跨域學程",
+                "dep_ename": "Department of Computer Science  for Cross-Disciplinary Program in E",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_515503": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515503",
+                "cos_code": "CSCS10011",
+                "num_limit": "140",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "線性代數",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://people.cs.nctu.edu.tw/~yi/",
+                "teacher": "易志偉",
+                "cos_time": "W34-EDB27[GF]",
+                "memo": "一年級必修僅開學才開放選課；外系生請於開學上網加選；資工系與電資學士班學生優先選課；；主開1年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously];本系生優先權順序：1年級，4年級，3年級，2年級",
+                "cos_ename": "Linear Algebra",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLD",
+                "dep_primary": "1",
+                "dep_cname": "資訊工程學系-電機工程跨域學程",
+                "dep_ename": "Department of Computer Science  for Cross-Disciplinary Program in E",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_515504": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515504",
+                "cos_code": "CSCS10011",
+                "num_limit": "70",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "線性代數",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://sites.google.com/view/wei-cecnl",
+                "teacher": "魏群樹",
+                "cos_time": "W34-EC115[GF]",
+                "memo": "一年級必修僅開學才開放選課；外系生請於開學上網加選；資工系與電資學士班學生優先選課；；主開1年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously][English Medium Course];本系生優先權順序：1年級，4年級，3年級，2年級;開放隨班附讀",
+                "cos_ename": "Linear Algebra",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLD",
+                "dep_primary": "1",
+                "dep_cname": "資訊工程學系-電機工程跨域學程",
+                "dep_ename": "Department of Computer Science  for Cross-Disciplinary Program in E",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_515505": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515505",
+                "cos_code": "CSCS10009",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "演算法概論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "吳凱強",
+                "cos_time": "T34R7-EC114[GF]",
+                "memo": "[English Medium Course]外系生請於開學上網加選；資訊共同；需修過『資料結構與物件導向程式設計』才可修『演算法概論』；Pass the “Data Structures and Object-oriented Programming” before taking “Intro. to Algorithms”；主開2年級；本系生優先權順序：2年級，4年級，3年級，1年級。實地線上混合教學課程 (陽明校區：線上，請向教師索取線上連結)",
+                "cos_ename": "Introduction to Algorithms",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLD",
+                "dep_primary": "1",
+                "dep_cname": "資訊工程學系-電機工程跨域學程",
+                "dep_ename": "Department of Computer Science  for Cross-Disciplinary Program in E",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_515506": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515506",
+                "cos_code": "CSCS10009",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "演算法概論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "施仁忠",
+                "cos_time": "T34R7-EC122[GF]",
+                "memo": "外系生請於開學上網加選；資訊共同；需修過『資料結構與物件導向程式設計』才可修『演算法概論』；Pass the “Data Structures and Object-oriented Programming” before taking “Intro. to Algorithms”；主開2年級；本系生優先權順序：2年級，4年級，3年級，1年級",
+                "cos_ename": "Introduction to Algorithms",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLD",
+                "dep_primary": "1",
+                "dep_cname": "資訊工程學系-電機工程跨域學程",
+                "dep_ename": "Department of Computer Science  for Cross-Disciplinary Program in E",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_515511": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515511",
+                "cos_code": "CSCS10007",
+                "num_limit": "90",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "機率",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://www.csie.nctu.edu.tw/~mfchang",
+                "teacher": "張明峰",
+                "cos_time": "W34F7-EE105[GF]",
+                "memo": "外系生請於開學上網加選；資訊共同；資訊工程組必修；網路與多媒體工程組必修；資工系與電資學士班學生優先選課；主開2年級；本系生優先權順序：2年級，4年級，3年級，1年級\n",
+                "cos_ename": "Probability ",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLD",
+                "dep_primary": "1",
+                "dep_cname": "資訊工程學系-電機工程跨域學程",
+                "dep_ename": "Department of Computer Science  for Cross-Disciplinary Program in E",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_515512": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515512",
+                "cos_code": "CSCS10007",
+                "num_limit": "90",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "機率",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "謝秉均",
+                "cos_time": "W34F7-ED117[GF]",
+                "memo": "外系生請於開學上網加選；資訊共同；資訊工程組必修；網路與多媒體工程組必修；資工系與電資學士班學生優先選課；主開2年級[English Medium Course]；本系生優先權順序：2年級，4年級，3年級，1年級",
+                "cos_ename": "Probability ",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLD",
+                "dep_primary": "1",
+                "dep_cname": "資訊工程學系-電機工程跨域學程",
+                "dep_ename": "Department of Computer Science  for Cross-Disciplinary Program in E",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_515513": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515513",
+                "cos_code": "CSCS10001",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "作業系統概論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "蔡文錦",
+                "cos_time": "W34-EC016[GF]",
+                "memo": "外系生請於開學上網加選；資工系與電資學士班學生優先選課；；主開3年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]；本系生優先權順序：3年級，4年級，2年級，1年級",
+                "cos_ename": "Introduction to Operating Systems",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLD",
+                "dep_primary": "1",
+                "dep_cname": "資訊工程學系-電機工程跨域學程",
+                "dep_ename": "Department of Computer Science  for Cross-Disciplinary Program in E",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_515514": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515514",
+                "cos_code": "CSCS10001",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "作業系統概論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "吳育松",
+                "cos_time": "W34-EC114[GF]",
+                "memo": "外系生請於開學上網加選；資工系與電資學士班學生優先選課；；主開3年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously][English Medium Course]；本系生優先權順序：3年級，4年級，2年級，1年級",
+                "cos_ename": "Introduction to Operating Systems",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLD",
+                "dep_primary": "1",
+                "dep_cname": "資訊工程學系-電機工程跨域學程",
+                "dep_ename": "Department of Computer Science  for Cross-Disciplinary Program in E",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_515515": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515515",
+                "cos_code": "CSCS10001",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "作業系統概論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://sites.google.com/view/lpchang",
+                "teacher": "張立平",
+                "cos_time": "W34-EC122[GF]",
+                "memo": "外系生請於開學上網加選；資工系與電資學士班學生優先選課；；主開3年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]；本系生優先權順序：3年級，4年級，2年級，1年級",
+                "cos_ename": "Introduction to Operating Systems",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLD",
+                "dep_primary": "1",
+                "dep_cname": "資訊工程學系-電機工程跨域學程",
+                "dep_ename": "Department of Computer Science  for Cross-Disciplinary Program in E",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_515519": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515519",
+                "cos_code": "CSCS10012",
+                "num_limit": "100",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "編譯器設計概論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://www.cs.nctu.edu.tw/~ypyou/",
+                "teacher": "游逸平",
+                "cos_time": "T234-EC016[GF]",
+                "memo": "外系生請於開學上網加選；學士班七大主題學程；資工系與電資學士班學生優先選課；資訊工程組必修；資電工程組必修；主開3年級；本系生優先權順序：3年級，4年級，2年級，1年級",
+                "cos_ename": "Intro. to Compiler Design",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLD",
+                "dep_primary": "1",
+                "dep_cname": "資訊工程學系-電機工程跨域學程",
+                "dep_ename": "Department of Computer Science  for Cross-Disciplinary Program in E",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_515600": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515600",
+                "cos_code": "CSCS00003",
+                "num_limit": "218",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "生涯規劃及導師時間",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "林一平",
+                "cos_time": "W78-EC114[GF],W78-EC122[GF],W78-EDB27[GF]",
+                "memo": "自101學年度起入學者，學士班一年級學生每學期必修『導師時間』（0學分），需通過2學期始得畢業。一年級必修僅開學才開放選課。；本系生優先權順序：1年級，4年級，3年級，2年級",
+                "cos_ename": "Career Planning and Mentor of Hours",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLD",
+                "dep_primary": "1",
+                "dep_cname": "資訊工程學系-電機工程跨域學程",
+                "dep_ename": "Department of Computer Science  for Cross-Disciplinary Program in E",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_515601": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515601",
+                "cos_code": "CSCS00002",
+                "num_limit": "218",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "服務學習(二)",
+                "cos_credit": ".00",
+                "cos_hours": "1.00",
+                "TURL": "http://acm.cs.nctu.edu.tw/",
+                "teacher": "黃敬群",
+                "cos_time": "",
+                "memo": "限資工系同學選課；學生必修服務學習(一)及服務學習(二)，以依序修習為原則，但不得於同一學期修習二門服務學習課程；本系生優先權順序：2年級，4年級，3年級，1年級",
+                "cos_ename": "Service Learning II",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLD",
+                "dep_primary": "1",
+                "dep_cname": "資訊工程學系-電機工程跨域學程",
+                "dep_ename": "Department of Computer Science  for Cross-Disciplinary Program in E",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_515609": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515609",
+                "cos_code": "CSCS10002",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "基礎程式設計",
+                "cos_credit": ".00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "吳凱強、洪瑞鴻、黃寗琪",
+                "cos_time": "",
+                "memo": "資工系與電資學士班學生優先選課；本課程實際內容為『程式能力鑑定』考試，及格條件為通過任一次考試，除考試後及另訂定的助教輔導時間外，本課程無實體教學。主開2年級；本系生優先權順序：2年級，4年級，3年級，1年級",
+                "cos_ename": "Basic Programming",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLD",
+                "dep_primary": "1",
+                "dep_cname": "資訊工程學系-電機工程跨域學程",
+                "dep_ename": "Department of Computer Science  for Cross-Disciplinary Program in E",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_515610": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515610",
+                "cos_code": "CSCS10020",
+                "num_limit": "218",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "資訊工程研討",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "楊武",
+                "cos_time": "M56-ED117[GF]",
+                "memo": "資工系與電資學士班學生優先選課；主開3年級；本系生優先權順序：3年級，4年級，2年級，1年級",
+                "cos_ename": "Computer Science Seminars",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLD",
+                "dep_primary": "1",
+                "dep_cname": "資訊工程學系-電機工程跨域學程",
+                "dep_ename": "Department of Computer Science  for Cross-Disciplinary Program in E",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_515611": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515611",
+                "cos_code": "CSCS10019",
+                "num_limit": "175",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "資訊工程專題(二)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "http://people.cs.nctu.edu.tw/~kuanwen/",
+                "teacher": "陳冠文",
+                "cos_time": "",
+                "memo": "資工系與電資學士班學生優先選課；須修過資訊工程專題(一)才可修資訊工程專題(二)；Pass the “Computer Science and Engineering Projects (I)” before taking “Computer Science and Engineering Projects (II)”；電資學士班同學在二年級以上必須選修電機學院與資訊學院同一系所開至少2學期專題課程；主開4年級[English Medium Course]「於學期末的第17/18彈性教學週，原則上會安排在W78的時間舉行專題報告或競賽」",
+                "cos_ename": "Computer Science and Engineering Projects (II)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLD",
+                "dep_primary": "1",
+                "dep_cname": "資訊工程學系-電機工程跨域學程",
+                "dep_ename": "Department of Computer Science  for Cross-Disciplinary Program in E",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_515613": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515613",
+                "cos_code": "CSCS10006",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "數位電路實驗",
+                "cos_credit": "3.00",
+                "cos_hours": "5.00",
+                "TURL": "http://www.cs.nctu.edu.tw/~ldvan/",
+                "teacher": "范倫達",
+                "cos_time": "F34-EC122[GF],Mabc-EC220[GF],Mabc-EC221[GF],Mabc-EC222[GF]",
+                "memo": "[English Medium Course]外系生請於開學上網加選；學士班七大主題學程；資電工程組必修；資工系與電資學士班學生優先選課；Mabc上課教室:EC220+EC221+EC222 ；主開2年級；本系生優先權順序：2年級，4年級，3年級，1年級",
+                "cos_ename": "Digital Circuit Lab.",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLD",
+                "dep_primary": "1",
+                "dep_cname": "資訊工程學系-電機工程跨域學程",
+                "dep_ename": "Department of Computer Science  for Cross-Disciplinary Program in E",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_515618": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515618",
+                "cos_code": "CSCS20019",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "微處理機系統原理與實作",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://www.cs.nctu.edu.tw/~cjtsai",
+                "teacher": "蔡淳仁",
+                "cos_time": "F34-ED102[GF]",
+                "memo": "外系生請於開學上網加選；學士班七大主題學程；資工系與電資學士班學生優先選課；主開3年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]；本系生優先權順序：3年級，4年級，2年級，1年級",
+                "cos_ename": "Microprocessor Systems: Principles andImplementation",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLD",
+                "dep_primary": "1",
+                "dep_cname": "資訊工程學系-電機工程跨域學程",
+                "dep_ename": "Department of Computer Science  for Cross-Disciplinary Program in E",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            }
+        },
+        "costype": {
+            "1121_515500": {
+                "基本素養-量性推理_基本素養-量性推理": {
+                    "course_category_cname": "基本素養-量性推理_基本素養-量性推理",
+                    "course_category_ename": "Foundation-quantitative_FCQR",
+                    "course_category_type": "45",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                },
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                },
+                "通識校基本素養_通識校基本": {
+                    "course_category_cname": "通識校基本素養_通識校基本",
+                    "course_category_ename": "General Education Course: Literacy_GECL",
+                    "course_category_type": "15",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                },
+                "通識跨院基本素養_通識跨院": {
+                    "course_category_cname": "通識跨院基本素養_通識跨院",
+                    "course_category_ename": "General Education Course: Intercollegiate_GECI",
+                    "course_category_type": "16",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                }
+            },
+            "1121_515501": {
+                "基本素養-量性推理_基本素養-量性推理": {
+                    "course_category_cname": "基本素養-量性推理_基本素養-量性推理",
+                    "course_category_ename": "Foundation-quantitative_FCQR",
+                    "course_category_type": "45",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                },
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                },
+                "通識校基本素養_通識校基本": {
+                    "course_category_cname": "通識校基本素養_通識校基本",
+                    "course_category_ename": "General Education Course: Literacy_GECL",
+                    "course_category_type": "15",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                },
+                "通識跨院基本素養_通識跨院": {
+                    "course_category_cname": "通識跨院基本素養_通識跨院",
+                    "course_category_ename": "General Education Course: Intercollegiate_GECI",
+                    "course_category_type": "16",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                }
+            },
+            "1121_515502": {
+                "基本素養-量性推理_基本素養-量性推理": {
+                    "course_category_cname": "基本素養-量性推理_基本素養-量性推理",
+                    "course_category_ename": "Foundation-quantitative_FCQR",
+                    "course_category_type": "45",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                },
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                },
+                "跨校區課程_跨校區課程": {
+                    "course_category_cname": "跨校區課程_跨校區課程",
+                    "course_category_ename": "Cross-Campus Course_Cross-Campus Course",
+                    "course_category_type": "57",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                },
+                "通識校基本素養_通識校基本": {
+                    "course_category_cname": "通識校基本素養_通識校基本",
+                    "course_category_ename": "General Education Course: Literacy_GECL",
+                    "course_category_type": "15",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                },
+                "通識跨院基本素養_通識跨院": {
+                    "course_category_cname": "通識跨院基本素養_通識跨院",
+                    "course_category_ename": "General Education Course: Intercollegiate_GECI",
+                    "course_category_type": "16",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                }
+            },
+            "1121_515503": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515504": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515505": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "工,生,跨",
+                    "GECIEngName": "COE,CBT,CI"
+                },
+                "跨校區課程_跨校區課程": {
+                    "course_category_cname": "跨校區課程_跨校區課程",
+                    "course_category_ename": "Cross-Campus Course_Cross-Campus Course",
+                    "course_category_type": "57",
+                    "GECIName": "工,生,跨",
+                    "GECIEngName": "COE,CBT,CI"
+                },
+                "通識跨院基本素養_通識跨院": {
+                    "course_category_cname": "通識跨院基本素養_通識跨院",
+                    "course_category_ename": "General Education Course: Intercollegiate_GECI",
+                    "course_category_type": "16",
+                    "GECIName": "工,生,跨",
+                    "GECIEngName": "COE,CBT,CI"
+                }
+            },
+            "1121_515506": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "工,生,跨",
+                    "GECIEngName": "COE,CBT,CI"
+                },
+                "通識跨院基本素養_通識跨院": {
+                    "course_category_cname": "通識跨院基本素養_通識跨院",
+                    "course_category_ename": "General Education Course: Intercollegiate_GECI",
+                    "course_category_type": "16",
+                    "GECIName": "工,生,跨",
+                    "GECIEngName": "COE,CBT,CI"
+                }
+            },
+            "1121_515511": {
+                "通識跨院基本素養_通識跨院": {
+                    "course_category_cname": "通識跨院基本素養_通識跨院",
+                    "course_category_ename": "General Education Course: Intercollegiate_GECI",
+                    "course_category_type": "16",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                }
+            },
+            "1121_515512": {
+                "通識跨院基本素養_通識跨院": {
+                    "course_category_cname": "通識跨院基本素養_通識跨院",
+                    "course_category_ename": "General Education Course: Intercollegiate_GECI",
+                    "course_category_type": "16",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                }
+            },
+            "1121_515513": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515514": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515515": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515519": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515600": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515601": {
+                "基礎服務學習_基礎服務學習": {
+                    "course_category_cname": "基礎服務學習_基礎服務學習",
+                    "course_category_ename": "",
+                    "course_category_type": "76",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515609": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515610": {
+                "專題演講_專題演講": {
+                    "course_category_cname": "專題演講_專題演講",
+                    "course_category_ename": "",
+                    "course_category_type": "62",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515611": {
+                "大學專題_大學專題": {
+                    "course_category_cname": "大學專題_大學專題",
+                    "course_category_ename": "",
+                    "course_category_type": "64",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515613": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515618": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_515500": {
+                "A504,A505,Z102": {
+                    "brief_code": "A504,A505,Z102",
+                    "brief": "跨院基本素養(106),校基本素養(106),基本素養-量性推理(110)"
+                }
+            },
+            "1121_515501": {
+                "A504,A505,Z102": {
+                    "brief_code": "A504,A505,Z102",
+                    "brief": "跨院基本素養(106),校基本素養(106),基本素養-量性推理(110)"
+                }
+            },
+            "1121_515502": {
+                "A504,A505,Z102": {
+                    "brief_code": "A504,A505,Z102",
+                    "brief": "跨院基本素養(106),校基本素養(106),基本素養-量性推理(110)"
+                }
+            },
+            "1121_515503": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515504": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515505": {
+                "A504": {
+                    "brief_code": "A504",
+                    "brief": "跨院基本素養(106)"
+                }
+            },
+            "1121_515506": {
+                "A504": {
+                    "brief_code": "A504",
+                    "brief": "跨院基本素養(106)"
+                }
+            },
+            "1121_515511": {
+                "A504": {
+                    "brief_code": "A504",
+                    "brief": "跨院基本素養(106)"
+                }
+            },
+            "1121_515512": {
+                "A504": {
+                    "brief_code": "A504",
+                    "brief": "跨院基本素養(106)"
+                }
+            },
+            "1121_515513": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515514": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515515": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515519": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515600": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515601": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515609": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515610": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515611": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515613": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515618": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_515500": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515501": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515502": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_515503": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515504": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_515505": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_515506": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515511": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515512": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_515513": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515514": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_515515": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515519": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515600": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515601": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515609": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515610": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515611": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_515613": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_515618": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    }
+}

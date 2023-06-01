@@ -1,0 +1,804 @@
+{
+    "06E27328-FEDE-484C-87CC-94A7144CC6D3": {
+        "dep_id": "06E27328-FEDE-484C-87CC-94A7144CC6D3",
+        "dep_cname": "生醫光電研究所",
+        "dep_ename": "Institute of Biophotonics",
+        "2": {
+            "1121_132600": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132600",
+                "cos_code": "BEBP30006",
+                "num_limit": "70",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "光電工程導論",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "賈世璿、吳育德、高甫仁、郭文娟",
+                "cos_time": "TabRab-YK533[YM]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Introduction to Photonics Engineering",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "264",
+                "dep_primary": "2",
+                "dep_cname": "生醫光電研究所",
+                "dep_ename": "Institute of Biophotonics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132601": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132601",
+                "cos_code": "BEBN20010",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "專題討論",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳奕帆、吳育德、高甫仁、薛特、郭文娟、陳浩夫、賈世璿、饒啟文",
+                "cos_time": "M56-YK208[YM]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Seminar",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "264",
+                "dep_primary": "2",
+                "dep_cname": "生醫光電研究所",
+                "dep_ename": "Institute of Biophotonics",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "33",
+                "depType": "D"
+            },
+            "1121_132602": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132602",
+                "cos_code": "BEBN20020",
+                "num_limit": "30",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "應用光學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "高甫仁",
+                "cos_time": "T34W8-YK436[YM]",
+                "memo": "[English Medium Course]如有外籍生選修則英語授課 開放隨班附讀。Teach in English and Chinese",
+                "cos_ename": "Applied Optics",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "264",
+                "dep_primary": "2",
+                "dep_cname": "生醫光電研究所",
+                "dep_ename": "Institute of Biophotonics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132603": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132603",
+                "cos_code": "BEBP20001",
+                "num_limit": "25",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "機器學習基礎數學：機率與最佳化方法",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "吳育德",
+                "cos_time": "R78-YL404[YM]",
+                "memo": "",
+                "cos_ename": "Mathematics in machine learning:probability and optimization methods",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "264",
+                "dep_primary": "2",
+                "dep_cname": "生醫光電研究所",
+                "dep_ename": "Institute of Biophotonics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132604": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132604",
+                "cos_code": "BEBP30040",
+                "num_limit": "30",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生物微感測器之分析原理",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "鄭郅言、魏培坤",
+                "cos_time": "M34-YK436[YM]",
+                "memo": "",
+                "cos_ename": "Bioanalytical chemistry in Microbiosensors",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "264",
+                "dep_primary": "2",
+                "dep_cname": "生醫光電研究所",
+                "dep_ename": "Institute of Biophotonics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132606": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132606",
+                "cos_code": "BEBN20031",
+                "num_limit": "15",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "科學論文寫作",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "薛特",
+                "cos_time": "T567-YK602-A1[Y",
+                "memo": "全英語授課，限制15名，博班生優先。限已有實驗數據同學選修。Teach in English, maximum 15 persons.[English Medium Course]",
+                "cos_ename": "Scientific writing",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "264",
+                "dep_primary": "2",
+                "dep_cname": "生醫光電研究所",
+                "dep_ename": "Institute of Biophotonics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132607": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132607",
+                "cos_code": "BEBP30015",
+                "num_limit": "30",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "工程數學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "陳浩夫",
+                "cos_time": "F9ab-YK436[YM]",
+                "memo": "如有外籍生選修則英語授課，開放隨班附讀[English Medium Course]",
+                "cos_ename": "Engineering Mathematics",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "264",
+                "dep_primary": "2",
+                "dep_cname": "生醫光電研究所",
+                "dep_ename": "Institute of Biophotonics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132608": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132608",
+                "cos_code": "BEBP30036",
+                "num_limit": "25",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "醫用電子學應用導論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "饒啟文",
+                "cos_time": "W567-YL404[YM]",
+                "memo": "",
+                "cos_ename": "Introduction to Medical Electronics Applications",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "264",
+                "dep_primary": "2",
+                "dep_cname": "生醫光電研究所",
+                "dep_ename": "Institute of Biophotonics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132609": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132609",
+                "cos_code": "BEBP30009",
+                "num_limit": "40",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "分子細胞生物學概論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://wd.vghtpe.gov.tw/mre/Fpage.action?muid=3044&fid=2125",
+                "teacher": "楊德明、兵岳忻",
+                "cos_time": "R234-YL403[YM]",
+                "memo": "全英語授課課程，開放隨班附讀。Teach in English and Chinese[English Medium Course]",
+                "cos_ename": "Introduction to Molecular Cell Biology",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "264",
+                "dep_primary": "2",
+                "dep_cname": "生醫光電研究所",
+                "dep_ename": "Institute of Biophotonics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132610": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132610",
+                "cos_code": "BEBP30001",
+                "num_limit": "20",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "LabVIEW程式設計與應用",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "陳奕帆",
+                "cos_time": "F234-YL403[YM]",
+                "memo": "開放隨班附讀",
+                "cos_ename": "LabVIEW Programming and Applications",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "264",
+                "dep_primary": "2",
+                "dep_cname": "生醫光電研究所",
+                "dep_ename": "Institute of Biophotonics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132611": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132611",
+                "cos_code": "BEBP30004",
+                "num_limit": "70",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "光學細胞顯微科技",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "李超煌",
+                "cos_time": "F567-YK533[YM]",
+                "memo": "如有外籍生選修則英語授課。Teach in English and Chinese[English Medium Course]",
+                "cos_ename": "Optical Microscopy for Living Cells",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "264",
+                "dep_primary": "2",
+                "dep_cname": "生醫光電研究所",
+                "dep_ename": "Institute of Biophotonics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132612": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132612",
+                "cos_code": "BEBP30041",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "先進螢光與多光子顯微技術",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "Hans Georg Breunig",
+                "cos_time": "Wa-YK602-A1[Y",
+                "memo": "上課時間與地點另行通知。English online course[English Medium Course]",
+                "cos_ename": "Advanced fluorescence and multiphoton microscopy techniques",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "264",
+                "dep_primary": "2",
+                "dep_cname": "生醫光電研究所",
+                "dep_ename": "Institute of Biophotonics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132613": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132613",
+                "cos_code": "BEBN20023",
+                "num_limit": "25",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "機器學習與生醫應用",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "吳育德",
+                "cos_time": "M789-YL403[YM]",
+                "memo": "需修過微積分",
+                "cos_ename": "Machine learning and biomedical application",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "264",
+                "dep_primary": "2",
+                "dep_cname": "生醫光電研究所",
+                "dep_ename": "Institute of Biophotonics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132614": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132614",
+                "cos_code": "BEBP30028",
+                "num_limit": "30",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生醫斷層影像原理與應用",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "郭文娟",
+                "cos_time": "W34R5-YK436[YM]",
+                "memo": "如有外籍生選修則英語授課。Teach in English and Chinese[English Medium Course]",
+                "cos_ename": "Principle and applications of biomedical tomography",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "264",
+                "dep_primary": "2",
+                "dep_cname": "生醫光電研究所",
+                "dep_ename": "Institute of Biophotonics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132615": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132615",
+                "cos_code": "BEBP30042",
+                "num_limit": "24",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "跨領域科學實驗",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "賈世璿",
+                "cos_time": "",
+                "memo": "[English Medium Course]建議修過光電工程導論為佳，上課時間地點另行公告。",
+                "cos_ename": "Interdisciplinary Scientific Experiments",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "264",
+                "dep_primary": "2",
+                "dep_cname": "生醫光電研究所",
+                "dep_ename": "Institute of Biophotonics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132616": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132616",
+                "cos_code": "BEBP30045",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "癌症生物學及腫瘤模型工程",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "待聘",
+                "cos_time": "T567-YK436[YM]",
+                "memo": "由新進教師蘇佳沂助理教授開課",
+                "cos_ename": "Cancer Biology and Tumor Model Engineering",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "264",
+                "dep_primary": "2",
+                "dep_cname": "生醫光電研究所",
+                "dep_ename": "Institute of Biophotonics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_140306": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "140306",
+                "cos_code": "MDCM30019",
+                "num_limit": "25",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "幹細胞生物學特論",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "李光申、何慧君、楊智宇",
+                "cos_time": "M34-YL404[YM]",
+                "memo": "",
+                "cos_ename": "Advanced Stem Cell Biology",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "264",
+                "dep_primary": "2",
+                "dep_cname": "生醫光電研究所",
+                "dep_ename": "Institute of Biophotonics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            }
+        },
+        "costype": {
+            "1121_132600": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132601": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132602": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132603": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132604": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132606": {
+                "OCW_OCW": {
+                    "course_category_cname": "OCW_OCW",
+                    "course_category_ename": "OCW_OCW",
+                    "course_category_type": "28",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132607": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132608": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132609": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132610": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132611": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132612": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132613": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132614": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132615": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132616": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_140306": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_132600": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132601": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132602": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132603": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132604": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132606": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132607": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132608": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132609": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132610": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132611": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132612": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132613": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132614": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132615": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132616": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_140306": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_132600": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_132601": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_132602": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_132603": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132604": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132606": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_132607": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_132608": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132609": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_132610": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132611": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_132612": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_132613": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132614": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_132615": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_132616": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_140306": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    }
+}

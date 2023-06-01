@@ -1,0 +1,1073 @@
+{
+    "49552B82-2C24-4355-AA37-2E503351C46B": {
+        "dep_id": "49552B82-2C24-4355-AA37-2E503351C46B",
+        "dep_cname": "微積分教學小組",
+        "dep_ename": "Calculus section",
+        "1": {
+            "1121_564000": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "564000",
+                "cos_code": "GECS10001",
+                "num_limit": "120",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "微積分甲(一)",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "王夏聲",
+                "cos_time": "T34F56-SA321[GF]",
+                "memo": "",
+                "cos_ename": "Calculus A (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUE",
+                "dep_primary": "1",
+                "dep_cname": "微積分教學小組",
+                "dep_ename": "Calculus section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_564001": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "564001",
+                "cos_code": "GECS10001",
+                "num_limit": "90",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "微積分甲(一)",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "千野由喜",
+                "cos_time": "T34F56-SC106[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Calculus A (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUE",
+                "dep_primary": "1",
+                "dep_cname": "微積分教學小組",
+                "dep_ename": "Calculus section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_564002": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "564002",
+                "cos_code": "GECS10001",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "微積分甲(一)",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "王國仲",
+                "cos_time": "T34F56-SC105[GF]",
+                "memo": "",
+                "cos_ename": "Calculus A (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUE",
+                "dep_primary": "1",
+                "dep_cname": "微積分教學小組",
+                "dep_ename": "Calculus section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_564003": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "564003",
+                "cos_code": "GECS10001",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "微積分甲(一)",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "http://jupiter.math.nctu.edu.tw/~smchang/",
+                "teacher": "張書銘",
+                "cos_time": "T34F56-SC201[GF]",
+                "memo": "",
+                "cos_ename": "Calculus A (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUE",
+                "dep_primary": "1",
+                "dep_cname": "微積分教學小組",
+                "dep_ename": "Calculus section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_564004": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "564004",
+                "cos_code": "GECS10001",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "微積分甲(一)",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "石至文",
+                "cos_time": "T34F56-SC206[GF]",
+                "memo": "",
+                "cos_ename": "Calculus A (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUE",
+                "dep_primary": "1",
+                "dep_cname": "微積分教學小組",
+                "dep_ename": "Calculus section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_564005": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "564005",
+                "cos_code": "GECS10001",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "微積分甲(一)",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "http://jupiter.math.nctu.edu.tw/~gychen/",
+                "teacher": "陳冠宇",
+                "cos_time": "T34F56-SC204[GF]",
+                "memo": "",
+                "cos_ename": "Calculus A (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUE",
+                "dep_primary": "1",
+                "dep_cname": "微積分教學小組",
+                "dep_ename": "Calculus section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_564006": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "564006",
+                "cos_code": "GECS10001",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "微積分甲(一)",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "薛名成",
+                "cos_time": "T34F56-SC110[GF]",
+                "memo": "",
+                "cos_ename": "Calculus A (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUE",
+                "dep_primary": "1",
+                "dep_cname": "微積分教學小組",
+                "dep_ename": "Calculus section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_564007": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "564007",
+                "cos_code": "GECS10001",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "微積分甲(一)",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "余啟哲",
+                "cos_time": "T34F56-SA320[GF]",
+                "memo": "",
+                "cos_ename": "Calculus A (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUE",
+                "dep_primary": "1",
+                "dep_cname": "微積分教學小組",
+                "dep_ename": "Calculus section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_564008": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "564008",
+                "cos_code": "GECS10001",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "微積分甲(一)",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "葉立明",
+                "cos_time": "T34F56-SC151[GF]",
+                "memo": "",
+                "cos_ename": "Calculus A (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUE",
+                "dep_primary": "1",
+                "dep_cname": "微積分教學小組",
+                "dep_ename": "Calculus section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_564009": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "564009",
+                "cos_code": "GECS10001",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "微積分甲(一)",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "http://math.cts.nthu.edu.tw/~ctw",
+                "teacher": "吳金典",
+                "cos_time": "T34F56-SC109[GF]",
+                "memo": "",
+                "cos_ename": "Calculus A (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUE",
+                "dep_primary": "1",
+                "dep_cname": "微積分教學小組",
+                "dep_ename": "Calculus section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_564010": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "564010",
+                "cos_code": "GECS10001",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "微積分甲(一)",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "楊春美",
+                "cos_time": "T34F56-EE208[GF]",
+                "memo": "",
+                "cos_ename": "Calculus A (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUE",
+                "dep_primary": "1",
+                "dep_cname": "微積分教學小組",
+                "dep_ename": "Calculus section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_564011": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "564011",
+                "cos_code": "GECS10001",
+                "num_limit": "120",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "微積分甲(一)",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "王夏聲",
+                "cos_time": "M78R34-SA321[GF]",
+                "memo": "",
+                "cos_ename": "Calculus A (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUE",
+                "dep_primary": "1",
+                "dep_cname": "微積分教學小組",
+                "dep_ename": "Calculus section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_564012": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "564012",
+                "cos_code": "GECS10001",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "微積分甲(一)",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "科特林",
+                "cos_time": "M78R34-SC106[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Calculus A (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUE",
+                "dep_primary": "1",
+                "dep_cname": "微積分教學小組",
+                "dep_ename": "Calculus section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_564013": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "564013",
+                "cos_code": "GECS10001",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "微積分甲(一)",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "http://jupiter.math.nctu.edu.tw/~smchang/",
+                "teacher": "張書銘",
+                "cos_time": "M78R34-SC201[GF]",
+                "memo": "",
+                "cos_ename": "Calculus A (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUE",
+                "dep_primary": "1",
+                "dep_cname": "微積分教學小組",
+                "dep_ename": "Calculus section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_564014": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "564014",
+                "cos_code": "GECS10001",
+                "num_limit": "55",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "微積分甲(一)",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "莊重",
+                "cos_time": "M78R34-SC207[GF]",
+                "memo": "(翻轉課程)",
+                "cos_ename": "Calculus A (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUE",
+                "dep_primary": "1",
+                "dep_cname": "微積分教學小組",
+                "dep_ename": "Calculus section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_564015": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "564015",
+                "cos_code": "GECS10001",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "微積分甲(一)",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "陳子軒",
+                "cos_time": "M78R34-SC110[GF]",
+                "memo": "",
+                "cos_ename": "Calculus A (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUE",
+                "dep_primary": "1",
+                "dep_cname": "微積分教學小組",
+                "dep_ename": "Calculus section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_564016": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "564016",
+                "cos_code": "GECS10001",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "微積分甲(一)",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "https://sites.google.com/site/homepagechanghongwu/",
+                "teacher": "吳昌鴻",
+                "cos_time": "M78R34-SC204[GF]",
+                "memo": "",
+                "cos_ename": "Calculus A (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUE",
+                "dep_primary": "1",
+                "dep_cname": "微積分教學小組",
+                "dep_ename": "Calculus section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_564017": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "564017",
+                "cos_code": "GECS10001",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "微積分甲(一)",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "余啟哲",
+                "cos_time": "M78R34-SC206[GF]",
+                "memo": "",
+                "cos_ename": "Calculus A (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUE",
+                "dep_primary": "1",
+                "dep_cname": "微積分教學小組",
+                "dep_ename": "Calculus section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_564018": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "564018",
+                "cos_code": "GECS10001",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "微積分甲(一)",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "林武雄",
+                "cos_time": "M78R34-SC152[GF]",
+                "memo": "(台中一中)(奈米學士班-半導體組)",
+                "cos_ename": "Calculus A (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUE",
+                "dep_primary": "1",
+                "dep_cname": "微積分教學小組",
+                "dep_ename": "Calculus section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_564019": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "564019",
+                "cos_code": "GECS10001",
+                "num_limit": "71",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "微積分甲(一)",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "楊春美",
+                "cos_time": "M78R34-SC105[GF]",
+                "memo": "",
+                "cos_ename": "Calculus A (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUE",
+                "dep_primary": "1",
+                "dep_cname": "微積分教學小組",
+                "dep_ename": "Calculus section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_564020": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "564020",
+                "cos_code": "GECS10002",
+                "num_limit": "100",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "微積分甲(二)",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "余啟哲",
+                "cos_time": "Mab-SA321[GF]",
+                "memo": "(全網路課程，但仍需到教室參與面授與實體考試)\n(重修班，高年級優先)",
+                "cos_ename": "Calculus A (II)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUE",
+                "dep_primary": "1",
+                "dep_cname": "微積分教學小組",
+                "dep_ename": "Calculus section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_564021": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "564021",
+                "cos_code": "GECS10003",
+                "num_limit": "70",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "微積分乙(一)",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "http://www.stat.nctu.edu.tw/people/bio.php?PID=12",
+                "teacher": "洪慧念",
+                "cos_time": "T34F56-A306[GF],T34F56-SC157[GF]",
+                "memo": "(限管科系與資財系財金組)",
+                "cos_ename": "Calculus B (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUE",
+                "dep_primary": "1",
+                "dep_cname": "微積分教學小組",
+                "dep_ename": "Calculus section",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_564022": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "564022",
+                "cos_code": "GECS10005",
+                "num_limit": "40",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "微積分學而班理論組(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "王國仲",
+                "cos_time": "Fn-SA214[GF]",
+                "memo": "",
+                "cos_ename": "Honor Calculus Problem Solving Session (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUE",
+                "dep_primary": "1",
+                "dep_cname": "微積分教學小組",
+                "dep_ename": "Calculus section",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            }
+        },
+        "costype": {
+            "1121_564000": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_564001": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_564002": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_564003": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_564004": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_564005": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_564006": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_564007": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_564008": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_564009": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_564010": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_564011": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_564012": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_564013": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_564014": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_564015": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_564016": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_564017": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_564018": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_564019": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_564020": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_564021": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_564022": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_564000": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_564001": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_564002": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_564003": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_564004": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_564005": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_564006": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_564007": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_564008": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_564009": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_564010": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_564011": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_564012": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_564013": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_564014": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_564015": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_564016": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_564017": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_564018": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_564019": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_564020": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_564021": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_564022": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_564000": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_564001": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_564002": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_564003": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_564004": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_564005": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_564006": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_564007": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_564008": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_564009": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_564010": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_564011": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_564012": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_564013": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_564014": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_564015": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_564016": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_564017": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_564018": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_564019": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_564020": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_564021": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_564022": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    }
+}

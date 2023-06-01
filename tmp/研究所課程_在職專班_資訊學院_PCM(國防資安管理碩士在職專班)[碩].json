@@ -1,0 +1,199 @@
+{
+    "A7F33BE7-09B8-471D-B037-7366CD48C1E2": {
+        "dep_id": "A7F33BE7-09B8-471D-B037-7366CD48C1E2",
+        "dep_cname": "國防資安管理碩士在職專班",
+        "dep_ename": "Degree Program of Cybersecurity Management\r\n",
+        "1": {
+            "1121_555600": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "555600",
+                "cos_code": "CSCM30006",
+                "num_limit": "60",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "無線多媒體網路",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "趙禧綠",
+                "cos_time": "Rabc-TA506[BM]",
+                "memo": "限資訊學院國防資安管理碩士在職專班學生選修。",
+                "cos_ename": "Wireless Multimedia Networks",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "558",
+                "dep_primary": "1",
+                "dep_cname": "國防資安管理碩士在職專班",
+                "dep_ename": "Degree Program of Cybersecurity Management\r\n",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_555601": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "555601",
+                "cos_code": "CSCM30013",
+                "num_limit": "30",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "電腦安全概論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "李奇育",
+                "cos_time": "Mabc-TB435[BM]",
+                "memo": "限資訊學院國防資安管理碩士在職專班學生選修。",
+                "cos_ename": "Computer Security",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "558",
+                "dep_primary": "1",
+                "dep_cname": "國防資安管理碩士在職專班",
+                "dep_ename": "Degree Program of Cybersecurity Management\r\n",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_555602": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "555602",
+                "cos_code": "CSCM30004",
+                "num_limit": "60",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "專題研討",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "http://www.cs.nctu.edu.tw/~lhyen",
+                "teacher": "嚴力行",
+                "cos_time": "S34-TA506[BM]",
+                "memo": "詳細上課時間請留意課程平台公告；限資訊學院國防資安管理碩士在職專班學生選修。",
+                "cos_ename": "Seminar on Cybersecurity Management",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "558",
+                "dep_primary": "1",
+                "dep_cname": "國防資安管理碩士在職專班",
+                "dep_ename": "Degree Program of Cybersecurity Management\r\n",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_555603": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "555603",
+                "cos_code": "CSCM30009",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "論文研究",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "國防資安專班",
+                "cos_time": "",
+                "memo": "限本專班同學選修；已有指導教授者才可選修，若尚未繳交過指導教授協議書，最遲開學後兩週內交至專班辦公室。",
+                "cos_ename": "Thesis Research",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "558",
+                "dep_primary": "1",
+                "dep_cname": "國防資安管理碩士在職專班",
+                "dep_ename": "Degree Program of Cybersecurity Management\r\n",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "J"
+            }
+        },
+        "costype": {
+            "1121_555600": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_555601": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_555602": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_555603": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_555600": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_555601": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_555602": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_555603": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_555600": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_555601": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_555602": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_555603": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    }
+}

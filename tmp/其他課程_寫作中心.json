@@ -1,0 +1,305 @@
+{
+    "2ED22A78-1B95-48B0-B4F0-E9A400786E1E": {
+        "dep_id": "2ED22A78-1B95-48B0-B4F0-E9A400786E1E",
+        "dep_cname": "寫作中心",
+        "dep_ename": "Academic Writing Center",
+        "1": {
+            "1121_530000": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "530000",
+                "cos_code": "GELT30003",
+                "num_limit": "20",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "研究生英文:句法與段落寫作",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "吳思葦",
+                "cos_time": "M34-",
+                "memo": "此課程僅供研究生選修，不列入畢業學分。純線上同步遠距課程 (請向教師索取線上連結)",
+                "cos_ename": "Graduate English: Sentence Patterns and Paragraph Writing",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "OU5",
+                "dep_primary": "1",
+                "dep_cname": "寫作中心",
+                "dep_ename": "Academic Writing Center",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_530001": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "530001",
+                "cos_code": "GELT30001",
+                "num_limit": "20",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "研究生英文:研究論文寫作",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "張靜芬",
+                "cos_time": "T34-A504[GF]",
+                "memo": "此課程僅供研究生選修，不列入畢業學分。",
+                "cos_ename": "Graduate English: Research Paper Writing",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "OU5",
+                "dep_primary": "1",
+                "dep_cname": "寫作中心",
+                "dep_ename": "Academic Writing Center",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_530002": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "530002",
+                "cos_code": "GELT30001",
+                "num_limit": "20",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "研究生英文:研究論文寫作",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "林淑敏",
+                "cos_time": "T56-A504[GF]",
+                "memo": "此課程僅供研究生選修，不列入畢業學分。",
+                "cos_ename": "Graduate English: Research Paper Writing",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "OU5",
+                "dep_primary": "1",
+                "dep_cname": "寫作中心",
+                "dep_ename": "Academic Writing Center",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_530003": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "530003",
+                "cos_code": "GELT30001",
+                "num_limit": "20",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "研究生英文:研究論文寫作",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "張月菁",
+                "cos_time": "R34-",
+                "memo": "此課程僅供研究生選修，不列入畢業學分。純線上同步遠距課程 (請向教師索取線上連結)",
+                "cos_ename": "Graduate English: Research Paper Writing",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "OU5",
+                "dep_primary": "1",
+                "dep_cname": "寫作中心",
+                "dep_ename": "Academic Writing Center",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_530004": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "530004",
+                "cos_code": "GELT30001",
+                "num_limit": "20",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "研究生英文:研究論文寫作",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "葉修文",
+                "cos_time": "F56-A505[GF]",
+                "memo": "此課程僅供研究生選修，不列入畢業學分。",
+                "cos_ename": "Graduate English: Research Paper Writing",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "OU5",
+                "dep_primary": "1",
+                "dep_cname": "寫作中心",
+                "dep_ename": "Academic Writing Center",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_530005": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "530005",
+                "cos_code": "GELT30002",
+                "num_limit": "20",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "研究生英文:口語討論與發表",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "秦毓婷",
+                "cos_time": "W56-A506[GF]",
+                "memo": "此課程僅供研究生選修，不列入畢業學分。",
+                "cos_ename": "Graduate English: Oral Presentation and Discussion",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "OU5",
+                "dep_primary": "1",
+                "dep_cname": "寫作中心",
+                "dep_ename": "Academic Writing Center",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            }
+        },
+        "costype": {
+            "1121_530000": {
+                "跨校區課程_跨校區課程": {
+                    "course_category_cname": "跨校區課程_跨校區課程",
+                    "course_category_ename": "Cross-Campus Course_Cross-Campus Course",
+                    "course_category_type": "57",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "遠距課程_遠距": {
+                    "course_category_cname": "遠距課程_遠距",
+                    "course_category_ename": "Distance  Learning Courses_DL",
+                    "course_category_type": "4",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_530001": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_530002": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_530003": {
+                "跨校區課程_跨校區課程": {
+                    "course_category_cname": "跨校區課程_跨校區課程",
+                    "course_category_ename": "Cross-Campus Course_Cross-Campus Course",
+                    "course_category_type": "57",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "遠距課程_遠距": {
+                    "course_category_cname": "遠距課程_遠距",
+                    "course_category_ename": "Distance  Learning Courses_DL",
+                    "course_category_type": "4",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_530004": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_530005": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_530000": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_530001": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_530002": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_530003": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_530004": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_530005": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_530000": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_530001": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_530002": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_530003": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_530004": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_530005": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    }
+}

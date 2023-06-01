@@ -1,0 +1,128 @@
+{
+    "EDC2AE3B-55E0-40CB-8DA1-BAF46ABAAA7C": {
+        "dep_id": "EDC2AE3B-55E0-40CB-8DA1-BAF46ABAAA7C",
+        "dep_cname": "教學發展中心",
+        "dep_ename": "Center of Teaching and Learning Development",
+        "1": {
+            "1121_576000": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "576000",
+                "cos_code": "AATL10011",
+                "num_limit": "30",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "英國文化史",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "蕭智尹",
+                "cos_time": "R34n-",
+                "memo": "",
+                "cos_ename": "Perspectives in British History and Culture",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUH",
+                "dep_primary": "1",
+                "dep_cname": "教學發展中心",
+                "dep_ename": "Center of Teaching and Learning Development",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            },
+            "1121_576001": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "576001",
+                "cos_code": "AATL00003",
+                "num_limit": "30",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "西洋藝術史觀點",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "蕭智尹",
+                "cos_time": "W34n-A103[GF]",
+                "memo": "",
+                "cos_ename": "Perspectives in Western Art History",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUH",
+                "dep_primary": "1",
+                "dep_cname": "教學發展中心",
+                "dep_ename": "Center of Teaching and Learning Development",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "O"
+            }
+        },
+        "costype": {
+            "1121_576000": {
+                "通識校基本素養_通識校基本": {
+                    "course_category_cname": "通識校基本素養_通識校基本",
+                    "course_category_ename": "General Education Course: Literacy_GECL",
+                    "course_category_type": "15",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "領域課程-個人、社會與文化_領域課程-個人、社會與文化": {
+                    "course_category_cname": "領域課程-個人、社會與文化_領域課程-個人、社會與文化",
+                    "course_category_ename": "Distribution-socioculture_DASC",
+                    "course_category_type": "49",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_576001": {
+                "核心通識-藝術與文化_核心通識-藝術與文化": {
+                    "course_category_cname": "核心通識-藝術與文化_核心通識-藝術與文化",
+                    "course_category_ename": "Art and Cultures_Art and Cultures",
+                    "course_category_type": "36",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "通識校基本素養_通識校基本": {
+                    "course_category_cname": "通識校基本素養_通識校基本",
+                    "course_category_ename": "General Education Course: Literacy_GECL",
+                    "course_category_type": "15",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "領域課程-人文與美學_領域課程-人文與美學": {
+                    "course_category_cname": "領域課程-人文與美學_領域課程-人文與美學",
+                    "course_category_ename": "Distribution-humanity_DAHA",
+                    "course_category_type": "48",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_576000": {
+                "A505,Z106": {
+                    "brief_code": "A505,Z106",
+                    "brief": "校基本素養(106),領域課程-個人、社會與文化(110)"
+                }
+            },
+            "1121_576001": {
+                "A505,A908,Z105": {
+                    "brief_code": "A505,A908,Z105",
+                    "brief": "校基本素養(106),核心通識-藝術與文化(90),領域課程-人文與美學(110)"
+                }
+            }
+        },
+        "language": {
+            "1121_576000": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_576001": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    }
+}

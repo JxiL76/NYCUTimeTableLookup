@@ -1,0 +1,429 @@
+{
+    "10DA5B9D-2D5C-4CCF-9204-236CBEBE340B": {
+        "dep_id": "10DA5B9D-2D5C-4CCF-9204-236CBEBE340B",
+        "dep_cname": "運輸與物流管理學系跨域學程(B)外系學生",
+        "dep_ename": "Dep. of Transportation and Logistics Management for Cross-Disciplin",
+        "1": {
+            "1121_517200": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "517200",
+                "cos_code": "MGTM10010",
+                "num_limit": "65",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "運輸學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "吳宗修",
+                "cos_time": "M234-A901[GF]",
+                "memo": "",
+                "cos_ename": "Transportation",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKP",
+                "dep_primary": "1",
+                "dep_cname": "運輸與物流管理學系跨域學程(B)外系學生",
+                "dep_ename": "Dep. of Transportation and Logistics Management for Cross-Disciplin",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_517203": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "517203",
+                "cos_code": "MGTM10011",
+                "num_limit": "65",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "運輸工程",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "林陳佑",
+                "cos_time": "T567-A901[GF]",
+                "memo": "",
+                "cos_ename": "Transportation Engineering",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKP",
+                "dep_primary": "1",
+                "dep_cname": "運輸與物流管理學系跨域學程(B)外系學生",
+                "dep_ename": "Dep. of Transportation and Logistics Management for Cross-Disciplin",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "53",
+                "depType": "Q"
+            },
+            "1121_517208": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "517208",
+                "cos_code": "MGTM20007",
+                "num_limit": "50",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "採購與作業物流",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "姚銘忠",
+                "cos_time": "R234-A905[GF]",
+                "memo": "",
+                "cos_ename": "Procurement and Operations Logistics",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKP",
+                "dep_primary": "1",
+                "dep_cname": "運輸與物流管理學系跨域學程(B)外系學生",
+                "dep_ename": "Dep. of Transportation and Logistics Management for Cross-Disciplin",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_517209": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "517209",
+                "cos_code": "MGTM20011",
+                "num_limit": "30",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "運輸與配送管理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "張宗勝",
+                "cos_time": "W234-A904[GF]",
+                "memo": "大三優先選課",
+                "cos_ename": "Transportation and Distributiion Management",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKP",
+                "dep_primary": "1",
+                "dep_cname": "運輸與物流管理學系跨域學程(B)外系學生",
+                "dep_ename": "Dep. of Transportation and Logistics Management for Cross-Disciplin",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_517210": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "517210",
+                "cos_code": "MGTM20004",
+                "num_limit": "50",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "國際物流管理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "呂錦山",
+                "cos_time": "R567-A905[GF]",
+                "memo": "[English Medium Course]英文授課",
+                "cos_ename": "Internation Logistics Management",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKP",
+                "dep_primary": "1",
+                "dep_cname": "運輸與物流管理學系跨域學程(B)外系學生",
+                "dep_ename": "Dep. of Transportation and Logistics Management for Cross-Disciplin",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_517211": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "517211",
+                "cos_code": "MGTM20013",
+                "num_limit": "50",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "運輸經濟",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "鍾易詩",
+                "cos_time": "M89a-A905[GF]",
+                "memo": "",
+                "cos_ename": "Transportation Economics",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKP",
+                "dep_primary": "1",
+                "dep_cname": "運輸與物流管理學系跨域學程(B)外系學生",
+                "dep_ename": "Dep. of Transportation and Logistics Management for Cross-Disciplin",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_517212": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "517212",
+                "cos_code": "MGTM10002",
+                "num_limit": "55",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "公共運輸",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "閻姿慧",
+                "cos_time": "M567-A905[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Public Transportation",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKP",
+                "dep_primary": "1",
+                "dep_cname": "運輸與物流管理學系跨域學程(B)外系學生",
+                "dep_ename": "Dep. of Transportation and Logistics Management for Cross-Disciplin",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_517215": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "517215",
+                "cos_code": "MGTM10004",
+                "num_limit": "50",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "智慧型運輸系統概論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "王晉元",
+                "cos_time": "R234-A901[GF]",
+                "memo": "運管系同學優先選課",
+                "cos_ename": "Introduction of ITS",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKP",
+                "dep_primary": "1",
+                "dep_cname": "運輸與物流管理學系跨域學程(B)外系學生",
+                "dep_ename": "Dep. of Transportation and Logistics Management for Cross-Disciplin",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_517216": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "517216",
+                "cos_code": "MGCM10006",
+                "num_limit": "70",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "物流運籌管理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "黃寬丞",
+                "cos_time": "W234-A901[GF]",
+                "memo": "管院管理基礎課程；主開大二運管系，輔開管理學院、工管系、資財系。大二運管系必修。工管系學生需自下列五門課(財務管理、行銷學、人力資源管理、管理資訊系統、物流運籌管理)任選一門為必修。管院學生優先選課。",
+                "cos_ename": "Logistics Management",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKP",
+                "dep_primary": "1",
+                "dep_cname": "運輸與物流管理學系跨域學程(B)外系學生",
+                "dep_ename": "Dep. of Transportation and Logistics Management for Cross-Disciplin",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "53",
+                "depType": "Q"
+            }
+        },
+        "costype": {
+            "1121_517200": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_517203": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_517208": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_517209": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_517210": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_517211": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_517212": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_517215": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_517216": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_517200": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_517203": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_517208": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_517209": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_517210": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_517211": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_517212": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_517215": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_517216": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_517200": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_517203": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_517208": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_517209": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_517210": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_517211": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_517212": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_517215": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_517216": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    }
+}

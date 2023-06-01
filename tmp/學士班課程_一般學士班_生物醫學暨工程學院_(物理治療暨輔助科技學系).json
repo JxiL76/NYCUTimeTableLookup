@@ -1,0 +1,3725 @@
+{
+    "FEE44E15-05FE-4B3E-A39F-0FB032FA5D1F": {
+        "dep_id": "FEE44E15-05FE-4B3E-A39F-0FB032FA5D1F",
+        "dep_cname": "物理治療暨輔助科技學系",
+        "dep_ename": " Department of Physical Therapy and Assistive Technology",
+        "2": {
+            "1121_111500": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111500",
+                "cos_code": "DEDE10024",
+                "num_limit": "100",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "普通生物學(上)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳俊銘、羅清維、翁芬華、李曉暉、袁維謙、呂璦竹、吳如蕙",
+                "cos_time": "F34-AB102[GF],F34-YK208[YM]",
+                "memo": "牙醫一、物輔一、藥學一合班上課，他系同學選修須經授課教師同意。\n\n陽明校區：傳甲208演講廳；實體上課\n交大校區：綜合一館B102；遠距上課",
+                "cos_ename": "General Biology I",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "2",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112501": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112501",
+                "cos_code": "LSLS10001",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "化學原理(一)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "許世宜",
+                "cos_time": "T56-YB100[YM]",
+                "memo": "生一、不分系一、物治系合班上課。不分系任選必修，三門課至少選二門",
+                "cos_ename": "Principles of Chemistry(1)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "2",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112800": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112800",
+                "cos_code": "MDDB10016",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "解剖學實驗",
+                "cos_credit": "3.00",
+                "cos_hours": "6.00",
+                "TURL": "",
+                "teacher": "李學德、傅毓秀、葉添順、鄭瓊娟、王先逸、蔡佩君、郭曉縈、侯珮珊、蔣偉程",
+                "cos_time": "M89F1234-YEC109[YM]",
+                "memo": "限必修生及醫技系學生。",
+                "cos_ename": "Anatomy Lab.",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "2",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112801": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112801",
+                "cos_code": "MDDB10014",
+                "num_limit": "125",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "解剖學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "郭曉縈、傅毓秀、葉添順、鄭瓊娟、李學德、王先逸、蔡佩君、侯珮珊、蔣偉程",
+                "cos_time": "M567-YB100[YM]",
+                "memo": "修課對象以必修生優先及陽明校區大一大二不分系學生。\n本課程不開放旁聽生。",
+                "cos_ename": "Anatomy",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "2",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "28",
+                "depType": "U"
+            },
+            "1121_112904": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112904",
+                "cos_code": "MDDC10004",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "化學原理實驗",
+                "cos_credit": "1.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "曾炳輝、林雅雄、鄭閔魁、廖韋晴、黃譯蔓",
+                "cos_time": "R5678-YED309[YM]",
+                "memo": "醫技一, 物治一合班上課",
+                "cos_ename": "General Chemistry Laboratory",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "2",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_113403": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "113403",
+                "cos_code": "MDDA10004",
+                "num_limit": "110",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "病理學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "李芬瑤、許志怡、葉奕成、杭仁釩、梁文議、楊靜芬、郭盈汝、林士傑、陳妍英、張富邦、林士堯",
+                "cos_time": "F56-YX216[YM]",
+                "memo": "優先醫技、醫放、物輔，次護理、藥學；需先修解剖學 ，生理學等相關科目。",
+                "cos_ename": "Pathology",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "2",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "104",
+                "depType": "U"
+            },
+            "1121_113502": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "113502",
+                "cos_code": "MDDH10002",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "公共衛生學概論",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "任一安",
+                "cos_time": "F78-YT203[YM]",
+                "memo": "本課程為應考公共衛生師指定修習科目。",
+                "cos_ename": "Public Health",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "2",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_113503": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "113503",
+                "cos_code": "BEPT10034",
+                "num_limit": "60",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生物統計學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳瓊梅",
+                "cos_time": "M34-YB624[YM]",
+                "memo": "本課程為應考公共衛生師指定修習科目",
+                "cos_ename": "Biostatistics",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "2",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "37",
+                "depType": "U"
+            },
+            "1121_132405": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132405",
+                "cos_code": "BEPT30001",
+                "num_limit": "20",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "3D列印在輔具之應用  ",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳振昇",
+                "cos_time": "F34-YL401[YM]",
+                "memo": "",
+                "cos_ename": "Application of 3D Printing in Assistive Device",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "2",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_132406": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132406",
+                "cos_code": "BEPT20006",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "加護病房之物理治療",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "王瑞瑤、蔡美文、吳若嫣",
+                "cos_time": "Sa-YB530[YM]",
+                "memo": "限物輔系已完成物理治療臨床實習的研究生。因會有校外講師來授課，課程時間會調至禮拜六。",
+                "cos_ename": "Physical therapy in intensive care unit",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "2",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_132407": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132407",
+                "cos_code": "BEPT10051",
+                "num_limit": "15",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "輔助科技系統原理與應用",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "游忠煌",
+                "cos_time": "W567-YB424[YM]",
+                "memo": "",
+                "cos_ename": "Assistive Technology Principles and Practice",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "2",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_132411": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132411",
+                "cos_code": "BEPT30025",
+                "num_limit": "15",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "應用力學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "陳振昇",
+                "cos_time": "T234-YB424[YM]",
+                "memo": "",
+                "cos_ename": "Applied Mechanics",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "2",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_132428": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132428",
+                "cos_code": "BEPT10007",
+                "num_limit": "40",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "動作控制與學習理論",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "林千禾",
+                "cos_time": "F12-YB603[YM]",
+                "memo": "",
+                "cos_ename": "Basics of Motor Control and Learning",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "2",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_132429": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132429",
+                "cos_code": "BEPT30046",
+                "num_limit": "40",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "虛擬實境理論與實務",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "宋文旭",
+                "cos_time": "F56-YB624[YM]",
+                "memo": "",
+                "cos_ename": "Virtual Reality:Theorems & Applications",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "2",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_133501": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "133501",
+                "cos_code": "XDLC30029",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "長照復能與專業服務",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "李雪楨、羅鴻基、許銘能、李玉春、陳家慶、張自強、袁瑋、蔡法慈、余虹、鄧菁菁、蔡語涵、黃晴雯",
+                "cos_time": "R34-YN613[YM]",
+                "memo": "",
+                "cos_ename": "Reablement and Professional services of Long-term care",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "2",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_561071": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "561071",
+                "cos_code": "GECG00054",
+                "num_limit": "0",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "普通心理學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "程千芳",
+                "cos_time": "T12-YX406[YM]",
+                "memo": "限物治二、護理一、藥學一，計入核心領域課程學分(個人、社會與文化領域)，每學期將由系統帶入修課學生(依初選第三階段時在籍學生帶入)，請勿隨意退課。",
+                "cos_ename": "General Psychology",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "2",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "核心",
+                "cos_type_e": "Core curriculum",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_563128": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "563128",
+                "cos_code": "GEPE00001",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "大一體育",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "藍于青",
+                "cos_time": "M12-PhE[YM]",
+                "memo": "第一週上課集合地點為陽明校區活動中心桌球室。",
+                "cos_ename": "Physical Education",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "2",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "體育",
+                "cos_type_e": "Physical Education",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            }
+        },
+        "costype": {
+            "1121_111500": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112201": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112202": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112203": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112204": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112205": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112206": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112207": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112208": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112209": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112210": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112211": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112212": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112213": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112214": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112215": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112216": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112217": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112218": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112219": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112220": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112221": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112222": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112223": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112224": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112225": {
+                "一般實習_一般實習": {
+                    "course_category_cname": "一般實習_一般實習",
+                    "course_category_ename": "Off-Campus Internship_Off-Campus Internship",
+                    "course_category_type": "26",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112226": {
+                "一般實習_一般實習": {
+                    "course_category_cname": "一般實習_一般實習",
+                    "course_category_ename": "Off-Campus Internship_Off-Campus Internship",
+                    "course_category_type": "26",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112227": {
+                "一般實習_一般實習": {
+                    "course_category_cname": "一般實習_一般實習",
+                    "course_category_ename": "Off-Campus Internship_Off-Campus Internship",
+                    "course_category_type": "26",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112228": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112229": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112230": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112231": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112232": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112233": {
+                "一般實習_一般實習": {
+                    "course_category_cname": "一般實習_一般實習",
+                    "course_category_ename": "Off-Campus Internship_Off-Campus Internship",
+                    "course_category_type": "26",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112234": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112235": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112236": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112237": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112238": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112239": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112240": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112241": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112242": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112243": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112244": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112245": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112246": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112247": {
+                "基本素養-量性推理_基本素養-量性推理": {
+                    "course_category_cname": "基本素養-量性推理_基本素養-量性推理",
+                    "course_category_ename": "Foundation-quantitative_FCQR",
+                    "course_category_type": "45",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "通識核心課程_通識核心": {
+                    "course_category_cname": "通識核心課程_通識核心",
+                    "course_category_ename": "General Education Course_GEC",
+                    "course_category_type": "17",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112248": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112249": {
+                "一般實習_一般實習": {
+                    "course_category_cname": "一般實習_一般實習",
+                    "course_category_ename": "Off-Campus Internship_Off-Campus Internship",
+                    "course_category_type": "26",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112250": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112251": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112252": {
+                "一般實習_一般實習": {
+                    "course_category_cname": "一般實習_一般實習",
+                    "course_category_ename": "Off-Campus Internship_Off-Campus Internship",
+                    "course_category_type": "26",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112253": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112254": {
+                "一般實習_一般實習": {
+                    "course_category_cname": "一般實習_一般實習",
+                    "course_category_ename": "Off-Campus Internship_Off-Campus Internship",
+                    "course_category_type": "26",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112255": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112256": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112257": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112258": {
+                "大學專題_大學專題": {
+                    "course_category_cname": "大學專題_大學專題",
+                    "course_category_ename": "",
+                    "course_category_type": "64",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112259": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112260": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112261": {
+                "一般實習_一般實習": {
+                    "course_category_cname": "一般實習_一般實習",
+                    "course_category_ename": "Off-Campus Internship_Off-Campus Internship",
+                    "course_category_type": "26",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112262": {
+                "一般實習_一般實習": {
+                    "course_category_cname": "一般實習_一般實習",
+                    "course_category_ename": "Off-Campus Internship_Off-Campus Internship",
+                    "course_category_type": "26",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112263": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112501": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112800": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112801": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112904": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_113403": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_113502": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_113503": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132405": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132406": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132407": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132411": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132428": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132429": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_133501": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_561071": {
+                "核心通識-哲學與心靈_核心通識-哲學與心靈": {
+                    "course_category_cname": "核心通識-哲學與心靈_核心通識-哲學與心靈",
+                    "course_category_ename": "Philosophy and Mind_Philosophy and Mind",
+                    "course_category_type": "31",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "通識核心課程_通識核心": {
+                    "course_category_cname": "通識核心課程_通識核心",
+                    "course_category_ename": "General Education Course_GEC",
+                    "course_category_type": "17",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "領域課程-個人、社會與文化_領域課程-個人、社會與文化": {
+                    "course_category_cname": "領域課程-個人、社會與文化_領域課程-個人、社會與文化",
+                    "course_category_ename": "Distribution-socioculture_DASC",
+                    "course_category_type": "49",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_563128": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_111500": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112201": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112202": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112203": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112204": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112205": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112206": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112207": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112208": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112209": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112210": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112211": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112212": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112213": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112214": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112215": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112216": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112217": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112218": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112219": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112220": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112221": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112222": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112223": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112224": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112225": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112226": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112227": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112228": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112229": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112230": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112231": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112232": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112233": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112234": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112235": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112236": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112237": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112238": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112239": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112240": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112241": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112242": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112243": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112244": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112245": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112246": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112247": {
+                "A503,Z102": {
+                    "brief_code": "A503,Z102",
+                    "brief": "核心-自然(106),基本素養-量性推理(110)"
+                }
+            },
+            "1121_112248": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112249": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112250": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112251": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112252": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112253": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112254": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112255": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112256": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112257": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112258": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112259": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112260": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112261": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112262": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112263": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112501": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112800": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112801": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112904": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_113403": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_113502": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_113503": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132405": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132406": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132407": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132411": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132428": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132429": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_133501": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_561071": {
+                "A104,A502,A903,Z106": {
+                    "brief_code": "A104,A502,A903,Z106",
+                    "brief": "群己/基礎(96),核心-社會(106),核心通識-哲學與心靈(90),領域課程-個人、社會與文化(110)"
+                }
+            },
+            "1121_563128": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_111500": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112201": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112202": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112203": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112204": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112205": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112206": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112207": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112208": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_112209": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112210": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112211": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112212": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112213": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112214": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112215": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112216": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112217": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112218": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112219": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112220": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112221": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112222": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112223": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112224": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112225": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112226": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112227": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112228": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112229": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112230": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112231": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112232": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112233": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112234": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112235": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112236": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112237": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112238": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112239": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112240": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112241": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112242": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112243": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112244": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112245": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112246": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112247": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112248": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112249": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112250": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112251": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112252": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112253": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112254": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112255": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112256": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112257": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112258": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112259": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112260": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112261": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112262": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112263": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112501": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112800": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112801": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112904": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_113403": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_113502": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_113503": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132405": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132406": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132407": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132411": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132428": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132429": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_133501": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_561071": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_563128": {
+                "授課語言代碼": "zh-tw"
+            }
+        },
+        "1": {
+            "1121_112201": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112201",
+                "cos_code": "BEPT10026",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "物理治療導論",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "陳喬男、王瑞瑤、施怡芬、楊雅如、李淑貞、李雪楨、蔡美文、羅鴻基、黃崇舜",
+                "cos_time": "T3-YB601[YM]",
+                "memo": "",
+                "cos_ename": "Introduction to Physical Therapy",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "8",
+                "depType": "U"
+            },
+            "1121_112202": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112202",
+                "cos_code": "BEPT10050",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "輔助科技導論",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "李淑貞",
+                "cos_time": "T4-YB601[YM]",
+                "memo": "",
+                "cos_ename": "Introduction to Assistive Technology ",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "8",
+                "depType": "U"
+            },
+            "1121_112203": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112203",
+                "cos_code": "BEPT10001",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "人文與生活(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "王瑞瑤",
+                "cos_time": "W34-",
+                "memo": "導師時間",
+                "cos_ename": "Humanities and Life (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "8",
+                "depType": "U"
+            },
+            "1121_112204": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112204",
+                "cos_code": "BEPT10001",
+                "num_limit": "15",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "人文與生活(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "李淑貞",
+                "cos_time": "W34-",
+                "memo": "導師時間",
+                "cos_ename": "Humanities and Life (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112205": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112205",
+                "cos_code": "BEPT10001",
+                "num_limit": "15",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "人文與生活(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "宋文旭",
+                "cos_time": "W34-",
+                "memo": "導師時間",
+                "cos_ename": "Humanities and Life (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112206": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112206",
+                "cos_code": "BEPT10021",
+                "num_limit": "192",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "普通物理學(一)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "黃宣誠",
+                "cos_time": "M56-YX216[YM]",
+                "memo": "不分系任選必修，三門課至少選二門",
+                "cos_ename": "General Physics (Ⅰ)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "8",
+                "depType": "U"
+            },
+            "1121_112207": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112207",
+                "cos_code": "BEPT10020",
+                "num_limit": "70",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "普通生物學實驗",
+                "cos_credit": "2.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "林崇智、陳俊銘、羅清維、俞震亞、鍾明怡、金翠庭、姜為中、呂璦竹、吳如蕙",
+                "cos_time": "W5678-",
+                "memo": "他系同學選修須經授課教師同意",
+                "cos_ename": "General Biology Lab.",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "8",
+                "depType": "U"
+            },
+            "1121_112208": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112208",
+                "cos_code": "BEPT10041",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "老人學與成功老化",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳喬男",
+                "cos_time": "F78-YB624[YM]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Gerontology and Successful Aging",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112209": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112209",
+                "cos_code": "BEPT10002",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "人文與生活(三)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "黃崇舜",
+                "cos_time": "W34-",
+                "memo": "導師時間",
+                "cos_ename": "Humanities and Life (Ⅲ)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112210": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112210",
+                "cos_code": "BEPT10002",
+                "num_limit": "15",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "人文與生活(三)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "巫坤品",
+                "cos_time": "W34-",
+                "memo": "",
+                "cos_ename": "Humanities and Life (Ⅲ)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112211": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112211",
+                "cos_code": "BEPT10002",
+                "num_limit": "15",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "人文與生活(三)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "林明薇",
+                "cos_time": "W34-",
+                "memo": "",
+                "cos_ename": "Humanities and Life (Ⅲ)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112212": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112212",
+                "cos_code": "BEPT20010",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "基礎物理治療學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "施怡芬、王瑞瑤、楊雅如、蔡美文、羅鴻基、黃崇舜、彭麗貞",
+                "cos_time": "M56R5-YB601[YM]",
+                "memo": "非物治系學生選修本課程，需先經授課老師同意",
+                "cos_ename": "Fundamental Physical Therapy",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "36",
+                "depType": "U"
+            },
+            "1121_112213": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112213",
+                "cos_code": "BEPT20011",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "基礎物理治療學實作",
+                "cos_credit": "2.00",
+                "cos_hours": "5.00",
+                "TURL": "",
+                "teacher": "施怡芬、王瑞瑤、楊雅如、蔡美文、羅鴻基、黃崇舜、彭麗貞",
+                "cos_time": "M78R678-YB601[YM]",
+                "memo": "非物治系學生選修本課程，需先經授課老師同意",
+                "cos_ename": "Fundamental Physical Therapy and Practice",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "36",
+                "depType": "U"
+            },
+            "1121_112214": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112214",
+                "cos_code": "BEPT20062",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "臨床見習(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "林吟亮、王子娟、王瑞瑤、施怡芬、蔡美文、黃崇舜、朱俊榮、林珊如、魏敏如、徐瑞隆、陳元劭、林佩伶、秦雅玲、方婉羽、張簡書勝、葉姵君、喻大忠、蔡明倫、黃建儒、李肇中、李怡安、宋敦仁、莊雅雯、周玟玲、張伸睿、厲真、杜俊宏、張育嘉、張杏妃、王禎、王祚萱、徐綺霞、翁昀秀、黃佳琦、呂怡慧",
+                "cos_time": "T12-YB624[YM]",
+                "memo": "非物治系學生選修本課程，需先經授課老師同意",
+                "cos_ename": "Clinical Clerkship in Physical Therapy(Ⅰ)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "36",
+                "depType": "U"
+            },
+            "1121_112215": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112215",
+                "cos_code": "BEPT20043",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "神經物理治療學(一)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "王瑞瑤、楊雅如、紀乃方、李淑貞、林浚仁",
+                "cos_time": "T56-YB602[YM]",
+                "memo": "非物治系學生選修本課程，需先經授課老師同意",
+                "cos_ename": "Neurological Physical Therapy (Ⅰ)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "41",
+                "depType": "U"
+            },
+            "1121_112216": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112216",
+                "cos_code": "BEPT20045",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "神經物理治療學實作(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "王瑞瑤、楊雅如、李淑貞、劉宇菁",
+                "cos_time": "T78-YB602[YM]",
+                "memo": "非物治系學生選修本課程，需先經授課老師同意",
+                "cos_ename": "Neurological Physical Therapy lab (Ⅰ)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "41",
+                "depType": "U"
+            },
+            "1121_112217": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112217",
+                "cos_code": "BEPT10015",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "操作治療學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "王子娟、蔡美文、蔡永裕",
+                "cos_time": "T56-YB601[YM]",
+                "memo": "非物治系學生選修本課程，需先經授課老師同意",
+                "cos_ename": "Manual Therapy",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "36",
+                "depType": "U"
+            },
+            "1121_112218": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112218",
+                "cos_code": "BEPT20001",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "兒童物理治療學(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "羅鴻基、巫俊杉、李哲緯",
+                "cos_time": "T2-YB602[YM]",
+                "memo": "非物治系學生選修本課程，需先經授課老師同意",
+                "cos_ename": "Pediatric Physical Therapy (Ⅰ)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "41",
+                "depType": "U"
+            },
+            "1121_112219": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112219",
+                "cos_code": "BEPT10016",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "操作治療學實作",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "王子娟、蔡美文、蔡永裕",
+                "cos_time": "T78-YB601[YM]",
+                "memo": "非物治系學生選修本課程，需先經授課老師同意",
+                "cos_ename": "Manual Therapy Practice",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "36",
+                "depType": "U"
+            },
+            "1121_112220": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112220",
+                "cos_code": "BEPT20069",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "臨床藥物學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "姜紹青、曾玉華、陳美鈴、呂友敏、黃冠慈、林毓雯、鍾慧、鄭慧茹、吳尚恩",
+                "cos_time": "F34-YB602[YM]",
+                "memo": "非物治系學生選修本課程，需先經授課老師同意",
+                "cos_ename": "Clinical Pharmacology",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "41",
+                "depType": "U"
+            },
+            "1121_112221": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112221",
+                "cos_code": "BEPT10030",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "物理因子治療學(一)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "楊雅如、蔡佩玲",
+                "cos_time": "W56-YB601[YM]",
+                "memo": "非物治系學生選修本課程，需先經授課老師同意",
+                "cos_ename": "Therapeutic Physical Agents (Ⅰ)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "36",
+                "depType": "U"
+            },
+            "1121_112222": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112222",
+                "cos_code": "BEPT20005",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "兒童發展評估學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "羅鴻基、莊頌音、巫俊杉、李哲緯、葉如晴、黃湘茹、劉妍羚",
+                "cos_time": "T34-YB602[YM]",
+                "memo": "非物治系學生選修本課程，需先經授課老師同意",
+                "cos_ename": "Child Development Assessment",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112223": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112223",
+                "cos_code": "BEPT10014",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "急救學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "徐德福、黃獻皞、陳燕嘉、吳哲侃、陳盈如、廖婉如、李毅信、徐月霜、張靜怡、林佩瑩",
+                "cos_time": "W12-YB602[YM]",
+                "memo": "",
+                "cos_ename": "Emergency Management and First-Aid",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "36",
+                "depType": "U"
+            },
+            "1121_112224": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112224",
+                "cos_code": "BEPT10012",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "導師時間",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "王子娟、蔡美文、林吟亮",
+                "cos_time": "Tcd-",
+                "memo": "",
+                "cos_ename": "Class Meeting",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "36",
+                "depType": "U"
+            },
+            "1121_112225": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112225",
+                "cos_code": "BEPT20026",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "物理治療臨床實習(一)",
+                "cos_credit": "4.00",
+                "cos_hours": "8.00",
+                "TURL": "",
+                "teacher": "羅鴻基、王瑞瑤、施怡芬",
+                "cos_time": "M12345678T12345678-",
+                "memo": "非物治系學生選修本課程，需先經授課老師同意",
+                "cos_ename": "Physical Therapy Practicum (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112226": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112226",
+                "cos_code": "BEPT20035",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "物理治療臨床實習(二)",
+                "cos_credit": "4.00",
+                "cos_hours": "8.00",
+                "TURL": "",
+                "teacher": "羅鴻基、楊雅如、李淑貞",
+                "cos_time": "W12345678R12345678-",
+                "memo": "非物治系學生選修本課程，需先經授課老師同意",
+                "cos_ename": "Physical Therapy Practicum (II)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112227": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112227",
+                "cos_code": "BEPT20028",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "物理治療臨床實習(三)",
+                "cos_credit": "4.00",
+                "cos_hours": "8.00",
+                "TURL": "",
+                "teacher": "羅鴻基、李雪楨、蔡美文",
+                "cos_time": "F12345678-",
+                "memo": "非物治系學生選修本課程，需先經授課老師同意",
+                "cos_ename": "Physical Therapy Practicum (III)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112228": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112228",
+                "cos_code": "BEPT20023",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "物理治療行政管理學(模組)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "李雪楨、王子娟、趙遠宏、胡家誠、許寶文、陳淵琪、蘇信昌、巫俊杉、陳雅玲、鄭融、林俊廷、林訓正",
+                "cos_time": "W78-YB624[YM]",
+                "memo": "",
+                "cos_ename": "Physical Therapy Administration and Management",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112229": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112229",
+                "cos_code": "BEPT10011",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "呼吸循環物理治療(一)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳喬男、蔡美文",
+                "cos_time": "R34-YB602[YM]",
+                "memo": "非物治系學生選修本課程，需先經授課老師同意",
+                "cos_ename": "Cardiovascular and Pulmonary Physical Therapy (Ⅰ)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "41",
+                "depType": "U"
+            },
+            "1121_112230": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112230",
+                "cos_code": "BEPT20066",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "臨床推理與決策分析(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "王子娟、王瑞瑤、楊雅如、羅鴻基、陳子敬、劉育銓",
+                "cos_time": "R5-YB602[YM]",
+                "memo": "非物治系學生選修本課程，需先經授課老師同意",
+                "cos_ename": "Clinical Reasoning and Decision Making (Ⅰ)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "41",
+                "depType": "U"
+            },
+            "1121_112231": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112231",
+                "cos_code": "BEPT10012",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "導師時間",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "施怡芬、陳振昇、羅鴻基",
+                "cos_time": "Tcd-",
+                "memo": "",
+                "cos_ename": "Class Meeting",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "41",
+                "depType": "U"
+            },
+            "1121_112232": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112232",
+                "cos_code": "BEPT10044",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "臨床醫學(二)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "李文琳",
+                "cos_time": "M567-YB624[YM]",
+                "memo": "",
+                "cos_ename": "Introduction to medicine (Ⅱ)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "41",
+                "depType": "U"
+            },
+            "1121_112233": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112233",
+                "cos_code": "BEPT20033",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "物理治療臨床實習(八)",
+                "cos_credit": "2.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "羅鴻基、楊雅如、李淑貞",
+                "cos_time": "S5678-",
+                "memo": "非物治系學生選修本課程，需先經授課老師同意",
+                "cos_ename": "Physical Therapy Practicum (VIII)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112234": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112234",
+                "cos_code": "BEPT20017",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "影像診斷學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "林重榮、邱宏仁、羅兆寶、張豐基、吳宏達、邱乃祈、王嘉琪、李潤川、吳慶蘭、張建法、陳俊谷",
+                "cos_time": "W56-YB602[YM]",
+                "memo": "",
+                "cos_ename": "Radiology and Diagnostic Imaging",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "41",
+                "depType": "U"
+            },
+            "1121_112235": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112235",
+                "cos_code": "BEPT20073",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "運動貼紮",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "黃崇舜、李凌岳、黃安華、林曉琦",
+                "cos_time": "Uab-YB602[YM]",
+                "memo": "須修過「肌動學(2學分)」、「解剖學(3學分)」及「生理學(4學分)」方能選課。非物治系學生選修本課程，需負擔課程材料費。",
+                "cos_ename": "Sport Taping",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112236": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112236",
+                "cos_code": "BEPT20057",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "肌肉骨骼物理治療學(二)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "王子娟、陳子敬、劉育銓、丁于旻",
+                "cos_time": "M12-YB601[YM]",
+                "memo": "非物治系學生選修本課程，需先經授課老師同意",
+                "cos_ename": "Musculoskeletal Physical Therapy (Ⅱ)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "41",
+                "depType": "U"
+            },
+            "1121_112237": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112237",
+                "cos_code": "BEPT20059",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "肌肉骨骼物理治療學實作(二)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "王子娟、陳子敬、劉育銓、丁于旻",
+                "cos_time": "M34-YB601[YM]",
+                "memo": "非物治系學生選修本課程，需先經授課老師同意",
+                "cos_ename": "Musculoskeletal Physical Therapy Practicum (Ⅱ)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "41",
+                "depType": "U"
+            },
+            "1121_112238": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112238",
+                "cos_code": "BEPT20012",
+                "num_limit": "15",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "學士專題研究(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "施怡芬",
+                "cos_time": "Fa-",
+                "memo": "物三、物四共同選修，欲選修者請向助教洽詢。",
+                "cos_ename": "Independent Study I",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112239": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112239",
+                "cos_code": "BEPT10017",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "日常生活功能訓練與輔具應用",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "李淑貞、徐麒晏、陳柏佑、蔡佳蓉、余虹、楊忠一",
+                "cos_time": "R23-",
+                "memo": "",
+                "cos_ename": "Functional Training for Activities of Daily Living and The Use of Assistive Device",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "36",
+                "depType": "U"
+            },
+            "1121_112240": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112240",
+                "cos_code": "BEPT20076",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "骨科醫學概論",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "張明超、吳博貴、馬筱笠、蔣恩榮、蘇宇平、周伯鑫、黃意超、王建順、姚又誠、奉季光、許逵翔、王柏涵、林育寬、陳正豐、江昭慶",
+                "cos_time": "T1-YB603[YM]",
+                "memo": "",
+                "cos_ename": "Introduction to Orthopedics",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112241": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112241",
+                "cos_code": "BEPT20060",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "脊椎矯正學(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "朱俊榮",
+                "cos_time": "U1234-YB602[YM]",
+                "memo": "非物治系學生選修本課程，需先經授課老師同意",
+                "cos_ename": "Spinal Manipulation (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112242": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112242",
+                "cos_code": "BEPT10039",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "競技運動防護見習(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "黃崇舜、王子娟、施怡芬、蔡美文、林吟亮",
+                "cos_time": "Uyz-YB603[YM]",
+                "memo": "非物治系學生選修本課程，需先經授課老師同意",
+                "cos_ename": "Field Observation for Sport Injury Management(Ⅰ)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112243": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112243",
+                "cos_code": "BEPT20052",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "競技運動防護見習：基礎評估",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "黃崇舜、王子娟、施怡芬、蔡美文、林吟亮",
+                "cos_time": "Uyz-",
+                "memo": "非物治系學生選修本課程，需先經授課老師同意",
+                "cos_ename": "Field Observation for Sports InjuryManagement: Assessment skills",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112244": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112244",
+                "cos_code": "BEPT20049",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "競技運動防護見習：脊椎評估與處置",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "黃崇舜、王子娟、施怡芬、蔡美文、林吟亮",
+                "cos_time": "Uyz-",
+                "memo": "非物治系學生選修本課程，需先經授課老師同意",
+                "cos_ename": "Field Observation for Sports InjuryManagement: Assessment and management of thespine",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112245": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112245",
+                "cos_code": "BEPT20042",
+                "num_limit": "16",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "皮拉提斯復健(二)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳祐榕",
+                "cos_time": "F12-YB611[YM]",
+                "memo": "以修過皮拉提斯(一)為優先，非物治系學生選修本課程，需先經授課老師同意",
+                "cos_ename": "Pilates for Rehabilitation (Ⅱ)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112246": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112246",
+                "cos_code": "BEPT20022",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "營養學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "蔡美文、王鐘賢、金惠民、鐘子雯、林孟瑜",
+                "cos_time": "T67-YB624[YM]",
+                "memo": "限物治系學生選修",
+                "cos_ename": "Nutrition",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112247": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112247",
+                "cos_code": "BEPT10038",
+                "num_limit": "30",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "程式設計",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "吳孝觀",
+                "cos_time": "F56-YB101[YM]",
+                "memo": "",
+                "cos_ename": "Programming Design",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112248": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112248",
+                "cos_code": "BEPT20080",
+                "num_limit": "14",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "懸吊運動治療的理論基礎與臨床應用",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "羅鴻基、巫俊杉、李哲緯",
+                "cos_time": "Ua-YB604[YM]",
+                "memo": "",
+                "cos_ename": "Theoretical foundation and clinical application of sling exercise therapy",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112249": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112249",
+                "cos_code": "BEPT20032",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "物理治療臨床實習(九)",
+                "cos_credit": "2.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "羅鴻基、李雪楨、蔡美文",
+                "cos_time": "U1234-",
+                "memo": "非物治系學生選修本課程，需先經授課老師同意",
+                "cos_ename": "Physical Therapy Practicum (IX)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112250": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112250",
+                "cos_code": "BEPT20078",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "高危險新生兒物理治療與發展性照護",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "羅鴻基、莊頌音、劉妍羚",
+                "cos_time": "T67-YB530[YM]",
+                "memo": "非物治系學生選修本課程，需先經授課老師同意",
+                "cos_ename": "Physical Therapy and Developmental Care for High-risk Infants",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112251": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112251",
+                "cos_code": "BEPT20080",
+                "num_limit": "14",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "懸吊運動治療的理論基礎與臨床應用",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "羅鴻基、巫俊杉、李哲緯",
+                "cos_time": "Ub-YB604[YM]",
+                "memo": "限物輔系大六學生(需完成大五臨床實習)",
+                "cos_ename": "Theoretical foundation and clinical application of sling exercise therapy",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112252": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112252",
+                "cos_code": "BEPT20030",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "物理治療臨床實習(十)",
+                "cos_credit": "2.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "羅鴻基、周立偉、陳喬男",
+                "cos_time": "U5678-",
+                "memo": "非物治系學生選修本課程，需先經授課老師同意",
+                "cos_ename": "Physical Therapy Practicum (X)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112253": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112253",
+                "cos_code": "BEPT10013",
+                "num_limit": "150",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "微積分",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "宋文旭",
+                "cos_time": "T78-CS100[GF],T78-YX216[YM]",
+                "memo": "",
+                "cos_ename": "Calculus",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "8",
+                "depType": "U"
+            },
+            "1121_112254": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112254",
+                "cos_code": "BEPT20036",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "物理治療臨床實習(五)",
+                "cos_credit": "4.00",
+                "cos_hours": "8.00",
+                "TURL": "",
+                "teacher": "羅鴻基、黃崇舜、林吟亮",
+                "cos_time": "",
+                "memo": "",
+                "cos_ename": "Physical Therapy Practicum (V)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112255": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112255",
+                "cos_code": "BEPT20079",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "肌力體能訓練與動作健康見習",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "王子娟、黃崇舜、彭伊君、陳曉謙",
+                "cos_time": "W234-YB603[YM]",
+                "memo": "限物治系六年級",
+                "cos_ename": "Strength Training/Conditioning and Movement Health",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112256": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112256",
+                "cos_code": "BEPT00001",
+                "num_limit": "32",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "高齡健康促進",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "楊雅如、李淑貞、李雪楨、蔡美文、陳喬男、劉力幗、吳品嫻、王怡品",
+                "cos_time": "R34-YB603[YM]",
+                "memo": "",
+                "cos_ename": "Health Promotion in Elderly",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112257": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112257",
+                "cos_code": "BEPT00002",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "物理治療職涯規劃",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "王子娟、李淑貞、趙遠宏、陳子敬、阮彥鈞",
+                "cos_time": "W2-YB601[YM]",
+                "memo": "",
+                "cos_ename": "Physical Therapy Career Planning",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "8",
+                "depType": "U"
+            },
+            "1121_112258": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112258",
+                "cos_code": "BEPT20013",
+                "num_limit": "15",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "學士專題研究(三)",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "物治輔具系",
+                "cos_time": "Fc-",
+                "memo": "需修過學士專題研究(二)，物三、物四共同選修，欲選修者請向助教洽詢。",
+                "cos_ename": "Independent Study III",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112259": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112259",
+                "cos_code": "BEPT20063",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "臨床見習(三)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "林吟亮、王子娟、楊雅如、羅鴻基、陳喬男、黃崇舜、張正琪、朱俊榮、陳子敬、董阜玲、徐瑞隆、林維萱、邵芙昕、喻大忠、蔡明倫、黃建儒、莊雅雯、魏士傑、杜俊宏、張娟青、李建志、許穎昌、羅士倫、陳祐榕、黃安華",
+                "cos_time": "R78-YB624[YM]",
+                "memo": "非物治系學生選修本課程，需先經授課老師同意",
+                "cos_ename": "Clinical Clerkship in Physical Therapy (Ⅲ)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "41",
+                "depType": "U"
+            },
+            "1121_112260": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112260",
+                "cos_code": "BEPT20054",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "筋膜學：理論與臨床應用",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "王子娟、傅士豪、張德裕",
+                "cos_time": "ScdUcd-",
+                "memo": "限物治系六年級修課",
+                "cos_ename": "Fascia Science: Theory and Clinical Application",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112261": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112261",
+                "cos_code": "BEPT20027",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "物理治療臨床實習(七)",
+                "cos_credit": "2.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "羅鴻基、王瑞瑤、施怡芬",
+                "cos_time": "S1234-",
+                "memo": "",
+                "cos_ename": "Physical Therapy Practicum (VII)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112262": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112262",
+                "cos_code": "BEPT20034",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "物理治療臨床實習(六)",
+                "cos_credit": "4.00",
+                "cos_hours": "8.00",
+                "TURL": "",
+                "teacher": "羅鴻基、王子娟",
+                "cos_time": "",
+                "memo": "",
+                "cos_ename": "Physical Therapy Practicum (VI)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112263": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112263",
+                "cos_code": "BEPT20006",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "加護病房之物理治療",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "蔡美文、吳若嫣",
+                "cos_time": "W23-YB530[YM]",
+                "memo": "限物輔系大六學生(需完成大五臨床實習)\n因會有校外講師來授課，課程時間會調至禮拜六",
+                "cos_ename": "Physical therapy in intensive care unit",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "262",
+                "dep_primary": "1",
+                "dep_cname": "物理治療暨輔助科技學系",
+                "dep_ename": " Department of Physical Therapy and Assistive Technology",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            }
+        }
+    }
+}

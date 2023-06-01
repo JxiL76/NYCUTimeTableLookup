@@ -1,0 +1,701 @@
+{
+    "E43BCD23-13DD-4AB5-A6A7-CD154D25A1F7": {
+        "dep_id": "E43BCD23-13DD-4AB5-A6A7-CD154D25A1F7",
+        "dep_cname": "教育研究所學習科學跨域學程",
+        "dep_ename": "Institute of Education for Learning Science Cross-Disciplinary Prog",
+        "1": {
+            "1121_534000": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534000",
+                "cos_code": "HSIE30003",
+                "num_limit": "40",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "初等應用統計",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "吳俊育",
+                "cos_time": "W12-HA219[GF]",
+                "memo": "",
+                "cos_ename": "Introduction to Applied Statistics",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKT",
+                "dep_primary": "1",
+                "dep_cname": "教育研究所學習科學跨域學程",
+                "dep_ename": "Institute of Education for Learning Science Cross-Disciplinary Prog",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_534002": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534002",
+                "cos_code": "HSIE30011",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "教育研究法",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "http://i.have.no.website",
+                "teacher": "陳鏗任",
+                "cos_time": "W34-HA219[GF]",
+                "memo": "",
+                "cos_ename": "Educational Research Methods",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKT",
+                "dep_primary": "1",
+                "dep_cname": "教育研究所學習科學跨域學程",
+                "dep_ename": "Institute of Education for Learning Science Cross-Disciplinary Prog",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_534007": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534007",
+                "cos_code": "HSIE30024",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "發展心理學研究",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "劉奕蘭",
+                "cos_time": "T234-HA219[GF]",
+                "memo": "",
+                "cos_ename": "Research in Developmental Psychology",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKT",
+                "dep_primary": "1",
+                "dep_cname": "教育研究所學習科學跨域學程",
+                "dep_ename": "Institute of Education for Learning Science Cross-Disciplinary Prog",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_534008": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534008",
+                "cos_code": "HSIE30028",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "科學教育研究",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "http://SciEdu.nctu.edu.tw",
+                "teacher": "佘曉清",
+                "cos_time": "M34-HA218[GF]",
+                "memo": "",
+                "cos_ename": "Research in Science Education",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKT",
+                "dep_primary": "1",
+                "dep_cname": "教育研究所學習科學跨域學程",
+                "dep_ename": "Institute of Education for Learning Science Cross-Disciplinary Prog",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_534012": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534012",
+                "cos_code": "HSIE30007",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "建構主義在科學教育上的應用",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳雅君",
+                "cos_time": "R34-HA217[GF]",
+                "memo": "",
+                "cos_ename": "The Practice of Constructivism in Science Education",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKT",
+                "dep_primary": "1",
+                "dep_cname": "教育研究所學習科學跨域學程",
+                "dep_ename": "Institute of Education for Learning Science Cross-Disciplinary Prog",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_534013": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534013",
+                "cos_code": "HSIE30017",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "數位學習導論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "周倩",
+                "cos_time": "T234-HA216[GF]",
+                "memo": "",
+                "cos_ename": "Foundations of E-learning",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKT",
+                "dep_primary": "1",
+                "dep_cname": "教育研究所學習科學跨域學程",
+                "dep_ename": "Institute of Education for Learning Science Cross-Disciplinary Prog",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_534014": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534014",
+                "cos_code": "HSIE30016",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "數位學習專案管理與評鑑",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "http://ILTM.nctu.edu.tw",
+                "teacher": "孫之元",
+                "cos_time": "R34-HA220[GF]",
+                "memo": "",
+                "cos_ename": "E-learning Project Management and Evaluation",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKT",
+                "dep_primary": "1",
+                "dep_cname": "教育研究所學習科學跨域學程",
+                "dep_ename": "Institute of Education for Learning Science Cross-Disciplinary Prog",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_534016": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534016",
+                "cos_code": "HSIE30022",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "新興科技在教育上的應用",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "游師柔、孫之元",
+                "cos_time": "T567-HA220[GF]",
+                "memo": "",
+                "cos_ename": "Application of Emerging Technologies in Education",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKT",
+                "dep_primary": "1",
+                "dep_cname": "教育研究所學習科學跨域學程",
+                "dep_ename": "Institute of Education for Learning Science Cross-Disciplinary Prog",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_534017": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534017",
+                "cos_code": "HSIE30039",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "行動學習設計",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "楊子奇",
+                "cos_time": "R56-HA220[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Design of Mobile Learning Environments",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKT",
+                "dep_primary": "1",
+                "dep_cname": "教育研究所學習科學跨域學程",
+                "dep_ename": "Institute of Education for Learning Science Cross-Disciplinary Prog",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_534022": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534022",
+                "cos_code": "HSIE30002",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "STEM教學與研究",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳聖昌",
+                "cos_time": "T34-HA218[GF]",
+                "memo": "",
+                "cos_ename": "The Instruction and Research of STEM",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKT",
+                "dep_primary": "1",
+                "dep_cname": "教育研究所學習科學跨域學程",
+                "dep_ename": "Institute of Education for Learning Science Cross-Disciplinary Prog",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_599000": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "599000",
+                "cos_code": "GETE10009",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "教育心理學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "羅孟婷",
+                "cos_time": "M78-HA219[GF]",
+                "memo": "1.非師資生修讀本課程作為通識學分，不須繳交學分費2.非師資生修讀本課程，需至課務組下載並填寫\"網路選課加退選處理表\"，經任課老師同意送師培中心辦理加簽。3.師資生如欲將本課程視為通識學分，另需送交課務組辦理登記。",
+                "cos_ename": "Educational Psychology",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKT",
+                "dep_primary": "1",
+                "dep_cname": "教育研究所學習科學跨域學程",
+                "dep_ename": "Institute of Education for Learning Science Cross-Disciplinary Prog",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_599003": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "599003",
+                "cos_code": "GETE10005",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "教學媒體與操作",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "張志銘",
+                "cos_time": "W56-CS105[GF]",
+                "memo": "",
+                "cos_ename": "Instructional Media and Operations",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKT",
+                "dep_primary": "1",
+                "dep_cname": "教育研究所學習科學跨域學程",
+                "dep_ename": "Institute of Education for Learning Science Cross-Disciplinary Prog",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_599004": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "599004",
+                "cos_code": "GETE10017",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "課程設計與發展",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳雅君",
+                "cos_time": "W34-HA218[GF]",
+                "memo": "",
+                "cos_ename": "Curriculum Design and Development",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKT",
+                "dep_primary": "1",
+                "dep_cname": "教育研究所學習科學跨域學程",
+                "dep_ename": "Institute of Education for Learning Science Cross-Disciplinary Prog",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_599014": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "599014",
+                "cos_code": "GETE10016",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "認知心理學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "http://totem.cte.nctu.edu.tw/",
+                "teacher": "林珊如",
+                "cos_time": "M34-HA219[GF]",
+                "memo": "1.非師資生修讀本課程作為通識學分，不須繳交學分費2.非師資生修讀本課程，需至課務組下載並填寫\"網路選課加退選處理表\"，經任課老師同意送師培中心辦理加簽。3.師資生如欲將本課程視為通識學分，另需送交課務組辦理登記。",
+                "cos_ename": "Cognitive Psychology",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKT",
+                "dep_primary": "1",
+                "dep_cname": "教育研究所學習科學跨域學程",
+                "dep_ename": "Institute of Education for Learning Science Cross-Disciplinary Prog",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            }
+        },
+        "costype": {
+            "1121_534000": {
+                "基本素養-量性推理_基本素養-量性推理": {
+                    "course_category_cname": "基本素養-量性推理_基本素養-量性推理",
+                    "course_category_ename": "Foundation-quantitative_FCQR",
+                    "course_category_type": "45",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "通識核心課程_通識核心": {
+                    "course_category_cname": "通識核心課程_通識核心",
+                    "course_category_ename": "General Education Course_GEC",
+                    "course_category_type": "17",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534002": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534007": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534008": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534012": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534013": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534014": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534016": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534017": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534022": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_599000": {
+                "核心通識-哲學與心靈_核心通識-哲學與心靈": {
+                    "course_category_cname": "核心通識-哲學與心靈_核心通識-哲學與心靈",
+                    "course_category_ename": "Philosophy and Mind_Philosophy and Mind",
+                    "course_category_type": "31",
+                    "GECIName": "管",
+                    "GECIEngName": "COM"
+                },
+                "通識校基本素養_通識校基本": {
+                    "course_category_cname": "通識校基本素養_通識校基本",
+                    "course_category_ename": "General Education Course: Literacy_GECL",
+                    "course_category_type": "15",
+                    "GECIName": "管",
+                    "GECIEngName": "COM"
+                },
+                "通識跨院基本素養_通識跨院": {
+                    "course_category_cname": "通識跨院基本素養_通識跨院",
+                    "course_category_ename": "General Education Course: Intercollegiate_GECI",
+                    "course_category_type": "16",
+                    "GECIName": "管",
+                    "GECIEngName": "COM"
+                },
+                "領域課程-個人、社會與文化_領域課程-個人、社會與文化": {
+                    "course_category_cname": "領域課程-個人、社會與文化_領域課程-個人、社會與文化",
+                    "course_category_ename": "Distribution-socioculture_DASC",
+                    "course_category_type": "49",
+                    "GECIName": "管",
+                    "GECIEngName": "COM"
+                }
+            },
+            "1121_599003": {
+                "智財權課程_智財權": {
+                    "course_category_cname": "智財權課程_智財權",
+                    "course_category_ename": "Intellectual Property_IP",
+                    "course_category_type": "8",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_599004": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_599014": {
+                "核心通識-哲學與心靈_核心通識-哲學與心靈": {
+                    "course_category_cname": "核心通識-哲學與心靈_核心通識-哲學與心靈",
+                    "course_category_ename": "Philosophy and Mind_Philosophy and Mind",
+                    "course_category_type": "31",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "通識校基本素養_通識校基本": {
+                    "course_category_cname": "通識校基本素養_通識校基本",
+                    "course_category_ename": "General Education Course: Literacy_GECL",
+                    "course_category_type": "15",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "領域課程-個人、社會與文化_領域課程-個人、社會與文化": {
+                    "course_category_cname": "領域課程-個人、社會與文化_領域課程-個人、社會與文化",
+                    "course_category_ename": "Distribution-socioculture_DASC",
+                    "course_category_type": "49",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_534000": {
+                "A503,Z102": {
+                    "brief_code": "A503,Z102",
+                    "brief": "核心-自然(106),基本素養-量性推理(110)"
+                }
+            },
+            "1121_534002": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534007": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534008": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534012": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534013": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534014": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534016": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534017": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534022": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_599000": {
+                "A504,A505,A903,Z106": {
+                    "brief_code": "A504,A505,A903,Z106",
+                    "brief": "跨院基本素養(106),校基本素養(106),核心通識-哲學與心靈(90),領域課程-個人、社會與文化(110)"
+                }
+            },
+            "1121_599003": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_599004": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_599014": {
+                "A505,A903,Z106": {
+                    "brief_code": "A505,A903,Z106",
+                    "brief": "校基本素養(106),核心通識-哲學與心靈(90),領域課程-個人、社會與文化(110)"
+                }
+            }
+        },
+        "language": {
+            "1121_534000": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534002": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534007": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534008": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534012": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534013": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534014": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534016": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534017": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_534022": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_599000": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_599003": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_599004": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_599014": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    }
+}

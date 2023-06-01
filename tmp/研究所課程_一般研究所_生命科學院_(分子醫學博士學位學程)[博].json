@@ -1,0 +1,1075 @@
+{
+    "A6EBBDA0-6496-4987-87FC-CBC6459EE095": {
+        "dep_id": "A6EBBDA0-6496-4987-87FC-CBC6459EE095",
+        "dep_cname": "分子醫學博士學位學程",
+        "dep_ename": "Program in Molecular Medicine",
+        "2": {
+            "1121_130104": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130104",
+                "cos_code": "MDPA30002",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "分子生物學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "李新城、陳建鋒、花嘉玲、兵岳忻、王湘翠、曾才郁",
+                "cos_time": "W78R78-YR104[YM]",
+                "memo": "每週上課2小時，週三或週四78節上課，請參見授課度表。",
+                "cos_ename": "Molecular Biology",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "305",
+                "dep_primary": "2",
+                "dep_cname": "分子醫學博士學位學程",
+                "dep_ename": "Program in Molecular Medicine",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_133601": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "133601",
+                "cos_code": "LSSL30005",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生理學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳儀聰、黃自強、李曉暉、侯珮珊",
+                "cos_time": "F56-YR104[YM]",
+                "memo": "1.\t全英語授課課程，歡迎本地生修課。\n2.\t本英文課程以三名(含)以上的外籍學生選修為開課原則。[English Medium Course]",
+                "cos_ename": "Physiology",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "305",
+                "dep_primary": "2",
+                "dep_cname": "分子醫學博士學位學程",
+                "dep_ename": "Program in Molecular Medicine",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_133602": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "133602",
+                "cos_code": "LSSL30013",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生醫科學實驗技術",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "郭津岑",
+                "cos_time": "W567-YC516[YM]",
+                "memo": "1.\t全英語授課課程，歡迎本地生修課。\n2.\t本英文課程以三名(含)以上的外籍學生選修為開課原則。[English Medium Course]",
+                "cos_ename": "Experimental techniques for biomedical science",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "305",
+                "dep_primary": "2",
+                "dep_cname": "分子醫學博士學位學程",
+                "dep_ename": "Program in Molecular Medicine",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_133603": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "133603",
+                "cos_code": "LSSL30008",
+                "num_limit": "155",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生命科學院-生物醫學講座",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "連正章",
+                "cos_time": "W78-",
+                "memo": "1.全英語授課課程。\n2.本課程原則上僅限本校生命科學院學生(含大學部)及藥物科學院生物藥學研究所學生修習,其他學生如欲修課,需經本院審核同意。 \n3.不開放校際選課。\n4.本課程於陽明校區活動中心第三會議室上課[English Medium Course]",
+                "cos_ename": "Special lectures on biomedicine",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "305",
+                "dep_primary": "2",
+                "dep_cname": "分子醫學博士學位學程",
+                "dep_ename": "Program in Molecular Medicine",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_133604": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "133604",
+                "cos_code": "LSSL30003",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "分子細胞生物概論",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "王琬菁、俞震亞、張佩靖、郭津岑、黃介嶸、許翺麟、金翠庭、李曉暉、陳威儀、林貝容、姜為中、藍昇輝、張崇德、袁維謙",
+                "cos_time": "F34-YC516[YM]",
+                "memo": "1.\t全英語授課課程，歡迎本地生修課。\n2.\t本英文課程以三名(含)以上的外籍學生選修為開課原則。\n3.\t本課程歡迎大三(含)以上學生修課。[English Medium Course]",
+                "cos_ename": "Molecular Cell Biology",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "305",
+                "dep_primary": "2",
+                "dep_cname": "分子醫學博士學位學程",
+                "dep_ename": "Program in Molecular Medicine",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_140805": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "140805",
+                "cos_code": "MDBI30062",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生物計算學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "國際研究生學程",
+                "cos_time": "F5678-",
+                "memo": "週五14:00-17:00上課，全英語授課課程。上課地點：中研院統計所308室，上課地點與資訊可能更新，最新課表請以TIGP-BP學程網站(https://tigpbp.iis.sinica.edu.tw)公布為主，非本學程學生選課前請詳閱說明：https://forms.gle/AriKT4cHyR6cjgbA9\n如有疑問，請洽TIGP-BP 學程助理賴小姐(tigpbio@gate.sinica.edu.tw)[English Medium Course]",
+                "cos_ename": "Biological Computing",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "305",
+                "dep_primary": "2",
+                "dep_cname": "分子醫學博士學位學程",
+                "dep_ename": "Program in Molecular Medicine",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_140809": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "140809",
+                "cos_code": "MDBI30066",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "基礎生物資訊統計學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "國際研究生學程",
+                "cos_time": "R234-",
+                "memo": "週四9:00-12:00上課，上課地點：中研院統計所308室，上課地點與資訊可能更新，最新課表請以TIGP-BP學程網站(https://tigpbp.iis.sinica.edu.tw)公布為主，非本學程學生選課前請詳閱說明：https://forms.gle/AriKT4cHyR6cjgbA9 \n如有疑問，請洽TIGP-BP 學程助理賴小姐(tigpbio@gate.sinica.edu.tw)[English Medium Course]",
+                "cos_ename": "Fundamental Statistical Methods in Bioinformatics",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "305",
+                "dep_primary": "2",
+                "dep_cname": "分子醫學博士學位學程",
+                "dep_ename": "Program in Molecular Medicine",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_140810": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "140810",
+                "cos_code": "MDBI30067",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "程式設計",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "國際研究生學程",
+                "cos_time": "F34-",
+                "memo": "週五10:00-12:00上課，全英語授課課程。上課地點：中研院統計所B1演講廳，上課地點與資訊可能更新。最新課表請以TIGP-BP學程網站(https://tigpbp.iis.sinica.edu.tw)公布為主，非本學程學生選課前請詳閱說明：https://forms.gle/AriKT4cHyR6cjgbA9 \n如有疑問，請洽TIGP-BP 學程助理賴小姐(tigpbio@gate.sinica.edu.tw)[English Medium Course]",
+                "cos_ename": "Programming (Python)",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "305",
+                "dep_primary": "2",
+                "dep_cname": "分子醫學博士學位學程",
+                "dep_ename": "Program in Molecular Medicine",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_141003": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "141003",
+                "cos_code": "MDDT30013",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "幹細胞生物學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "呂仁、沈家寧",
+                "cos_time": "R567-",
+                "memo": "[English Medium Course]上課時間：13:30~16:30，幹細胞醫學組學生必修。上課地點：中研院基因體研究中心4F會議室。",
+                "cos_ename": "Stem Cell Biology",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "305",
+                "dep_primary": "2",
+                "dep_cname": "分子醫學博士學位學程",
+                "dep_ename": "Program in Molecular Medicine",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_141005": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "141005",
+                "cos_code": "MDDT30022",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "轉譯醫學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "謝清河",
+                "cos_time": "W234n-",
+                "memo": "[English Medium Course]上課時間：9:30~12:30，限轉譯醫學博士學位學程學生修讀。上課地點：中研院生醫所B1B。",
+                "cos_ename": "Translational Medicine",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "305",
+                "dep_primary": "2",
+                "dep_cname": "分子醫學博士學位學程",
+                "dep_ename": "Program in Molecular Medicine",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_142903": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "142903",
+                "cos_code": "LSNS30002",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "基礎神經科學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "陳志成、連正章、洪成志、陳俊安",
+                "cos_time": "W567-",
+                "memo": "1.全英語授課課程。\n2.上課地點：中研院跨領域大樓C101會議室。[English Medium Course]",
+                "cos_ename": "Introduction to Neuroscience",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "305",
+                "dep_primary": "2",
+                "dep_cname": "分子醫學博士學位學程",
+                "dep_ename": "Program in Molecular Medicine",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            }
+        },
+        "costype": {
+            "1121_130104": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_133601": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_133602": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_133603": {
+                "專題演講_專題演講": {
+                    "course_category_cname": "專題演講_專題演講",
+                    "course_category_ename": "",
+                    "course_category_type": "62",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_133604": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_140805": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_140809": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_140810": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_141003": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_141005": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_142800": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_142801": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_142802": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_142803": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_142804": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_142805": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_142806": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_142807": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_142808": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_142809": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_142810": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_142811": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_142903": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_130104": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_133601": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_133602": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_133603": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_133604": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_140805": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_140809": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_140810": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_141003": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_141005": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_142800": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_142801": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_142802": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_142803": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_142804": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_142805": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_142806": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_142807": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_142808": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_142809": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_142810": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_142811": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_142903": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_130104": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_133601": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_133602": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_133603": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_133604": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_140805": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_140809": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_140810": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_141003": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_141005": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_142800": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_142801": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_142802": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_142803": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_142804": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_142805": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_142806": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_142807": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_142808": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_142809": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_142810": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_142811": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_142903": {
+                "授課語言代碼": "en-us"
+            }
+        },
+        "1": {
+            "1121_142800": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "142800",
+                "cos_code": "LSMM30006",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "分子醫學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "王書品、楊永正、黃介嶸、黃雪莉、葛一樊",
+                "cos_time": "T567-",
+                "memo": "全英語授課課程，上課時間：週二下午1:30-4:20，與TIGP共同上課。\n上課地點為中央研究院生物醫學科學研究所8樓教室。[English Medium Course]",
+                "cos_ename": "Molecular Medicine",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "305",
+                "dep_primary": "1",
+                "dep_cname": "分子醫學博士學位學程",
+                "dep_ename": "Program in Molecular Medicine",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_142801": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "142801",
+                "cos_code": "LSMM30007",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "分子醫學專題討論",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "分子醫學學程、黃奇英、李學德、徐嘉琳、葛一樊、陳威儀、陳斯婷、柯泰名、蔡雨寰、謝清河、謝小燕、陳志成、賴時磊、王書品、陳世淯、王宜萱、李家偉",
+                "cos_time": "F56-YL404[YM]",
+                "memo": "全英語授課課程，與TIGP合班上課。[English Medium Course]",
+                "cos_ename": "Seminar on Molecular Medicine",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "305",
+                "dep_primary": "1",
+                "dep_cname": "分子醫學博士學位學程",
+                "dep_ename": "Program in Molecular Medicine",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_142802": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "142802",
+                "cos_code": "LSMM30012",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "實驗室輪習",
+                "cos_credit": "1.00",
+                "cos_hours": ".00",
+                "TURL": "",
+                "teacher": "連正章",
+                "cos_time": "",
+                "memo": "本學程博士班一年級一般生必修課程",
+                "cos_ename": "Laboratory Rotation",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "305",
+                "dep_primary": "1",
+                "dep_cname": "分子醫學博士學位學程",
+                "dep_ename": "Program in Molecular Medicine",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_142803": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "142803",
+                "cos_code": "LSMM30020",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "論文研究",
+                "cos_credit": ".00",
+                "cos_hours": ".00",
+                "TURL": "",
+                "teacher": "連正章",
+                "cos_time": "",
+                "memo": "本學程(一般生)學生通過資格考後，每年需修課一次。",
+                "cos_ename": "Progress Report",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "305",
+                "dep_primary": "1",
+                "dep_cname": "分子醫學博士學位學程",
+                "dep_ename": "Program in Molecular Medicine",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_142804": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "142804",
+                "cos_code": "LSMM30021",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "論文研究",
+                "cos_credit": "1.00",
+                "cos_hours": ".00",
+                "TURL": "",
+                "teacher": "連正章",
+                "cos_time": "",
+                "memo": "本學程(在職生組)二年級以上學生選修，每學年須選修。",
+                "cos_ename": "Progress Report",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "305",
+                "dep_primary": "1",
+                "dep_cname": "分子醫學博士學位學程",
+                "dep_ename": "Program in Molecular Medicine",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_142805": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "142805",
+                "cos_code": "LSMM30007",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "分子醫學專題討論",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "分子醫學學程、李學德、陳威儀、蔡雨寰",
+                "cos_time": "F56-YL403[YM]",
+                "memo": "全英語授課課程，與TIGP合班上課。[English Medium Course]",
+                "cos_ename": "Seminar on Molecular Medicine",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "305",
+                "dep_primary": "1",
+                "dep_cname": "分子醫學博士學位學程",
+                "dep_ename": "Program in Molecular Medicine",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_142806": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "142806",
+                "cos_code": "LSMM30007",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "分子醫學專題討論",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "分子醫學學程、黃奇英、陳斯婷",
+                "cos_time": "F56-YL630[YM]",
+                "memo": "全英語授課課程，與TIGP合班上課。[English Medium Course]",
+                "cos_ename": "Seminar on Molecular Medicine",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "305",
+                "dep_primary": "1",
+                "dep_cname": "分子醫學博士學位學程",
+                "dep_ename": "Program in Molecular Medicine",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_142807": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "142807",
+                "cos_code": "LSMM30005",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "分子細胞生物學",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "李秀敏",
+                "cos_time": "M34-",
+                "memo": "全英語授課課程，與TIGP合班上課。\n上課地點中央研究院[English Medium Course]",
+                "cos_ename": "Molecular and Cell Biology",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "305",
+                "dep_primary": "1",
+                "dep_cname": "分子醫學博士學位學程",
+                "dep_ename": "Program in Molecular Medicine",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_142808": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "142808",
+                "cos_code": "LSMM30026",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "分子與細胞生物學技術與原理",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "廖南詩",
+                "cos_time": "M7-",
+                "memo": "全英語授課課程，與TIGP合班上課。\n上課地點中央研究院[English Medium Course]\n實際上課時間請詢問開課單位",
+                "cos_ename": "Eexperimental Approaches in Molecular and Cell Biology",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "305",
+                "dep_primary": "1",
+                "dep_cname": "分子醫學博士學位學程",
+                "dep_ename": "Program in Molecular Medicine",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_142809": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "142809",
+                "cos_code": "LSMM30024",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "進階動物生物學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "分子醫學學程",
+                "cos_time": "R678-",
+                "memo": "[English Medium Course]上課時間：每週四14:00~17:00\n任課教師：許惠真\n上課教室：A236, Agricultural Technology Building, Academia Sinica",
+                "cos_ename": "Advenced Animal Biology",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "305",
+                "dep_primary": "1",
+                "dep_cname": "分子醫學博士學位學程",
+                "dep_ename": "Program in Molecular Medicine",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_142810": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "142810",
+                "cos_code": "LSMM30023",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "當代分子生物學研究核心方法",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "廖南詩",
+                "cos_time": "M8-",
+                "memo": "全英語授課課程，與TIGP合班上課。\n上課地點中央研究院[English Medium Course]\n實際上課時間請詢問開課單位",
+                "cos_ename": "Core approaches for currentmolecular biology research",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "305",
+                "dep_primary": "1",
+                "dep_cname": "分子醫學博士學位學程",
+                "dep_ename": "Program in Molecular Medicine",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_142811": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "142811",
+                "cos_code": "LSMM30025",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "植物化學和草藥",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "分子醫學學程",
+                "cos_time": "M34-",
+                "memo": "",
+                "cos_ename": "Phytochemistry and Herbal Medicine",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "305",
+                "dep_primary": "1",
+                "dep_cname": "分子醫學博士學位學程",
+                "dep_ename": "Program in Molecular Medicine",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            }
+        }
+    }
+}

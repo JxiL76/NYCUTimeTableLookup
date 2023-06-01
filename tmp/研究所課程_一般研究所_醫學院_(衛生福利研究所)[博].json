@@ -1,0 +1,1121 @@
+{
+    "B261AFEF-B9E3-4009-9249-66242C80C2BA": {
+        "dep_id": "B261AFEF-B9E3-4009-9249-66242C80C2BA",
+        "dep_cname": "衛生福利研究所",
+        "dep_ename": "Institute of Health and Welfare Policy",
+        "2": {
+            "1121_130200": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130200",
+                "cos_code": "MDPH30051",
+                "num_limit": "135",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生物統計學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "林逸芬",
+                "cos_time": "R34-YX216[YM]",
+                "memo": "",
+                "cos_ename": "Biostatistics",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "109",
+                "dep_primary": "2",
+                "dep_cname": "衛生福利研究所",
+                "dep_ename": "Institute of Health and Welfare Policy",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130202": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130202",
+                "cos_code": "MDPH30053",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生物統計方法",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "郭炤裕",
+                "cos_time": "R234-YX406[YM]",
+                "memo": "",
+                "cos_ename": "Biostatistical Methods",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "109",
+                "dep_primary": "2",
+                "dep_cname": "衛生福利研究所",
+                "dep_ename": "Institute of Health and Welfare Policy",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130211": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130211",
+                "cos_code": "MDPH30034",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "流行病學概論",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "周碧瑟",
+                "cos_time": "R56-YS221[YM]",
+                "memo": "經授課教師同意開放隨班附讀",
+                "cos_ename": "Introductory Epidemiology",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "109",
+                "dep_primary": "2",
+                "dep_cname": "衛生福利研究所",
+                "dep_ename": "Institute of Health and Welfare Policy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130214": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130214",
+                "cos_code": "MDPH30038",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "流行病學方法",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "莊宜芳、陳信任",
+                "cos_time": "R789-YT205[YM]",
+                "memo": "",
+                "cos_ename": "Epidemiologic Methods",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "109",
+                "dep_primary": "2",
+                "dep_cname": "衛生福利研究所",
+                "dep_ename": "Institute of Health and Welfare Policy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130506": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130506",
+                "cos_code": "MDHH30044",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "群體健康:概念與評估",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "藍祚運、喬芷、陳信任",
+                "cos_time": "T78-YN511[YM]",
+                "memo": "管理與政策必選修之一。",
+                "cos_ename": "Population Health: Concepts and Assessment",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "109",
+                "dep_primary": "2",
+                "dep_cname": "衛生福利研究所",
+                "dep_ename": "Institute of Health and Welfare Policy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130600": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130600",
+                "cos_code": "MDTM30010",
+                "num_limit": "70",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "中藥概論",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "陳日榮、沈雅敬、翁芸芳、蔡忠志、廖家慶",
+                "cos_time": "T34-YK533[YM]",
+                "memo": "藥學系、傳醫所、衛福所合班上課",
+                "cos_ename": "Introduction to Chinese Materia Medica",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "109",
+                "dep_primary": "2",
+                "dep_cname": "衛生福利研究所",
+                "dep_ename": "Institute of Health and Welfare Policy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "14",
+                "depType": "D"
+            },
+            "1121_130700": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130700",
+                "cos_code": "MDHW30018",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "社會福利學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "周月清",
+                "cos_time": "R56-YN613[YM]",
+                "memo": "大學未修過此堂課者必修",
+                "cos_ename": "Introduction to Social Welfare",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "109",
+                "dep_primary": "2",
+                "dep_cname": "衛生福利研究所",
+                "dep_ename": "Institute of Health and Welfare Policy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130701": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130701",
+                "cos_code": "MDHW30044",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "衛生福利專題討論(A)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "簡麗年、藍凡耘",
+                "cos_time": "T56-YN613[YM]",
+                "memo": "碩、博士班必選",
+                "cos_ename": "Seminar on Health and Welfare Research (A)",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "109",
+                "dep_primary": "2",
+                "dep_cname": "衛生福利研究所",
+                "dep_ename": "Institute of Health and Welfare Policy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130702": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130702",
+                "cos_code": "MDHW30016",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "研究法",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "喬芷、林文旭、李玉春",
+                "cos_time": "T34-YN613[YM]",
+                "memo": "碩士班必修",
+                "cos_ename": "Research Methods",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "109",
+                "dep_primary": "2",
+                "dep_cname": "衛生福利研究所",
+                "dep_ename": "Institute of Health and Welfare Policy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130703": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130703",
+                "cos_code": "MDHW30019",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "社會科學與行為原理",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "喬芷、藍祚運、陳信任、林文旭、陳翎",
+                "cos_time": "W34-YN613[YM]",
+                "memo": "",
+                "cos_ename": "Social science & Behavioral Science",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "109",
+                "dep_primary": "2",
+                "dep_cname": "衛生福利研究所",
+                "dep_ename": "Institute of Health and Welfare Policy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130704": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130704",
+                "cos_code": "MDHW30009",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "口述歷史與敘事倫理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "蔡篤堅",
+                "cos_time": "S567-",
+                "memo": "上課地點另行通知，欲旁聽或加選本課程，請先與衛福所所辦聯繫，分機65316。",
+                "cos_ename": "Oral History and Narrative ethics",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "109",
+                "dep_primary": "2",
+                "dep_cname": "衛生福利研究所",
+                "dep_ename": "Institute of Health and Welfare Policy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130705": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130705",
+                "cos_code": "MDHW30004",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "健康與長期照護實務應用",
+                "cos_credit": "3.00",
+                "cos_hours": "6.40",
+                "TURL": "",
+                "teacher": "吳肖琪",
+                "cos_time": "U123-",
+                "memo": "暑假實務應用課程",
+                "cos_ename": "Practical Application of Health and Long Term Care Administration",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "109",
+                "dep_primary": "2",
+                "dep_cname": "衛生福利研究所",
+                "dep_ename": "Institute of Health and Welfare Policy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130706": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130706",
+                "cos_code": "MDHW30007",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "公共政策",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "周月清、待聘",
+                "cos_time": "M34-YN613[YM]",
+                "memo": "",
+                "cos_ename": "Public Policy Analysis and Synthesis",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "109",
+                "dep_primary": "2",
+                "dep_cname": "衛生福利研究所",
+                "dep_ename": "Institute of Health and Welfare Policy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130707": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130707",
+                "cos_code": "MDHW30036",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "身心障礙福利政策服務與研究",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "周月清",
+                "cos_time": "T789-YN613[YM]",
+                "memo": "",
+                "cos_ename": "Disability Welfare Policy, Services and Research",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "109",
+                "dep_primary": "2",
+                "dep_cname": "衛生福利研究所",
+                "dep_ename": "Institute of Health and Welfare Policy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130709": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130709",
+                "cos_code": "MDHW30042",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "醫療社會學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "林志遠",
+                "cos_time": "",
+                "memo": "大學部可選修",
+                "cos_ename": "Medical Sociology",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "109",
+                "dep_primary": "2",
+                "dep_cname": "衛生福利研究所",
+                "dep_ename": "Institute of Health and Welfare Policy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130710": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130710",
+                "cos_code": "MDHW30043",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "醫療照護政策",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "吳肖琪、廖敏桂",
+                "cos_time": "T12-YN613[YM]",
+                "memo": "",
+                "cos_ename": "Health Care Policy",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "109",
+                "dep_primary": "2",
+                "dep_cname": "衛生福利研究所",
+                "dep_ename": "Institute of Health and Welfare Policy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130711": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130711",
+                "cos_code": "MDHW30030",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "長期照護政策",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "吳肖琪、蔡芳文、林麗嬋、周道君、王英偉、鄭淑心",
+                "cos_time": "R12-YN613[YM]",
+                "memo": "",
+                "cos_ename": "Long Term Care Policy",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "109",
+                "dep_primary": "2",
+                "dep_cname": "衛生福利研究所",
+                "dep_ename": "Institute of Health and Welfare Policy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_131022": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131022",
+                "cos_code": "MDBI30005",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "健康資訊學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "張博論",
+                "cos_time": "M12-YR104[YM]",
+                "memo": "[English Medium Course]全英文授課。",
+                "cos_ename": "Introduction to Health Informatics",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "109",
+                "dep_primary": "2",
+                "dep_cname": "衛生福利研究所",
+                "dep_ename": "Institute of Health and Welfare Policy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_131023": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131023",
+                "cos_code": "MDBI30003",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "使用者經驗及界面設計",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "張博論",
+                "cos_time": "M34-YR104[YM]",
+                "memo": "",
+                "cos_ename": "User Experience and Interface Design",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "109",
+                "dep_primary": "2",
+                "dep_cname": "衛生福利研究所",
+                "dep_ename": "Institute of Health and Welfare Policy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_133502": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "133502",
+                "cos_code": "XDLC30030",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "長照跨專業服務與整合",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳怡如、季麟揚、吳肖琪、李淑貞、李雪楨、許銘能、林麗嬋、林金立、侯勝宗、李玉春、孫文榮、高蕭國帆、蔡宜蓉、郭育誠、周志展、何佳珍",
+                "cos_time": "T12-YN118[YM]",
+                "memo": "",
+                "cos_ename": "Transdisciplinary Long-Term Care Services and Integration",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "109",
+                "dep_primary": "2",
+                "dep_cname": "衛生福利研究所",
+                "dep_ename": "Institute of Health and Welfare Policy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_133504": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "133504",
+                "cos_code": "XDLC30028",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "長照給付支付照管及個管",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "吳肖琪、李淑貞、林麗嬋、李玉春、張淑卿、鄧菁菁",
+                "cos_time": "T56-YN118[YM]",
+                "memo": "",
+                "cos_ename": "Long-Term Care Benefits/Payment  Design, Care And Case Management",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "109",
+                "dep_primary": "2",
+                "dep_cname": "衛生福利研究所",
+                "dep_ename": "Institute of Health and Welfare Policy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            }
+        },
+        "costype": {
+            "1121_130200": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130202": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130211": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130214": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130506": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130600": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130700": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130701": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130702": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130703": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130704": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130705": {
+                "一般實習_一般實習": {
+                    "course_category_cname": "一般實習_一般實習",
+                    "course_category_ename": "Off-Campus Internship_Off-Campus Internship",
+                    "course_category_type": "26",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130706": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130707": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130708": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130709": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130710": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130711": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131022": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131023": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_133502": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_133504": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_140500": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_140501": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_130200": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130202": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130211": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130214": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130506": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130600": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130700": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130701": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130702": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130703": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130704": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130705": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130706": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130707": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130708": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130709": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130710": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130711": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131022": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131023": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_133502": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_133504": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_140500": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_140501": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_130200": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130202": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130211": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130214": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130506": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130600": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130700": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130701": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130702": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130703": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130704": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130705": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130706": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130707": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130708": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130709": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130710": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130711": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131022": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_131023": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_133502": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_133504": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_140500": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_140501": {
+                "授課語言代碼": "zh-tw"
+            }
+        },
+        "1": {
+            "1121_130708": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130708",
+                "cos_code": "MDHW30006",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "健康照護制度評估研究",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "李玉春、楊銘欽",
+                "cos_time": "R78-YN613[YM]",
+                "memo": "博士班特論",
+                "cos_ename": "Evaluation of Health and Health Care System",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "109",
+                "dep_primary": "1",
+                "dep_cname": "衛生福利研究所",
+                "dep_ename": "Institute of Health and Welfare Policy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_140500": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "140500",
+                "cos_code": "MDHW30023",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "藥事經濟特論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "蔡憶文、高純琇、黃文鴻",
+                "cos_time": "T78-YN611[YM]",
+                "memo": "",
+                "cos_ename": "Advanced Readings in Pharmacoeconomics",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "109",
+                "dep_primary": "1",
+                "dep_cname": "衛生福利研究所",
+                "dep_ename": "Institute of Health and Welfare Policy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_140501": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "140501",
+                "cos_code": "MDHW30033",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "高等研究法",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "蔡憶文、簡麗年",
+                "cos_time": "T34-YN611[YM]",
+                "memo": "博班必修",
+                "cos_ename": "Advanced Health & Social Services Research Methods",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "109",
+                "dep_primary": "1",
+                "dep_cname": "衛生福利研究所",
+                "dep_ename": "Institute of Health and Welfare Policy",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            }
+        }
+    }
+}

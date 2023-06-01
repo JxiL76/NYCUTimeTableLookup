@@ -1,0 +1,1121 @@
+{
+    "7086F2AE-2077-47C3-9F35-E454261FEAF6": {
+        "dep_id": "7086F2AE-2077-47C3-9F35-E454261FEAF6",
+        "dep_cname": "生物醫學工程學系",
+        "dep_ename": "Institute of Biomedical Engineering",
+        "2": {
+            "1121_132300": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132300",
+                "cos_code": "BEBE30042",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "醫學工程概論",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "劉澤英、朱唯勤、詹家泰、陳右穎、林峻立、江明彰、駱俊良、劉承揚、賴穎暉、劉大中",
+                "cos_time": "T12R12-YX501[YM]",
+                "memo": "",
+                "cos_ename": "Introduction to Biomedical Engineering",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "261",
+                "dep_primary": "2",
+                "dep_cname": "生物醫學工程學系",
+                "dep_ename": "Institute of Biomedical Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132301": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132301",
+                "cos_code": "BEBE20013",
+                "num_limit": "40",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "心肺生理學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳高揚",
+                "cos_time": "T9a-YEA200[YM]",
+                "memo": "",
+                "cos_ename": "Cardiopulmonary Physiology",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "261",
+                "dep_primary": "2",
+                "dep_cname": "生物醫學工程學系",
+                "dep_ename": "Institute of Biomedical Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132304": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132304",
+                "cos_code": "BEBE30018",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "材料科學導論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "劉澤英",
+                "cos_time": "",
+                "memo": "",
+                "cos_ename": "Introduction to Materials Science",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "261",
+                "dep_primary": "2",
+                "dep_cname": "生物醫學工程學系",
+                "dep_ename": "Institute of Biomedical Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132305": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132305",
+                "cos_code": "BEBE20010",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "工程數學(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "江明彰",
+                "cos_time": "F34n-YX501[YM]",
+                "memo": "",
+                "cos_ename": "Engineering Mathematics Ⅰ",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "261",
+                "dep_primary": "2",
+                "dep_cname": "生物醫學工程學系",
+                "dep_ename": "Institute of Biomedical Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "28",
+                "depType": "D"
+            },
+            "1121_132306": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132306",
+                "cos_code": "BEBE30048",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "高分子合成",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "駱俊良",
+                "cos_time": "W567-YEA325[YM]",
+                "memo": "",
+                "cos_ename": "Polymer Synthesis",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "261",
+                "dep_primary": "2",
+                "dep_cname": "生物醫學工程學系",
+                "dep_ename": "Institute of Biomedical Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132307": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132307",
+                "cos_code": "BEBE20037",
+                "num_limit": "35",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "腫瘤醫學的工程與科技應用",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "李卓穎",
+                "cos_time": "W567-YEA200[YM]",
+                "memo": "學碩合開，限大四生可選修",
+                "cos_ename": "Science and engineering technology in clinical oncology",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "261",
+                "dep_primary": "2",
+                "dep_cname": "生物醫學工程學系",
+                "dep_ename": "Institute of Biomedical Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132308": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132308",
+                "cos_code": "BEBE30034",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "數位醫療儀器設計",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "賴穎暉",
+                "cos_time": "R34n-YT103[YM]",
+                "memo": "",
+                "cos_ename": "Digital Medical Instrumentation Design",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "261",
+                "dep_primary": "2",
+                "dep_cname": "生物醫學工程學系",
+                "dep_ename": "Institute of Biomedical Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132309": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132309",
+                "cos_code": "BEBE30019",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "無線區域及個人網路技術與應用",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "詹家泰",
+                "cos_time": "R34n-YEA205[YM]",
+                "memo": "",
+                "cos_ename": "Wireless Networking",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "261",
+                "dep_primary": "2",
+                "dep_cname": "生物醫學工程學系",
+                "dep_ename": "Institute of Biomedical Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132310": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132310",
+                "cos_code": "BEBE30044",
+                "num_limit": "35",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "量測及儀表",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "羅俊民",
+                "cos_time": "R34n-YEA200[YM]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Measurements and Instrumentation",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "261",
+                "dep_primary": "2",
+                "dep_cname": "生物醫學工程學系",
+                "dep_ename": "Institute of Biomedical Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132311": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132311",
+                "cos_code": "BEBE20033",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "神經工程",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "陳右穎",
+                "cos_time": "M34n-YEA205[YM]",
+                "memo": "",
+                "cos_ename": "Neuroengineering",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "261",
+                "dep_primary": "2",
+                "dep_cname": "生物醫學工程學系",
+                "dep_ename": "Institute of Biomedical Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132312": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132312",
+                "cos_code": "BEBE20045",
+                "num_limit": "15",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "醫療植入物功能性測試與實務操作",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "林峻立",
+                "cos_time": "M567-YEA200[YM]",
+                "memo": "",
+                "cos_ename": "Medical implant functional testing and practical operation",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "261",
+                "dep_primary": "2",
+                "dep_cname": "生物醫學工程學系",
+                "dep_ename": "Institute of Biomedical Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132313": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132313",
+                "cos_code": "BEBE30028",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "磁振造影",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "江明彰",
+                "cos_time": "T34n-YEA200-1[Y",
+                "memo": "",
+                "cos_ename": "Magnetic resonance imaging",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "261",
+                "dep_primary": "2",
+                "dep_cname": "生物醫學工程學系",
+                "dep_ename": "Institute of Biomedical Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132314": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132314",
+                "cos_code": "BEBE20035",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "細胞生物學與研究技術",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "張智銘",
+                "cos_time": "F234-YEA205[YM]",
+                "memo": "108學年第一學期新聘兼任教師 張智銘助理教授",
+                "cos_ename": "Cell biology and research technique",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "261",
+                "dep_primary": "2",
+                "dep_cname": "生物醫學工程學系",
+                "dep_ename": "Institute of Biomedical Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132315": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132315",
+                "cos_code": "BEBE30020",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生理學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "蕭慶華",
+                "cos_time": "F567-YEA200[YM]",
+                "memo": "",
+                "cos_ename": "Physiology",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "261",
+                "dep_primary": "2",
+                "dep_cname": "生物醫學工程學系",
+                "dep_ename": "Institute of Biomedical Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132316": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132316",
+                "cos_code": "BEBE20029",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "https://cyliu66.web.nycu.edu.tw/",
+                "cos_cname": "生醫光學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://cyliu66.web.nycu.edu.tw/",
+                "teacher": "劉承揚",
+                "cos_time": "M567-YT204[YM]",
+                "memo": "",
+                "cos_ename": "Biomedical Optics",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "261",
+                "dep_primary": "2",
+                "dep_cname": "生物醫學工程學系",
+                "dep_ename": "Institute of Biomedical Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132317": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132317",
+                "cos_code": "BEBE30052",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生醫電化學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "劉大中",
+                "cos_time": "M34n-YEA301[YM]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Electrochemistry for Biomedical Engineering",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "261",
+                "dep_primary": "2",
+                "dep_cname": "生物醫學工程學系",
+                "dep_ename": "Institute of Biomedical Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132318": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132318",
+                "cos_code": "BEBE30053",
+                "num_limit": "60",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "多模態感測技術於醫材開發應用",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "賴穎暉、林峻立、劉承揚、陳榮治",
+                "cos_time": "W234-YX502[YM]",
+                "memo": "",
+                "cos_ename": "Development and Application of Medical Device with Multimodal Sensing Technology",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "261",
+                "dep_primary": "2",
+                "dep_cname": "生物醫學工程學系",
+                "dep_ename": "Institute of Biomedical Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132319": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132319",
+                "cos_code": "BEBE30051",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "薄膜製程在生醫工程的應用",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "謝章興",
+                "cos_time": "W567-YEA301[YM]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Thin film processing for biomedical applications",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "261",
+                "dep_primary": "2",
+                "dep_cname": "生物醫學工程學系",
+                "dep_ename": "Institute of Biomedical Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132320": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132320",
+                "cos_code": "BEBE20039",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "臨床工程實務",
+                "cos_credit": "1.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "陳右穎、林重榮、林伯剛、蔣恩榮、張誌剛、李思慧、吳思賢、鄭瑞駿、郭泠、劉馨惠、黃逸修",
+                "cos_time": "T567-YT304[YM]",
+                "memo": "",
+                "cos_ename": "Workshop in Clinical Engineering",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "261",
+                "dep_primary": "2",
+                "dep_cname": "生物醫學工程學系",
+                "dep_ename": "Institute of Biomedical Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132321": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132321",
+                "cos_code": "BEBE30049",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "高等材料力學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "鄔蜀威",
+                "cos_time": "M234-YT204[YM]",
+                "memo": "限修過材料力學",
+                "cos_ename": "Advanced Material Mechanics",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "261",
+                "dep_primary": "2",
+                "dep_cname": "生物醫學工程學系",
+                "dep_ename": "Institute of Biomedical Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132322": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132322",
+                "cos_code": "BEBE30027",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "界面現象",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "蔡瑞瑩",
+                "cos_time": "M89a-YEA301[YM]",
+                "memo": "開放大學部修課",
+                "cos_ename": "Interfacial Phenomena",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "261",
+                "dep_primary": "2",
+                "dep_cname": "生物醫學工程學系",
+                "dep_ename": "Institute of Biomedical Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132323": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132323",
+                "cos_code": "BEBE30054",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "超音波影像與生醫應用",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "江惠華",
+                "cos_time": "M678-YEA205[YM]",
+                "memo": "",
+                "cos_ename": "Ultrasound Image and Biomedical Application",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "261",
+                "dep_primary": "2",
+                "dep_cname": "生物醫學工程學系",
+                "dep_ename": "Institute of Biomedical Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_140306": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "140306",
+                "cos_code": "MDCM30019",
+                "num_limit": "25",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "幹細胞生物學特論",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "李光申、何慧君、楊智宇",
+                "cos_time": "M34-YL404[YM]",
+                "memo": "",
+                "cos_ename": "Advanced Stem Cell Biology",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "261",
+                "dep_primary": "2",
+                "dep_cname": "生物醫學工程學系",
+                "dep_ename": "Institute of Biomedical Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            }
+        },
+        "costype": {
+            "1121_132300": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132301": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132303": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132304": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132305": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132306": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132307": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132308": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132309": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132310": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132311": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132312": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132313": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132314": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132315": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132316": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132317": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132318": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132319": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132320": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132321": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132322": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132323": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_140306": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_132300": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132301": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132303": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132304": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132305": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132306": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132307": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132308": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132309": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132310": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132311": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132312": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132313": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132314": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132315": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132316": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132317": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132318": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132319": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132320": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132321": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132322": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132323": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_140306": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_132300": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132301": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132303": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_132304": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132305": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132306": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132307": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132308": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132309": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132310": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_132311": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132312": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132313": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132314": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132315": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132316": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132317": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_132318": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132319": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_132320": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132321": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132322": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132323": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_140306": {
+                "授課語言代碼": "zh-tw"
+            }
+        },
+        "1": {
+            "1121_132303": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132303",
+                "cos_code": "BEBE30040",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "醫學工程專題討論(博)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "劉澤英、朱唯勤、詹家泰、陳右穎、林峻立、江明彰、駱俊良、李泉、劉承揚、羅俊民、賴穎暉、劉大中、黃偉順、陳柏均",
+                "cos_time": "R89-YB100[YM]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Seminar",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "261",
+                "dep_primary": "1",
+                "dep_cname": "生物醫學工程學系",
+                "dep_ename": "Institute of Biomedical Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            }
+        }
+    }
+}

@@ -1,0 +1,535 @@
+{
+    "DA5BA833-FBD2-4842-8445-5DA53A84F2C5": {
+        "dep_id": "DA5BA833-FBD2-4842-8445-5DA53A84F2C5",
+        "dep_cname": "統計學研究所",
+        "dep_ename": "Institute of Statistics",
+        "1": {
+            "1121_536900": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536900",
+                "cos_code": "SCIS30007",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "因果推論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "林聖軒",
+                "cos_time": "M234-A406[GF]",
+                "memo": "",
+                "cos_ename": "Causal Inference",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "657",
+                "dep_primary": "1",
+                "dep_cname": "統計學研究所",
+                "dep_ename": "Institute of Statistics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536901": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536901",
+                "cos_code": "SCIS30072",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "迴歸分析",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "林聖軒",
+                "cos_time": "M567-A406[GF]",
+                "memo": "",
+                "cos_ename": "Regression Analysis",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "657",
+                "dep_primary": "1",
+                "dep_cname": "統計學研究所",
+                "dep_ename": "Institute of Statistics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536902": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536902",
+                "cos_code": "SCIS30056",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "統計諮詢",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "王秀瑛",
+                "cos_time": "M567-A407[GF]",
+                "memo": "",
+                "cos_ename": "Consulting in Statistics",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "657",
+                "dep_primary": "1",
+                "dep_cname": "統計學研究所",
+                "dep_ename": "Institute of Statistics",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536903": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536903",
+                "cos_code": "SCIS30023",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "數理統計(碩)",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "http://www.stat.nctu.edu.tw/subhtml/source/teachers/cchen.htm",
+                "teacher": "陳志榮",
+                "cos_time": "T34R56-A406[GF]",
+                "memo": "",
+                "cos_ename": "Mathematical Statistics",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "657",
+                "dep_primary": "1",
+                "dep_cname": "統計學研究所",
+                "dep_ename": "Institute of Statistics",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536904": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536904",
+                "cos_code": "SCIS30066",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "財務統計方法",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "高竹嵐",
+                "cos_time": "T567-A406[GF]",
+                "memo": "",
+                "cos_ename": "Statistical Methods in Finance",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "657",
+                "dep_primary": "1",
+                "dep_cname": "統計學研究所",
+                "dep_ename": "Institute of Statistics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536905": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536905",
+                "cos_code": "SCIS30006",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "品質管制",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "王秀瑛",
+                "cos_time": "W234-A406[GF]",
+                "memo": "",
+                "cos_ename": "Quality Control",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "657",
+                "dep_primary": "1",
+                "dep_cname": "統計學研究所",
+                "dep_ename": "Institute of Statistics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536906": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536906",
+                "cos_code": "SCIS30051",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "統計推論(博)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://www.stat.nctu.edu.tw/subhtml/source/teachers/cchen.htm",
+                "teacher": "陳志榮",
+                "cos_time": "W567-A406[GF]",
+                "memo": "",
+                "cos_ename": "Statistical Inference",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "657",
+                "dep_primary": "1",
+                "dep_cname": "統計學研究所",
+                "dep_ename": "Institute of Statistics",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536907": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536907",
+                "cos_code": "SCIS30024",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "數據科學概論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://www.stat.nctu.edu.tw/~misg/eindex.htm",
+                "teacher": "盧鴻興",
+                "cos_time": "W567-A407[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Introduction to Data Science",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "657",
+                "dep_primary": "1",
+                "dep_cname": "統計學研究所",
+                "dep_ename": "Institute of Statistics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536908": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536908",
+                "cos_code": "SCIS30082",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "高等倖存分析",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "王維菁",
+                "cos_time": "R234-A406[GF]",
+                "memo": "",
+                "cos_ename": "Advanced Survival Analysis",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "657",
+                "dep_primary": "1",
+                "dep_cname": "統計學研究所",
+                "dep_ename": "Institute of Statistics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536909": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536909",
+                "cos_code": "SCIS30013",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "專題討論",
+                "cos_credit": ".00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "高竹嵐",
+                "cos_time": "F34n-A427[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Seminar",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "657",
+                "dep_primary": "1",
+                "dep_cname": "統計學研究所",
+                "dep_ename": "Institute of Statistics",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536910": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536910",
+                "cos_code": "SCIS30031",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "深度學習於醫學影像分析",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://ghuang.stat.nycu.edu.tw/",
+                "teacher": "黃冠華",
+                "cos_time": "F567-A406[GF]",
+                "memo": "",
+                "cos_ename": "Deep learning in medical image analysis",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "657",
+                "dep_primary": "1",
+                "dep_cname": "統計學研究所",
+                "dep_ename": "Institute of Statistics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            }
+        },
+        "costype": {
+            "1121_536900": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536901": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536902": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536903": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536904": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536905": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536906": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536907": {
+                "基本素養-量性推理_基本素養-量性推理": {
+                    "course_category_cname": "基本素養-量性推理_基本素養-量性推理",
+                    "course_category_ename": "Foundation-quantitative_FCQR",
+                    "course_category_type": "45",
+                    "GECIName": "電,資,人",
+                    "GECIEngName": "ECE,CCS,CHS"
+                },
+                "通識校基本素養_通識校基本": {
+                    "course_category_cname": "通識校基本素養_通識校基本",
+                    "course_category_ename": "General Education Course: Literacy_GECL",
+                    "course_category_type": "15",
+                    "GECIName": "電,資,人",
+                    "GECIEngName": "ECE,CCS,CHS"
+                },
+                "通識跨院基本素養_通識跨院": {
+                    "course_category_cname": "通識跨院基本素養_通識跨院",
+                    "course_category_ename": "General Education Course: Intercollegiate_GECI",
+                    "course_category_type": "16",
+                    "GECIName": "電,資,人",
+                    "GECIEngName": "ECE,CCS,CHS"
+                }
+            },
+            "1121_536908": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536909": {
+                "專題演講_專題演講": {
+                    "course_category_cname": "專題演講_專題演講",
+                    "course_category_ename": "",
+                    "course_category_type": "62",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536910": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_536900": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536901": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536902": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536903": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536904": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536905": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536906": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536907": {
+                "A504,A505,Z102": {
+                    "brief_code": "A504,A505,Z102",
+                    "brief": "跨院基本素養(106),校基本素養(106),基本素養-量性推理(110)"
+                }
+            },
+            "1121_536908": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536909": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536910": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_536900": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536901": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536902": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536903": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536904": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536905": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536906": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536907": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_536908": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536909": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_536910": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    }
+}

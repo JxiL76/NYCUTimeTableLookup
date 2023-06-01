@@ -1,0 +1,1885 @@
+{
+    "F00EDD06-BBF6-4E4F-AF53-174E267DBFA7": {
+        "dep_id": "F00EDD06-BBF6-4E4F-AF53-174E267DBFA7",
+        "dep_cname": "電機資訊國際博士學位學程",
+        "dep_ename": "EECS International Graduate Program",
+        "2": {
+            "1121_535211": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535211",
+                "cos_code": "EEIE30002",
+                "num_limit": "60",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "二維半導體概論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://dhlien.wixsite.com/dhlien",
+                "teacher": "連德軒",
+                "cos_time": "M56-ED101[GF],R4-ED301[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Introduction to 2D Semiconductors",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535215": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535215",
+                "cos_code": "EEIE30067",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "表面電漿子與超穎物質元件",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "曾銘綸",
+                "cos_time": "F234-ED201[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Nano-plasmonics &amp; Metamaterials",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535218": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535218",
+                "cos_code": "EEIE30030",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "智慧霧運算系統和設計",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://wintech.ee.nctu.edu.tw/",
+                "teacher": "黃經堯",
+                "cos_time": "F234-",
+                "memo": "上課教室ED108",
+                "cos_ename": "Intelligent Fog Computing Systems and Designs",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535225": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535225",
+                "cos_code": "EEIE30052",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "醫療電子臨床導入",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "方偉騏",
+                "cos_time": "R678-EDB06[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Clinical Application of Medical Electronic Devices",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535233": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535233",
+                "cos_code": "EEIE30069",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "VLSI測試與可測試性設計",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "趙家佐",
+                "cos_time": "R789-EDB27[GF]",
+                "memo": "[English Medium Course]線上授課 Online Course",
+                "cos_ename": "VLSI Testing and Design for Testability",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535313": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535313",
+                "cos_code": "EECN30095",
+                "num_limit": "60",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "數位訊號處理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://web.it.nctu.edu.tw/~ypl/",
+                "teacher": "林源倍",
+                "cos_time": "F234-EE102[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Digital Signal Processing",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535316": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535316",
+                "cos_code": "EECN30095",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "數位訊號處理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "陳福川",
+                "cos_time": "T8R56-EE105[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Digital Signal Processing",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535317": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535317",
+                "cos_code": "EECN30193",
+                "num_limit": "60",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "超大型積體電路系統設計",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://pchao.cn.nctu.edu.tw",
+                "teacher": "趙昌博",
+                "cos_time": "T567-EE623[GF]",
+                "memo": "[English Medium Course]、【前瞻所丙組選修課程】",
+                "cos_ename": "VLSI System Design and Application",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535354": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535354",
+                "cos_code": "EECM30118",
+                "num_limit": "100",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "隨機過程",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://sites.google.com/g2.nctu.edu.tw/gaurunghung/home",
+                "teacher": "高榮鴻",
+                "cos_time": "M567-EDB26[GF]",
+                "memo": "[English Medium Course]、【AI學程專業選修】、[智能所甲組選修、丙組核心]",
+                "cos_ename": "Stochastic Processes",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535359": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535359",
+                "cos_code": "EECM30114",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "適應性訊號處理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "余俊宏",
+                "cos_time": "M234-ED103[GF]",
+                "memo": "[English Medium Course]、[智能所丙組選修]",
+                "cos_ename": "Adaptive Signal Processing",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535366": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535366",
+                "cos_code": "EECM30075",
+                "num_limit": "80",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "統計力學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "渡邊浩志",
+                "cos_time": "F789-ED103[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Statistical Mechanics",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535369": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535369",
+                "cos_code": "EECM30064",
+                "num_limit": "100",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "深度學習",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://www.eed.nctu.edu.tw/people/bio.php?PID=10805",
+                "teacher": "李佳翰",
+                "cos_time": "T567-ED219[GF]",
+                "memo": "[English Medium Course]、【AI學程專業必修】、[智能所甲丙組核心]",
+                "cos_ename": "Deep Learning",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535370": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535370",
+                "cos_code": "EECM30066",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "無線通訊",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "李明峻",
+                "cos_time": "R567-EDB07[GF]",
+                "memo": "[English Medium Course]、[智能所丙組核心]",
+                "cos_ename": "Wireless Communications",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535372": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535372",
+                "cos_code": "EECM30144",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "電漿科學與工程",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "寒川誠二",
+                "cos_time": "W789-ED203[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Plasma Science and Engineering",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535373": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535373",
+                "cos_code": "EECM30006",
+                "num_limit": "15",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "元件設計與模擬實驗",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://www.ymlab.org/",
+                "teacher": "李義明",
+                "cos_time": "Tabc-",
+                "memo": "[English Medium Course]、上課教室：ES503",
+                "cos_ename": "Device Design and Simulation Lab. ",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535374": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535374",
+                "cos_code": "EECM30018",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "天線理論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "黃謀勤",
+                "cos_time": "F567-ED303[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Antenna Theory",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535378": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535378",
+                "cos_code": "EECM30116",
+                "num_limit": "80",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "量子力學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "渡邊浩志",
+                "cos_time": "R789-EDB01[GF]",
+                "memo": "[English Medium Course]、[智能所丙組核心]",
+                "cos_ename": "Quantum Mechanics",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535416": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535416",
+                "cos_code": "EEEO30011",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "光學微影與解析度增益技術",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://www.ieo.nctu.edu.tw/ieophasor/",
+                "teacher": "余沛慈",
+                "cos_time": "T234-EO115[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Optical Micro-lithography(OML) and Resolution Enhancement Techniques",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535503": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535503",
+                "cos_code": "CSIC30083",
+                "num_limit": "40",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生醫資料探勘",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "胡毓志",
+                "cos_time": "Rabc-ED302[GF]",
+                "memo": "[English Medium Course]資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級",
+                "cos_ename": "Biomedical Data Mining",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535505": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535505",
+                "cos_code": "CSIC30015",
+                "num_limit": "40",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "作業系統",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "吳俊峯",
+                "cos_time": "W34-ED302[GF]",
+                "memo": "[English Medium Course]資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；博士班資格考考核科目；請依各所入學年度之修業要點選課;[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously],開放隨班附讀；",
+                "cos_ename": "Operating System",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535507": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535507",
+                "cos_code": "CSIC30148",
+                "num_limit": "40",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "近似演算法",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://www.cs.nycu.edu.tw/members/detail/mjkao",
+                "teacher": "高孟駿",
+                "cos_time": "R56-ED102[GF]",
+                "memo": "原課名「逼近演算法」；新舊課程僅能採計1門為畢業學分，不能重覆採計。[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously][English Medium Course],開放隨班附讀；資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級",
+                "cos_ename": "Introduction to Approximation Algorithms",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535509": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535509",
+                "cos_code": "CSIC30058",
+                "num_limit": "30",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "智慧系統之感知與決策",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "陳奕廷",
+                "cos_time": "T56-EC329[GF]",
+                "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously][English Medium Course],",
+                "cos_ename": "Perception and Decision Making in Intelligent Systems",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535511": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535511",
+                "cos_code": "CSIC30120",
+                "num_limit": "80",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "資料視覺化與視覺分析",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "王昱舜",
+                "cos_time": "T34n-EC015[GF]",
+                "memo": "[English Medium Course]資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級",
+                "cos_ename": "Data Visualization and Visual Analytics",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535512": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535512",
+                "cos_code": "CSIC30071",
+                "num_limit": "40",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "演化計算",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://www.cs.nctu.edu.tw/~ypchen",
+                "teacher": "陳穎平",
+                "cos_time": "R34-ED102[GF]",
+                "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously][English Medium Course],",
+                "cos_ename": "Evolutionary Computation",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535513": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535513",
+                "cos_code": "CSIC30072",
+                "num_limit": "120",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "演算法",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "荊宇泰",
+                "cos_time": "T7F34-ED117[GF]",
+                "memo": "[English Medium Course]請依各所入學年度之修業要點選課；博士班資格考考核科目；資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級",
+                "cos_ename": "Algorithms",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535515": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535515",
+                "cos_code": "CSIC30062",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "機器學習",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://www.jhhlab.tw",
+                "teacher": "洪瑞鴻、邱維辰",
+                "cos_time": "M7R34-EC115[GF]",
+                "memo": "資訊學院優先(不開放在職專班網路選課)；博士班資格考考核科目；[English Medium Course]第一階段選課上限45人, 第二階段開放到60人",
+                "cos_ename": "Machine Learning ",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535516": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535516",
+                "cos_code": "CSIC30066",
+                "num_limit": "40",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "機器學習晶片架構設計",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "葉宗泰",
+                "cos_time": "T789-ED302[GF]",
+                "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；[English Medium Course]",
+                "cos_ename": "Accelerator Architectures for Machine Learning ",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535517": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535517",
+                "cos_code": "CSIC30100",
+                "num_limit": "30",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "腦機介面系統",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://sites.google.com/view/wei-cecnl",
+                "teacher": "魏群樹",
+                "cos_time": "F34-EC329[GF]",
+                "memo": "[English Medium Course]資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously],開放隨班附讀\n",
+                "cos_ename": "Brain-Computer Interface",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535522": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535522",
+                "cos_code": "CSIC30110",
+                "num_limit": "80",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "計算機架構",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "單智君",
+                "cos_time": "T567-EC015[GF]",
+                "memo": "資訊學院優先(不開放在職專班網路選課)；博士班資格考考核科目；請依各所入學年度之修業要點選課；[English Medium Course],優先順序為:A.研究生--1.資科工:碩+博, 2.碩班:網工,多工,數科工 B.如還有名額, 待開學後再給大學部書面加簽。此課程僅開一學期。",
+                "cos_ename": "Computer Architecture",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535602": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535602",
+                "cos_code": "CSIC30051",
+                "num_limit": "40",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "排隊理論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "李奇育",
+                "cos_time": "T34-ED202[GF]",
+                "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；博士班資格考考核科目；請依各所入學年度之修業要點選課；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously][English Medium Course]",
+                "cos_ename": "Queuing Theory",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535605": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535605",
+                "cos_code": "CSIC30093",
+                "num_limit": "65",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "網路安全",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://dsns.cs.nctu.edu.tw/ssp.php",
+                "teacher": "謝續平",
+                "cos_time": "T34n-EC115[GF]",
+                "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；博士班資格考考核科目；[English Medium Course]",
+                "cos_ename": "Network Security",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535608": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535608",
+                "cos_code": "CSIC30122",
+                "num_limit": "40",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "賽局理論及應用",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://www.cs.nctu.edu.tw/~lhyen",
+                "teacher": "嚴力行",
+                "cos_time": "M56-ED302[GF]",
+                "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；[English Medium Course][另外1小時(第3節)以非同步上課方式the third period of class will be held asynchronously]",
+                "cos_ename": "Game Theory and Its Applications",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535650": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535650",
+                "cos_code": "CSIC30001",
+                "num_limit": "40",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "3D遊戲程式",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "黃世強",
+                "cos_time": "M56R2-ED102[GF]",
+                "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；[English Medium Course],開放隨班附讀",
+                "cos_ename": "3D Game Programming ",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535655": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535655",
+                "cos_code": "CSIC30048",
+                "num_limit": "90",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "影像處理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "莊仁輝",
+                "cos_time": "T2F56-EC122[GF]",
+                "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；博士班資格考考核科目；請依各所入學年度之修業要點選課；[English Medium Course],",
+                "cos_ename": "Image Processing",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535659": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535659",
+                "cos_code": "CSIC30107",
+                "num_limit": "40",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "視訊壓縮",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "劉育綸",
+                "cos_time": "M56R2-ED202[GF]",
+                "memo": "[English Medium Course]；資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級",
+                "cos_ename": "Video Compression",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535660": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535660",
+                "cos_code": "CSIC30049",
+                "num_limit": "30",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "影像編修技術與特效合成",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://www.cs.nctu.edu.tw/~ichenlin",
+                "teacher": "林奕成",
+                "cos_time": "R56-EC329[GF]",
+                "memo": "資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級；英文授課[English Medium Course]；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously]",
+                "cos_ename": "Image Manipulation Techniques and Visual Effects",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_545455": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "545455",
+                "cos_code": "EEBM30008",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生物微型檢測技術",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://liborran.weebly.com/",
+                "teacher": "李博仁",
+                "cos_time": "T234-EE113[GF]",
+                "memo": "英文授課、開放隨班附讀[English Medium Course]",
+                "cos_ename": "Biomedical Micro Analysis Systems",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_545458": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "545458",
+                "cos_code": "EEBM30024",
+                "num_limit": "40",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "超音波導論與應用",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "陳稷康",
+                "cos_time": "M234-EE118[GF]",
+                "memo": "英文上課\n研、大四(開學後開放)選修、生醫所主開、開放隨班附讀[English Medium Course]",
+                "cos_ename": "Introduction to Ultrasound and its Applications ",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_545459": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "545459",
+                "cos_code": "EEBM30026",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "近代生醫電學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://www.chianglab.com",
+                "teacher": "江柏翰",
+                "cos_time": "T567-EE112[GF]",
+                "memo": "開放隨班附讀及英文授課[English Medium Course]",
+                "cos_ename": "Modern Bioelectricity",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "2",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            }
+        },
+        "costype": {
+            "1121_535211": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535215": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535218": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535225": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535233": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535313": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535316": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535317": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535354": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535359": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535366": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535369": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535370": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535372": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535373": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535374": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535378": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535416": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535503": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535505": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535507": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535509": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535511": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535512": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535513": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535515": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535516": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535517": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "通識校基本素養_通識校基本": {
+                    "course_category_cname": "通識校基本素養_通識校基本",
+                    "course_category_ename": "General Education Course: Literacy_GECL",
+                    "course_category_type": "15",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "領域課程-社會中的科技與自然_領域課程-社會中的科技與自然": {
+                    "course_category_cname": "領域課程-社會中的科技與自然_領域課程-社會中的科技與自然",
+                    "course_category_ename": "Distribution-society & sciences_DAST",
+                    "course_category_type": "51",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535522": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535602": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535605": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535608": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535650": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535655": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535659": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535660": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_545455": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_545458": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_545459": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_545800": {
+                "專題演講_專題演講": {
+                    "course_category_cname": "專題演講_專題演講",
+                    "course_category_ename": "",
+                    "course_category_type": "62",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_535211": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535215": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535218": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535225": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535233": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535313": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535316": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535317": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535354": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535359": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535366": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535369": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535370": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535372": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535373": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535374": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535378": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535416": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535503": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535505": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535507": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535509": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535511": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535512": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535513": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535515": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535516": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535517": {
+                "A505,Z108": {
+                    "brief_code": "A505,Z108",
+                    "brief": "校基本素養(106),領域課程-社會中的科技與自然(110)"
+                }
+            },
+            "1121_535522": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535602": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535605": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535608": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535650": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535655": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535659": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535660": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_545455": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_545458": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_545459": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_545800": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_535211": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535215": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535218": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_535225": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535233": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535313": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535316": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535317": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535354": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535359": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535366": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535369": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535370": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535372": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535373": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535374": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535378": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535416": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535503": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535505": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535507": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535509": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535511": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535512": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535513": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535515": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535516": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535517": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535522": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535602": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535605": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535608": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535650": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535655": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535659": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535660": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_545455": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_545458": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_545459": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_545800": {
+                "授課語言代碼": "zh-tw"
+            }
+        },
+        "1": {
+            "1121_545800": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "545800",
+                "cos_code": "EEIG30002",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "專題研討",
+                "cos_credit": ".00",
+                "cos_hours": "3.00",
+                "TURL": "http://www.cs.nctu.edu.tw/~ldvan/",
+                "teacher": "范倫達",
+                "cos_time": "",
+                "memo": "",
+                "cos_ename": "Seminar",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "540",
+                "dep_primary": "1",
+                "dep_cname": "電機資訊國際博士學位學程",
+                "dep_ename": "EECS International Graduate Program",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "14",
+                "depType": "M"
+            }
+        }
+    }
+}

@@ -1,0 +1,891 @@
+{
+    "8F93E581-C5C5-4D6A-9608-3AE0220B377B": {
+        "dep_id": "8F93E581-C5C5-4D6A-9608-3AE0220B377B",
+        "dep_cname": "應用化學系",
+        "dep_ename": "Institute of Applied Chemistry",
+        "1": {
+            "1121_536800": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536800",
+                "cos_code": "SCIC30020",
+                "num_limit": "25",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "書報討論－高分子組",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "許千樹",
+                "cos_time": "W34-EO701[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Seminar",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "654",
+                "dep_primary": "1",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Institute of Applied Chemistry",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536801": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536801",
+                "cos_code": "SCIC30017",
+                "num_limit": "25",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "書報討論－有機組",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "https://sites.google.com/site/thechuanggroup/",
+                "teacher": "莊士卿",
+                "cos_time": "W34-SB203[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Seminar",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "654",
+                "dep_primary": "1",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Institute of Applied Chemistry",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536802": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536802",
+                "cos_code": "SCIC30019",
+                "num_limit": "25",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "書報討論－無機組",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "李積琛",
+                "cos_time": "M34-SB522[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Seminar",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "654",
+                "dep_primary": "1",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Institute of Applied Chemistry",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536803": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536803",
+                "cos_code": "SCIC30016",
+                "num_limit": "25",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "書報討論－分析組",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "詹揚翔",
+                "cos_time": "M34-SB201[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Seminar",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "654",
+                "dep_primary": "1",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Institute of Applied Chemistry",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536804": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536804",
+                "cos_code": "SCIC30038",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "論文研究",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "",
+                "cos_time": "",
+                "memo": "高分子、有機、無機、物化、分析、生化等領域請選本組。",
+                "cos_ename": "Thesis Research",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "654",
+                "dep_primary": "1",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Institute of Applied Chemistry",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536805": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536805",
+                "cos_code": "SCIC30014",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "專題演講",
+                "cos_credit": "2.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "",
+                "cos_time": "F5678-SB210[GF]",
+                "memo": "高分子、有機、無機、物化、分析、生化等領域請選本組",
+                "cos_ename": "Departmental Colloquium",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "654",
+                "dep_primary": "1",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Institute of Applied Chemistry",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536806": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536806",
+                "cos_code": "SCIC30004",
+                "num_limit": "25",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "光電有機材料",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "許千樹",
+                "cos_time": "T567-EO701[GF]",
+                "memo": "",
+                "cos_ename": "Organic Opto-electronic Materials",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "654",
+                "dep_primary": "1",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Institute of Applied Chemistry",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536807": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536807",
+                "cos_code": "SCIC30025",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "有機反應機構",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "鄭彥如",
+                "cos_time": "M234-SB202[GF]",
+                "memo": "",
+                "cos_ename": "Organic Reaction Mechanism",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "654",
+                "dep_primary": "1",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Institute of Applied Chemistry",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536808": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536808",
+                "cos_code": "SCIC30044",
+                "num_limit": "60",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "高分子物理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://www.jtchen.com",
+                "teacher": "陳俊太",
+                "cos_time": "W567-SB211[GF]",
+                "memo": "",
+                "cos_ename": "Polymer Physics",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "654",
+                "dep_primary": "1",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Institute of Applied Chemistry",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536809": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536809",
+                "cos_code": "SCIC30021",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "有機化學特論(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://sites.google.com/site/thechuanggroup/",
+                "teacher": "莊士卿",
+                "cos_time": "M7T78-SB203[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Special Topics on Organic Chemistry (I)",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "654",
+                "dep_primary": "1",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Institute of Applied Chemistry",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536810": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536810",
+                "cos_code": "SCIC30047",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "高等有機化學(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "蒙國光、戶部義人",
+                "cos_time": "T56R2-SB203[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Advanced Organic Chemistry(I)",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "654",
+                "dep_primary": "1",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Institute of Applied Chemistry",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536811": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536811",
+                "cos_code": "SCIC30037",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "藥物設計",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "孫仲銘",
+                "cos_time": "T234-SB522[GF]",
+                "memo": "",
+                "cos_ename": "Drug Design and Development",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "654",
+                "dep_primary": "1",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Institute of Applied Chemistry",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536812": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536812",
+                "cos_code": "SCIC30035",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "稀土材料化學與物理入門",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "陳登銘",
+                "cos_time": "F234-SB203[GF]",
+                "memo": "",
+                "cos_ename": "Materials Chemistry and Physics of Rare Earths for Beginners",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "654",
+                "dep_primary": "1",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Institute of Applied Chemistry",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536813": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536813",
+                "cos_code": "SCIC30007",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "分離科學特論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "謝有容",
+                "cos_time": "T9ab-EO701[GF]",
+                "memo": "",
+                "cos_ename": "Special Topic in Separation Science",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "654",
+                "dep_primary": "1",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Institute of Applied Chemistry",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536814": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536814",
+                "cos_code": "SCIC30033",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生物技術特論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "許馨云",
+                "cos_time": "T234-SB202[GF]",
+                "memo": "",
+                "cos_ename": "Molecular Biotechnology",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "654",
+                "dep_primary": "1",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Institute of Applied Chemistry",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536815": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536815",
+                "cos_code": "SCIC30008",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "創發性材料及元件特論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "李耀坤",
+                "cos_time": "M567-SB210[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Current Topics in Emergent Materials and Devices",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "654",
+                "dep_primary": "1",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Institute of Applied Chemistry",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536816": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536816",
+                "cos_code": "SCIC30018",
+                "num_limit": "15",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "書報討論－化學生物組",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "李耀坤",
+                "cos_time": "T78-EO615[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Seminar",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "654",
+                "dep_primary": "1",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Institute of Applied Chemistry",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536817": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536817",
+                "cos_code": "SCIC30042",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "高分子合成",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "王建隆",
+                "cos_time": "T234-SB201[GF]",
+                "memo": "",
+                "cos_ename": "Polymer Synthesis",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "654",
+                "dep_primary": "1",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Institute of Applied Chemistry",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            }
+        },
+        "costype": {
+            "1121_536800": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536801": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536802": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536803": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536804": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536805": {
+                "專題演講_專題演講": {
+                    "course_category_cname": "專題演講_專題演講",
+                    "course_category_ename": "",
+                    "course_category_type": "62",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536806": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536807": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536808": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536809": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536810": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536811": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536812": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536813": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536814": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536815": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536816": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536817": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_546860": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_536800": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536801": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536802": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536803": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536804": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536805": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536806": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536807": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536808": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536809": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536810": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536811": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536812": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536813": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536814": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536815": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536816": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536817": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_546860": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_536800": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_536801": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_536802": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_536803": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_536804": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536805": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536806": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536807": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536808": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536809": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_536810": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_536811": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536812": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536813": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536814": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536815": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_536816": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_536817": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_546860": {
+                "授課語言代碼": "en-us"
+            }
+        },
+        "2": {
+            "1121_546860": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "546860",
+                "cos_code": "SCSC30027",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "永續奈米化學特論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "郭俊宏",
+                "cos_time": "T567-",
+                "memo": "[English Medium Course]中研院化學所B105",
+                "cos_ename": "Special Topics in Sustainable Nanochemistry",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "654",
+                "dep_primary": "2",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Institute of Applied Chemistry",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            }
+        }
+    }
+}

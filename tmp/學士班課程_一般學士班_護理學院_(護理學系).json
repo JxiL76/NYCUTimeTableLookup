@@ -1,0 +1,1510 @@
+{
+    "DF8662D9-F214-4BA7-AD19-6013ADDEBFE1": {
+        "dep_id": "DF8662D9-F214-4BA7-AD19-6013ADDEBFE1",
+        "dep_cname": "護理學系",
+        "dep_ename": "Department of Nursing",
+        "1": {
+            "1121_111800": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111800",
+                "cos_code": "NSDN20005",
+                "num_limit": "254",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "傳播科技與健康照護",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "胡慧蘭、陳俞琪、童恒新、曾意儒、雷文玫、侯宜菁、詹力韋、林承霈、游婉雲、程威銘",
+                "cos_time": "M34-YN321[YM]",
+                "memo": "實地線上混合教學課程 (陽明校區：YN321，交大校區：線上，請向教師索取線上連結)",
+                "cos_ename": "The application of media and technology in healthcare",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "201",
+                "dep_primary": "1",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_111802": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111802",
+                "cos_code": "NSDN10021",
+                "num_limit": "254",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "認識-人﹑生活﹑生命",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "廖媛美、陳俞琪、蔡慈儀、劉佩青",
+                "cos_time": "W34-YN301[YM]",
+                "memo": "",
+                "cos_ename": "Awareness-Human Being, Living, Life",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "201",
+                "dep_primary": "1",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_111803": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111803",
+                "cos_code": "NSDN10023",
+                "num_limit": "254",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "開發-人﹑生活﹑生命",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "林承霈、楊秋月、黃淑鶴、侯宜菁",
+                "cos_time": "W34-YN418[YM]",
+                "memo": "",
+                "cos_ename": "Development-Human Being, Living, Life",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "201",
+                "dep_primary": "1",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "40",
+                "depType": "U"
+            },
+            "1121_111804": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111804",
+                "cos_code": "NSDN20011",
+                "num_limit": "254",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "成人護理學Ⅰ",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "胡慧蘭、孫秀卿、陳俞琪、邱愛富、蔡仁貞、廖媛美、童恒新、黃淑鶴、侯宜菁、陳律言、楊曼華、廖淑櫻、童惠芳",
+                "cos_time": "M1234T1234W1234-YN416[YM]",
+                "memo": "",
+                "cos_ename": "Adult NursingⅠ",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "201",
+                "dep_primary": "1",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "46",
+                "depType": "U"
+            },
+            "1121_111805": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111805",
+                "cos_code": "NSDN20013",
+                "num_limit": "254",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "成人護理學實習Ⅰ",
+                "cos_credit": "3.00",
+                "cos_hours": "6.00",
+                "TURL": "",
+                "teacher": "陳俞琪、黃淑鶴、侯宜菁、陳律言、楊曼華、張議文、莊雯如、李雅萍、溫明寰、林曼玲、童惠芳、王佳雯、王佩琮、連如玉、呂翠萍、余白妃、張嘉琪、徐裳訢、楊翎玉、許鈺絹、蘇惠文、塗勝翔、林承萱、吳碧珠、郭憶文",
+                "cos_time": "M12345678T12345678W12345678-",
+                "memo": "台北榮總、衛生福利部桃園醫院",
+                "cos_ename": "Adult Nursing PracticeⅠ",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "201",
+                "dep_primary": "1",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "46",
+                "depType": "U"
+            },
+            "1121_111806": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111806",
+                "cos_code": "NSDN20023",
+                "num_limit": "254",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "護理研究概論",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳律言、黃子庭、王子芳、陳俞琪、蔡慈儀、楊秋月、周承珍、楊曼華、林承霈",
+                "cos_time": "F34-YN418[YM]",
+                "memo": "",
+                "cos_ename": "Introduction to Nursing Research",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "201",
+                "dep_primary": "1",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "46",
+                "depType": "U"
+            },
+            "1121_111807": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111807",
+                "cos_code": "NSDN20012",
+                "num_limit": "254",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "成人護理學Ⅱ",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "胡慧蘭、孫秀卿、陳俞琪、廖媛美、黃淑鶴、侯宜菁、陳律言、楊曼華、廖淑櫻、童惠芳、徐月霜",
+                "cos_time": "M5678T5678W5678-YN416[YM]",
+                "memo": "",
+                "cos_ename": "Adult NursingⅡ",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "201",
+                "dep_primary": "1",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "46",
+                "depType": "U"
+            },
+            "1121_111808": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111808",
+                "cos_code": "NSDN20014",
+                "num_limit": "254",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "成人護理學實習Ⅱ",
+                "cos_credit": "3.00",
+                "cos_hours": "6.50",
+                "TURL": "",
+                "teacher": "陳俞琪、廖媛美、黃淑鶴、侯宜菁、陳律言、楊曼華、張議文、廖淑櫻、莊雯如、李雅萍、溫明寰、林曼玲、童惠芳、王佳雯、王佩琮、許志忠、連如玉、呂翠萍、余白妃、張嘉琪、徐裳訢、楊翎玉、許鈺絹、蘇惠文、塗勝翔、吳碧珠、郭憶文",
+                "cos_time": "M12345678T12345678W12345678-",
+                "memo": "台北榮總",
+                "cos_ename": "Adult Nursing PracticeⅡ",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "201",
+                "dep_primary": "1",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "46",
+                "depType": "U"
+            },
+            "1121_111809": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111809",
+                "cos_code": "DEDE10020",
+                "num_limit": "254",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "導師時間",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "許樹珍、胡慧蘭、周承珍、陳律言",
+                "cos_time": "R9a-YN416[YM]",
+                "memo": "",
+                "cos_ename": "Class Meeting",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "201",
+                "dep_primary": "1",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "84",
+                "depType": "U"
+            },
+            "1121_111810": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111810",
+                "cos_code": "NSDN20016",
+                "num_limit": "254",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "社區衛生護理學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "于潄、黃子庭、王子芳、陳怡如、劉影梅、簡莉盈、陳紀雯、周承珍、林承霈、周明慧、張芬娥",
+                "cos_time": "M123456789W234-YN603[YM]",
+                "memo": "",
+                "cos_ename": "Community Health Nursing",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "201",
+                "dep_primary": "1",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "84",
+                "depType": "U"
+            },
+            "1121_111811": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111811",
+                "cos_code": "NSDN20017",
+                "num_limit": "254",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "社區衛生護理學實習",
+                "cos_credit": "3.00",
+                "cos_hours": "6.70",
+                "TURL": "",
+                "teacher": "林承霈、王子芳、簡莉盈、周承珍、林麗華、謝玉如、劉慧芬、沈淑芬、唐鳳屏",
+                "cos_time": "M123456789T123456789W123456789-",
+                "memo": "北投健康服務中心",
+                "cos_ename": "Community Health Nursing Practice",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "201",
+                "dep_primary": "1",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "40",
+                "depType": "U"
+            },
+            "1121_111813": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111813",
+                "cos_code": "NSDN20018",
+                "num_limit": "254",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "精神衛生護理學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "許樹珍、楊秋月、張秀如、洪珮瑜",
+                "cos_time": "T1234567W5678-YN603[YM]",
+                "memo": "",
+                "cos_ename": "Psychiatric Mental Health Nursing",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "201",
+                "dep_primary": "1",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "84",
+                "depType": "U"
+            },
+            "1121_111814": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111814",
+                "cos_code": "NSDN20019",
+                "num_limit": "254",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "精神衛生護理學實習",
+                "cos_credit": "3.00",
+                "cos_hours": "6.70",
+                "TURL": "",
+                "teacher": "楊秋月、許樹珍、張阿雪、劉佩玟、王莉茹、鄭淑琴、李昱穎、劉雅綾",
+                "cos_time": "M123456789T123456789W123456789-",
+                "memo": "台北榮總、國軍北投醫院",
+                "cos_ename": "Psychiatric Mental Health Nursing Practice",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "201",
+                "dep_primary": "1",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "40",
+                "depType": "U"
+            },
+            "1121_111815": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111815",
+                "cos_code": "NSDN20024",
+                "num_limit": "254",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "護理倫理概論",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "許樹珍、黃子庭、王子芳、蔡慈儀、雷文玫、林雅萍、林承霈、徐清樺",
+                "cos_time": "R56-YN418[YM]",
+                "memo": "",
+                "cos_ename": "Introduction to Nursing Ethics",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "201",
+                "dep_primary": "1",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "84",
+                "depType": "U"
+            },
+            "1121_111816": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111816",
+                "cos_code": "NSDN20025",
+                "num_limit": "254",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "護理管理與行政概論",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "李亭亭、蔡仁貞、童恒新、黃淑鶴、明金蓮、林淑娟",
+                "cos_time": "R78-YN418[YM]",
+                "memo": "",
+                "cos_ename": "Introduction to Nursing Management and Administration",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "201",
+                "dep_primary": "1",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "84",
+                "depType": "U"
+            },
+            "1121_111817": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111817",
+                "cos_code": "NSDN10025",
+                "num_limit": "254",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "綜合臨床護理學實習(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "8.00",
+                "TURL": "",
+                "teacher": "劉芷伶、蔡仁貞、鍾若男、明金蓮、林淑娟、林鳳蓮、王卿凌",
+                "cos_time": "S123456-",
+                "memo": "台北榮總",
+                "cos_ename": "Comprehensive Nursing Practice(1)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "201",
+                "dep_primary": "1",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "84",
+                "depType": "U"
+            },
+            "1121_111818": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111818",
+                "cos_code": "NSDN10004",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "導師時間",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "王子芳、邱愛富、陳紀雯、楊曼華",
+                "cos_time": "R9a-YN603[YM]",
+                "memo": "",
+                "cos_ename": "Class Meeting",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "201",
+                "dep_primary": "1",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "46",
+                "depType": "U"
+            },
+            "1121_111819": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111819",
+                "cos_code": "NSDN10022",
+                "num_limit": "254",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "護理學導論",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "廖媛美、陳俞琪、楊秋月、童恒新、胡慧蘭、黃淑鶴、陳律言、楊曼華、劉佩青、林麗華、林淑娟、程尤美",
+                "cos_time": "F78-YN418[YM]",
+                "memo": "",
+                "cos_ename": "Introduction to Nursing",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "201",
+                "dep_primary": "1",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_111820": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111820",
+                "cos_code": "NSDN20008",
+                "num_limit": "25",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "外科基本手術技術、器械介紹及微創手術演進",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "張世慶、藍苑慈、黃國宏、戴宏達、吳祚光、陳正彥、陳世欽、黃聖捷、蘇府蔚、林瑞萍、陳斐文、許皓雯",
+                "cos_time": "F56-YS420[YM]",
+                "memo": "",
+                "cos_ename": "Surgical Techniques, Instrument Introduction and Evolution of Minimally Invasive Surgery",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "201",
+                "dep_primary": "1",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_111821": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111821",
+                "cos_code": "NSDN20031",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "麻醉護理概論",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "黃淑鶴、楊惠如",
+                "cos_time": "Wab-YN418[YM]",
+                "memo": "需修習過內外科護理學之護理系四年級\n上課教室：護理館R418與414，台北榮民總醫院手術室及麻醉部",
+                "cos_ename": "Introduction to Anesthesia Nursing",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "201",
+                "dep_primary": "1",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "80",
+                "depType": "U"
+            }
+        },
+        "costype": {
+            "1121_111800": {
+                "跨校區課程_跨校區課程": {
+                    "course_category_cname": "跨校區課程_跨校區課程",
+                    "course_category_ename": "Cross-Campus Course_Cross-Campus Course",
+                    "course_category_type": "57",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111802": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111803": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111804": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111805": {
+                "一般實習_一般實習": {
+                    "course_category_cname": "一般實習_一般實習",
+                    "course_category_ename": "Off-Campus Internship_Off-Campus Internship",
+                    "course_category_type": "26",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111806": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111807": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111808": {
+                "一般實習_一般實習": {
+                    "course_category_cname": "一般實習_一般實習",
+                    "course_category_ename": "Off-Campus Internship_Off-Campus Internship",
+                    "course_category_type": "26",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111809": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111810": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111811": {
+                "一般實習_一般實習": {
+                    "course_category_cname": "一般實習_一般實習",
+                    "course_category_ename": "Off-Campus Internship_Off-Campus Internship",
+                    "course_category_type": "26",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111813": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111814": {
+                "一般實習_一般實習": {
+                    "course_category_cname": "一般實習_一般實習",
+                    "course_category_ename": "Off-Campus Internship_Off-Campus Internship",
+                    "course_category_type": "26",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111815": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111816": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111817": {
+                "一般實習_一般實習": {
+                    "course_category_cname": "一般實習_一般實習",
+                    "course_category_ename": "Off-Campus Internship_Off-Campus Internship",
+                    "course_category_type": "26",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111818": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111819": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111820": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111821": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112030": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112905": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_113000": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_113001": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_113200": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_113402": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_113504": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130401": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130404": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_161022": {
+                "博雅選修通識_博雅選修通識": {
+                    "course_category_cname": "博雅選修通識_博雅選修通識",
+                    "course_category_ename": "Optional Liberal Education_Optional Liberal Education",
+                    "course_category_type": "37",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "領域課程-個人、社會與文化_領域課程-個人、社會與文化": {
+                    "course_category_cname": "領域課程-個人、社會與文化_領域課程-個人、社會與文化",
+                    "course_category_ename": "Distribution-socioculture_DASC",
+                    "course_category_type": "49",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_561071": {
+                "核心通識-哲學與心靈_核心通識-哲學與心靈": {
+                    "course_category_cname": "核心通識-哲學與心靈_核心通識-哲學與心靈",
+                    "course_category_ename": "Philosophy and Mind_Philosophy and Mind",
+                    "course_category_type": "31",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "通識核心課程_通識核心": {
+                    "course_category_cname": "通識核心課程_通識核心",
+                    "course_category_ename": "General Education Course_GEC",
+                    "course_category_type": "17",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "領域課程-個人、社會與文化_領域課程-個人、社會與文化": {
+                    "course_category_cname": "領域課程-個人、社會與文化_領域課程-個人、社會與文化",
+                    "course_category_ename": "Distribution-socioculture_DASC",
+                    "course_category_type": "49",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_563127": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_111800": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111802": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111803": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111804": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111805": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111806": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111807": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111808": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111809": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111810": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111811": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111813": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111814": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111815": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111816": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111817": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111818": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111819": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111820": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111821": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112030": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112905": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_113000": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_113001": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_113200": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_113402": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_113504": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130401": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130404": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_161022": {
+                "A909,Z106": {
+                    "brief_code": "A909,Z106",
+                    "brief": "博雅選修通識 (90),領域課程-個人、社會與文化(110)"
+                }
+            },
+            "1121_561071": {
+                "A104,A502,A903,Z106": {
+                    "brief_code": "A104,A502,A903,Z106",
+                    "brief": "群己/基礎(96),核心-社會(106),核心通識-哲學與心靈(90),領域課程-個人、社會與文化(110)"
+                }
+            },
+            "1121_563127": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_111800": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111802": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111803": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111804": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111805": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111806": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111807": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111808": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111809": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111810": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111811": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111813": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111814": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111815": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111816": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111817": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111818": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111819": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111820": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111821": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112030": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112905": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_113000": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_113001": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_113200": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_113402": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_113504": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130401": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130404": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_161022": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_561071": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_563127": {
+                "授課語言代碼": "zh-tw"
+            }
+        },
+        "2": {
+            "1121_112030": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112030",
+                "cos_code": "BEBL10009",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "普通生物學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "林崇智、羅清維、陳燕彰",
+                "cos_time": "F234-YX406[YM]",
+                "memo": "",
+                "cos_ename": "General Biology",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "201",
+                "dep_primary": "2",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112905": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112905",
+                "cos_code": "MDDC10009",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "有機化學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "姜為中、廖韋晴",
+                "cos_time": "M34-YB102[YM]",
+                "memo": "",
+                "cos_ename": "Organic Chemistry",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "201",
+                "dep_primary": "2",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_113000": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "113000",
+                "cos_code": "MDDP10002",
+                "num_limit": "72",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生理學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "簡千栩、吳鈺琳、黃娟娟、阮琪昌、李怡萱、林惠菁、張原翊、吳莉玲、唐德成",
+                "cos_time": "F234-YT202[YM]",
+                "memo": "不開放隨班附讀、不開放校際選修",
+                "cos_ename": "Physiology",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "201",
+                "dep_primary": "2",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "27",
+                "depType": "U"
+            },
+            "1121_113001": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "113001",
+                "cos_code": "MDDP10008",
+                "num_limit": "126",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生理學實驗",
+                "cos_credit": "1.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "黃娟娟、吳鈺琳、阮琪昌、李怡萱、林惠菁、張原翊、簡千栩、吳莉玲、唐德成",
+                "cos_time": "W5678-YED214[YM]",
+                "memo": "不開放隨班附讀、不開放校際選修",
+                "cos_ename": "Physiology Laboratory",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "201",
+                "dep_primary": "2",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "27",
+                "depType": "U"
+            },
+            "1121_113200": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "113200",
+                "cos_code": "MDDM10006",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "微生物及免疫學(含實驗)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.70",
+                "TURL": "",
+                "teacher": "黃雪莉、徐嘉琳、蔡明翰、蔡雨寰、高正彥",
+                "cos_time": "R5678-YB102[YM],R5678-YEC211[YM]",
+                "memo": "",
+                "cos_ename": "Microbiology ＆ Immunology(＆ Laboratory)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "201",
+                "dep_primary": "2",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_113402": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "113402",
+                "cos_code": "MDDA10001",
+                "num_limit": "75",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "應用病理學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "李芬瑤、許志怡、葉奕成、杭仁釩、梁文議、楊靜芬、郭盈汝、林士傑、陳妍英、張富邦、林士堯",
+                "cos_time": "T34-YX406[YM]",
+                "memo": "優先護理、藥學，次醫技、醫放、物輔，需先修解剖學 ，生理學等相關科目。",
+                "cos_ename": "Applied Pathology",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "201",
+                "dep_primary": "2",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "70",
+                "depType": "U"
+            },
+            "1121_113504": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "113504",
+                "cos_code": "MDMD10066",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生物統計學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳韵宜",
+                "cos_time": "T56-YT205[YM]",
+                "memo": "限護理系選修。本課程為應考公共衛生師指定修習科目",
+                "cos_ename": "Biostatistics",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "201",
+                "dep_primary": "2",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "40",
+                "depType": "U"
+            },
+            "1121_130401": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130401",
+                "cos_code": "MDAC30023",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "解剖學實驗",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "李學德、傅毓秀、葉添順、鄭瓊娟、王先逸、蔡佩君、郭曉縈、侯珮珊、蔣偉程",
+                "cos_time": "F56-YEC109[YM]",
+                "memo": "研究所：細胞生物學組必修。\n大學部：限必修生。",
+                "cos_ename": "Anatomy Lab.",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "201",
+                "dep_primary": "2",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "28",
+                "depType": "U"
+            },
+            "1121_130404": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130404",
+                "cos_code": "MDAC30022",
+                "num_limit": "125",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "解剖學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "郭曉縈、傅毓秀、葉添順、鄭瓊娟、李學德、王先逸、蔡佩君、侯珮珊、蔣偉程",
+                "cos_time": "R234-YB100[YM]",
+                "memo": "研究所: 細胞生物學組必修。\n大學部: 修課對象以必修生優先及陽明校區大一大二不分系學生。\n本課程不開放旁聽生。",
+                "cos_ename": "Anatomy",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "201",
+                "dep_primary": "2",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_161022": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "161022",
+                "cos_code": "GECE00138",
+                "num_limit": "20",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "看得到、找得到、用得到的長期照顧",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "楊曼華、黃淑鶴、高蕭國帆、陳妙言、林昱宏、楊舒琴、王菀宣、葉又菁、林俐岑、賴鼎璁、柯澐蓁、楊桂鳳",
+                "cos_time": "F56-YN418[YM]",
+                "memo": "限未修過「長期照顧現況綜論」、「看得到、找得到、用得到」課程同學選修。本課程僅能在通識領域課程與學系選修學分中擇一計算。",
+                "cos_ename": "Simple Way to Get the Service of Long Term Care",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "201",
+                "dep_primary": "2",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_561071": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "561071",
+                "cos_code": "GECG00054",
+                "num_limit": "0",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "普通心理學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "程千芳",
+                "cos_time": "T12-YX406[YM]",
+                "memo": "限物治二、護理一、藥學一，計入核心領域課程學分(個人、社會與文化領域)，每學期將由系統帶入修課學生(依初選第三階段時在籍學生帶入)，請勿隨意退課。",
+                "cos_ename": "General Psychology",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "201",
+                "dep_primary": "2",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "核心",
+                "cos_type_e": "Core curriculum",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_563127": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "563127",
+                "cos_code": "GEPE00001",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "大一體育",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "徐煒杰",
+                "cos_time": "M56-PhE[YM]",
+                "memo": "第一週上課集合地點為陽明校區活動中心心肺功能室。",
+                "cos_ename": "Physical Education",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "201",
+                "dep_primary": "2",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "體育",
+                "cos_type_e": "Physical Education",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            }
+        }
+    }
+}

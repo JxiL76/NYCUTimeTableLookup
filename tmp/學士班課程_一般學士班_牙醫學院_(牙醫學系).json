@@ -1,0 +1,3633 @@
+{
+    "A5E1FDEB-14BC-473B-A0DA-E80A977D2998": {
+        "dep_id": "A5E1FDEB-14BC-473B-A0DA-E80A977D2998",
+        "dep_cname": "牙醫學系",
+        "dep_ename": "Department of Dentistry ",
+        "2": {
+            "1121_110028": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "110028",
+                "cos_code": "MDMD10013",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "大體解剖學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "鄭瓊娟、傅毓秀、李光申、李學德、蔡佩君、郭曉縈、侯珮珊、廖文輝、周昆達、周伯鑫、吳宏達、陳威志、吳飛逸",
+                "cos_time": "M1234T12345678W1234R12345678F1234-YT001[YM]",
+                "memo": "限醫三牙二, 請參照PBL整合課程行事曆",
+                "cos_ename": "Gross Anatomy",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "2",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "135",
+                "depType": "U"
+            },
+            "1121_110029": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "110029",
+                "cos_code": "MDMD10015",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "大體解剖學實驗",
+                "cos_credit": ".80",
+                "cos_hours": "1.60",
+                "TURL": "",
+                "teacher": "鄭瓊娟、傅毓秀、李學德、蔡佩君、郭曉縈、侯珮珊",
+                "cos_time": "T12345678W1234R12345678F1234-YEC109[YM]",
+                "memo": "限醫三牙二, 請參照PBL整合課程行事曆",
+                "cos_ename": "Gross Anatomy Lab.",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "2",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "135",
+                "depType": "U"
+            },
+            "1121_110030": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "110030",
+                "cos_code": "MDMD10085",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "組織學",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "鄭瓊娟、葉添順、李學德、王先逸、郭曉縈、蔣偉程",
+                "cos_time": "M1234T12345678W1234R12345678F1234-YT001[YM]",
+                "memo": "限醫三牙二, 請參照PBL整合課程行事曆",
+                "cos_ename": "Histology",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "2",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "135",
+                "depType": "U"
+            },
+            "1121_110031": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "110031",
+                "cos_code": "MDMD10087",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "組織學實驗",
+                "cos_credit": ".50",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "鄭瓊娟、葉添順、李學德、王先逸、郭曉縈、蔣偉程",
+                "cos_time": "M1234T12345678W1234R12345678F1234-YT001[YM]",
+                "memo": "限醫三牙二, 請參照PBL整合課程行事曆",
+                "cos_ename": "Lab. in Histology",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "2",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "135",
+                "depType": "U"
+            },
+            "1121_110032": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "110032",
+                "cos_code": "MDMD10059",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生理學",
+                "cos_credit": "2.20",
+                "cos_hours": "2.20",
+                "TURL": "",
+                "teacher": "吳鈺琳、胡瑜峰、黃娟娟、阮琪昌、林志慶、李怡萱、林惠菁、黃自強、張原翊、吳莉玲、董萃英、黎思源、歐朔銘",
+                "cos_time": "M1234T1234W1234R1234F1234-YT001[YM]",
+                "memo": "限醫三牙二, 請參照PBL整合課程行事曆",
+                "cos_ename": "Physiology",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "2",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "182",
+                "depType": "U"
+            },
+            "1121_110033": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "110033",
+                "cos_code": "MDMD10061",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生理學實驗",
+                "cos_credit": ".80",
+                "cos_hours": "1.60",
+                "TURL": "",
+                "teacher": "吳鈺琳、胡瑜峰、阮琪昌、李怡萱、吳莉玲",
+                "cos_time": "T5678R5678-YED214[YM]",
+                "memo": "限醫三牙二, 請參照PBL整合課程行事曆",
+                "cos_ename": "Physiology Lab.",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "2",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "182",
+                "depType": "U"
+            },
+            "1121_110036": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "110036",
+                "cos_code": "MDMD10089",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "胚胎學",
+                "cos_credit": ".60",
+                "cos_hours": ".60",
+                "TURL": "",
+                "teacher": "鄭瓊娟、李學德、王先逸",
+                "cos_time": "M1234T12345678W1234R12345678F1234-YT001[YM]",
+                "memo": "限醫三牙二, 請參照PBL整合課程行事曆",
+                "cos_ename": "Embryology",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "2",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "135",
+                "depType": "U"
+            },
+            "1121_111502": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111502",
+                "cos_code": "DEDE10005",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "口腔醫學專題研究",
+                "cos_credit": "2.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "洪善鈴、楊政杰、吳靜宜",
+                "cos_time": "W9abc-YD302[YM]",
+                "memo": "",
+                "cos_ename": "Independent Study on Oral Medicine",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "2",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112253": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112253",
+                "cos_code": "BEPT10013",
+                "num_limit": "150",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "微積分",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "宋文旭",
+                "cos_time": "T78-CS100[GF],T78-YX216[YM]",
+                "memo": "",
+                "cos_ename": "Calculus",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "2",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "8",
+                "depType": "U"
+            },
+            "1121_112901": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112901",
+                "cos_code": "MDDC10002",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "化學原理",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "黃介嶸、姜為中、許邦弘",
+                "cos_time": "F56-AB102[GF],F56-YX406[YM]",
+                "memo": "牙醫一, 醫技一, 藥學合班上課",
+                "cos_ename": "General Chemistry",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "2",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112903": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112903",
+                "cos_code": "MDDC10005",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "化學原理實驗",
+                "cos_credit": "1.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "鄔蜀威、林雅雄、鄭閔魁、黃譯蔓",
+                "cos_time": "W5678-YED309[YM]",
+                "memo": "牙二, 醫工",
+                "cos_ename": "General Chemistry Laboratory",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "2",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_112909": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112909",
+                "cos_code": "MDDC10015",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生物化學實驗",
+                "cos_credit": "1.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "游麗如、徐子涵、王毓瑄、陳美瑜、鄭子豪、郭津岑、許翺麟、許玉璇",
+                "cos_time": "W5678-YEC309[YM]",
+                "memo": "牙醫二, 藥學二合班",
+                "cos_ename": "Biochemistry Laboratory",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "2",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "22",
+                "depType": "U"
+            },
+            "1121_113203": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "113203",
+                "cos_code": "MDDM10001",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "微生物學及免疫學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "張佩靖、呂春敏、蔡明翰、蔡雨寰",
+                "cos_time": "M5678-YX406[YM]",
+                "memo": "",
+                "cos_ename": "Microbiology & Immunology",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "2",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_113204": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "113204",
+                "cos_code": "MDDM10005",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "微生物學及免疫學實驗",
+                "cos_credit": ".70",
+                "cos_hours": "1.40",
+                "TURL": "",
+                "teacher": "張佩靖、朱孝益、呂春敏、蔡明翰",
+                "cos_time": "M5678-YEC211[YM]",
+                "memo": "",
+                "cos_ename": "Lab Practice in Microbiology ＆ Immunology",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "2",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_113400": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "113400",
+                "cos_code": "MDDA10005",
+                "num_limit": "195",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "病理學",
+                "cos_credit": "2.50",
+                "cos_hours": "2.50",
+                "TURL": "",
+                "teacher": "李芬瑤、許志怡、葉奕成、杭仁釩、梁文議、郭盈汝、林士傑、張富邦、劉雯玲",
+                "cos_time": "T5678-YX406[YM]",
+                "memo": "請依醫學系PBL課程上課，不開放外系選修。",
+                "cos_ename": "Pathology",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "2",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "189",
+                "depType": "U"
+            },
+            "1121_113401": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "113401",
+                "cos_code": "MDDA10007",
+                "num_limit": "195",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "病理學實驗",
+                "cos_credit": ".50",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "李芬瑤、劉雯玲",
+                "cos_time": "T5678-YX406[YM]",
+                "memo": "請依醫學系PBL課程上課，不開放外系選修。",
+                "cos_ename": "Pathology Laboratory",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "2",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "189",
+                "depType": "U"
+            },
+            "1121_113501": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "113501",
+                "cos_code": "DEDE10002",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "公共衛生學概論",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "任一安、季麟揚、吳秀英、林伯彥",
+                "cos_time": "M34-YD105[YM]",
+                "memo": "本課程為應考公共衛生師指定修習科目。",
+                "cos_ename": "Public Health",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "2",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "42",
+                "depType": "U"
+            },
+            "1121_130107": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130107",
+                "cos_code": "MDPA30034",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "藥理學",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "張婷婷、黃金洲、林滿玉、李新城、鄭宏志、霍德義、張世霖、胡德民、黃自強、兵岳忻、嚴錦城、王湘翠、陳介甫、潘懷宗、吳昭慶、洪舜郁、呂至剛、張豫立、王笙帆、周士傑、葉翰宜",
+                "cos_time": "R3456-YD105[YM],W56-YT202[YM]",
+                "memo": "藥理學課程週三56在教學大樓202教室上課、週四3456在牙105室。藥理實驗課程週四5678節請至實驗大樓D2大實驗室。",
+                "cos_ename": "Pharmacology",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "2",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_130108": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130108",
+                "cos_code": "MDPA30038",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "藥理學實驗",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "張婷婷",
+                "cos_time": "R789a-YED214[YM]",
+                "memo": "牙三與藥理所合班，週四5678節上課，上課日期請參照藥理學整合課表。可英語授課開放外籍生選修。",
+                "cos_ename": "Pharmacology Lab.",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "2",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            }
+        },
+        "costype": {
+            "1121_110028": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_110029": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_110030": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_110031": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_110032": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_110033": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_110036": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111500": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111501": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111502": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111503": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111504": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111505": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111506": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111507": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111508": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111509": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111510": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111511": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111512": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111513": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111514": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111515": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111516": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111517": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111518": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111519": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111520": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111521": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111522": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111523": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111524": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111525": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111526": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111527": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111528": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111529": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111530": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111531": {
+                "臨床實習_臨床實習": {
+                    "course_category_cname": "臨床實習_臨床實習",
+                    "course_category_ename": "",
+                    "course_category_type": "60",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111532": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111533": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111534": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111535": {
+                "臨床實習_臨床實習": {
+                    "course_category_cname": "臨床實習_臨床實習",
+                    "course_category_ename": "",
+                    "course_category_type": "60",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111536": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111537": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111538": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111539": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111540": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111541": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111542": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111543": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111544": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111545": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111546": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111547": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111548": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111549": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111550": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111551": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111552": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111553": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111554": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111555": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111556": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111557": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111558": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111560": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112253": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112901": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112903": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112909": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_113203": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_113204": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_113400": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_113401": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_113501": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130107": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130108": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_110028": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_110029": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_110030": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_110031": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_110032": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_110033": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_110036": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111500": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111501": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111502": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111503": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111504": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111505": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111506": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111507": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111508": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111509": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111510": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111511": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111512": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111513": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111514": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111515": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111516": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111517": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111518": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111519": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111520": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111521": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111522": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111523": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111524": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111525": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111526": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111527": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111528": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111529": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111530": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111531": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111532": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111533": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111534": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111535": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111536": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111537": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111538": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111539": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111540": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111541": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111542": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111543": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111544": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111545": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111546": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111547": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111548": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111549": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111550": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111551": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111552": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111553": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111554": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111555": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111556": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111557": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111558": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111560": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112253": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112901": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112903": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112909": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_113203": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_113204": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_113400": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_113401": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_113501": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130107": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130108": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_110028": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_110029": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_110030": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_110031": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_110032": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_110033": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_110036": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111500": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111501": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111502": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111503": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111504": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111505": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111506": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111507": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111508": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111509": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111510": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111511": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111512": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111513": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111514": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111515": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111516": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111517": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111518": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111519": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111520": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111521": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111522": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111523": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111524": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111525": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111526": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111527": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111528": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111529": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111530": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111531": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111532": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111533": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111534": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111535": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111536": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111537": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111538": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111539": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111540": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111541": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111542": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111543": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111544": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111545": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111546": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111547": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111548": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111549": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111550": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111551": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111552": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111553": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111554": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111555": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111556": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111557": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111558": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111560": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112253": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112901": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112903": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112909": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_113203": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_113204": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_113400": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_113401": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_113501": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130107": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130108": {
+                "授課語言代碼": "zh-tw"
+            }
+        },
+        "1": {
+            "1121_111500": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111500",
+                "cos_code": "DEDE10024",
+                "num_limit": "100",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "普通生物學(上)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳俊銘、羅清維、翁芬華、李曉暉、袁維謙、呂璦竹、吳如蕙",
+                "cos_time": "F34-AB102[GF],F34-YK208[YM]",
+                "memo": "牙醫一、物輔一、藥學一合班上課，他系同學選修須經授課教師同意。\n\n陽明校區：傳甲208演講廳；實體上課\n交大校區：綜合一館B102；遠距上課",
+                "cos_ename": "General Biology I",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_111501": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111501",
+                "cos_code": "DEDE10030",
+                "num_limit": "10",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "牙醫生涯不是夢(三)",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "陳瓊芬",
+                "cos_time": "W56-YD214[YM]",
+                "memo": "",
+                "cos_ename": "The Pursuit of Fulfillment as a Dentist (3)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_111502": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111502",
+                "cos_code": "DEDE10005",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "口腔醫學專題研究",
+                "cos_credit": "2.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "洪善鈴、楊政杰、吳靜宜",
+                "cos_time": "W9abc-YD302[YM]",
+                "memo": "",
+                "cos_ename": "Independent Study on Oral Medicine",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_111503": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111503",
+                "cos_code": "DEDE10009",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "口腔胚胎及組織學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "夏堪臺、許明倫、吳靜宜、王鼎涵、張婷菡、張蓮鈺",
+                "cos_time": "T1234F1234-YD320[YM]",
+                "memo": "",
+                "cos_ename": "Oral Embryology & Histology",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "42",
+                "depType": "U"
+            },
+            "1121_111504": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111504",
+                "cos_code": "DEDE10010",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "口腔胚胎及組織學實驗",
+                "cos_credit": "1.00",
+                "cos_hours": "6.00",
+                "TURL": "",
+                "teacher": "夏堪臺、黎萬君、吳靜宜、林怡彣、張婷菡",
+                "cos_time": "T1234F12345678-YD320[YM]",
+                "memo": "",
+                "cos_ename": "Oral Embryology & Histology Lab.",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_111505": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111505",
+                "cos_code": "DEDE10001",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "傳染病學",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "王復德、林邑璁、詹宇鈞、黃祥芬、陳昕白、陳夙容、黃鈴茹、江東鴻、巫炳峰、張雅媛、黃盈綺、阮志翰、莊茜",
+                "cos_time": "W3-YD214[YM]",
+                "memo": "",
+                "cos_ename": "Infectious Disease",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "82",
+                "depType": "U"
+            },
+            "1121_111506": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111506",
+                "cos_code": "DEDE10030",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "牙醫生涯不是夢(三)",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "吳姿瑩",
+                "cos_time": "W56-YD214[YM]",
+                "memo": "",
+                "cos_ename": "The Pursuit of Fulfillment as a Dentist (3)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_111507": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111507",
+                "cos_code": "DEDE20010",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "口腔診斷學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "張國威、楊政杰、吳靜宜、洪凱風、張蓮鈺、林怡君、林弘斌、王文岑、李立慈、陳軒弘",
+                "cos_time": "M34-YD320[YM]",
+                "memo": "",
+                "cos_ename": "Oral Diagnosis",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "40",
+                "depType": "U"
+            },
+            "1121_111508": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111508",
+                "cos_code": "DEDE20030",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "牙科放射線學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "羅文良、陳志成、許世明、林重榮、施文宇、楊淑芬、吳政憲、周怡江、林怡君、吳和泰、成函潔",
+                "cos_time": "R12-YD105[YM]",
+                "memo": "",
+                "cos_ename": "Clinical Dental Radiology",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_111509": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111509",
+                "cos_code": "DEDE20033",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "牙髓病學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "蔡佳倫、楊淑芬、黃妙玨、陳誼安、李亞芸、白勝方、何怡青、陳益貞、林慧青、錢正原、王友志",
+                "cos_time": "F34-YD105[YM]",
+                "memo": "",
+                "cos_ename": "Endodontics",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "40",
+                "depType": "U"
+            },
+            "1121_111510": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111510",
+                "cos_code": "DEDE20034",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "牙髓病學實驗",
+                "cos_credit": "2.00",
+                "cos_hours": "6.00",
+                "TURL": "",
+                "teacher": "蔡佳倫、李士元、李亞芸、白勝方、徐永儀、何怡青、陳益貞、林慧青、王友志",
+                "cos_time": "F56789a-YD202[YM]",
+                "memo": "",
+                "cos_ename": "Endodontics Lab.",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "40",
+                "depType": "U"
+            },
+            "1121_111511": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111511",
+                "cos_code": "DEDE10061",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "醫學數位內容",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "楊政杰、朱唯勤、賴穎暉",
+                "cos_time": "S234-YD320[YM]",
+                "memo": "",
+                "cos_ename": "The introduction of digital clinical content ",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_111512": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111512",
+                "cos_code": "DEDE20001",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "兒童牙科學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "劉正芬、施文宇、王敏靜、莊麗娟、陳亮如、蔡宜峰、林雅文、陳瓊芬、謝春怡",
+                "cos_time": "R34-YD210[YM]",
+                "memo": "",
+                "cos_ename": "Pediatric Dentistry  ",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "40",
+                "depType": "U"
+            },
+            "1121_111513": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111513",
+                "cos_code": "DEDE20002",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "兒童牙科學實驗",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "劉正芬、施文宇、王敏靜、莊麗娟、陳亮如、蔡宜峰、林雅文、陳瓊芬、謝春怡",
+                "cos_time": "T56-YD202[YM]",
+                "memo": "",
+                "cos_ename": "Pediatric Dentistry lab.",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "40",
+                "depType": "U"
+            },
+            "1121_111514": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111514",
+                "cos_code": "DEDE10039",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "牙體型態學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "耿藝文、林嘉澍、吳靜宜、施文宇、何怡青",
+                "cos_time": "F56-YD105[YM]",
+                "memo": "",
+                "cos_ename": "Dental morphology ",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_111515": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111515",
+                "cos_code": "DEDE10029",
+                "num_limit": "10",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "牙醫生涯不是夢(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "洪善鈴",
+                "cos_time": "W34-YD105[YM]",
+                "memo": "",
+                "cos_ename": "The Pursuit of Fulfillment as a Dentist (1)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_111516": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111516",
+                "cos_code": "DEDE10029",
+                "num_limit": "10",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "牙醫生涯不是夢(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "https://dod.nycu.edu.tw/?page_id=2522",
+                "teacher": "林嘉澍",
+                "cos_time": "W34-YD105[YM]",
+                "memo": "",
+                "cos_ename": "The Pursuit of Fulfillment as a Dentist (1)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_111517": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111517",
+                "cos_code": "DEDE10029",
+                "num_limit": "10",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "牙醫生涯不是夢(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "黎萬君",
+                "cos_time": "W34-YD105[YM]",
+                "memo": "",
+                "cos_ename": "The Pursuit of Fulfillment as a Dentist (1)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_111518": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111518",
+                "cos_code": "DEDE10030",
+                "num_limit": "10",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "牙醫生涯不是夢(三)",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "吳靜宜",
+                "cos_time": "W56-YD214[YM]",
+                "memo": "",
+                "cos_ename": "The Pursuit of Fulfillment as a Dentist (3)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_111519": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111519",
+                "cos_code": "DEDE10030",
+                "num_limit": "10",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "牙醫生涯不是夢(三)",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "林元敏",
+                "cos_time": "W56-YD214[YM]",
+                "memo": "",
+                "cos_ename": "The Pursuit of Fulfillment as a Dentist (3)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_111520": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111520",
+                "cos_code": "DEDE10030",
+                "num_limit": "10",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "牙醫生涯不是夢(三)",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "王敏靜",
+                "cos_time": "W56-YD214[YM]",
+                "memo": "",
+                "cos_ename": "The Pursuit of Fulfillment as a Dentist (3)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_111521": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111521",
+                "cos_code": "DEDE10012",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "口腔解剖學",
+                "cos_credit": "1.30",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "楊政杰、涂曦丰、林宥成、王鼎涵、高壽延、羅文良、吳政憲、于恩浩、吳和泰、邱昱瑋、成函潔",
+                "cos_time": "T1234F1234-YD210[YM]",
+                "memo": "",
+                "cos_ename": "Oral Anatomy",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_111522": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111522",
+                "cos_code": "DEDE10013",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "口腔解剖學實驗",
+                "cos_credit": ".50",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "楊政杰、涂曦丰、林宥成、高壽延、吳政憲、于恩浩、吳和泰、邱昱瑋、成函潔",
+                "cos_time": "T1234F12345678-YD210[YM]",
+                "memo": "",
+                "cos_ename": "Oral Anatomy Lab.",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_111523": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111523",
+                "cos_code": "DEDE10034",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "牙科器材學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "https://www.ym.edu.tw/sod/teacher/huanghh/index.htm",
+                "teacher": "黃何雄、林元敏、耿藝文",
+                "cos_time": "W78-YD105[YM]",
+                "memo": "",
+                "cos_ename": "Dental Materials",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "82",
+                "depType": "U"
+            },
+            "1121_111524": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111524",
+                "cos_code": "DEDE10048",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生物統計學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "季麟揚、林伯彥",
+                "cos_time": "R12-YD210[YM]",
+                "memo": "",
+                "cos_ename": "Biostatistics",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "82",
+                "depType": "U"
+            },
+            "1121_111525": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111525",
+                "cos_code": "DEDE20005",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "內科學概論",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "黃怡翔、陳涵栩、陳志強、胡啟民、王嚴鋒、陳瑋昇、陳俊宇、何莉櫻、賴建志、阮志翰、蔡淳光、何翊芯、吳政億、黃金洲、馮嘉毅、許劭榮",
+                "cos_time": "T34-YD214[YM]",
+                "memo": "",
+                "cos_ename": "Introduction to Internal Medicine",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "40",
+                "depType": "U"
+            },
+            "1121_111526": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111526",
+                "cos_code": "DEDE20017",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "外科學概論",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "張世慶、許瀚水、陳維熊、洪榮志、黃正雄、羅文良、馬旭、葉發來、王鑑瀛、黃國宏、吳思賢、鍾孝仁、陳沂名",
+                "cos_time": "M12-YD105[YM]",
+                "memo": "",
+                "cos_ename": "Introduction to Surgery",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "40",
+                "depType": "U"
+            },
+            "1121_111527": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111527",
+                "cos_code": "DEDE20037",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "特殊需求者口腔醫療照護",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "許明倫、程千芳、涂曦丰、彭莉甯、羅文良、劉正芬、李雅玲、李思慧、蔡佳芬、黃明裕",
+                "cos_time": "R56-YD210[YM]",
+                "memo": "",
+                "cos_ename": "Oral health care for patients of special needs",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "40",
+                "depType": "U"
+            },
+            "1121_111528": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111528",
+                "cos_code": "DEDE20043",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "https://sites.google.com/view/eccentricdentistry/%E8%A1%8C%E7%82%BA",
+                "cos_cname": "行為牙醫學",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "https://dod.nycu.edu.tw/?page_id=2522",
+                "teacher": "林嘉澍、王敏靜",
+                "cos_time": "R78-YD210[YM]",
+                "memo": "",
+                "cos_ename": "Behavioral Dentistry",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_111529": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111529",
+                "cos_code": "DEDE20022",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "循環學",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "林彥璋、胡瑜峰、盧澤民、羅文良、許喬博、施俊哲、余文鍾、吳道正、宋思賢、許百豐、鐘法博、李必昌、吳承學、陳素真、張俊欽、劉至民、吳政億、蔡泉財、黃金洲",
+                "cos_time": "M5-YT304[YM]",
+                "memo": "",
+                "cos_ename": "Circulation",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "40",
+                "depType": "U"
+            },
+            "1121_111530": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111530",
+                "cos_code": "DEDE20040",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "臨床診斷學",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "黃怡翔、陳涵栩、紀乃方、藍敏瑛、劉永揚、曾彥寒、廖顯宗、陳俊宇、許彥彬、李沛璋、謝昀蓁、葉建甫、范乃文、周昱百、陳天華、薛健佑、吳政億、黃冠榕",
+                "cos_time": "T5-YD105[YM]",
+                "memo": "",
+                "cos_ename": "Clinical and Laboratory Diagnosis",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "46",
+                "depType": "U"
+            },
+            "1121_111531": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111531",
+                "cos_code": "DEDE20041",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "臨床診斷學實習",
+                "cos_credit": "1.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "黃怡翔、陳涵栩、紀乃方、藍敏瑛、曾彥寒、廖顯宗、陳俊宇、許彥彬、李沛璋、葉建甫、范乃文、周昱百、薛健佑、吳政億、吳啟榮、黃冠榕",
+                "cos_time": "T678-YD105[YM]",
+                "memo": "",
+                "cos_ename": "Practical Training of Clinical and Laboratory Diagnosis",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "46",
+                "depType": "U"
+            },
+            "1121_111532": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111532",
+                "cos_code": "DEDE20044",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "麻醉學",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "曹正明、丁乾坤、楊舜欽、宋俊松、林世斌、王審之、鄧惟濃、郭怡敏、張文貴、劉靖揚",
+                "cos_time": "T34-YD105[YM]",
+                "memo": "",
+                "cos_ename": "Anesthesiology",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "46",
+                "depType": "U"
+            },
+            "1121_111533": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111533",
+                "cos_code": "DEDE20012",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "口腔顎面外科學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "高壽延、楊政杰、涂曦丰、羅文良、洪凱風、吳政憲、雷文天、成函潔、黃傳貴",
+                "cos_time": "F5678-",
+                "memo": "上課時間：每週五下午2點至五點，上課地點：台北榮總",
+                "cos_ename": "Oral & Maxillofacial Surgery",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "46",
+                "depType": "U"
+            },
+            "1121_111534": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111534",
+                "cos_code": "DEDE20025",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "牙周病學",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "賴玉玲、陳恆理、董醒任、陳彥廷、林怡君、黃惠華、陳軒弘、張馨尹",
+                "cos_time": "R3-YD320[YM]",
+                "memo": "",
+                "cos_ename": "Periodontology",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "46",
+                "depType": "U"
+            },
+            "1121_111535": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111535",
+                "cos_code": "DEDE20032",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "牙科臨床實習",
+                "cos_credit": "2.00",
+                "cos_hours": "6.00",
+                "TURL": "",
+                "teacher": "賴玉玲、李士元、張國威、陳恆理、楊政杰、涂曦丰、吳靜宜、耿藝文、張景智、高壽延、羅文良、施文宇、洪凱風、楊淑芬、馮懷珍、董醒任、吳政憲、李亞芸、雷文天、于恩浩、陳大為、林怡君、董愛康、吳姿瑩、吳詩韻、何怡青、陳江雲、楊子彰、葉聖威、洪振元、吳和泰、陳瓊芬、陳軒弘、梁祐銘、成函潔、謝春怡、蔡佳倫、鄭冬慧",
+                "cos_time": "F12349a-",
+                "memo": "",
+                "cos_ename": "Clerkship in Clinical Dentistry",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "46",
+                "depType": "U"
+            },
+            "1121_111536": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111536",
+                "cos_code": "DEDE20019",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "局部贗復學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "許明倫、耿藝文、張景智、陳岱茜、張志麟、陳正毅、謝旻杰",
+                "cos_time": "W12-YD210[YM]",
+                "memo": "",
+                "cos_ename": "Removable Partial Denture Prosthodontics",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "86",
+                "depType": "U"
+            },
+            "1121_111537": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111537",
+                "cos_code": "DEDE20021",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "局部贋復學實驗",
+                "cos_credit": "3.00",
+                "cos_hours": "9.00",
+                "TURL": "",
+                "teacher": "許明倫、林嘉澍、耿藝文、張景智、張志麟、林慧觀、張采宇、楊博雅、黃籌永、謝旻杰",
+                "cos_time": "M123456789-YD210[YM]",
+                "memo": "",
+                "cos_ename": "Removable Partial Denture Prosthodontics Lab.",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "46",
+                "depType": "U"
+            },
+            "1121_111538": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111538",
+                "cos_code": "DEDE10020",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "導師時間",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "洪善鈴",
+                "cos_time": "R9a-YD214[YM]",
+                "memo": "",
+                "cos_ename": "Class Meeting",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "86",
+                "depType": "U"
+            },
+            "1121_111539": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111539",
+                "cos_code": "DEDE10020",
+                "num_limit": "40",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "導師時間",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "林怡彣",
+                "cos_time": "S56-YD320[YM]",
+                "memo": "",
+                "cos_ename": "Class Meeting",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "82",
+                "depType": "U"
+            },
+            "1121_111540": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111540",
+                "cos_code": "DEDE10020",
+                "num_limit": "10",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "導師時間",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "https://www.ym.edu.tw/sod/teacher/huanghh/index.htm",
+                "teacher": "黃何雄",
+                "cos_time": "S56-YD320[YM]",
+                "memo": "",
+                "cos_ename": "Class Meeting",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_111541": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111541",
+                "cos_code": "DEDE10020",
+                "num_limit": "10",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "導師時間",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "季麟揚",
+                "cos_time": "S56-YD320[YM]",
+                "memo": "",
+                "cos_ename": "Class Meeting",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_111542": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111542",
+                "cos_code": "DEDE10033",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "牙醫學概論",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "許明倫、季麟揚、林元敏、高壽延、賴玉玲、劉正芬、楊淑芬、林孝義、陳彥廷、蘇明圳、吳姿瑩、張志麟、何怡青、黃建文、陳益貞、張采宇、許文瑛",
+                "cos_time": "R56-CS100[GF]",
+                "memo": "",
+                "cos_ename": "Introduction of Dentistry",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_111543": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111543",
+                "cos_code": "DEDE10029",
+                "num_limit": "10",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "牙醫生涯不是夢(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "張景智",
+                "cos_time": "W34-YD105[YM]",
+                "memo": "",
+                "cos_ename": "The Pursuit of Fulfillment as a Dentist (1)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_111544": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111544",
+                "cos_code": "DEDE10020",
+                "num_limit": "10",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "導師時間",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "張志麟",
+                "cos_time": "S56-YD320[YM]",
+                "memo": "",
+                "cos_ename": "Class Meeting",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_111545": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111545",
+                "cos_code": "DEDE10020",
+                "num_limit": "10",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "導師時間",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "涂曦丰",
+                "cos_time": "S56-YD320[YM]",
+                "memo": "",
+                "cos_ename": "Class Meeting",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_111546": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111546",
+                "cos_code": "DEDE10029",
+                "num_limit": "10",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "牙醫生涯不是夢(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳恆理",
+                "cos_time": "W34-YD105[YM]",
+                "memo": "",
+                "cos_ename": "The Pursuit of Fulfillment as a Dentist (1)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_111547": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111547",
+                "cos_code": "DEDE10020",
+                "num_limit": "10",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "導師時間",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "耿藝文",
+                "cos_time": "M9a-YD320[YM]",
+                "memo": "",
+                "cos_ename": "Class Meeting",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "40",
+                "depType": "U"
+            },
+            "1121_111548": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111548",
+                "cos_code": "DEDE10020",
+                "num_limit": "10",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "導師時間",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "黎萬君",
+                "cos_time": "W9a-YD320[YM]",
+                "memo": "",
+                "cos_ename": "Class Meeting",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "46",
+                "depType": "U"
+            },
+            "1121_111549": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111549",
+                "cos_code": "DEDE20015",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "固定贋復學實驗",
+                "cos_credit": "2.00",
+                "cos_hours": "6.00",
+                "TURL": "",
+                "teacher": "李士元、王君伃、陳信宏",
+                "cos_time": "W345678-YD202[YM]",
+                "memo": "",
+                "cos_ename": "Fixed Prosthodontics Lab.",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "46",
+                "depType": "U"
+            },
+            "1121_111550": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111550",
+                "cos_code": "DEDE10020",
+                "num_limit": "10",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "導師時間",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "王鼎涵",
+                "cos_time": "M9a-YD320[YM]",
+                "memo": "",
+                "cos_ename": "Class Meeting",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_111551": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111551",
+                "cos_code": "DEDE10059",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "計算機概論",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "林宥成",
+                "cos_time": "M34-SC151[GF]",
+                "memo": "",
+                "cos_ename": "Introduction to Computer Science",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_111552": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111552",
+                "cos_code": "DEDE10020",
+                "num_limit": "10",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "導師時間",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "黃惠華",
+                "cos_time": "M9a-YD320[YM]",
+                "memo": "",
+                "cos_ename": "Class Meeting",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_111553": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111553",
+                "cos_code": "DEDE10020",
+                "num_limit": "10",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "導師時間",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳恆理",
+                "cos_time": "R9a-YD214[YM]",
+                "memo": "",
+                "cos_ename": "Class Meeting",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_111554": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111554",
+                "cos_code": "DEDE10020",
+                "num_limit": "10",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "導師時間",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "https://dod.nycu.edu.tw/?page_id=2522",
+                "teacher": "林嘉澍",
+                "cos_time": "R9a-YD214[YM]",
+                "memo": "",
+                "cos_ename": "Class Meeting",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_111555": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111555",
+                "cos_code": "DEDE10020",
+                "num_limit": "10",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "導師時間",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "張景智",
+                "cos_time": "R9a-YD214[YM]",
+                "memo": "",
+                "cos_ename": "Class Meeting",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_111556": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111556",
+                "cos_code": "DEDE10020",
+                "num_limit": "10",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "導師時間",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "夏堪臺",
+                "cos_time": "M9a-YD320[YM]",
+                "memo": "",
+                "cos_ename": "Class Meeting",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_111557": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111557",
+                "cos_code": "DEDE10020",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "導師時間",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "吳靜宜",
+                "cos_time": "R9a-YD214[YM]",
+                "memo": "",
+                "cos_ename": "Class Meeting",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_111558": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111558",
+                "cos_code": "DEDE10020",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "導師時間",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "李士元",
+                "cos_time": "W9abc-YD302[YM]",
+                "memo": "",
+                "cos_ename": "Class Meeting",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "40",
+                "depType": "U"
+            },
+            "1121_111560": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111560",
+                "cos_code": "DEDE10028",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "有機化學概論",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳皇銘",
+                "cos_time": "T56-SC151[GF]",
+                "memo": "",
+                "cos_ename": "Introduction of Organic Chemistry",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "150",
+                "dep_primary": "1",
+                "dep_cname": "牙醫學系",
+                "dep_ename": "Department of Dentistry ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            }
+        }
+    }
+}

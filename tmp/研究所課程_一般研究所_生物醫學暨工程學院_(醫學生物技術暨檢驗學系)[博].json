@@ -1,0 +1,477 @@
+{
+    "2CFE1B07-97A3-4B81-8C99-9413D873E69F": {
+        "dep_id": "2CFE1B07-97A3-4B81-8C99-9413D873E69F",
+        "dep_cname": "醫學生物技術暨檢驗學系",
+        "dep_ename": "Department of Biotechnology and Laboratory Science in Medicine  ",
+        "2": {
+            "1121_132200": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132200",
+                "cos_code": "BEBL30031",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "高等醫學生物技術學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "黃智生、吳韋訥、孫光蕙、楊翠青、張懿欣、黃琤、呂世正、龔思豪、涂玉青、黃尉倫、蘇美慈、洪小雅",
+                "cos_time": "W23F56-YB100[YM]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Advanced Medical Biotechnology",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "260",
+                "dep_primary": "2",
+                "dep_cname": "醫學生物技術暨檢驗學系",
+                "dep_ename": "Department of Biotechnology and Laboratory Science in Medicine  ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132201": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132201",
+                "cos_code": "BEBL30014",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生物資訊學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "吳韋訥、黃奇英、黃彥華、梁恭豪",
+                "cos_time": "T234-YB102[YM]",
+                "memo": "",
+                "cos_ename": "Bioinformatics",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "260",
+                "dep_primary": "2",
+                "dep_cname": "醫學生物技術暨檢驗學系",
+                "dep_ename": "Department of Biotechnology and Laboratory Science in Medicine  ",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132202": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132202",
+                "cos_code": "BEBL30007",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "專題討論(A班)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "黃尉倫、吳韋訥、孫光蕙、楊翠青、黃琤、呂世正、龔思豪、黃智生、涂玉青、蘇美慈、洪小雅",
+                "cos_time": "T78-YB101[YM]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Seminar (A)",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "260",
+                "dep_primary": "2",
+                "dep_cname": "醫學生物技術暨檢驗學系",
+                "dep_ename": "Department of Biotechnology and Laboratory Science in Medicine  ",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132204": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132204",
+                "cos_code": "BEBL30025",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "進階病毒學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "龔思豪",
+                "cos_time": "R56-YB101[YM]",
+                "memo": "",
+                "cos_ename": "Advance in Virology",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "260",
+                "dep_primary": "2",
+                "dep_cname": "醫學生物技術暨檢驗學系",
+                "dep_ename": "Department of Biotechnology and Laboratory Science in Medicine  ",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132206": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132206",
+                "cos_code": "BEBL30004",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "寡核酸-PCR原理及應用",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "龔思豪、張泰階",
+                "cos_time": "M78-YB101[YM]",
+                "memo": "",
+                "cos_ename": "Oligonucleotide- principle and application of PCR",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "260",
+                "dep_primary": "2",
+                "dep_cname": "醫學生物技術暨檢驗學系",
+                "dep_ename": "Department of Biotechnology and Laboratory Science in Medicine  ",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132207": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132207",
+                "cos_code": "BEBL30019",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "糖尿病與新陳代謝",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "張懿欣",
+                "cos_time": "T34-",
+                "memo": "",
+                "cos_ename": "Diabetes Mellitus and Metabolism",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "260",
+                "dep_primary": "2",
+                "dep_cname": "醫學生物技術暨檢驗學系",
+                "dep_ename": "Department of Biotechnology and Laboratory Science in Medicine  ",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132210": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132210",
+                "cos_code": "BEBL30039",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "疾病及治療中免疫抑制受體的角色",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "蘇美慈",
+                "cos_time": "T56-YT204[YM]",
+                "memo": "",
+                "cos_ename": "The role of inhibitory receptors in disease and therapy",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "260",
+                "dep_primary": "2",
+                "dep_cname": "醫學生物技術暨檢驗學系",
+                "dep_ename": "Department of Biotechnology and Laboratory Science in Medicine  ",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132211": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132211",
+                "cos_code": "BEBL30040",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "專題討論(D)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "黃智生、吳韋訥、孫光蕙、楊翠青、黃琤、呂世正、龔思豪、涂玉青、黃尉倫、蘇美慈、洪小雅",
+                "cos_time": "F34-YT103[YM]",
+                "memo": "",
+                "cos_ename": "Seminar (D)",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "260",
+                "dep_primary": "2",
+                "dep_cname": "醫學生物技術暨檢驗學系",
+                "dep_ename": "Department of Biotechnology and Laboratory Science in Medicine  ",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            }
+        },
+        "costype": {
+            "1121_132200": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132201": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132202": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132204": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132206": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132207": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132210": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132211": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_141700": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_141702": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_132200": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132201": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132202": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132204": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132206": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132207": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132210": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132211": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_141700": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_141702": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_132200": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_132201": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132202": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_132204": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132206": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132207": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132210": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132211": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_141700": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_141702": {
+                "授課語言代碼": "zh-tw"
+            }
+        },
+        "1": {
+            "1121_141700": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "141700",
+                "cos_code": "BEBL30005",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "實驗課程教學",
+                "cos_credit": "1.00",
+                "cos_hours": ".00",
+                "TURL": "",
+                "teacher": "黃智生",
+                "cos_time": "",
+                "memo": "",
+                "cos_ename": "Experimental Teaching",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "260",
+                "dep_primary": "1",
+                "dep_cname": "醫學生物技術暨檢驗學系",
+                "dep_ename": "Department of Biotechnology and Laboratory Science in Medicine  ",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_141702": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "141702",
+                "cos_code": "BEBL30028",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "醫學生物技術學研究(博)",
+                "cos_credit": "1.00",
+                "cos_hours": ".00",
+                "TURL": "",
+                "teacher": "黃智生",
+                "cos_time": "",
+                "memo": "",
+                "cos_ename": "Research in Biotechnology",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "260",
+                "dep_primary": "1",
+                "dep_cname": "醫學生物技術暨檢驗學系",
+                "dep_ename": "Department of Biotechnology and Laboratory Science in Medicine  ",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            }
+        }
+    }
+}

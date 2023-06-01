@@ -1,0 +1,199 @@
+{
+    "8FC7C3E2-F857-431A-9716-DC9C05C4AA64": {
+        "dep_id": "8FC7C3E2-F857-431A-9716-DC9C05C4AA64",
+        "dep_cname": "工學院碩士在職專班-工程管理組",
+        "dep_ename": "Degree Program of Construction Technology and Management",
+        "1": {
+            "1121_556200": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "556200",
+                "cos_code": "ENIM30011",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "碩士論文研究",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "工程專班",
+                "cos_time": "",
+                "memo": "",
+                "cos_ename": "Thesis Research",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "608",
+                "dep_primary": "1",
+                "dep_cname": "工學院碩士在職專班-工程管理組",
+                "dep_ename": "Degree Program of Construction Technology and Management",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_556201": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "556201",
+                "cos_code": "ENIM30004",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "專題討論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "工程專班",
+                "cos_time": "S234-EB227[GF]",
+                "memo": "",
+                "cos_ename": "Seminar",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "608",
+                "dep_primary": "1",
+                "dep_cname": "工學院碩士在職專班-工程管理組",
+                "dep_ename": "Degree Program of Construction Technology and Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_556202": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "556202",
+                "cos_code": "ENIM30010",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "災害管理與防災科技",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "單信瑜",
+                "cos_time": "S567-EB227[GF]",
+                "memo": "",
+                "cos_ename": "Emergency Management and Hazard Mitigation Technology",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "608",
+                "dep_primary": "1",
+                "dep_cname": "工學院碩士在職專班-工程管理組",
+                "dep_ename": "Degree Program of Construction Technology and Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_556203": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "556203",
+                "cos_code": "ENIM30008",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "工程財務管理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "曾惠斌",
+                "cos_time": "Fabc-EB227[GF]",
+                "memo": "",
+                "cos_ename": "Financial Application in Engineering Project",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "608",
+                "dep_primary": "1",
+                "dep_cname": "工學院碩士在職專班-工程管理組",
+                "dep_ename": "Degree Program of Construction Technology and Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "J"
+            }
+        },
+        "costype": {
+            "1121_556200": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_556201": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_556202": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_556203": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_556200": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_556201": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_556202": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_556203": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_556200": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_556201": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_556202": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_556203": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    }
+}

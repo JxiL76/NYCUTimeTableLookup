@@ -1,0 +1,1169 @@
+{
+    "FBD12D47-AE15-4D1E-AA2E-1398CCCADD45": {
+        "dep_id": "FBD12D47-AE15-4D1E-AA2E-1398CCCADD45",
+        "dep_cname": "應用化學系",
+        "dep_ename": "Department of Applied Chemistry",
+        "1": {
+            "1121_516800": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "516800",
+                "cos_code": "SCAC00005",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "導師時間",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "",
+                "cos_time": "W78-SB201[GF]",
+                "memo": "",
+                "cos_ename": "Mentor's Hours",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "654",
+                "dep_primary": "1",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Department of Applied Chemistry",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_516801": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "516801",
+                "cos_code": "SCAC20015",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "計算機概論(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://dac.nycu.edu.tw/members/1285",
+                "teacher": "李大偉",
+                "cos_time": "T2R56-CS-PC3[GF]",
+                "memo": "T2、R56上課地點：資訊技術服務中心PC3電腦教室。",
+                "cos_ename": "Introduction to Computer Science (1)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "654",
+                "dep_primary": "1",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Department of Applied Chemistry",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_516802": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "516802",
+                "cos_code": "SCAC10012",
+                "num_limit": "60",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "有機化學(一)",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "http://www.ac.nctu.edu.tw/people/bio.php?PID=43",
+                "teacher": "鍾文聖",
+                "cos_time": "M34W34-SB211[GF]",
+                "memo": "",
+                "cos_ename": "Organic Chemistry (Ｉ)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "654",
+                "dep_primary": "1",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Department of Applied Chemistry",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "49",
+                "depType": "U"
+            },
+            "1121_516803": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "516803",
+                "cos_code": "SCAC10014",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "有機化學實驗(一)",
+                "cos_credit": "2.00",
+                "cos_hours": "6.00",
+                "TURL": "http://www.ac.nctu.edu.tw/people/bio.php?PID=43",
+                "teacher": "鍾文聖",
+                "cos_time": "R4n5678-SB120[GF]",
+                "memo": "限本系，外系學生需經任課教師同意後，方可加選本課程。",
+                "cos_ename": "Organic Chemistry Labs. (Ｉ)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "654",
+                "dep_primary": "1",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Department of Applied Chemistry",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "49",
+                "depType": "U"
+            },
+            "1121_516804": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "516804",
+                "cos_code": "SCAC10005",
+                "num_limit": "60",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "應用數學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "曾建銘",
+                "cos_time": "T34F2-SC159[GF]",
+                "memo": "",
+                "cos_ename": "Applied Mathematics",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "654",
+                "dep_primary": "1",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Department of Applied Chemistry",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "49",
+                "depType": "U"
+            },
+            "1121_516805": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "516805",
+                "cos_code": "SCAC10018",
+                "num_limit": "60",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "物理化學(一)",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "http://diau08.ac.nctu.edu.tw/",
+                "teacher": "刁維光",
+                "cos_time": "T56F56-SB211[GF]",
+                "memo": "",
+                "cos_ename": "Physical Chemistry(I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "654",
+                "dep_primary": "1",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Department of Applied Chemistry",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "49",
+                "depType": "U"
+            },
+            "1121_516806": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "516806",
+                "cos_code": "SCAC00010",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "服務學習(二)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "詹揚翔",
+                "cos_time": "M56-SB201[GF]",
+                "memo": "",
+                "cos_ename": "Service Learning II",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "654",
+                "dep_primary": "1",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Department of Applied Chemistry",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "49",
+                "depType": "U"
+            },
+            "1121_516807": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "516807",
+                "cos_code": "SCAC10016",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "無機化學(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "李積琛",
+                "cos_time": "T34R2-SB210[GF]",
+                "memo": "",
+                "cos_ename": "Inorganic Chemistry (1)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "654",
+                "dep_primary": "1",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Department of Applied Chemistry",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "54",
+                "depType": "U"
+            },
+            "1121_516808": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "516808",
+                "cos_code": "SCAC10002",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "分析化學(二)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://ycclab2018.wixsite.com/ycclab",
+                "teacher": "陳月枝",
+                "cos_time": "M56T5-SC159[GF]",
+                "memo": "",
+                "cos_ename": "Analytical Chemistry (2)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "654",
+                "dep_primary": "1",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Department of Applied Chemistry",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "54",
+                "depType": "U"
+            },
+            "1121_516809": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "516809",
+                "cos_code": "SCAC10021",
+                "num_limit": "26",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "物化實驗(二)",
+                "cos_credit": "1.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "吳慶昇",
+                "cos_time": "Rn567-SB219[GF]",
+                "memo": "限本系，外系學生需經任課教師同意後，方可加選本課程。",
+                "cos_ename": "Experiments in Physical Chemistry (II)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "654",
+                "dep_primary": "1",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Department of Applied Chemistry",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_516810": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "516810",
+                "cos_code": "SCAC10021",
+                "num_limit": "26",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "物化實驗(二)",
+                "cos_credit": "1.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "吳慶昇",
+                "cos_time": "R89ab-SB219[GF]",
+                "memo": "限本系，外系學生需經任課教師同意後，方可加選本課程。",
+                "cos_ename": "Experiments in Physical Chemistry (II)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "654",
+                "dep_primary": "1",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Department of Applied Chemistry",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_516811": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "516811",
+                "cos_code": "SCAC20002",
+                "num_limit": "10",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "分析化學特論-科學研究方法",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "許馨云",
+                "cos_time": "W234-EO615[GF]",
+                "memo": "限本系本學期正在修專題研究之學生。",
+                "cos_ename": "Special Topics of Analytical Chemistry - Communicating Science",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "654",
+                "dep_primary": "1",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Department of Applied Chemistry",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_516812": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "516812",
+                "cos_code": "SCAC20013",
+                "num_limit": "30",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "生物化學(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://dac.nycu.edu.tw/members/1266",
+                "teacher": "吳淑褓",
+                "cos_time": "W234-SC159[GF]",
+                "memo": "本系大四優先。",
+                "cos_ename": "Biochemistry (1)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "654",
+                "dep_primary": "1",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Department of Applied Chemistry",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_516813": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "516813",
+                "cos_code": "SCAC20019",
+                "num_limit": "40",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "有機化學的反應機構",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "吳彥谷",
+                "cos_time": "R34-SB203[GF]",
+                "memo": "",
+                "cos_ename": "Reaction Mechanism in Organic Chemistry",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "654",
+                "dep_primary": "1",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Department of Applied Chemistry",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_516814": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "516814",
+                "cos_code": "SCAC10006",
+                "num_limit": "27",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "書報討論A(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "https://dac.nycu.edu.tw/members/1266",
+                "teacher": "吳淑褓",
+                "cos_time": "M34-SC159[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Seminar A (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "654",
+                "dep_primary": "1",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Department of Applied Chemistry",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_516815": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "516815",
+                "cos_code": "SCAC10008",
+                "num_limit": "27",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "書報討論B(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "平松弘嗣",
+                "cos_time": "F34-SB202[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Seminar B (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "654",
+                "dep_primary": "1",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Department of Applied Chemistry",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_516816": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "516816",
+                "cos_code": "SCAC10017",
+                "num_limit": "20",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "無機化學(二)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "劉學儒",
+                "cos_time": "R56-SB203[GF]",
+                "memo": "1.欲選修本課程者，限修過無機化學(一)。\n2.本系學生須先修過無機化學(二)之實體課程，才能選修本課程。\n",
+                "cos_ename": "Inorganic Chemistry (2)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "654",
+                "dep_primary": "1",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Department of Applied Chemistry",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_516817": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "516817",
+                "cos_code": "SCAC20006",
+                "num_limit": "0",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "專題研究(二)",
+                "cos_credit": "1.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "",
+                "cos_time": "S234-",
+                "memo": "",
+                "cos_ename": "Research (2)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "654",
+                "dep_primary": "1",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Department of Applied Chemistry",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_516818": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "516818",
+                "cos_code": "SCAC20017",
+                "num_limit": "40",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "高分子化學 (一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "張佳智",
+                "cos_time": "T67R8-SB201[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Polymer Chemistry (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "654",
+                "dep_primary": "1",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Department of Applied Chemistry",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            }
+        },
+        "costype": {
+            "1121_516800": {
+                "大學導師_大學導師": {
+                    "course_category_cname": "大學導師_大學導師",
+                    "course_category_ename": "",
+                    "course_category_type": "65",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_516801": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_516802": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_516803": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_516804": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_516805": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_516806": {
+                "基礎服務學習_基礎服務學習": {
+                    "course_category_cname": "基礎服務學習_基礎服務學習",
+                    "course_category_ename": "",
+                    "course_category_type": "76",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_516807": {
+                "通識跨院基本素養_通識跨院": {
+                    "course_category_cname": "通識跨院基本素養_通識跨院",
+                    "course_category_ename": "General Education Course: Intercollegiate_GECI",
+                    "course_category_type": "16",
+                    "GECIName": "工,生,跨",
+                    "GECIEngName": "COE,CBT,CI"
+                }
+            },
+            "1121_516808": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_516809": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_516810": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_516811": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_516812": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_516813": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_516814": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_516815": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_516816": {
+                "遠距課程_遠距": {
+                    "course_category_cname": "遠距課程_遠距",
+                    "course_category_ename": "Distance  Learning Courses_DL",
+                    "course_category_type": "4",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_516817": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_516818": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_566002": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_566009": {
+                "遠距課程_遠距": {
+                    "course_category_cname": "遠距課程_遠距",
+                    "course_category_ename": "Distance  Learning Courses_DL",
+                    "course_category_type": "4",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_566012": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_516800": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_516801": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_516802": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_516803": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_516804": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_516805": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_516806": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_516807": {
+                "A504": {
+                    "brief_code": "A504",
+                    "brief": "跨院基本素養(106)"
+                }
+            },
+            "1121_516808": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_516809": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_516810": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_516811": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_516812": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_516813": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_516814": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_516815": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_516816": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_516817": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_516818": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_566002": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_566009": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_566012": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_516800": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_516801": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_516802": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_516803": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_516804": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_516805": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_516806": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_516807": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_516808": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_516809": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_516810": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_516811": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_516812": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_516813": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_516814": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_516815": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_516816": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_516817": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_516818": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_566002": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_566009": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_566012": {
+                "授課語言代碼": "zh-tw"
+            }
+        },
+        "2": {
+            "1121_516811": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "516811",
+                "cos_code": "SCAC20002",
+                "num_limit": "10",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "分析化學特論-科學研究方法",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "許馨云",
+                "cos_time": "W234-EO615[GF]",
+                "memo": "限本系本學期正在修專題研究之學生。",
+                "cos_ename": "Special Topics of Analytical Chemistry - Communicating Science",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "654",
+                "dep_primary": "2",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Department of Applied Chemistry",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_516812": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "516812",
+                "cos_code": "SCAC20013",
+                "num_limit": "30",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "生物化學(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://dac.nycu.edu.tw/members/1266",
+                "teacher": "吳淑褓",
+                "cos_time": "W234-SC159[GF]",
+                "memo": "本系大四優先。",
+                "cos_ename": "Biochemistry (1)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "654",
+                "dep_primary": "2",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Department of Applied Chemistry",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_516813": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "516813",
+                "cos_code": "SCAC20019",
+                "num_limit": "40",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "有機化學的反應機構",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "吳彥谷",
+                "cos_time": "R34-SB203[GF]",
+                "memo": "",
+                "cos_ename": "Reaction Mechanism in Organic Chemistry",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "654",
+                "dep_primary": "2",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Department of Applied Chemistry",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_516817": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "516817",
+                "cos_code": "SCAC20006",
+                "num_limit": "0",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "專題研究(二)",
+                "cos_credit": "1.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "",
+                "cos_time": "S234-",
+                "memo": "",
+                "cos_ename": "Research (2)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "654",
+                "dep_primary": "2",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Department of Applied Chemistry",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_516818": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "516818",
+                "cos_code": "SCAC20017",
+                "num_limit": "40",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "高分子化學 (一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "張佳智",
+                "cos_time": "T67R8-SB201[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Polymer Chemistry (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "654",
+                "dep_primary": "2",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Department of Applied Chemistry",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_566002": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "566002",
+                "cos_code": "GECH00001",
+                "num_limit": "55",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "化學(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "廖奕翰",
+                "cos_time": "T56F2-SC105[GF]",
+                "memo": "應用化學系優先",
+                "cos_ename": "Chemistry (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "654",
+                "dep_primary": "2",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Department of Applied Chemistry",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_566009": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "566009",
+                "cos_code": "GECH00003",
+                "num_limit": "30",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "化學(二)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://dac.nycu.edu.tw/members/1285",
+                "teacher": "李大偉",
+                "cos_time": "F78-SC109[GF]",
+                "memo": "",
+                "cos_ename": "Chemistry (II)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "654",
+                "dep_primary": "2",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Department of Applied Chemistry",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_566012": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "566012",
+                "cos_code": "GECH00002",
+                "num_limit": "55",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "化學實驗(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "廖奕翰",
+                "cos_time": "R234-SB119[GF]",
+                "memo": "應用化學系優先",
+                "cos_ename": "Chemistry Lab. (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "654",
+                "dep_primary": "2",
+                "dep_cname": "應用化學系",
+                "dep_ename": "Department of Applied Chemistry",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            }
+        }
+    }
+}

@@ -1,0 +1,431 @@
+{
+    "A39B7D7F-6618-4C41-ABC8-2079150D7402": {
+        "dep_id": "A39B7D7F-6618-4C41-ABC8-2079150D7402",
+        "dep_cname": "光電博士學位學程",
+        "dep_ename": "International Ph.D. Program in Photonics (UST)",
+        "2": {
+            "1121_535211": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535211",
+                "cos_code": "EEIE30002",
+                "num_limit": "60",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "二維半導體概論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://dhlien.wixsite.com/dhlien",
+                "teacher": "連德軒",
+                "cos_time": "M56-ED101[GF],R4-ED301[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Introduction to 2D Semiconductors",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "503",
+                "dep_primary": "2",
+                "dep_cname": "光電博士學位學程",
+                "dep_ename": "International Ph.D. Program in Photonics (UST)",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535215": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535215",
+                "cos_code": "EEIE30067",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "表面電漿子與超穎物質元件",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "曾銘綸",
+                "cos_time": "F234-ED201[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Nano-plasmonics &amp; Metamaterials",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "503",
+                "dep_primary": "2",
+                "dep_cname": "光電博士學位學程",
+                "dep_ename": "International Ph.D. Program in Photonics (UST)",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535406": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535406",
+                "cos_code": "EEEO30122",
+                "num_limit": "70",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "顯示電子電路",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "戴亞翔",
+                "cos_time": "F234-CY201[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Electronic Circuits for Display",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "503",
+                "dep_primary": "2",
+                "dep_cname": "光電博士學位學程",
+                "dep_ename": "International Ph.D. Program in Photonics (UST)",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535415": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535415",
+                "cos_code": "EEEO30057",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "材料光學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://tim.tclu.googlepages.com/",
+                "teacher": "盧廷昌",
+                "cos_time": "F789-CY203[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "The Optical Properties of Materials",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "503",
+                "dep_primary": "2",
+                "dep_cname": "光電博士學位學程",
+                "dep_ename": "International Ph.D. Program in Photonics (UST)",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535416": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535416",
+                "cos_code": "EEEO30011",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "光學微影與解析度增益技術",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://www.ieo.nctu.edu.tw/ieophasor/",
+                "teacher": "余沛慈",
+                "cos_time": "T234-EO115[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Optical Micro-lithography(OML) and Resolution Enhancement Techniques",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "503",
+                "dep_primary": "2",
+                "dep_cname": "光電博士學位學程",
+                "dep_ename": "International Ph.D. Program in Photonics (UST)",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535417": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535417",
+                "cos_code": "EEEO30096",
+                "num_limit": "20",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "超穎介面",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://ywhuang.com/",
+                "teacher": "黃耀緯",
+                "cos_time": "M567-EO115[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Metasurfaces",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "503",
+                "dep_primary": "2",
+                "dep_cname": "光電博士學位學程",
+                "dep_ename": "International Ph.D. Program in Photonics (UST)",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_535418": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535418",
+                "cos_code": "EEEO30042",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "固態物理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "黃嘉彥",
+                "cos_time": "R567-CY202[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Solid State Physics",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "503",
+                "dep_primary": "2",
+                "dep_cname": "光電博士學位學程",
+                "dep_ename": "International Ph.D. Program in Photonics (UST)",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "M"
+            }
+        },
+        "costype": {
+            "1121_535211": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535215": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535406": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535415": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535416": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535417": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535418": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_545000": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_545001": {
+                "專題演講_專題演講": {
+                    "course_category_cname": "專題演講_專題演講",
+                    "course_category_ename": "",
+                    "course_category_type": "62",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_535211": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535215": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535406": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535415": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535416": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535417": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535418": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_545000": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_545001": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_535211": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535215": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535406": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535415": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535416": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535417": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535418": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_545000": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_545001": {
+                "授課語言代碼": "en-us"
+            }
+        },
+        "1": {
+            "1121_545000": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "545000",
+                "cos_code": "EEIP30001",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "個別研究",
+                "cos_credit": "1.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "光電博學位學程",
+                "cos_time": "",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Independent Study",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "503",
+                "dep_primary": "1",
+                "dep_cname": "光電博士學位學程",
+                "dep_ename": "International Ph.D. Program in Photonics (UST)",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_545001": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "545001",
+                "cos_code": "EEIP30002",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "專題研討",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "李柏璁",
+                "cos_time": "",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Seminar",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "503",
+                "dep_primary": "1",
+                "dep_cname": "光電博士學位學程",
+                "dep_ename": "International Ph.D. Program in Photonics (UST)",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "M"
+            }
+        }
+    }
+}

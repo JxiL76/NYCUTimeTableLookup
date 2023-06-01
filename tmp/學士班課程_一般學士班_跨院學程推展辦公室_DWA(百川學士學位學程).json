@@ -1,0 +1,768 @@
+{
+    "028758A1-A365-44DB-9EF4-5B97C510A2E2": {
+        "dep_id": "028758A1-A365-44DB-9EF4-5B97C510A2E2",
+        "dep_cname": "百川學士學位學程",
+        "dep_ename": "I",
+        "1": {
+            "1121_519500": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "519500",
+                "cos_code": "XDAP00018",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "專題探索基本功－從閱讀到寫作",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "安勤之",
+                "cos_time": "R78-",
+                "memo": "純線上同步遠距課程 (請向教師索取線上連結)",
+                "cos_ename": "The Basics of Inquiry and Research: From Reading to Writing",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "950",
+                "dep_primary": "1",
+                "dep_cname": "百川學士學位學程",
+                "dep_ename": "I",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "C"
+            },
+            "1121_519501": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "519501",
+                "cos_code": "XDAP20001",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "人文與科學經典閱讀(一)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "程源中、安勤之",
+                "cos_time": "F56-A401[GF]",
+                "memo": "",
+                "cos_ename": "Reading Classics of Humanities and Sciences (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "950",
+                "dep_primary": "1",
+                "dep_cname": "百川學士學位學程",
+                "dep_ename": "I",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "C"
+            },
+            "1121_519502": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "519502",
+                "cos_code": "XDAP20004",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "畢業專題(二)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "百川",
+                "cos_time": "",
+                "memo": "",
+                "cos_ename": "Senior project(II)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "950",
+                "dep_primary": "1",
+                "dep_cname": "百川學士學位學程",
+                "dep_ename": "I",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "C"
+            },
+            "1121_519503": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "519503",
+                "cos_code": "XDAP10001",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "專題探索(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "百川",
+                "cos_time": "",
+                "memo": "",
+                "cos_ename": "Topics Exploration (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "950",
+                "dep_primary": "1",
+                "dep_cname": "百川學士學位學程",
+                "dep_ename": "I",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "C"
+            },
+            "1121_519504": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "519504",
+                "cos_code": "XDAP10002",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "專題探索(三)",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "百川",
+                "cos_time": "",
+                "memo": "",
+                "cos_ename": "Topics Exploration (III)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "950",
+                "dep_primary": "1",
+                "dep_cname": "百川學士學位學程",
+                "dep_ename": "I",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "C"
+            },
+            "1121_519506": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "519506",
+                "cos_code": "XDAP20003",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "畢業專題(一)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "百川",
+                "cos_time": "",
+                "memo": "",
+                "cos_ename": "Senior project(I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "950",
+                "dep_primary": "1",
+                "dep_cname": "百川學士學位學程",
+                "dep_ename": "I",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "C"
+            },
+            "1121_519507": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "519507",
+                "cos_code": "XDAP20005",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "畢業專題(三)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "百川",
+                "cos_time": "",
+                "memo": "",
+                "cos_ename": "Senior project(III)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "950",
+                "dep_primary": "1",
+                "dep_cname": "百川學士學位學程",
+                "dep_ename": "I",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "C"
+            },
+            "1121_519508": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "519508",
+                "cos_code": "XDAP10006",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "專題探索理論與實作(1)",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "程源中",
+                "cos_time": "",
+                "memo": "",
+                "cos_ename": "Topics Exploration: Theory and Practice (1)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "950",
+                "dep_primary": "1",
+                "dep_cname": "百川學士學位學程",
+                "dep_ename": "I",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "C"
+            },
+            "1121_519509": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "519509",
+                "cos_code": "XDAP00002",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "導師時間",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "安勤之、程源中",
+                "cos_time": "W78-",
+                "memo": "",
+                "cos_ename": "Mentor's Hours0",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "950",
+                "dep_primary": "1",
+                "dep_cname": "百川學士學位學程",
+                "dep_ename": "I",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "C"
+            },
+            "1121_519510": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "519510",
+                "cos_code": "XDAP10007",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "專題探索理論與實作(3)",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "安勤之",
+                "cos_time": "",
+                "memo": "",
+                "cos_ename": "Topics Exploration: Theory and Practice (3)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "950",
+                "dep_primary": "1",
+                "dep_cname": "百川學士學位學程",
+                "dep_ename": "I",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "C"
+            },
+            "1121_519512": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "519512",
+                "cos_code": "XDAP00017",
+                "num_limit": "30",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "在AI時代重新思考行動生活：與ChatGPT共讀漢娜鄂蘭《人的條件》",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "安勤之",
+                "cos_time": "R34-",
+                "memo": "純線上同步遠距課程 (請向教師索取線上連結)",
+                "cos_ename": "Rethinking the Vita Activa in the Age of Artificial Intelligence: Reading Hannah Arendt&#39;s  &#34;the Human Condition&#34; with ChatGPT",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "950",
+                "dep_primary": "1",
+                "dep_cname": "百川學士學位學程",
+                "dep_ename": "I",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "C"
+            },
+            "1121_519513": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "519513",
+                "cos_code": "XDAP00003",
+                "num_limit": "55",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "最特殊的權利？言論自由初探",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "程源中",
+                "cos_time": "R567-",
+                "memo": "",
+                "cos_ename": "The Most Special Right? An Introduction to Freedom of Speech",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "950",
+                "dep_primary": "1",
+                "dep_cname": "百川學士學位學程",
+                "dep_ename": "I",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "C"
+            },
+            "1121_519514": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "519514",
+                "cos_code": "XDAP00006",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "百川學堂(一)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "http://nqpl.ep.nctu.edu.tw",
+                "teacher": "簡紋濱",
+                "cos_time": "W56-",
+                "memo": "",
+                "cos_ename": "Arete To-Be (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "950",
+                "dep_primary": "1",
+                "dep_cname": "百川學士學位學程",
+                "dep_ename": "I",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "C"
+            },
+            "1121_519515": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "519515",
+                "cos_code": "XDAP00005",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "服務學習(二)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "http://www.cc.nctu.edu.tw/~globe/",
+                "teacher": "王美鴻",
+                "cos_time": "W9a-A205[GF]",
+                "memo": "",
+                "cos_ename": "Service Learning II",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "950",
+                "dep_primary": "1",
+                "dep_cname": "百川學士學位學程",
+                "dep_ename": "I",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "C"
+            },
+            "1121_519516": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "519516",
+                "cos_code": "XDAP00008",
+                "num_limit": "55",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "規則的力量:規則如何構成世界?",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "程源中",
+                "cos_time": "F34-",
+                "memo": "",
+                "cos_ename": "The Power of Rules: How Could Rules Make the World?",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "950",
+                "dep_primary": "1",
+                "dep_cname": "百川學士學位學程",
+                "dep_ename": "I",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "C"
+            }
+        },
+        "costype": {
+            "1121_519500": {
+                "基本素養-批判思考_基本素養-批判思考": {
+                    "course_category_cname": "基本素養-批判思考_基本素養-批判思考",
+                    "course_category_ename": "Foundation-critical_FCCT",
+                    "course_category_type": "44",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "跨校區課程_跨校區課程": {
+                    "course_category_cname": "跨校區課程_跨校區課程",
+                    "course_category_ename": "Cross-Campus Course_Cross-Campus Course",
+                    "course_category_type": "57",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "通識校基本素養_通識校基本": {
+                    "course_category_cname": "通識校基本素養_通識校基本",
+                    "course_category_ename": "General Education Course: Literacy_GECL",
+                    "course_category_type": "15",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "遠距課程_遠距": {
+                    "course_category_cname": "遠距課程_遠距",
+                    "course_category_ename": "Distance  Learning Courses_DL",
+                    "course_category_type": "4",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_519501": {
+                "專題演講_專題演講": {
+                    "course_category_cname": "專題演講_專題演講",
+                    "course_category_ename": "",
+                    "course_category_type": "62",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_519502": {
+                "大學專題_大學專題": {
+                    "course_category_cname": "大學專題_大學專題",
+                    "course_category_ename": "",
+                    "course_category_type": "64",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_519503": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_519504": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_519506": {
+                "大學專題_大學專題": {
+                    "course_category_cname": "大學專題_大學專題",
+                    "course_category_ename": "",
+                    "course_category_type": "64",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_519507": {
+                "大學專題_大學專題": {
+                    "course_category_cname": "大學專題_大學專題",
+                    "course_category_ename": "",
+                    "course_category_type": "64",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_519508": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_519509": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_519510": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_519512": {
+                "基本素養-批判思考_基本素養-批判思考": {
+                    "course_category_cname": "基本素養-批判思考_基本素養-批判思考",
+                    "course_category_ename": "Foundation-critical_FCCT",
+                    "course_category_type": "44",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "跨校區課程_跨校區課程": {
+                    "course_category_cname": "跨校區課程_跨校區課程",
+                    "course_category_ename": "Cross-Campus Course_Cross-Campus Course",
+                    "course_category_type": "57",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "通識校基本素養_通識校基本": {
+                    "course_category_cname": "通識校基本素養_通識校基本",
+                    "course_category_ename": "General Education Course: Literacy_GECL",
+                    "course_category_type": "15",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "遠距課程_遠距": {
+                    "course_category_cname": "遠距課程_遠距",
+                    "course_category_ename": "Distance  Learning Courses_DL",
+                    "course_category_type": "4",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_519513": {
+                "通識核心課程_通識核心": {
+                    "course_category_cname": "通識核心課程_通識核心",
+                    "course_category_ename": "General Education Course_GEC",
+                    "course_category_type": "17",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "領域課程-公民與倫理思考_領域課程-公民與倫理思考": {
+                    "course_category_cname": "領域課程-公民與倫理思考_領域課程-公民與倫理思考",
+                    "course_category_ename": "Distribution-civics_DACE",
+                    "course_category_type": "50",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_519514": {
+                "專題演講_專題演講": {
+                    "course_category_cname": "專題演講_專題演講",
+                    "course_category_ename": "",
+                    "course_category_type": "62",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_519515": {
+                "基礎服務學習_基礎服務學習": {
+                    "course_category_cname": "基礎服務學習_基礎服務學習",
+                    "course_category_ename": "",
+                    "course_category_type": "76",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_519516": {
+                "博雅選修通識_博雅選修通識": {
+                    "course_category_cname": "博雅選修通識_博雅選修通識",
+                    "course_category_ename": "Optional Liberal Education_Optional Liberal Education",
+                    "course_category_type": "37",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "通識校基本素養_通識校基本": {
+                    "course_category_cname": "通識校基本素養_通識校基本",
+                    "course_category_ename": "General Education Course: Literacy_GECL",
+                    "course_category_type": "15",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "領域課程-公民與倫理思考_領域課程-公民與倫理思考": {
+                    "course_category_cname": "領域課程-公民與倫理思考_領域課程-公民與倫理思考",
+                    "course_category_ename": "Distribution-civics_DACE",
+                    "course_category_type": "50",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_519500": {
+                "A505,Z101": {
+                    "brief_code": "A505,Z101",
+                    "brief": "校基本素養(106),基本素養-批判思考(110)"
+                }
+            },
+            "1121_519501": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_519502": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_519503": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_519504": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_519506": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_519507": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_519508": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_519509": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_519510": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_519512": {
+                "A505,Z101": {
+                    "brief_code": "A505,Z101",
+                    "brief": "校基本素養(106),基本素養-批判思考(110)"
+                }
+            },
+            "1121_519513": {
+                "A502,Z107": {
+                    "brief_code": "A502,Z107",
+                    "brief": "核心-社會(106),領域課程-公民與倫理思考(110)"
+                }
+            },
+            "1121_519514": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_519515": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_519516": {
+                "A505,A909,Z107": {
+                    "brief_code": "A505,A909,Z107",
+                    "brief": "校基本素養(106),博雅選修通識 (90),領域課程-公民與倫理思考(110)"
+                }
+            }
+        },
+        "language": {
+            "1121_519500": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_519501": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_519502": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_519503": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_519504": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_519506": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_519507": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_519508": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_519509": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_519510": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_519512": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_519513": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_519514": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_519515": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_519516": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    }
+}

@@ -1,0 +1,891 @@
+{
+    "ECAAEECE-F4B2-453C-8AA5-A332B6279994": {
+        "dep_id": "ECAAEECE-F4B2-453C-8AA5-A332B6279994",
+        "dep_cname": "護理學系",
+        "dep_ename": "Department of Nursing",
+        "2": {
+            "1121_131702": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131702",
+                "cos_code": "NSDN30065",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "進階內外科護理學實習(二)",
+                "cos_credit": "3.00",
+                "cos_hours": "8.00",
+                "TURL": "",
+                "teacher": "邱愛富、孫秀卿、陳俞琪、蔡仁貞、廖媛美、黃淑鶴、陳律言",
+                "cos_time": "W12345678-",
+                "memo": "臨護所、在職專班合班上課。",
+                "cos_ename": "Practice in Advanced Medical-Surgical Nursing (II)",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "201",
+                "dep_primary": "2",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_131703": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131703",
+                "cos_code": "NSDN30062",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "進階內外科護理學(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "邱愛富、孫秀卿、陳俞琪、蔡仁貞、廖媛美、黃淑鶴、陳律言",
+                "cos_time": "T567-YN418[YM]",
+                "memo": "臨護所、在職專班合班上課。",
+                "cos_ename": "Advanced Medical-Surgical Nursing (I)",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "201",
+                "dep_primary": "2",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_131704": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131704",
+                "cos_code": "NSDN30064",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "進階內外科護理學實習(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "8.00",
+                "TURL": "",
+                "teacher": "邱愛富、孫秀卿、陳俞琪、蔡仁貞、廖媛美、黃淑鶴、陳律言",
+                "cos_time": "W12345678-",
+                "memo": "",
+                "cos_ename": "Practice in Advanced Medical-Surgical Nursing (I)",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "201",
+                "dep_primary": "2",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_131709": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131709",
+                "cos_code": "NSDN30048",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "護理理論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "劉佩青、許樹珍、劉影梅、穆佩芬、陳紀雯、廖媛美、胡慧蘭、張秀如",
+                "cos_time": "T234-YN418[YM]",
+                "memo": "臨護所、在職專班、社區所合班上課。",
+                "cos_ename": "Theoretical Basis in Nursing",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "201",
+                "dep_primary": "2",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_131711": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131711",
+                "cos_code": "NSCN30080",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "高齡健康照護與處置",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "陳怡如、王子芳、邱愛富、楊曼華",
+                "cos_time": "T567-YN419[YM]",
+                "memo": "臨護所、在職專班、長照學程、博士班合班上課。",
+                "cos_ename": "Health care and intervention in older adults",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "201",
+                "dep_primary": "2",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_141404": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "141404",
+                "cos_code": "NSDN30019",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "家庭健康策略與評值",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "蔡慈儀、穆佩芬、陳紀雯、劉佩青",
+                "cos_time": "F234-YN603[YM]",
+                "memo": "",
+                "cos_ename": "Family Health Strategy and Outcome Evaluation",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "201",
+                "dep_primary": "2",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "J"
+            }
+        },
+        "costype": {
+            "1121_131702": {
+                "一般實習_一般實習": {
+                    "course_category_cname": "一般實習_一般實習",
+                    "course_category_ename": "Off-Campus Internship_Off-Campus Internship",
+                    "course_category_type": "26",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131703": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131704": {
+                "一般實習_一般實習": {
+                    "course_category_cname": "一般實習_一般實習",
+                    "course_category_ename": "Off-Campus Internship_Off-Campus Internship",
+                    "course_category_type": "26",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131709": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131711": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_141404": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_150200": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_150201": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_150202": {
+                "一般實習_一般實習": {
+                    "course_category_cname": "一般實習_一般實習",
+                    "course_category_ename": "Off-Campus Internship_Off-Campus Internship",
+                    "course_category_type": "26",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_150203": {
+                "一般實習_一般實習": {
+                    "course_category_cname": "一般實習_一般實習",
+                    "course_category_ename": "Off-Campus Internship_Off-Campus Internship",
+                    "course_category_type": "26",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_150204": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_150206": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_150209": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_150210": {
+                "一般實習_一般實習": {
+                    "course_category_cname": "一般實習_一般實習",
+                    "course_category_ename": "Off-Campus Internship_Off-Campus Internship",
+                    "course_category_type": "26",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_150211": {
+                "一般實習_一般實習": {
+                    "course_category_cname": "一般實習_一般實習",
+                    "course_category_ename": "Off-Campus Internship_Off-Campus Internship",
+                    "course_category_type": "26",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_150212": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_150215": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_150216": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_150217": {
+                "一般實習_一般實習": {
+                    "course_category_cname": "一般實習_一般實習",
+                    "course_category_ename": "Off-Campus Internship_Off-Campus Internship",
+                    "course_category_type": "26",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_131702": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131703": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131704": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131709": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131711": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_141404": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_150200": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_150201": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_150202": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_150203": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_150204": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_150206": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_150209": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_150210": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_150211": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_150212": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_150215": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_150216": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_150217": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_131702": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131703": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131704": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131709": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131711": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_141404": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_150200": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_150201": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_150202": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_150203": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_150204": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_150206": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_150209": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_150210": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_150211": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_150212": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_150215": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_150216": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_150217": {
+                "授課語言代碼": "zh-tw"
+            }
+        },
+        "1": {
+            "1121_150200": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "150200",
+                "cos_code": "NSCN30077",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "進階病理生理學案例討論",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "劉佩青、童恒新、胡慧蘭",
+                "cos_time": "F78-YN322[YM]",
+                "memo": "臨護所、在職專班合班上課。",
+                "cos_ename": "Advanced Pathophysiology case  discussion",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "201",
+                "dep_primary": "1",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_150201": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "150201",
+                "cos_code": "NSDN30068",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "進階病理生理學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "劉佩青、童恒新、胡慧蘭",
+                "cos_time": "F56-YN322[YM]",
+                "memo": "開放隨班附讀，臨護所、護理系在職專班合班上課。",
+                "cos_ename": "Advanced Pathophysiology",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "201",
+                "dep_primary": "1",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_150202": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "150202",
+                "cos_code": "NSDN30052",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "護理資訊實習",
+                "cos_credit": "3.00",
+                "cos_hours": "8.00",
+                "TURL": "",
+                "teacher": "李亭亭、侯宜菁",
+                "cos_time": "W12345678-",
+                "memo": "",
+                "cos_ename": "Introduction to Nursing Informatics Practice",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "201",
+                "dep_primary": "1",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_150203": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "150203",
+                "cos_code": "NSDN30012",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "健康資訊科技實習",
+                "cos_credit": "3.00",
+                "cos_hours": "8.00",
+                "TURL": "",
+                "teacher": "侯宜菁、李亭亭",
+                "cos_time": "W12345678-",
+                "memo": "",
+                "cos_ename": "Health technology Practice",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "201",
+                "dep_primary": "1",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_150204": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "150204",
+                "cos_code": "NSDN30024",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "專題討論",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "黃淑鶴、于潄、李亭亭",
+                "cos_time": "F56-YN603[YM]",
+                "memo": "臨護所、在職專班、社區所合班上課。在職專班學生必修科目，需選修兩次。",
+                "cos_ename": "Seminar",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "201",
+                "dep_primary": "1",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_150206": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "150206",
+                "cos_code": "NSDN30014",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "兒童健康照護專題",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "劉佩青",
+                "cos_time": "R5678-YN319[YM]",
+                "memo": "",
+                "cos_ename": "Seminar in Child Health Care",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "201",
+                "dep_primary": "1",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_150209": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "150209",
+                "cos_code": "NSDN30074",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "進階家庭專科護理I",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "童恒新、胡慧蘭、劉佩青、詹明珊",
+                "cos_time": "F234-YN322[YM]",
+                "memo": "預計於寒假開始上課。",
+                "cos_ename": "Advanced Family Nurse Practitioner I",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "201",
+                "dep_primary": "1",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_150210": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "150210",
+                "cos_code": "NSDN30075",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "進階家庭專科護理實習I",
+                "cos_credit": "4.00",
+                "cos_hours": "8.00",
+                "TURL": "",
+                "teacher": "楊淑華",
+                "cos_time": "R12345678-",
+                "memo": "",
+                "cos_ename": "Advanced Family Nurse Practitioner Practicum I",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "201",
+                "dep_primary": "1",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_150211": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "150211",
+                "cos_code": "NSDN30083",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "進階家庭專科護理實習III",
+                "cos_credit": "3.00",
+                "cos_hours": "8.00",
+                "TURL": "",
+                "teacher": "童恒新",
+                "cos_time": "R12345678-",
+                "memo": "",
+                "cos_ename": "Advanced Family Nurse Practitioner Practicum III",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "201",
+                "dep_primary": "1",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_150212": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "150212",
+                "cos_code": "NSDN30009",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "健康資訊科技與管理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "李亭亭、侯宜菁、周幸生",
+                "cos_time": "T567-YN318[YM]",
+                "memo": "",
+                "cos_ename": "Health Informatics and Management",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "201",
+                "dep_primary": "1",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_150215": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "150215",
+                "cos_code": "NSDN30011",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "健康資訊科技專題討論",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "侯宜菁",
+                "cos_time": "F3456-YN318[YM]",
+                "memo": "",
+                "cos_ename": "Health technology seminar",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "201",
+                "dep_primary": "1",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_150216": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "150216",
+                "cos_code": "NSDN30077",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "精神心理衛生護理專題",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "楊秋月",
+                "cos_time": "R9a-YN322[YM]",
+                "memo": "開放臨護所、博士班合班上課",
+                "cos_ename": "Seminar in Psychiatric Mental Health Nursing",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "201",
+                "dep_primary": "1",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_150217": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "150217",
+                "cos_code": "NSDN30079",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "進階家庭專科護理實習II",
+                "cos_credit": "4.00",
+                "cos_hours": "8.00",
+                "TURL": "",
+                "teacher": "沈淑芬",
+                "cos_time": "R12345678-",
+                "memo": "",
+                "cos_ename": "Advanced Family Nurse Practitioner Practicum II",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "201",
+                "dep_primary": "1",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "J"
+            }
+        }
+    }
+}

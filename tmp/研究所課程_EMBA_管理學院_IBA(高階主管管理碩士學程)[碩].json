@@ -1,0 +1,429 @@
+{
+    "A9F5FF55-A079-477C-9527-564D092F10C7": {
+        "dep_id": "A9F5FF55-A079-477C-9527-564D092F10C7",
+        "dep_cname": "高階主管管理碩士學程",
+        "dep_ename": "Degree Program of Management for Executives",
+        "1": {
+            "1121_559003": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "559003",
+                "cos_code": "MGME30018",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "贏利模式研討",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "劉助、林春成、黃仕斌、陳宗岡、黃寬丞、鍾惠民、張家齊、戴天時、姚銘忠、林瑞嘉、陳來助",
+                "cos_time": "S234-M-b10[GF]",
+                "memo": "限交大校區EMBA及陽明校區生技EMBA學生修課。",
+                "cos_ename": "Business Model in Excellence",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "711",
+                "dep_primary": "1",
+                "dep_cname": "高階主管管理碩士學程",
+                "dep_ename": "Degree Program of Management for Executives",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "E"
+            },
+            "1121_559004": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "559004",
+                "cos_code": "MGME30012",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "策略管理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "黃仕斌、郭國泰、張家齊、朱博湧",
+                "cos_time": "S234-M115[GF]",
+                "memo": "限交大校區EMBA學生修課。",
+                "cos_ename": "Strategic Management",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "711",
+                "dep_primary": "1",
+                "dep_cname": "高階主管管理碩士學程",
+                "dep_ename": "Degree Program of Management for Executives",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "E"
+            },
+            "1121_559005": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "559005",
+                "cos_code": "MGME30022",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "高階主管會計",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "蕭子誼、陳宗岡、林瑞嘉",
+                "cos_time": "U234-M116[GF]",
+                "memo": "限交大校區EMBA學生修課。",
+                "cos_ename": "Accounting for Executives",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "711",
+                "dep_primary": "1",
+                "dep_cname": "高階主管管理碩士學程",
+                "dep_ename": "Degree Program of Management for Executives",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "E"
+            },
+            "1121_559006": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "559006",
+                "cos_code": "MGME30023",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "高科技產業投資與創業分析",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "鍾惠民、蘇信寧、曾惠瑾、林鴻明、曾國棟",
+                "cos_time": "U234-TB307[BM]",
+                "memo": "限交大校區EMBA及陽明校區生技EMBA學生修課。",
+                "cos_ename": "Investment and Venture Analysis of High Tech Industry",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "711",
+                "dep_primary": "1",
+                "dep_cname": "高階主管管理碩士學程",
+                "dep_ename": "Degree Program of Management for Executives",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "E"
+            },
+            "1121_559007": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "559007",
+                "cos_code": "MGME30014",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "習慣領域與創新決策",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "https://ken.hdu.tw",
+                "teacher": "黃鴻順",
+                "cos_time": "Sbcd-M116[GF]",
+                "memo": "限交大校區EMBA學生修課。",
+                "cos_ename": "Habitual Domains and Innovative Decision Making",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "711",
+                "dep_primary": "1",
+                "dep_cname": "高階主管管理碩士學程",
+                "dep_ename": "Degree Program of Management for Executives",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "E"
+            },
+            "1121_559008": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "559008",
+                "cos_code": "MGME30002",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "企業法律專題",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "林志潔、邱羽凡",
+                "cos_time": "S89a-M116[GF]",
+                "memo": "限交大校區EMBA學生修課。",
+                "cos_ename": "Special Topics on Business Law",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "711",
+                "dep_primary": "1",
+                "dep_cname": "高階主管管理碩士學程",
+                "dep_ename": "Degree Program of Management for Executives",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "E"
+            },
+            "1121_559009": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "559009",
+                "cos_code": "MGME30024",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "董事多元化人才培訓",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "林志潔、鍾惠民、張家齊、待聘、蒲樹盛",
+                "cos_time": "Ubcd-TB307[BM]",
+                "memo": "限交大校區EMBA及陽明校區生技EMBA學生修課。",
+                "cos_ename": "Why diversity, inclusion, and equity matter to your board - talents training and education",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "711",
+                "dep_primary": "1",
+                "dep_cname": "高階主管管理碩士學程",
+                "dep_ename": "Degree Program of Management for Executives",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "E"
+            },
+            "1121_559010": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "559010",
+                "cos_code": "MGME30031",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "零碳轉型高階管理人才培訓(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "黃仕斌、張家齊、陳來助",
+                "cos_time": "U89a-M116[GF]",
+                "memo": "限交大校區EMBA及陽明校區生技EMBA學生修課。",
+                "cos_ename": "Introduction to strategic carbon management\t",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "711",
+                "dep_primary": "1",
+                "dep_cname": "高階主管管理碩士學程",
+                "dep_ename": "Degree Program of Management for Executives",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "E"
+            },
+            "1121_559011": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "559011",
+                "cos_code": "MGME30030",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "供應鏈策略與管理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "姚銘忠、黃寬丞、陳文智",
+                "cos_time": "",
+                "memo": "",
+                "cos_ename": "Supply Chain Strategy and Management",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "711",
+                "dep_primary": "1",
+                "dep_cname": "高階主管管理碩士學程",
+                "dep_ename": "Degree Program of Management for Executives",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "E"
+            }
+        },
+        "costype": {
+            "1121_559003": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_559004": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_559005": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_559006": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_559007": {
+                "智財權課程_智財權": {
+                    "course_category_cname": "智財權課程_智財權",
+                    "course_category_ename": "Intellectual Property_IP",
+                    "course_category_type": "8",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_559008": {
+                "智財權課程_智財權": {
+                    "course_category_cname": "智財權課程_智財權",
+                    "course_category_ename": "Intellectual Property_IP",
+                    "course_category_type": "8",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_559009": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_559010": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_559011": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_559003": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_559004": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_559005": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_559006": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_559007": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_559008": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_559009": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_559010": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_559011": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_559003": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_559004": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_559005": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_559006": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_559007": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_559008": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_559009": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_559010": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_559011": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    }
+}

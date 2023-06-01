@@ -1,0 +1,344 @@
+{
+    "2EFB40C8-47BA-475D-BE91-337B779F1A30": {
+        "dep_id": "2EFB40C8-47BA-475D-BE91-337B779F1A30",
+        "dep_cname": "科技與社會研究所",
+        "dep_ename": "Institute of Science Technology and Society",
+        "1": {
+            "1121_133200": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "133200",
+                "cos_code": "SHTS30040",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "科技與社會專題討論(一)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "洪紹洋、郭文華、王文基、范玫芳、林昭光、林宜平、陳嘉新、彭松嶽、顧彩璇、嚴曉珮",
+                "cos_time": "Fy9a-",
+                "memo": "本課程具Faculty seminar性質，全所教師與碩一生皆須參加，除特別規定外週週上課。",
+                "cos_ename": "Seminar on Science, Technology and Society I",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "402",
+                "dep_primary": "1",
+                "dep_cname": "科技與社會研究所",
+                "dep_ename": "Institute of Science Technology and Society",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_133201": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "133201",
+                "cos_code": "SHTS30042",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "科技與社會導論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "范玫芳",
+                "cos_time": "F234-YX211[YM]",
+                "memo": "上課時間為9:30~12:20，上課教室在陽明校區知行樓211人社院會議室。",
+                "cos_ename": "An Introduction to Science, Technology and Society",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "402",
+                "dep_primary": "1",
+                "dep_cname": "科技與社會研究所",
+                "dep_ename": "Institute of Science Technology and Society",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_133202": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "133202",
+                "cos_code": "SHTS30004",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "境況分析",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "陳嘉新",
+                "cos_time": "T34n-YX207[YM]",
+                "memo": "每次上課3小時，共6週。",
+                "cos_ename": "Situational Analysis: Grounded Theory After the Interpretive Turn",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "402",
+                "dep_primary": "1",
+                "dep_cname": "科技與社會研究所",
+                "dep_ename": "Institute of Science Technology and Society",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_133203": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "133203",
+                "cos_code": "SHTS30027",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "當代醫療的社會研究",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "郭文華",
+                "cos_time": "T789-YX207[YM]",
+                "memo": "實際上課時間會在第一次上課時，由師生共同決定。",
+                "cos_ename": "Medicine in Society: a Critical Introduction",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "402",
+                "dep_primary": "1",
+                "dep_cname": "科技與社會研究所",
+                "dep_ename": "Institute of Science Technology and Society",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_133204": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "133204",
+                "cos_code": "SHTS30008",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "性別與技術",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "林宜平",
+                "cos_time": "W234-YX207[YM]",
+                "memo": "",
+                "cos_ename": "Gender and Technology",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "402",
+                "dep_primary": "1",
+                "dep_cname": "科技與社會研究所",
+                "dep_ename": "Institute of Science Technology and Society",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_133205": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "133205",
+                "cos_code": "SHTS30038",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "科技與國家",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "嚴曉珮",
+                "cos_time": "W567-YX207[YM]",
+                "memo": "",
+                "cos_ename": "Science, Technology, and Nation-States",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "402",
+                "dep_primary": "1",
+                "dep_cname": "科技與社會研究所",
+                "dep_ename": "Institute of Science Technology and Society",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_133206": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "133206",
+                "cos_code": "SHTS30026",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "產業、經濟與技術的歷史",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "洪紹洋",
+                "cos_time": "R234-YX207[YM]",
+                "memo": "",
+                "cos_ename": "Industry, Economy and History",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "402",
+                "dep_primary": "1",
+                "dep_cname": "科技與社會研究所",
+                "dep_ename": "Institute of Science Technology and Society",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            }
+        },
+        "costype": {
+            "1121_133200": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_133201": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_133202": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_133203": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_133204": {
+                "性平相關課程_性平相關": {
+                    "course_category_cname": "性平相關課程_性平相關",
+                    "course_category_ename": "Gender Equality Related Courses_GER",
+                    "course_category_type": "9",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_133205": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_133206": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_133200": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_133201": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_133202": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_133203": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_133204": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_133205": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_133206": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_133200": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_133201": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_133202": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_133203": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_133204": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_133205": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_133206": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    }
+}

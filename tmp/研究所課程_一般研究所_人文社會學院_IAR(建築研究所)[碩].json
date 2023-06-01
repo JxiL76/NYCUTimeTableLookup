@@ -1,0 +1,1809 @@
+{
+    "C968B0A7-D6BC-4EC3-AA85-73709C81D5BE": {
+        "dep_id": "C968B0A7-D6BC-4EC3-AA85-73709C81D5BE",
+        "dep_cname": "建築研究所",
+        "dep_ename": "Institute of Architecture",
+        "1": {
+            "1121_534700": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534700",
+                "cos_code": "HSAR30024",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "建築設計(基礎)",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "何震寰、待聘",
+                "cos_time": "U5678-HA101[GF]",
+                "memo": "限建築所學生選修。",
+                "cos_ename": "Architecture Design(Basic)",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_534701": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534701",
+                "cos_code": "HSAR30024",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "建築設計(基礎)",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "何震寰、待聘",
+                "cos_time": "U5678-HA105[GF]",
+                "memo": "限建築所學生選修。",
+                "cos_ename": "Architecture Design(Basic)",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_534702": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534702",
+                "cos_code": "HSAR30061",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "建築材料",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "楊尊智",
+                "cos_time": "S34-HA105[GF]",
+                "memo": "限建築所學生選修。",
+                "cos_ename": "Building Materials and Construction Methods",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_534703": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534703",
+                "cos_code": "HSAR30020",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "建築設計(一)",
+                "cos_credit": "6.00",
+                "cos_hours": "6.00",
+                "TURL": "",
+                "teacher": "凌天、何欣怡",
+                "cos_time": "M678R678-HA105[GF]",
+                "memo": "限建築所學生選修。",
+                "cos_ename": "Architectural Design(I)",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_534704": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534704",
+                "cos_code": "HSAR30020",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "建築設計(一)",
+                "cos_credit": "6.00",
+                "cos_hours": "6.00",
+                "TURL": "",
+                "teacher": "凌天、何欣怡",
+                "cos_time": "M678R678-HA107[GF]",
+                "memo": "限建築所學生選修。",
+                "cos_ename": "Architectural Design(I)",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_534705": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534705",
+                "cos_code": "HSAR30021",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "建築設計(三)",
+                "cos_credit": "6.00",
+                "cos_hours": "6.00",
+                "TURL": "http://www.linglitseng.com",
+                "teacher": "曾令理、曾聖凱",
+                "cos_time": "M678R678-HA108[GF]",
+                "memo": "",
+                "cos_ename": "Architectural Design(III)",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_534706": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534706",
+                "cos_code": "HSAR30021",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "建築設計(三)",
+                "cos_credit": "6.00",
+                "cos_hours": "6.00",
+                "TURL": "http://www.linglitseng.com",
+                "teacher": "曾令理、曾聖凱",
+                "cos_time": "M678R678-HA109[GF]",
+                "memo": "限建築所學生選修。",
+                "cos_ename": "Architectural Design(III)",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_534707": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534707",
+                "cos_code": "HSAR30019",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "建築設計",
+                "cos_credit": "6.00",
+                "cos_hours": "6.00",
+                "TURL": "",
+                "teacher": "許倍銜、待聘",
+                "cos_time": "M678R678-HA101[GF]",
+                "memo": "限建築所學生選修。",
+                "cos_ename": "Architectural Design Optional Studio",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_534708": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534708",
+                "cos_code": "HSAR30019",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "建築設計",
+                "cos_credit": "6.00",
+                "cos_hours": "6.00",
+                "TURL": "",
+                "teacher": "待聘",
+                "cos_time": "M678R678-HA104[GF]",
+                "memo": "限建築所學生選修。",
+                "cos_ename": "Architectural Design Optional Studio",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_534709": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534709",
+                "cos_code": "HSAR30019",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "建築設計",
+                "cos_credit": "6.00",
+                "cos_hours": "6.00",
+                "TURL": "",
+                "teacher": "待聘",
+                "cos_time": "",
+                "memo": "限建築所學生選修。上課教室：人社一館3樓長廊教室。",
+                "cos_ename": "Architectural Design Optional Studio",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_534710": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534710",
+                "cos_code": "HSAR30019",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "建築設計",
+                "cos_credit": "6.00",
+                "cos_hours": "6.00",
+                "TURL": "",
+                "teacher": "待聘",
+                "cos_time": "M678R678-HA102[GF]",
+                "memo": "限建築所學生選修。",
+                "cos_ename": "Architectural Design Optional Studio",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_534711": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534711",
+                "cos_code": "HSAR30035",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "建築基本元素",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "凌天",
+                "cos_time": "F56-HA107[GF]",
+                "memo": "",
+                "cos_ename": "Architectural Basic Elements",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_534712": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534712",
+                "cos_code": "HSAR30062",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "西洋及現代建築史",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "龔書章",
+                "cos_time": "W678-HA107[GF]",
+                "memo": "",
+                "cos_ename": "History of Modern Architecture",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_534713": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534713",
+                "cos_code": "HSAR30014",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "建築理論:當代性的凝視-無盡的名單。別樣的色彩",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "龔書章",
+                "cos_time": "Wabc-HA107[GF]",
+                "memo": "",
+                "cos_ename": "Architectural heory",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_534714": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534714",
+                "cos_code": "HSAR30046",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "營建法規",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "柯貴勝",
+                "cos_time": "T34-HA105[GF]",
+                "memo": "",
+                "cos_ename": "Building Code",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_534715": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534715",
+                "cos_code": "HSAR30025",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "建築結構系統(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "苟昌煥",
+                "cos_time": "W678-HA108[GF]",
+                "memo": "",
+                "cos_ename": "Architectural Structure System(I)",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_534716": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534716",
+                "cos_code": "HSAR30030",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "建築環境控制系統(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "陳紹彬",
+                "cos_time": "W34n-HA105[GF]",
+                "memo": "",
+                "cos_ename": "Environmental Control and System of Architecture(I)",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_534717": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534717",
+                "cos_code": "HSAR30004",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "參數式設計專題研究",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "何震寰",
+                "cos_time": "T9ab-HA105[GF]",
+                "memo": "",
+                "cos_ename": "Parametric Design Studies",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_534718": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534718",
+                "cos_code": "HSAR30029",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "建築表現",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "http://www.linglitseng.com",
+                "teacher": "曾令理、待聘",
+                "cos_time": "T5678-HA107[GF]",
+                "memo": "",
+                "cos_ename": "Architectural Presentation and Phototyping",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_534719": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534719",
+                "cos_code": "HSAR30047",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "獨立研究",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "龔書章",
+                "cos_time": "S3-HA104[GF]",
+                "memo": "",
+                "cos_ename": "Independent Study",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_534720": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534720",
+                "cos_code": "HSAR30047",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "獨立研究",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "何震寰",
+                "cos_time": "S3-HA319[GF]",
+                "memo": "",
+                "cos_ename": "Independent Study",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_534721": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534721",
+                "cos_code": "HSAR30047",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "獨立研究",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "http://www.linglitseng.com",
+                "teacher": "曾令理",
+                "cos_time": "S3-HA322[GF]",
+                "memo": "",
+                "cos_ename": "Independent Study",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_534722": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534722",
+                "cos_code": "HSAR30047",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "獨立研究",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "凌天",
+                "cos_time": "S3-HA321[GF]",
+                "memo": "",
+                "cos_ename": "Independent Study",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_534723": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534723",
+                "cos_code": "HSAR30056",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "設計運算概論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://www.arch.nycu.edu.tw/people/junehaohou/",
+                "teacher": "侯君昊、李宸安",
+                "cos_time": "S567-HA101[GF]",
+                "memo": "",
+                "cos_ename": "Introduction to Design Computing",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_534724": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534724",
+                "cos_code": "HSAR30068",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "環境景觀設計",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "王鈺芬",
+                "cos_time": "W34n-HA108[GF]",
+                "memo": "",
+                "cos_ename": "Environment and Landscape Design",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_534725": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534725",
+                "cos_code": "HSAR30040",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "數位專題:新媒材基礎",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "許倍銜、王識源",
+                "cos_time": "W34n-HA102[GF]",
+                "memo": "",
+                "cos_ename": "Fundamentals of New Media",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_534726": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534726",
+                "cos_code": "HSAR30054",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "設計研究方法學(一)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "http://www.arch.nycu.edu.tw/people/junehaohou/",
+                "teacher": "侯君昊",
+                "cos_time": "F34-HA105[GF]",
+                "memo": "",
+                "cos_ename": "Design Research Methodology (I)",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_534727": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534727",
+                "cos_code": "HSAR30003",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "前衛與異想建築",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "http://www.arch.nycu.edu.tw/people/junehaohou/",
+                "teacher": "侯君昊",
+                "cos_time": "W678-HA105[GF]",
+                "memo": "",
+                "cos_ename": "Avant-garde and Speculative Architecture",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_534728": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534728",
+                "cos_code": "HSAR30051",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "當代建築關鍵議題",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "待聘",
+                "cos_time": "Ta-HA105[GF]",
+                "memo": "",
+                "cos_ename": "Current Topics in Architecture",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_534729": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534729",
+                "cos_code": "HSAR30052",
+                "num_limit": "20",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "策展實踐",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "張馨之",
+                "cos_time": "F34-HA109[GF]",
+                "memo": "",
+                "cos_ename": "Curatorial Practice",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_534730": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534730",
+                "cos_code": "HSAR30015",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "建築專題討論(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "凌天",
+                "cos_time": "U4-HA102[GF]",
+                "memo": "限土木系博士班庚組學生選修。[English Medium Course]",
+                "cos_ename": "Seminar in Architecture(I)",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_534731": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534731",
+                "cos_code": "HSAR30016",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "建築專題討論(三)",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "http://www.linglitseng.com",
+                "teacher": "曾令理",
+                "cos_time": "U4-HA101[GF]",
+                "memo": "限土木系博士班庚組學生選修。[English Medium Course]",
+                "cos_ename": "Seminar in Architecture(III)",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_534732": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534732",
+                "cos_code": "HSAR30064",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "個別研究",
+                "cos_credit": "3.00",
+                "cos_hours": "1.00",
+                "TURL": "http://www.arch.nycu.edu.tw/people/junehaohou/",
+                "teacher": "侯君昊",
+                "cos_time": "S34n-HA101[GF]",
+                "memo": "",
+                "cos_ename": "Independent Study",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_534733": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534733",
+                "cos_code": "HSAR30005",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "台灣建築史",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "傅朝卿",
+                "cos_time": "T678-HA105[GF]",
+                "memo": "",
+                "cos_ename": "History of Taiwanese Architecture",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_534734": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534734",
+                "cos_code": "HSAR30047",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "獨立研究",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "曾成德",
+                "cos_time": "S3-HA317[GF]",
+                "memo": "",
+                "cos_ename": "Independent Study",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_534735": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534735",
+                "cos_code": "HSAR30067",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "先進機器人技術",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "https://rosocoop.com",
+                "teacher": "王識源",
+                "cos_time": "T678-HA108[GF]",
+                "memo": "",
+                "cos_ename": "Advanced Robotics",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_534736": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534736",
+                "cos_code": "HSAR30064",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "個別研究",
+                "cos_credit": "3.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "許倍銜",
+                "cos_time": "S34n-HA320[GF]",
+                "memo": "",
+                "cos_ename": "Independent Study",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_534737": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534737",
+                "cos_code": "HSAR30064",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "個別研究",
+                "cos_credit": "3.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "曾成德",
+                "cos_time": "S34n-HA318[GF]",
+                "memo": "",
+                "cos_ename": "Independent Study",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_534738": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534738",
+                "cos_code": "HSAR30033",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "建築史論專題",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "曾成德",
+                "cos_time": "W34n-HC101[GF]",
+                "memo": "",
+                "cos_ename": "Seminar on Architecture Historical Theory",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "465",
+                "dep_primary": "1",
+                "dep_cname": "建築研究所",
+                "dep_ename": "Institute of Architecture",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            }
+        },
+        "costype": {
+            "1121_534700": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534701": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534702": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534703": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534704": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534705": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534706": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534707": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534708": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534709": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534710": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534711": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534712": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534713": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534714": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534715": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534716": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534717": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534718": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534719": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534720": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534721": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534722": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534723": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534724": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534725": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534726": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534727": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534728": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534729": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534730": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534731": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534732": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534733": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534734": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534735": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534736": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534737": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534738": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_534700": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534701": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534702": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534703": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534704": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534705": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534706": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534707": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534708": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534709": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534710": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534711": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534712": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534713": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534714": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534715": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534716": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534717": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534718": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534719": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534720": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534721": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534722": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534723": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534724": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534725": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534726": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534727": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534728": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534729": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534730": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534731": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534732": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534733": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534734": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534735": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534736": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534737": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534738": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_534700": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534701": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534702": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534703": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534704": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534705": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534706": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534707": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534708": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534709": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534710": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534711": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534712": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534713": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534714": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534715": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534716": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534717": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534718": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534719": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534720": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534721": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534722": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534723": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534724": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534725": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534726": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534727": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534728": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534729": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534730": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_534731": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_534732": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534733": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534734": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534735": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534736": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534737": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534738": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    }
+}

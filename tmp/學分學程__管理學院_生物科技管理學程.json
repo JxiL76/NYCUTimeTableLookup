@@ -1,0 +1,521 @@
+{
+    "AED73E28-B61A-47F8-A7BF-699E51D44E2D": {
+        "dep_id": "AED73E28-B61A-47F8-A7BF-699E51D44E2D",
+        "dep_cname": "生物科技管理學程",
+        "dep_ename": "Biotechnology Management Program",
+        "1": {
+            "1121_110000": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "110000",
+                "cos_code": "MDMD10067",
+                "num_limit": "155",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生物學(上)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳儀聰、陳俊銘、李曉暉",
+                "cos_time": "M34-YX406[YM]",
+                "memo": "他系同學選修須經授課教師同意",
+                "cos_ename": "General Biology (1)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "P07",
+                "dep_primary": "1",
+                "dep_cname": "生物科技管理學程",
+                "dep_ename": "Biotechnology Management Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "P"
+            },
+            "1121_111500": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "111500",
+                "cos_code": "DEDE10024",
+                "num_limit": "100",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "普通生物學(上)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳俊銘、羅清維、翁芬華、李曉暉、袁維謙、呂璦竹、吳如蕙",
+                "cos_time": "F34-AB102[GF],F34-YK208[YM]",
+                "memo": "牙醫一、物輔一、藥學一合班上課，他系同學選修須經授課教師同意。\n\n陽明校區：傳甲208演講廳；實體上課\n交大校區：綜合一館B102；遠距上課",
+                "cos_ename": "General Biology I",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "P07",
+                "dep_primary": "1",
+                "dep_cname": "生物科技管理學程",
+                "dep_ename": "Biotechnology Management Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "P"
+            },
+            "1121_112030": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112030",
+                "cos_code": "BEBL10009",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "普通生物學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "林崇智、羅清維、陳燕彰",
+                "cos_time": "F234-YX406[YM]",
+                "memo": "",
+                "cos_ename": "General Biology",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "P07",
+                "dep_primary": "1",
+                "dep_cname": "生物科技管理學程",
+                "dep_ename": "Biotechnology Management Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "P"
+            },
+            "1121_112503": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112503",
+                "cos_code": "LSLS10024",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生命科學總論(上)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "李曉暉、可文亞、李敏嘉、陳瀅州、陳儀聰",
+                "cos_time": "R34-YB102[YM]",
+                "memo": "生一、不分系一、醫學系B組合班上課",
+                "cos_ename": "Life Science Ⅰ-General Biology, 1st semester",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "P07",
+                "dep_primary": "1",
+                "dep_cname": "生物科技管理學程",
+                "dep_ename": "Biotechnology Management Program",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "P"
+            },
+            "1121_112505": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112505",
+                "cos_code": "LSLS10021",
+                "num_limit": "60",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生物化學",
+                "cos_credit": "4.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "孫維欣、張欣暘、陳嘉霖",
+                "cos_time": "M34R34-YL402[YM]",
+                "memo": "生科二、不分系二、生物科管學程合班上課\n外系修課需經授課教師同意",
+                "cos_ename": "Biochemistry",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "P07",
+                "dep_primary": "1",
+                "dep_cname": "生物科技管理學程",
+                "dep_ename": "Biotechnology Management Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "44",
+                "depType": "P"
+            },
+            "1121_112506": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "112506",
+                "cos_code": "LSLS10032",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "細胞生物學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "俞震亞、蔡亭芬、林崇智、李曉暉",
+                "cos_time": "F34-YK101[YM]",
+                "memo": "生科二、不分系二合班上課",
+                "cos_ename": "Cell Biology",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "P07",
+                "dep_primary": "1",
+                "dep_cname": "生物科技管理學程",
+                "dep_ename": "Biotechnology Management Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "44",
+                "depType": "P"
+            },
+            "1121_131905": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131905",
+                "cos_code": "PSBP30016",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生物藥學通論",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "張牧新、蘇瑀、蕭崇瑋、劉俊煌、何國牟、金翠庭、劉嘉仁、顏厥全、趙大中、劉峻宇",
+                "cos_time": "W34-YC101[YM]",
+                "memo": "請特別注意，這是全英語授課課程，中文生物藥學通論請選另一堂課。[English Medium Course]",
+                "cos_ename": "Fundamentals in Biopharmaceutical Sciences",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "P07",
+                "dep_primary": "1",
+                "dep_cname": "生物科技管理學程",
+                "dep_ename": "Biotechnology Management Program",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "P"
+            },
+            "1121_131906": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131906",
+                "cos_code": "PSBP30016",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生物藥學通論",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "張牧新、蘇瑀、黃奇英、蕭崇瑋、何國牟、金翠庭、劉嘉仁、顏厥全、趙大中、劉耀中、劉峻宇",
+                "cos_time": "R34-YC101[YM]",
+                "memo": "開放隨班附讀",
+                "cos_ename": "Fundamentals in Biopharmaceutical Sciences",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "P07",
+                "dep_primary": "1",
+                "dep_cname": "生物科技管理學程",
+                "dep_ename": "Biotechnology Management Program",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "P"
+            },
+            "1121_132901": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132901",
+                "cos_code": "LSBM30002",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "分子生物學",
+                "cos_credit": "3.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "黃介嶸、陳美瑜、游麗如、鄭子豪、林達顯、許翺麟、陳鴻震、陳威儀、王琬菁、姜為中、張崇德",
+                "cos_time": "T34F34-YC501[YM]",
+                "memo": "本課程與生化及分子生物學合班上課",
+                "cos_ename": "Molecular biology",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "P07",
+                "dep_primary": "1",
+                "dep_cname": "生物科技管理學程",
+                "dep_ename": "Biotechnology Management Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "P"
+            },
+            "1121_133700": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "133700",
+                "cos_code": "LSPB30008",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "專題討論-生物科技管理實務",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "黃奇英、張牧新",
+                "cos_time": "M678-",
+                "memo": "1.本學期預計有6次上課（ 3次在陽明交大，3次在政大）\n2.上課時間：週一14:30-17:30",
+                "cos_ename": "Special Seminar- Biotechnology Management Study",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "P07",
+                "dep_primary": "1",
+                "dep_cname": "生物科技管理學程",
+                "dep_ename": "Biotechnology Management Program",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "P"
+            },
+            "1121_133701": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "133701",
+                "cos_code": "LSPB30013",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "科技與創新管理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "吳豐祥",
+                "cos_time": "W234-",
+                "memo": "1.本課程於政大研究大樓201教室上課，上課時間為週三09:10-12:00\n2.研究所課程，開放給大三、大四者修習",
+                "cos_ename": "Technology & Innovation Management ",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "P07",
+                "dep_primary": "1",
+                "dep_cname": "生物科技管理學程",
+                "dep_ename": "Biotechnology Management Program",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "P"
+            }
+        },
+        "costype": {
+            "1121_110000": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_111500": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112030": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112503": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112505": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_112506": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131905": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131906": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132901": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_133700": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_133701": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_110000": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_111500": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112030": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112503": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112505": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_112506": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131905": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131906": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132901": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_133700": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_133701": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_110000": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_111500": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112030": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112503": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112505": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_112506": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131905": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_131906": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132901": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_133700": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_133701": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    }
+}

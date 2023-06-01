@@ -1,0 +1,61 @@
+{
+    "9BC91368-354A-4EC7-A12E-4E29296A1560": {
+        "dep_id": "9BC91368-354A-4EC7-A12E-4E29296A1560",
+        "dep_cname": "管理科學系",
+        "dep_ename": "Institute of Management Science",
+        "1": {
+            "1121_547000": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "547000",
+                "cos_code": "MGMS30016",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "個別研究 (博)",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "管科系",
+                "cos_time": "F8-M104[GF]",
+                "memo": "管科博必修。擇定指導教授後每學年須選修一次。",
+                "cos_ename": "Individual study",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "700",
+                "dep_primary": "1",
+                "dep_cname": "管理科學系",
+                "dep_ename": "Institute of Management Science",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            }
+        },
+        "costype": {
+            "1121_547000": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_547000": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_547000": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    }
+}

@@ -1,0 +1,1605 @@
+{
+    "A4954C5B-99AF-408B-9BB7-D8D2AC080499": {
+        "dep_id": "A4954C5B-99AF-408B-9BB7-D8D2AC080499",
+        "dep_cname": "藥學系",
+        "dep_ename": "Department of Pharmacy",
+        "2": {
+            "1121_130104": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130104",
+                "cos_code": "MDPA30002",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "分子生物學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "李新城、陳建鋒、花嘉玲、兵岳忻、王湘翠、曾才郁",
+                "cos_time": "W78R78-YR104[YM]",
+                "memo": "每週上課2小時，週三或週四78節上課，請參見授課度表。",
+                "cos_ename": "Molecular Biology",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "231",
+                "dep_primary": "2",
+                "dep_cname": "藥學系",
+                "dep_ename": "Department of Pharmacy",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_130600": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130600",
+                "cos_code": "MDTM30010",
+                "num_limit": "70",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "中藥概論",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "陳日榮、沈雅敬、翁芸芳、蔡忠志、廖家慶",
+                "cos_time": "T34-YK533[YM]",
+                "memo": "藥學系、傳醫所、衛福所合班上課",
+                "cos_ename": "Introduction to Chinese Materia Medica",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "231",
+                "dep_primary": "2",
+                "dep_cname": "藥學系",
+                "dep_ename": "Department of Pharmacy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "14",
+                "depType": "G"
+            },
+            "1121_131905": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131905",
+                "cos_code": "PSBP30016",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生物藥學通論",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "張牧新、蘇瑀、蕭崇瑋、劉俊煌、何國牟、金翠庭、劉嘉仁、顏厥全、趙大中、劉峻宇",
+                "cos_time": "W34-YC101[YM]",
+                "memo": "請特別注意，這是全英語授課課程，中文生物藥學通論請選另一堂課。[English Medium Course]",
+                "cos_ename": "Fundamentals in Biopharmaceutical Sciences",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "231",
+                "dep_primary": "2",
+                "dep_cname": "藥學系",
+                "dep_ename": "Department of Pharmacy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_131906": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131906",
+                "cos_code": "PSBP30016",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生物藥學通論",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "張牧新、蘇瑀、黃奇英、蕭崇瑋、何國牟、金翠庭、劉嘉仁、顏厥全、趙大中、劉耀中、劉峻宇",
+                "cos_time": "R34-YC101[YM]",
+                "memo": "開放隨班附讀",
+                "cos_ename": "Fundamentals in Biopharmaceutical Sciences",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "231",
+                "dep_primary": "2",
+                "dep_cname": "藥學系",
+                "dep_ename": "Department of Pharmacy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_143400": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "143400",
+                "cos_code": "PSRS30002",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "醫藥品產業概論",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "楊世偉",
+                "cos_time": "W89-YR105[YM]",
+                "memo": "",
+                "cos_ename": "Introduction to the Pharmaceutical and Medical Device Industry",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "231",
+                "dep_primary": "2",
+                "dep_cname": "藥學系",
+                "dep_ename": "Department of Pharmacy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            }
+        },
+        "costype": {
+            "1121_130104": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130600": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131905": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131906": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132000": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132001": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132002": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132003": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132004": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132005": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132006": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132007": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132008": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132009": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132010": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132011": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132012": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132013": {
+                "一般實習_一般實習": {
+                    "course_category_cname": "一般實習_一般實習",
+                    "course_category_ename": "Off-Campus Internship_Off-Campus Internship",
+                    "course_category_type": "26",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132014": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132015": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132016": {
+                "跨校區課程_跨校區課程": {
+                    "course_category_cname": "跨校區課程_跨校區課程",
+                    "course_category_ename": "Cross-Campus Course_Cross-Campus Course",
+                    "course_category_type": "57",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132017": {
+                "跨校區課程_跨校區課程": {
+                    "course_category_cname": "跨校區課程_跨校區課程",
+                    "course_category_ename": "Cross-Campus Course_Cross-Campus Course",
+                    "course_category_type": "57",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132018": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132019": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132020": {
+                "一般實習_一般實習": {
+                    "course_category_cname": "一般實習_一般實習",
+                    "course_category_ename": "Off-Campus Internship_Off-Campus Internship",
+                    "course_category_type": "26",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132021": {
+                "跨校區課程_跨校區課程": {
+                    "course_category_cname": "跨校區課程_跨校區課程",
+                    "course_category_ename": "Cross-Campus Course_Cross-Campus Course",
+                    "course_category_type": "57",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132022": {
+                "一般實習_一般實習": {
+                    "course_category_cname": "一般實習_一般實習",
+                    "course_category_ename": "Off-Campus Internship_Off-Campus Internship",
+                    "course_category_type": "26",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "跨校區課程_跨校區課程": {
+                    "course_category_cname": "跨校區課程_跨校區課程",
+                    "course_category_ename": "Cross-Campus Course_Cross-Campus Course",
+                    "course_category_type": "57",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132023": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132024": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132025": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132026": {
+                "跨校區課程_跨校區課程": {
+                    "course_category_cname": "跨校區課程_跨校區課程",
+                    "course_category_ename": "Cross-Campus Course_Cross-Campus Course",
+                    "course_category_type": "57",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132027": {
+                "一般實習_一般實習": {
+                    "course_category_cname": "一般實習_一般實習",
+                    "course_category_ename": "Off-Campus Internship_Off-Campus Internship",
+                    "course_category_type": "26",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_143400": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_130104": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130600": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131905": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131906": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132000": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132001": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132002": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132003": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132004": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132005": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132006": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132007": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132008": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132009": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132010": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132011": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132012": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132013": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132014": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132015": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132016": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132017": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132018": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132019": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132020": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132021": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132022": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132023": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132024": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132025": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132026": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132027": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_143400": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_130104": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130600": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131905": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_131906": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132000": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132001": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132002": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132003": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132004": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132005": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132006": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132007": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132008": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132009": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132010": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132011": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132012": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_132013": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132014": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_132015": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_132016": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132017": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132018": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132019": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132020": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132021": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132022": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132023": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132024": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_132025": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132026": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132027": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_143400": {
+                "授課語言代碼": "zh-tw"
+            }
+        },
+        "1": {
+            "1121_132000": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132000",
+                "cos_code": "PSPM10028",
+                "num_limit": "70",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生藥暨中藥藥物學(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "陳日榮、廖家慶、朱益成",
+                "cos_time": "M789-YK533[YM]",
+                "memo": "初選限藥學所學生加選,若教室仍有空間容納,於加退選時再開放外系加選。",
+                "cos_ename": "Pharmacognosy and Traditional Chinese Pharmacology (I)",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "231",
+                "dep_primary": "1",
+                "dep_cname": "藥學系",
+                "dep_ename": "Department of Pharmacy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "22",
+                "depType": "G"
+            },
+            "1121_132001": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132001",
+                "cos_code": "PSPM10022",
+                "num_limit": "70",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "物理化學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "胡德民、林宥欣、廖曉偉",
+                "cos_time": "M234-YK533[YM]",
+                "memo": "(新版)與藥學系碩士班藥物科學研究組合班上課(選修)，大學為主開",
+                "cos_ename": "Physical Chemistry",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "231",
+                "dep_primary": "1",
+                "dep_cname": "藥學系",
+                "dep_ename": "Department of Pharmacy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "22",
+                "depType": "G"
+            },
+            "1121_132002": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132002",
+                "cos_code": "PSPM10033",
+                "num_limit": "70",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "藥理學(一)",
+                "cos_credit": "2.20",
+                "cos_hours": "2.20",
+                "TURL": "",
+                "teacher": "林滿玉、林明薇、李新城、霍德義、嚴錦城、蘇溶真、陳肇文、梁耀仁、張豫立、王笙帆、陳聿歆、王怡凱",
+                "cos_time": "M56T56-YK533[YM]",
+                "memo": "藥學三與藥學碩班合上",
+                "cos_ename": "Pharmacology (I)",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "231",
+                "dep_primary": "1",
+                "dep_cname": "藥學系",
+                "dep_ename": "Department of Pharmacy",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "30",
+                "depType": "G"
+            },
+            "1121_132003": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132003",
+                "cos_code": "PSPM10045",
+                "num_limit": "40",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "藥劑學(二)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "林宥欣、胡德民、吳元鍾",
+                "cos_time": "M234-YL405[YM]",
+                "memo": "藥學系三年級與藥學系碩士班三班合班。初選限藥學所學生加選,若教室仍有空間容納,於加退選時再開放外系加選。",
+                "cos_ename": "Pharmaceutics (II)",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "231",
+                "dep_primary": "1",
+                "dep_cname": "藥學系",
+                "dep_ename": "Department of Pharmacy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "30",
+                "depType": "G"
+            },
+            "1121_132004": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132004",
+                "cos_code": "PSPM10037",
+                "num_limit": "70",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "藥物化學(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "蘇溶真、陳惠亭、簡敦誠",
+                "cos_time": "W567-YK533[YM]",
+                "memo": "初選限藥學所學生加選,若教室仍有空間容納,於加退選時再開放外系加選。",
+                "cos_ename": "Medicinal Chemistry (I)",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "231",
+                "dep_primary": "1",
+                "dep_cname": "藥學系",
+                "dep_ename": "Department of Pharmacy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "30",
+                "depType": "G"
+            },
+            "1121_132005": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132005",
+                "cos_code": "PSPM20003",
+                "num_limit": "35",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "工業藥學",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "廖曉偉、章修績、吳兆升、徐維君、鄒玫君、林君郁、郝為華、黃婉卿、陶育村",
+                "cos_time": "R34-YK533[YM]",
+                "memo": "",
+                "cos_ename": "Industrial Pharmacy",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "231",
+                "dep_primary": "1",
+                "dep_cname": "藥學系",
+                "dep_ename": "Department of Pharmacy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "31",
+                "depType": "G"
+            },
+            "1121_132006": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132006",
+                "cos_code": "PSPM20004",
+                "num_limit": "35",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "新藥發展與臨床試驗",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "林滿玉、林明薇、楊志新、高純琇、郭英調、林首愈、丁漢平、陳偉武、葉瑋炘",
+                "cos_time": "T78-YK533[YM]",
+                "memo": "",
+                "cos_ename": "Drug Development and Clinical trials",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "231",
+                "dep_primary": "1",
+                "dep_cname": "藥學系",
+                "dep_ename": "Department of Pharmacy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "31",
+                "depType": "G"
+            },
+            "1121_132007": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132007",
+                "cos_code": "PSPM20018",
+                "num_limit": "35",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "衛生行政與健康保險",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "許銘能、吳肖琪、李玉春、楊靖慧、黃彥芳、廖薰香、蔡淑鈴、吳全峰、張淑卿、廖家鼎、李巧玲",
+                "cos_time": "R56-YK533[YM]",
+                "memo": "",
+                "cos_ename": "Health Policy and Health Insurance",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "231",
+                "dep_primary": "1",
+                "dep_cname": "藥學系",
+                "dep_ename": "Department of Pharmacy",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_132008": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132008",
+                "cos_code": "PSPM20032",
+                "num_limit": "40",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "高等藥物治療學",
+                "cos_credit": "6.00",
+                "cos_hours": "6.00",
+                "TURL": "",
+                "teacher": "張豫立、楊振昌、張世霖、林邑璁、張瑞文、賴峻毅、姜紹青、陳育民、蘇建維、曾令民、蘇東平、陳肇文、朱佩欣、王苾如、唐德成、高志平、宋思賢、王嚴鋒、許百豐、陳香齡、宋俊松、蘇剛正、周建成、楊凱鈞、陳寬軒、童聖鈞、余聲隆、陳柏瑋、翁如潔、吳建興、黃瑩瑀、樊心蓉、林子超、許櫻寶、王笙帆、盧孟穗、陳俊豪、鄭乃銘、黃鈴茹、江東鴻、王浩元、蔣漢琳、楊子涵、陳佳慧、林家潔、王明業、黃聿璿、盧志嘉、王怡凱、吳汶儒、許越涵、趙凡琇、林韋綺、李珮甄、馮嘉毅、劉峻宇、黃逸修、曾偉誠",
+                "cos_time": "M567-YL405[YM],W567-YR105[YM]",
+                "memo": "星期一567在圖資405，星期三567在守仁105",
+                "cos_ename": "Advanced Pharmacotherapy",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "231",
+                "dep_primary": "1",
+                "dep_cname": "藥學系",
+                "dep_ename": "Department of Pharmacy",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_132009": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132009",
+                "cos_code": "PSPM30020",
+                "num_limit": "30",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "細胞色素P450藥物代謝特論",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "翁芸芳、常敏之、蔡世峯、王鴻展",
+                "cos_time": "F56-YK436[YM]",
+                "memo": "",
+                "cos_ename": "Special topics on cytochrome P450 in drug metabolism",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "231",
+                "dep_primary": "1",
+                "dep_cname": "藥學系",
+                "dep_ename": "Department of Pharmacy",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_132010": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132010",
+                "cos_code": "PSPM30017",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "用藥安全與醫藥政策特論",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "張豫立、陳育群、李偉強、黃以信、李友專、余萬能、陳德禮、許家禎、周千瀅、陳寬軒、王笙帆、朱慶榮、蔡維禎、何沁沁、王怡凱",
+                "cos_time": "T34-",
+                "memo": "課程教室: 台北榮總中正樓藥學部第一會議室",
+                "cos_ename": "Medication Safety and Medical Policy",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "231",
+                "dep_primary": "1",
+                "dep_cname": "藥學系",
+                "dep_ename": "Department of Pharmacy",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_132011": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132011",
+                "cos_code": "PSPM20015",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "藥事經濟學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "王孟廷",
+                "cos_time": "W89-YK533[YM]",
+                "memo": "",
+                "cos_ename": "Pharmacoeconomics",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "231",
+                "dep_primary": "1",
+                "dep_cname": "藥學系",
+                "dep_ename": "Department of Pharmacy",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "35",
+                "depType": "G"
+            },
+            "1121_132012": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132012",
+                "cos_code": "PSPM30031",
+                "num_limit": "20",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "藥物科技研究方法",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "林宥欣、王孟廷、蔡金吾、黃雪莉、胡德民、陳日榮、東雅惠、陳惠亭、許銘能、蘇溶真、廖曉偉、高正彥、姜紹青、林彥竹",
+                "cos_time": "R56-YR102[YM]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Methodology in pharmaceutical technology",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "231",
+                "dep_primary": "1",
+                "dep_cname": "藥學系",
+                "dep_ename": "Department of Pharmacy",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_132013": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132013",
+                "cos_code": "PSPM30023",
+                "num_limit": "30",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "臨床藥學專科實習(二)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "張豫立、陳涵栩、王培寧、蔡佩君、王復德、彭殿王、陳明晃、周月卿、王鑑瀛、陳明德、周中偉、趙大中、宋俊松、關尚勇、吳承學、鄒嘉玲、黃偉銘、許家禎、周千瀅、陳寬軒、王笙帆、陳倩、黃鈴茹、江東鴻、周睿信、王怡凱、黃金洲",
+                "cos_time": "MnTnWnRnFn-",
+                "memo": "",
+                "cos_ename": "Clinical Pharmacy Practice (Ⅱ)",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "231",
+                "dep_primary": "1",
+                "dep_cname": "藥學系",
+                "dep_ename": "Department of Pharmacy",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "35",
+                "depType": "G"
+            },
+            "1121_132014": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132014",
+                "cos_code": "PSPM30005",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "專題討論",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "東雅惠、王孟廷、許銘能、姜紹青、周月卿、張豫立、許家禎、周千瀅、陳寬軒、王笙帆",
+                "cos_time": "F34-YL402[YM]",
+                "memo": "乙丙組學生於圖資405教室上課，甲組學生請勿選擇此堂[English Medium Course]",
+                "cos_ename": "Seminar",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "231",
+                "dep_primary": "1",
+                "dep_cname": "藥學系",
+                "dep_ename": "Department of Pharmacy",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "35",
+                "depType": "G"
+            },
+            "1121_132015": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132015",
+                "cos_code": "PSPM30040",
+                "num_limit": "30",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "進階藥物科學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "蘇溶真、胡德民、陳日榮、林宥欣、陳惠亭、廖曉偉",
+                "cos_time": "T34-YR104[YM]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Advanced Pharmaceutical Sciences",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "231",
+                "dep_primary": "1",
+                "dep_cname": "藥學系",
+                "dep_ename": "Department of Pharmacy",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_132016": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132016",
+                "cos_code": "PSPM30052",
+                "num_limit": "45",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "機器學習及深度學習基礎與應用",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "林滿玉",
+                "cos_time": "",
+                "memo": "此課程在112暑假開課，線上課程(無實體)。",
+                "cos_ename": "Fundamentals in Machine Learning and Deep Learning",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "231",
+                "dep_primary": "1",
+                "dep_cname": "藥學系",
+                "dep_ename": "Department of Pharmacy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_132017": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132017",
+                "cos_code": "PSPM30053",
+                "num_limit": "45",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "AI在藥物研發之應用",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "林彥竹",
+                "cos_time": "",
+                "memo": "此課程在112.6.16(五)開課，上課地點另行公布。線上遠距同步教學。遠距開放給新竹校區",
+                "cos_ename": "AI application in drug R&D",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "231",
+                "dep_primary": "1",
+                "dep_cname": "藥學系",
+                "dep_ename": "Department of Pharmacy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_132018": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132018",
+                "cos_code": "PSPM30054",
+                "num_limit": "45",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "精準核醫藥物學概論",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "胡德民",
+                "cos_time": "",
+                "memo": "此課程在112暑假開課，上課地點另行公布。",
+                "cos_ename": "Fundamentals of Nuclear Pharmacy",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "231",
+                "dep_primary": "1",
+                "dep_cname": "藥學系",
+                "dep_ename": "Department of Pharmacy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_132019": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132019",
+                "cos_code": "PSPM30055",
+                "num_limit": "15",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "精準醫學核心技術-II",
+                "cos_credit": ".50",
+                "cos_hours": ".50",
+                "TURL": "",
+                "teacher": "陳建鋒",
+                "cos_time": "",
+                "memo": "此課程在112暑假開課，上課地點另行公布。",
+                "cos_ename": "Precision Medicine Core Technology-II",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "231",
+                "dep_primary": "1",
+                "dep_cname": "藥學系",
+                "dep_ename": "Department of Pharmacy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_132020": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132020",
+                "cos_code": "PSPM30056",
+                "num_limit": "15",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "Cell therapy",
+                "cos_credit": ".50",
+                "cos_hours": ".50",
+                "TURL": "",
+                "teacher": "林滿玉",
+                "cos_time": "",
+                "memo": "此課程在112暑假開課，上課地點:沛爾生技醫藥股份有限公司(台北市內湖區新湖二路87號4樓)。",
+                "cos_ename": "Cell therapy",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "231",
+                "dep_primary": "1",
+                "dep_cname": "藥學系",
+                "dep_ename": "Department of Pharmacy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_132021": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132021",
+                "cos_code": "PSPM30057",
+                "num_limit": "45",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "再生醫學之法規與應用",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "林滿玉",
+                "cos_time": "",
+                "memo": "此課程在112暑假開課，上課地點另行公布。",
+                "cos_ename": "Regulations and Application in Regenerative Medicine",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "231",
+                "dep_primary": "1",
+                "dep_cname": "藥學系",
+                "dep_ename": "Department of Pharmacy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_132022": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132022",
+                "cos_code": "PSPM30058",
+                "num_limit": "30",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "次世代之智慧型社區藥學",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "姜紹青",
+                "cos_time": "",
+                "memo": "此課程在112暑假開課，第一天上課地點另行公布。第二天上課地點:桃園躍獅智醫城藥局(地址:桃園市桃園區中正路66號)",
+                "cos_ename": "Next Generation Community Pharmacy",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "231",
+                "dep_primary": "1",
+                "dep_cname": "藥學系",
+                "dep_ename": "Department of Pharmacy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_132023": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132023",
+                "cos_code": "PSPM30029",
+                "num_limit": "40",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "藥物流行病學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "東雅惠、王孟廷、許家禎、周千瀅、黃彥銘、黃莉茵、黃薇伊、謝斯婷",
+                "cos_time": "T56-YL405[YM]",
+                "memo": "限乙丙組同學修課，丙組同學為必修\n",
+                "cos_ename": "Pharmacoepidemiology",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "231",
+                "dep_primary": "1",
+                "dep_cname": "藥學系",
+                "dep_ename": "Department of Pharmacy",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_132024": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132024",
+                "cos_code": "PSPM30005",
+                "num_limit": "254",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "專題討論",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "廖曉偉、林滿玉、胡德民、康照洲、陳日榮、林宥欣、陳惠亭、蘇溶真",
+                "cos_time": "F34-YR105[YM]",
+                "memo": "甲組學生上課於守仁105教室，乙丙組同學請勿選擇[English Medium Course]",
+                "cos_ename": "Seminar",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "231",
+                "dep_primary": "1",
+                "dep_cname": "藥學系",
+                "dep_ename": "Department of Pharmacy",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_132025": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132025",
+                "cos_code": "PSPM30049",
+                "num_limit": "30",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "藥品臨床試驗法規科學與專利實務",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "張連成、許銘能",
+                "cos_time": "W34-YR103[YM]",
+                "memo": "",
+                "cos_ename": "Clinical Trial Regulatory Science and Patent Practice",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "231",
+                "dep_primary": "1",
+                "dep_cname": "藥學系",
+                "dep_ename": "Department of Pharmacy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_132026": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132026",
+                "cos_code": "PSPM30059",
+                "num_limit": "45",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "精準新藥發展法規與實務",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "陳鋕雄",
+                "cos_time": "",
+                "memo": "此課程在112暑假開課，上課地點另行公布。",
+                "cos_ename": "Regulations and Practices for Precision Medicine",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "231",
+                "dep_primary": "1",
+                "dep_cname": "藥學系",
+                "dep_ename": "Department of Pharmacy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_132027": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132027",
+                "cos_code": "PSPM30060",
+                "num_limit": "10",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "業界實習",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "林滿玉",
+                "cos_time": "",
+                "memo": "此課程開在112暑期間，地點另行公告",
+                "cos_ename": "Industry Internships",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "231",
+                "dep_primary": "1",
+                "dep_cname": "藥學系",
+                "dep_ename": "Department of Pharmacy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            }
+        }
+    }
+}

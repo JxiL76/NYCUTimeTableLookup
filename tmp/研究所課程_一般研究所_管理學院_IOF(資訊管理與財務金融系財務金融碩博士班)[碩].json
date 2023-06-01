@@ -1,0 +1,707 @@
+{
+    "78B86127-A99A-4DCB-9650-B5C8D8F39B59": {
+        "dep_id": "78B86127-A99A-4DCB-9650-B5C8D8F39B59",
+        "dep_cname": "資訊管理與財務金融系財務金融碩博士班",
+        "dep_ename": "Graduate institute of finance",
+        "1": {
+            "1121_537700": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537700",
+                "cos_code": "MGIF30029",
+                "num_limit": "55",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "國際財務管理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "鍾惠民、梁婉麗",
+                "cos_time": "M567-",
+                "memo": "財務類課程；財策組必修；財務金融碩博士班學生優先。上課教室：管理一館1樓光寶廳M115。",
+                "cos_ename": "Multinational Financial Management ",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "707",
+                "dep_primary": "1",
+                "dep_cname": "資訊管理與財務金融系財務金融碩博士班",
+                "dep_ename": "Graduate institute of finance",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_537701": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537701",
+                "cos_code": "MGIF30075",
+                "num_limit": "50",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "資訊安全",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "游家牧",
+                "cos_time": "Mabc-M101[GF]",
+                "memo": "資訊類課程；財務金融碩博士班、資財系大三大四優先；本課程限管理學院學生選修。",
+                "cos_ename": "Information Security",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "707",
+                "dep_primary": "1",
+                "dep_cname": "資訊管理與財務金融系財務金融碩博士班",
+                "dep_ename": "Graduate institute of finance",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_537702": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537702",
+                "cos_code": "MGIF30066",
+                "num_limit": "80",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "財務數學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://finance.lab.nycu.edu.tw/",
+                "teacher": "戴天時",
+                "cos_time": "T234-M101[GF]",
+                "memo": "財務類課程；財工組必修；財務金融碩博士班優先。",
+                "cos_ename": "Financial Mathematics",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "707",
+                "dep_primary": "1",
+                "dep_cname": "資訊管理與財務金融系財務金融碩博士班",
+                "dep_ename": "Graduate institute of finance",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_537703": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537703",
+                "cos_code": "MGIF30080",
+                "num_limit": "80",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "金融機構與市場",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "謝文良",
+                "cos_time": "T567-M101[GF]",
+                "memo": "財務類課程；財策組、財工組必修；財務金融碩博士班學生優先。",
+                "cos_ename": "Financial Institutions and Markets",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "707",
+                "dep_primary": "1",
+                "dep_cname": "資訊管理與財務金融系財務金融碩博士班",
+                "dep_ename": "Graduate institute of finance",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_537704": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537704",
+                "cos_code": "MGIF30031",
+                "num_limit": "55",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "大數據分析與資料治理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "林芳邦",
+                "cos_time": "Tabc-M-b01[GF]",
+                "memo": "資訊類課程；財務金融碩博士班、資財系大三大四優先。",
+                "cos_ename": "Big Data Analytics and Data Governance",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "707",
+                "dep_primary": "1",
+                "dep_cname": "資訊管理與財務金融系財務金融碩博士班",
+                "dep_ename": "Graduate institute of finance",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_537705": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537705",
+                "cos_code": "MGIF30069",
+                "num_limit": "55",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "財務管理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "黃宜侯",
+                "cos_time": "W234-M-b09[GF]",
+                "memo": "財務類課程；財策組、財工組必修；財務金融碩博士班學生優先。",
+                "cos_ename": "Financial Management",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "707",
+                "dep_primary": "1",
+                "dep_cname": "資訊管理與財務金融系財務金融碩博士班",
+                "dep_ename": "Graduate institute of finance",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_537706": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537706",
+                "cos_code": "MGIF30013",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "個別研究",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "財金所",
+                "cos_time": "",
+                "memo": "資料科學組碩一必修；財金博士班選修課程。已擇定指導教授者方可選修；上課時間地點或依指導教授而有所不同；若修課人數不足3人則停開。",
+                "cos_ename": "Independent study",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "707",
+                "dep_primary": "1",
+                "dep_cname": "資訊管理與財務金融系財務金融碩博士班",
+                "dep_ename": "Graduate institute of finance",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_537707": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537707",
+                "cos_code": "MGIF30056",
+                "num_limit": "80",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "財金理論與實務",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "https://finance.lab.nycu.edu.tw/",
+                "teacher": "戴天時",
+                "cos_time": "W56-M101[GF]",
+                "memo": "碩一必修; 限財務金融碩士班學生選修。",
+                "cos_ename": "Theory and practice in finance ",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "707",
+                "dep_primary": "1",
+                "dep_cname": "資訊管理與財務金融系財務金融碩博士班",
+                "dep_ename": "Graduate institute of finance",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_537708": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537708",
+                "cos_code": "MGIF30077",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "資產評價理論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "郭家豪",
+                "cos_time": "W789-M101[GF]",
+                "memo": "財務類課程；財務金融碩博士班學生優先。",
+                "cos_ename": "Asset Pricing Theory",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "707",
+                "dep_primary": "1",
+                "dep_cname": "資訊管理與財務金融系財務金融碩博士班",
+                "dep_ename": "Graduate institute of finance",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_537709": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537709",
+                "cos_code": "MGIF30041",
+                "num_limit": "80",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "期貨與選擇權",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "李漢星",
+                "cos_time": "R234-M101[GF]",
+                "memo": "財務類課程；財策組、財工組必修；財務金融碩博士班學生優先。",
+                "cos_ename": "Futures and Options",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "707",
+                "dep_primary": "1",
+                "dep_cname": "資訊管理與財務金融系財務金融碩博士班",
+                "dep_ename": "Graduate institute of finance",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_537710": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537710",
+                "cos_code": "MGIF30033",
+                "num_limit": "80",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "實質選擇權與策略投資",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://imf.nycu.edu.tw/",
+                "teacher": "黃星華",
+                "cos_time": "R89a-M101[GF]",
+                "memo": "財務類課程；財務金融碩博士班、資財系大三大四優先。",
+                "cos_ename": "Real Options and Strategic Investment",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "707",
+                "dep_primary": "1",
+                "dep_cname": "資訊管理與財務金融系財務金融碩博士班",
+                "dep_ename": "Graduate institute of finance",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_537711": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537711",
+                "cos_code": "MGIF30061",
+                "num_limit": "55",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "財務個案分析",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "鍾惠民、王燈山",
+                "cos_time": "Rabc-",
+                "memo": "財務類課程；財務金融碩博士班、資財系大三大四優先。本課程不開放博士班學生選修。上課教室：管理一館1樓光寶廳M115。",
+                "cos_ename": "Case study in finance",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "707",
+                "dep_primary": "1",
+                "dep_cname": "資訊管理與財務金融系財務金融碩博士班",
+                "dep_ename": "Graduate institute of finance",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_537712": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537712",
+                "cos_code": "MGIF30043",
+                "num_limit": "80",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "機器學習與金融科技",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://hackmd.io/@hwteng/HyKOPoA6d",
+                "teacher": "鄧惠文",
+                "cos_time": "F234-M101[GF]",
+                "memo": "[English Medium Course]財務類課程；財務金融碩博士班、GMBA學生優先；英語授課。",
+                "cos_ename": "Machine Learning and FinTech",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "707",
+                "dep_primary": "1",
+                "dep_cname": "資訊管理與財務金融系財務金融碩博士班",
+                "dep_ename": "Graduate institute of finance",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_537713": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537713",
+                "cos_code": "MGIF30047",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "碩士論文研究",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "財金所",
+                "cos_time": "",
+                "memo": "碩二必修；限財務金融碩士班學生選修。",
+                "cos_ename": "Thesis",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "707",
+                "dep_primary": "1",
+                "dep_cname": "資訊管理與財務金融系財務金融碩博士班",
+                "dep_ename": "Graduate institute of finance",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            }
+        },
+        "costype": {
+            "1121_537700": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537701": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537702": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537703": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537704": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537705": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537706": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537707": {
+                "專題演講_專題演講": {
+                    "course_category_cname": "專題演講_專題演講",
+                    "course_category_ename": "",
+                    "course_category_type": "62",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537708": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537709": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537710": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537711": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537712": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537713": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_547704": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_537700": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537701": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537702": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537703": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537704": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537705": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537706": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537707": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537708": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537709": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537710": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537711": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537712": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537713": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_547704": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_537700": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_537701": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_537702": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_537703": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_537704": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_537705": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_537706": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_537707": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_537708": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_537709": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_537710": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_537711": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_537712": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_537713": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_547704": {
+                "授課語言代碼": "zh-tw"
+            }
+        },
+        "2": {
+            "1121_547704": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "547704",
+                "cos_code": "MGIF30006",
+                "num_limit": "120",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "人工智慧理論與實作",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "黃思皓",
+                "cos_time": "Wabc-M101[GF]",
+                "memo": "資訊類課程；財務金融碩博士班、資財系大三大四優先；財務金融博士班AI組必修。",
+                "cos_ename": "Artificial Intelligence: Theory and Practice",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "707",
+                "dep_primary": "2",
+                "dep_cname": "資訊管理與財務金融系財務金融碩博士班",
+                "dep_ename": "Graduate institute of finance",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            }
+        }
+    }
+}

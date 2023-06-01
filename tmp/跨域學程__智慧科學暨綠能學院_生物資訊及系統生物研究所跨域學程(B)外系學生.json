@@ -1,0 +1,528 @@
+{
+    "63697C65-B3EA-4AD8-AD96-3D2525D9D91E": {
+        "dep_id": "63697C65-B3EA-4AD8-AD96-3D2525D9D91E",
+        "dep_cname": "生物資訊及系統生物研究所跨域學程(B)外系學生",
+        "dep_ename": "Institute of Bioinformatics for Cross-Disciplinary Program",
+        "1": {
+            "1121_410012": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "410012",
+                "cos_code": "BTBT10054",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "計算生物概論",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "朱智瑋、林峻宇",
+                "cos_time": "F56-BI310[BA]",
+                "memo": "",
+                "cos_ename": "Introduction to Computaional Biology",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QJP",
+                "dep_primary": "1",
+                "dep_cname": "生物資訊及系統生物研究所跨域學程(B)外系學生",
+                "dep_ename": "Institute of Bioinformatics for Cross-Disciplinary Program",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_410014": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "410014",
+                "cos_code": "BTBT10034",
+                "num_limit": "40",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生物化學（一）",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "吳東昆、楊裕雄、張晉源",
+                "cos_time": "F234-BI301[BA]",
+                "memo": "",
+                "cos_ename": "Biochemistry (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QJP",
+                "dep_primary": "1",
+                "dep_cname": "生物資訊及系統生物研究所跨域學程(B)外系學生",
+                "dep_ename": "Institute of Bioinformatics for Cross-Disciplinary Program",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_410015": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "410015",
+                "cos_code": "BTBT10034",
+                "num_limit": "40",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生物化學（一）",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "蕭育源、高智飛",
+                "cos_time": "F234-BI303[BA]",
+                "memo": "",
+                "cos_ename": "Biochemistry (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QJP",
+                "dep_primary": "1",
+                "dep_cname": "生物資訊及系統生物研究所跨域學程(B)外系學生",
+                "dep_ename": "Institute of Bioinformatics for Cross-Disciplinary Program",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_410016": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "410016",
+                "cos_code": "BTBT10034",
+                "num_limit": "30",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生物化學（一）",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://sites.google.com/site/ethanilanlab/",
+                "teacher": "蘭宜錚",
+                "cos_time": "F234-BI309[BA]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Biochemistry (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QJP",
+                "dep_primary": "1",
+                "dep_cname": "生物資訊及系統生物研究所跨域學程(B)外系學生",
+                "dep_ename": "Institute of Bioinformatics for Cross-Disciplinary Program",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_430025": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "430025",
+                "cos_code": "BTBT30151",
+                "num_limit": "12",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "計算生物實驗",
+                "cos_credit": "1.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "陳亭妏、尤禎祥",
+                "cos_time": "W567-BI304[BA]",
+                "memo": "",
+                "cos_ename": "Computational Biology Lab.",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QJP",
+                "dep_primary": "1",
+                "dep_cname": "生物資訊及系統生物研究所跨域學程(B)外系學生",
+                "dep_ename": "Institute of Bioinformatics for Cross-Disciplinary Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_430102": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "430102",
+                "cos_code": "BTBI30046",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生物統計",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "王維菁",
+                "cos_time": "W234-SA321[GF]",
+                "memo": "",
+                "cos_ename": "Biostatistics",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QJP",
+                "dep_primary": "1",
+                "dep_cname": "生物資訊及系統生物研究所跨域學程(B)外系學生",
+                "dep_ename": "Institute of Bioinformatics for Cross-Disciplinary Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_430105": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "430105",
+                "cos_code": "BTBI30076",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "結構生物資訊",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://140.113.239.51",
+                "teacher": "楊進木",
+                "cos_time": "R567-BI305[BA]",
+                "memo": "",
+                "cos_ename": "Structural Bioinformatics",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QJP",
+                "dep_primary": "1",
+                "dep_cname": "生物資訊及系統生物研究所跨域學程(B)外系學生",
+                "dep_ename": "Institute of Bioinformatics for Cross-Disciplinary Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_430106": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "430106",
+                "cos_code": "BTBI30080",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "統計熱力學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "朱智瑋",
+                "cos_time": "W789-BI311[BA]",
+                "memo": "",
+                "cos_ename": "Statistical Thermodynamics",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QJP",
+                "dep_primary": "1",
+                "dep_cname": "生物資訊及系統生物研究所跨域學程(B)外系學生",
+                "dep_ename": "Institute of Bioinformatics for Cross-Disciplinary Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_430107": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "430107",
+                "cos_code": "BTBI30048",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生物序列分析與高通量技術",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "陳亭妏",
+                "cos_time": "M567-BI301[BA],M567-YT301[YM]",
+                "memo": "視訊同步遠距課程",
+                "cos_ename": "Biological Sequence Analysis and High Throughput Technologies",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QJP",
+                "dep_primary": "1",
+                "dep_cname": "生物資訊及系統生物研究所跨域學程(B)外系學生",
+                "dep_ename": "Institute of Bioinformatics for Cross-Disciplinary Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_567000": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "567000",
+                "cos_code": "GEBT00001",
+                "num_limit": "70",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "普通生物學(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "趙啟宏、鄒協成",
+                "cos_time": "Wn56-SC106[GF]",
+                "memo": "英文授課 生物科技學系大一新生及轉學生優先選課，上限70人 通識校基本 通識跨院",
+                "cos_ename": "General Biology(I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QJP",
+                "dep_primary": "1",
+                "dep_cname": "生物資訊及系統生物研究所跨域學程(B)外系學生",
+                "dep_ename": "Institute of Bioinformatics for Cross-Disciplinary Program",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_567002": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "567002",
+                "cos_code": "GEBT00001",
+                "num_limit": "90",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "普通生物學(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://yslin.lab.ncyu.edu.tw/",
+                "teacher": "林勇欣、莊碧簪、蘇昱誠",
+                "cos_time": "Wn56-SA320[GF]",
+                "memo": " 生物科技學系大一新生/本系生及中一中科學班優先，上限90人 通識校基本 通識跨院",
+                "cos_ename": "General Biology(I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QJP",
+                "dep_primary": "1",
+                "dep_cname": "生物資訊及系統生物研究所跨域學程(B)外系學生",
+                "dep_ename": "Institute of Bioinformatics for Cross-Disciplinary Program",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            }
+        },
+        "costype": {
+            "1121_410012": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_410014": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_410015": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_410016": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_430025": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_430102": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_430105": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_430106": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_430107": {
+                "跨校區課程_跨校區課程": {
+                    "course_category_cname": "跨校區課程_跨校區課程",
+                    "course_category_ename": "Cross-Campus Course_Cross-Campus Course",
+                    "course_category_type": "57",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "遠距課程_遠距": {
+                    "course_category_cname": "遠距課程_遠距",
+                    "course_category_ename": "Distance  Learning Courses_DL",
+                    "course_category_type": "4",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_567000": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_567002": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_410012": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_410014": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_410015": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_410016": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_430025": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_430102": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_430105": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_430106": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_430107": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_567000": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_567002": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_410012": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_410014": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_410015": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_410016": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_430025": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_430102": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_430105": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_430106": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_430107": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_567000": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_567002": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    }
+}

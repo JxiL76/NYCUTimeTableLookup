@@ -1,0 +1,61 @@
+{
+    "2DC5D62B-70A5-4B45-82F9-E6B070264B74": {
+        "dep_id": "2DC5D62B-70A5-4B45-82F9-E6B070264B74",
+        "dep_cname": "人社系:族群與文化學分學程",
+        "dep_ename": "Program of Ethnicity and Culture",
+        "1": {
+            "1121_310022": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "310022",
+                "cos_code": "HKHS20003",
+                "num_limit": "12",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "學術英文",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "朱華瑄",
+                "cos_time": "T567-HK119[LJ]",
+                "memo": "[English Medium Course] 限大二以上選修",
+                "cos_ename": "English for Academic Study",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "PFO",
+                "dep_primary": "1",
+                "dep_cname": "人社系:族群與文化學分學程",
+                "dep_ename": "Program of Ethnicity and Culture",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "P"
+            }
+        },
+        "costype": {
+            "1121_310022": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_310022": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_310022": {
+                "授課語言代碼": "en-us"
+            }
+        }
+    }
+}

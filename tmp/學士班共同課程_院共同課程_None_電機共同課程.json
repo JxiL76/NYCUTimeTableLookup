@@ -1,0 +1,1257 @@
+{
+    "75F46684-4732-47B1-8894-E22C9FA6C5A2": {
+        "dep_id": "75F46684-4732-47B1-8894-E22C9FA6C5A2",
+        "dep_cname": "電機共同課程",
+        "dep_ename": "College of Electrical Engineering",
+        "1": {
+            "1121_515000": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515000",
+                "cos_code": "EEEC10030",
+                "num_limit": "52",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "電子實驗(一)",
+                "cos_credit": "2.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "陳立洲",
+                "cos_time": "Mabcd-",
+                "memo": "電子實驗課為電機系學生必修課程，以電機系學生優先修課。\n本課程以電機系大二學生優先。課程時間為周一晚上abcd，上課教室為工程四館ED320。",
+                "cos_ename": "Electronics Lab. (I)",
+                "brief": "",
+                "degree": "A",
+                "dep_id": "5I1",
+                "dep_primary": "1",
+                "dep_cname": "電機共同課程",
+                "dep_ename": "College of Electrical Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_515001": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515001",
+                "cos_code": "EEEC10030",
+                "num_limit": "52",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "電子實驗(一)",
+                "cos_credit": "2.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "陳立洲",
+                "cos_time": "Wabcd-",
+                "memo": "電子實驗課為電機系學生必修課程，以電機系學生優先修課。\n以電機系大二學生優先選課。課程時間為周三晚上abcd，上課教室為工程四館ED320。",
+                "cos_ename": "Electronics Lab. (I)",
+                "brief": "",
+                "degree": "A",
+                "dep_id": "5I1",
+                "dep_primary": "1",
+                "dep_cname": "電機共同課程",
+                "dep_ename": "College of Electrical Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_515002": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515002",
+                "cos_code": "EEEC10030",
+                "num_limit": "52",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "電子實驗(一)",
+                "cos_credit": "2.00",
+                "cos_hours": "4.00",
+                "TURL": "https://sites.google.com/g2.nctu.edu.tw/nctu-eelab/home/ta-contact-information?authuser=0",
+                "teacher": "王夢偉",
+                "cos_time": "Mabcd-",
+                "memo": "電子實驗課為電機系學生必修課程，以電機系學生優先修課。\n以電機系大二學生優先。課程時間為周一晚上abcd，上課教室為工程四館ED222。",
+                "cos_ename": "Electronics Lab. (I)",
+                "brief": "",
+                "degree": "A",
+                "dep_id": "5I1",
+                "dep_primary": "1",
+                "dep_cname": "電機共同課程",
+                "dep_ename": "College of Electrical Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_515003": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515003",
+                "cos_code": "EEEC10030",
+                "num_limit": "52",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "電子實驗(一)",
+                "cos_credit": "2.00",
+                "cos_hours": "4.00",
+                "TURL": "https://sites.google.com/g2.nctu.edu.tw/nctu-eelab/home",
+                "teacher": "林容瑋、陳柏宏、柯明道",
+                "cos_time": "Tabcd-",
+                "memo": "電子實驗課為電機系學生必修課程，以電機系學生優先修課。\n以電機系大二學生優先、「2A班優先」、醫師工程師組。課程時間為周二晚上abcd，上課教室為工程四館ED320。",
+                "cos_ename": "Electronics Lab. (I)",
+                "brief": "",
+                "degree": "A",
+                "dep_id": "5I1",
+                "dep_primary": "1",
+                "dep_cname": "電機共同課程",
+                "dep_ename": "College of Electrical Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_515004": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515004",
+                "cos_code": "EEEC10030",
+                "num_limit": "52",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "電子實驗(一)",
+                "cos_credit": "2.00",
+                "cos_hours": "4.00",
+                "TURL": "https://sites.google.com/g2.nctu.edu.tw/nctu-eelab/home/ta-contact-information?authuser=0",
+                "teacher": "王夢偉",
+                "cos_time": "Wabcd-",
+                "memo": "電子實驗課為電機系學生必修課程，以電機系學生優先修課。\n以電機系大二學生優先選課。課程時間為周三晚上abcd，上課教室為工程四館ED222。",
+                "cos_ename": "Electronics Lab. (I)",
+                "brief": "",
+                "degree": "A",
+                "dep_id": "5I1",
+                "dep_primary": "1",
+                "dep_cname": "電機共同課程",
+                "dep_ename": "College of Electrical Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_515005": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515005",
+                "cos_code": "EEEC10026",
+                "num_limit": "60",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "電子學(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "4.00",
+                "TURL": "http://adclab.nctu.edu.tw/faculty/",
+                "teacher": "陳佳宏",
+                "cos_time": "M78R34-EE207[GF]",
+                "memo": "A~F班、醫師工程師組。3學分4小時，3小時上課第4小時作業演練，授權每位老師彈性規劃。",
+                "cos_ename": "Electronics (I)",
+                "brief": "",
+                "degree": "A",
+                "dep_id": "5I1",
+                "dep_primary": "1",
+                "dep_cname": "電機共同課程",
+                "dep_ename": "College of Electrical Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_515006": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515006",
+                "cos_code": "EEEC10026",
+                "num_limit": "60",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "電子學(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "4.00",
+                "TURL": "http://www.ymlab.org/",
+                "teacher": "李義明",
+                "cos_time": "M78R34-ED219[GF]",
+                "memo": "A~F班、醫師工程師組。3學分4小時，3小時上課第4小時作業演練，授權每位老師彈性規劃。",
+                "cos_ename": "Electronics (I)",
+                "brief": "",
+                "degree": "A",
+                "dep_id": "5I1",
+                "dep_primary": "1",
+                "dep_cname": "電機共同課程",
+                "dep_ename": "College of Electrical Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_515007": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515007",
+                "cos_code": "EEEC10026",
+                "num_limit": "60",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "電子學(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "陳巍仁",
+                "cos_time": "M78R34-ED116[GF]",
+                "memo": "A~F班、醫師工程師組。3學分4小時，3小時上課第4小時作業演練，授權每位老師彈性規劃。",
+                "cos_ename": "Electronics (I)",
+                "brief": "",
+                "degree": "A",
+                "dep_id": "5I1",
+                "dep_primary": "1",
+                "dep_cname": "電機共同課程",
+                "dep_ename": "College of Electrical Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_515008": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515008",
+                "cos_code": "EEEC10026",
+                "num_limit": "60",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "電子學(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "孟慶宗",
+                "cos_time": "M78R34-ED303[GF]",
+                "memo": "A~F班、醫師工程師組。3學分4小時，3小時上課第4小時作業演練，授權每位老師彈性規劃。",
+                "cos_ename": "Electronics (I)",
+                "brief": "",
+                "degree": "A",
+                "dep_id": "5I1",
+                "dep_primary": "1",
+                "dep_cname": "電機共同課程",
+                "dep_ename": "College of Electrical Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_515009": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515009",
+                "cos_code": "EEEC10026",
+                "num_limit": "60",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "電子學(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "4.00",
+                "TURL": "http://140.113.149.146",
+                "teacher": "陳科宏",
+                "cos_time": "M78R34-EE102[GF]",
+                "memo": "A~F班、醫師工程師組。3學分4小時，3小時上課第4小時作業演練，授權每位老師彈性規劃。",
+                "cos_ename": "Electronics (I)",
+                "brief": "",
+                "degree": "A",
+                "dep_id": "5I1",
+                "dep_primary": "1",
+                "dep_cname": "電機共同課程",
+                "dep_ename": "College of Electrical Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_515010": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515010",
+                "cos_code": "EEEC10026",
+                "num_limit": "60",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "電子學(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "4.00",
+                "TURL": "http://RobertHu.ee.nctu.edu.tw",
+                "teacher": "胡樹",
+                "cos_time": "M78R34-ED101[GF]",
+                "memo": "A~F班、醫師工程師組。3學分4小時，3小時上課第4小時作業演練，授權每位老師彈性規劃。",
+                "cos_ename": "Electronics (I)",
+                "brief": "",
+                "degree": "A",
+                "dep_id": "5I1",
+                "dep_primary": "1",
+                "dep_cname": "電機共同課程",
+                "dep_ename": "College of Electrical Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_515011": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515011",
+                "cos_code": "EEEC10037",
+                "num_limit": "60",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "電路學",
+                "cos_credit": "3.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "洪崇智",
+                "cos_time": "T34R78-ED203[GF]",
+                "memo": "3學分4小時，3小時上課第4小時作業演練，授權每位老師彈性規劃。",
+                "cos_ename": "Circuit Theory ",
+                "brief": "",
+                "degree": "A",
+                "dep_id": "5I1",
+                "dep_primary": "1",
+                "dep_cname": "電機共同課程",
+                "dep_ename": "College of Electrical Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_515012": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515012",
+                "cos_code": "EEEC10037",
+                "num_limit": "60",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "電路學",
+                "cos_credit": "3.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "蔡嘉明",
+                "cos_time": "T34R78-ED201[GF]",
+                "memo": "3學分4小時，3小時上課第4小時作業演練，授權每位老師彈性規劃。",
+                "cos_ename": "Circuit Theory ",
+                "brief": "",
+                "degree": "A",
+                "dep_id": "5I1",
+                "dep_primary": "1",
+                "dep_cname": "電機共同課程",
+                "dep_ename": "College of Electrical Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_515013": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515013",
+                "cos_code": "EEEC10037",
+                "num_limit": "60",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "電路學",
+                "cos_credit": "3.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "蔡作敏",
+                "cos_time": "T34R78-ED103[GF]",
+                "memo": "3學分4小時，3小時上課第4小時作業演練，授權每位老師彈性規劃。",
+                "cos_ename": "Circuit Theory ",
+                "brief": "",
+                "degree": "A",
+                "dep_id": "5I1",
+                "dep_primary": "1",
+                "dep_cname": "電機共同課程",
+                "dep_ename": "College of Electrical Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_515014": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515014",
+                "cos_code": "EEEC10037",
+                "num_limit": "60",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "電路學",
+                "cos_credit": "3.00",
+                "cos_hours": "4.00",
+                "TURL": "http://vlsi-eda.cm.nctu.edu.tw/yumin/",
+                "teacher": "李育民",
+                "cos_time": "T34R78-ED303[GF]",
+                "memo": "3學分4小時，3小時上課第4小時作業演練，授權每位老師彈性規劃。",
+                "cos_ename": "Circuit Theory ",
+                "brief": "",
+                "degree": "A",
+                "dep_id": "5I1",
+                "dep_primary": "1",
+                "dep_cname": "電機共同課程",
+                "dep_ename": "College of Electrical Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_515015": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515015",
+                "cos_code": "EEEC10037",
+                "num_limit": "60",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "電路學",
+                "cos_credit": "3.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "陳柏宏",
+                "cos_time": "T34R78-EDB26[GF]",
+                "memo": "3學分4小時，3小時上課第4小時作業演練，授權每位老師彈性規劃。",
+                "cos_ename": "Circuit Theory ",
+                "brief": "",
+                "degree": "A",
+                "dep_id": "5I1",
+                "dep_primary": "1",
+                "dep_cname": "電機共同課程",
+                "dep_ename": "College of Electrical Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_515016": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515016",
+                "cos_code": "EEEC10039",
+                "num_limit": "70",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "電路學－(英文班)",
+                "cos_credit": "3.00",
+                "cos_hours": "4.00",
+                "TURL": "http://neural-lab.nctu.edu.tw/",
+                "teacher": "蔡德明",
+                "cos_time": "T34R78-EE623[GF]",
+                "memo": "[English Medium Course]，2A。此課程不得列入生醫所畢業學分。3學分4小時，3小時上課第4小時作業演練，授權每位老師彈性規劃。",
+                "cos_ename": "Circuit Theory ",
+                "brief": "",
+                "degree": "A",
+                "dep_id": "5I1",
+                "dep_primary": "1",
+                "dep_cname": "電機共同課程",
+                "dep_ename": "College of Electrical Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_515017": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515017",
+                "cos_code": "EEEC10002",
+                "num_limit": "55",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "微分方程",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "林國瑞",
+                "cos_time": "M34W2-ED201[GF]",
+                "memo": "",
+                "cos_ename": "Differential Equation",
+                "brief": "",
+                "degree": "A",
+                "dep_id": "5I1",
+                "dep_primary": "1",
+                "dep_cname": "電機共同課程",
+                "dep_ename": "College of Electrical Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_515018": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515018",
+                "cos_code": "EEEC10002",
+                "num_limit": "55",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "微分方程",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://www.facebook.com/groups/979424035585033",
+                "teacher": "陳永平",
+                "cos_time": "M34W2-EE207[GF]",
+                "memo": "",
+                "cos_ename": "Differential Equation",
+                "brief": "",
+                "degree": "A",
+                "dep_id": "5I1",
+                "dep_primary": "1",
+                "dep_cname": "電機共同課程",
+                "dep_ename": "College of Electrical Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_515019": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515019",
+                "cos_code": "EEEC10002",
+                "num_limit": "55",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "微分方程",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "王忠炫",
+                "cos_time": "M34W2-ED101[GF]",
+                "memo": "",
+                "cos_ename": "Differential Equation",
+                "brief": "",
+                "degree": "A",
+                "dep_id": "5I1",
+                "dep_primary": "1",
+                "dep_cname": "電機共同課程",
+                "dep_ename": "College of Electrical Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_515020": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515020",
+                "cos_code": "EEEC10002",
+                "num_limit": "55",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "微分方程",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "楊春美",
+                "cos_time": "M34W2-EE105[GF]",
+                "memo": "",
+                "cos_ename": "Differential Equation",
+                "brief": "",
+                "degree": "A",
+                "dep_id": "5I1",
+                "dep_primary": "1",
+                "dep_cname": "電機共同課程",
+                "dep_ename": "College of Electrical Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_515021": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515021",
+                "cos_code": "EEEC10003",
+                "num_limit": "55",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "微分方程(英文班)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "戴立嘉",
+                "cos_time": "M34W2-EE208[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Differential Equation",
+                "brief": "",
+                "degree": "A",
+                "dep_id": "5I1",
+                "dep_primary": "1",
+                "dep_cname": "電機共同課程",
+                "dep_ename": "College of Electrical Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_515022": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515022",
+                "cos_code": "EEEC10002",
+                "num_limit": "55",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "微分方程",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "鄭裕庭",
+                "cos_time": "M34W2-ED203[GF]",
+                "memo": "",
+                "cos_ename": "Differential Equation",
+                "brief": "",
+                "degree": "A",
+                "dep_id": "5I1",
+                "dep_primary": "1",
+                "dep_cname": "電機共同課程",
+                "dep_ename": "College of Electrical Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_515023": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515023",
+                "cos_code": "EEEC10030",
+                "num_limit": "52",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "電子實驗(一)",
+                "cos_credit": "2.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "柯明道、陳柏宏、陳建安",
+                "cos_time": "Tabcd-",
+                "memo": "電子實驗課為電機系學生必修課程，以電機系學生優先修課。\n以電機系大二學生優先。課程時間為周二晚上abcd，上課教室為工程四館ED222。",
+                "cos_ename": "Electronics Lab. (I)",
+                "brief": "",
+                "degree": "A",
+                "dep_id": "5I1",
+                "dep_primary": "1",
+                "dep_cname": "電機共同課程",
+                "dep_ename": "College of Electrical Engineering",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_515024": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515024",
+                "cos_code": "EEAE00005",
+                "num_limit": "60",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "全球工程領袖培育及探索系列",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "李大嵩、方凱田",
+                "cos_time": "T567-ED303[GF],T567-ED525[GF]",
+                "memo": "電機院級(學)。博雅選修通識/基本素養-組織管理/通識校基本。 1.限大一、大二同學選修。2.上課地點：李大嵩老師(T567-ED303)；方凱田老師(T567-ED525)。",
+                "cos_ename": "Global Engineering Leadership Cultivation and Discovery",
+                "brief": "",
+                "degree": "A",
+                "dep_id": "5I1",
+                "dep_primary": "1",
+                "dep_cname": "電機共同課程",
+                "dep_ename": "College of Electrical Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_515025": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515025",
+                "cos_code": "EEAE00005",
+                "num_limit": "60",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "全球工程領袖培育及探索系列",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "邱一、田仲豪",
+                "cos_time": "W234-CY201[GF],W234-EE112[GF]",
+                "memo": "電機院級(學)。博雅選修通識/基本素養-組織管理/通識校基本。1.限大一、大二同學選修。2.上課地點：邱一老師(W234-工五EE112)；田仲豪老師(W234-EO115)。",
+                "cos_ename": "Global Engineering Leadership Cultivation and Discovery",
+                "brief": "",
+                "degree": "A",
+                "dep_id": "5I1",
+                "dep_primary": "1",
+                "dep_cname": "電機共同課程",
+                "dep_ename": "College of Electrical Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "U"
+            },
+            "1121_515026": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515026",
+                "cos_code": "EEAE00005",
+                "num_limit": "60",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "全球工程領袖培育及探索系列",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "桑梓賢、林炯源",
+                "cos_time": "W234-ED303[GF]",
+                "memo": "電機院級(學)。博雅選修通識/基本素養-組織管理/通識校基本。 1.限大一、大二同學選修。2.上課地點：桑梓賢老師(W234-ED303)；林炯源老師(W234-ED301)。",
+                "cos_ename": "Global Engineering Leadership Cultivation and Discovery",
+                "brief": "",
+                "degree": "A",
+                "dep_id": "5I1",
+                "dep_primary": "1",
+                "dep_cname": "電機共同課程",
+                "dep_ename": "College of Electrical Engineering",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "U"
+            }
+        },
+        "costype": {
+            "1121_515000": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515001": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515002": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515003": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515004": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515005": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515006": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515007": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515008": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515009": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515010": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515011": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515012": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515013": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515014": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515015": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515016": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515017": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515018": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515019": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515020": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515021": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515022": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515023": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515024": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515025": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515026": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_515000": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515001": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515002": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515003": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515004": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515005": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515006": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515007": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515008": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515009": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515010": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515011": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515012": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515013": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515014": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515015": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515016": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515017": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515018": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515019": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515020": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515021": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515022": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515023": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515024": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515025": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515026": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_515000": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515001": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515002": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515003": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515004": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515005": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515006": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515007": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515008": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515009": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515010": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515011": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515012": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515013": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515014": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515015": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515016": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_515017": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515018": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515019": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515020": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515021": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_515022": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515023": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515024": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515025": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515026": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    }
+}

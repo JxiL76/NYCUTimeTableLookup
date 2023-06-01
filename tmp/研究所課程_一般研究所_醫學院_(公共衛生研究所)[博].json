@@ -1,0 +1,1673 @@
+{
+    "1286F78D-D327-4921-934A-FB22159D500F": {
+        "dep_id": "1286F78D-D327-4921-934A-FB22159D500F",
+        "dep_cname": "公共衛生研究所",
+        "dep_ename": "Institute of Public Health",
+        "2": {
+            "1121_130200": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130200",
+                "cos_code": "MDPH30051",
+                "num_limit": "135",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生物統計學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "林逸芬",
+                "cos_time": "R34-YX216[YM]",
+                "memo": "",
+                "cos_ename": "Biostatistics",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "104",
+                "dep_primary": "2",
+                "dep_cname": "公共衛生研究所",
+                "dep_ename": "Institute of Public Health",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130201": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130201",
+                "cos_code": "MDPH30090",
+                "num_limit": "20",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "進階資料分析與應用",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "胡曉雲",
+                "cos_time": "T12-YS221[YM]",
+                "memo": "隔週上課，以單週為主。",
+                "cos_ename": "Advanced Data Analysis and Application",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "104",
+                "dep_primary": "2",
+                "dep_cname": "公共衛生研究所",
+                "dep_ename": "Institute of Public Health",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130202": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130202",
+                "cos_code": "MDPH30053",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生物統計方法",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "郭炤裕",
+                "cos_time": "R234-YX406[YM]",
+                "memo": "",
+                "cos_ename": "Biostatistical Methods",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "104",
+                "dep_primary": "2",
+                "dep_cname": "公共衛生研究所",
+                "dep_ename": "Institute of Public Health",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130203": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130203",
+                "cos_code": "MDPH30044",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "物質使用與公共衛生",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳娟瑜、王先逸、郭柏秀、王聲昌",
+                "cos_time": "W12-",
+                "memo": "本學期於台大校區上課",
+                "cos_ename": "Substance Use and Public Health",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "104",
+                "dep_primary": "2",
+                "dep_cname": "公共衛生研究所",
+                "dep_ename": "Institute of Public Health",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130204": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130204",
+                "cos_code": "MDPH30006",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "健康照護與法律",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "楊秀儀",
+                "cos_time": "T234-YT302[YM]",
+                "memo": "1~12週上課。",
+                "cos_ename": "Law and Health Care",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "104",
+                "dep_primary": "2",
+                "dep_cname": "公共衛生研究所",
+                "dep_ename": "Institute of Public Health",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130205": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130205",
+                "cos_code": "MDPH30055",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生命科技法律與倫理",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "雷文玫",
+                "cos_time": "T56-YS415[YM]",
+                "memo": "",
+                "cos_ename": "Law and Ethics in Medical Technology",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "104",
+                "dep_primary": "2",
+                "dep_cname": "公共衛生研究所",
+                "dep_ename": "Institute of Public Health",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130206": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130206",
+                "cos_code": "MDPH30023",
+                "num_limit": "20",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "存活資料分析",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳瓊梅",
+                "cos_time": "W34-YS107[YM]",
+                "memo": "1.統資組碩士班領域必修課程。\n2.開放隨班附讀",
+                "cos_ename": "Survival Analysis",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "104",
+                "dep_primary": "2",
+                "dep_cname": "公共衛生研究所",
+                "dep_ename": "Institute of Public Health",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130207": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130207",
+                "cos_code": "MDPH30027",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "數理統計",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳瓊梅",
+                "cos_time": "W78-YS107[YM]",
+                "memo": "經授課教師同意，開放大學部學生選修。",
+                "cos_ename": "Mathematical Statistics",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "104",
+                "dep_primary": "2",
+                "dep_cname": "公共衛生研究所",
+                "dep_ename": "Institute of Public Health",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130208": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130208",
+                "cos_code": "MDPH30101",
+                "num_limit": "15",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "STATA資料分析",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "關艾琛",
+                "cos_time": "W78-YS221[YM]",
+                "memo": "初選僅限公衛所碩博士生。",
+                "cos_ename": "Data analysis using Stata",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "104",
+                "dep_primary": "2",
+                "dep_cname": "公共衛生研究所",
+                "dep_ename": "Institute of Public Health",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130211": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130211",
+                "cos_code": "MDPH30034",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "流行病學概論",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "周碧瑟",
+                "cos_time": "R56-YS221[YM]",
+                "memo": "經授課教師同意開放隨班附讀",
+                "cos_ename": "Introductory Epidemiology",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "104",
+                "dep_primary": "2",
+                "dep_cname": "公共衛生研究所",
+                "dep_ename": "Institute of Public Health",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130213": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130213",
+                "cos_code": "MDPH30036",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "流行病學原理",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "楊振昌、潘文驥",
+                "cos_time": "R78-YS107[YM]",
+                "memo": "",
+                "cos_ename": "Principles of Epidemiology ",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "104",
+                "dep_primary": "2",
+                "dep_cname": "公共衛生研究所",
+                "dep_ename": "Institute of Public Health",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130214": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130214",
+                "cos_code": "MDPH30038",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "流行病學方法",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "莊宜芳、陳信任",
+                "cos_time": "R789-YT205[YM]",
+                "memo": "",
+                "cos_ename": "Epidemiologic Methods",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "104",
+                "dep_primary": "2",
+                "dep_cname": "公共衛生研究所",
+                "dep_ename": "Institute of Public Health",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130215": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130215",
+                "cos_code": "MDPH30042",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "流行病學實證研究",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "周碧瑟",
+                "cos_time": "R78-YS103[YM]",
+                "memo": "",
+                "cos_ename": "Epidemiology Empirical Study",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "104",
+                "dep_primary": "2",
+                "dep_cname": "公共衛生研究所",
+                "dep_ename": "Institute of Public Health",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130216": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130216",
+                "cos_code": "MDPH30071",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "經濟分析",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "蒲正筠、周穎政",
+                "cos_time": "F12-YS221[YM]",
+                "memo": "政法組碩士班必修，開放隨班附讀",
+                "cos_ename": "Economic Analysis",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "104",
+                "dep_primary": "2",
+                "dep_cname": "公共衛生研究所",
+                "dep_ename": "Institute of Public Health",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130217": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130217",
+                "cos_code": "MDPH30102",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "健康政策計量分析",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "蒲正筠、梁立霖",
+                "cos_time": "F34-YS221[YM]",
+                "memo": "",
+                "cos_ename": "Applied econometrics for health policy",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "104",
+                "dep_primary": "2",
+                "dep_cname": "公共衛生研究所",
+                "dep_ename": "Institute of Public Health",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130218": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130218",
+                "cos_code": "MDPH30009",
+                "num_limit": "15",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "健康照護 、 倫理與政治",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "林雅萍",
+                "cos_time": "F56-YS103[YM]",
+                "memo": "",
+                "cos_ename": "Healthcare, Ethics and Politics",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "104",
+                "dep_primary": "2",
+                "dep_cname": "公共衛生研究所",
+                "dep_ename": "Institute of Public Health",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130219": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130219",
+                "cos_code": "MDPH30017",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "公共衛生概論",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "陳娟瑜、楊振昌、林明薇、黃心苑、黃嵩立、陳美蓮、周穎政、林逸芬、喬芷、紀凱獻、蒲正筠、楊秀儀、雷文玫、陳信任、莊宜芳、潘文驥",
+                "cos_time": "Tn-YS221[YM]",
+                "memo": "",
+                "cos_ename": "Introduction to Public Health ",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "104",
+                "dep_primary": "2",
+                "dep_cname": "公共衛生研究所",
+                "dep_ename": "Institute of Public Health",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130220": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130220",
+                "cos_code": "MDPH30092",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "遺傳流行病學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "林明薇、蔡世峯、潘文涵、陳建勳、蔡慧如",
+                "cos_time": "T567-YS221[YM]",
+                "memo": "開放隨班附讀",
+                "cos_ename": "Genetic Epidemiology",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "104",
+                "dep_primary": "2",
+                "dep_cname": "公共衛生研究所",
+                "dep_ename": "Institute of Public Health",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130221": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130221",
+                "cos_code": "MDPH30111",
+                "num_limit": "12",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "健康傳播",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "盧鴻毅",
+                "cos_time": "M56-YS107[YM]",
+                "memo": "",
+                "cos_ename": "Health Communication",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "104",
+                "dep_primary": "2",
+                "dep_cname": "公共衛生研究所",
+                "dep_ename": "Institute of Public Health",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130222": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130222",
+                "cos_code": "MDPH30112",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "健康與人權",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "吳全峰",
+                "cos_time": "M78-YS103[YM]",
+                "memo": "",
+                "cos_ename": "Health and Human Rights",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "104",
+                "dep_primary": "2",
+                "dep_cname": "公共衛生研究所",
+                "dep_ename": "Institute of Public Health",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130223": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130223",
+                "cos_code": "MDPH30080",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "貝氏資料分析原理入門",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "程毅豪",
+                "cos_time": "T34-YS107[YM]",
+                "memo": "1~9週上課，上課請自備電腦。",
+                "cos_ename": "Introduction to Bayesian Data Analysis",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "104",
+                "dep_primary": "2",
+                "dep_cname": "公共衛生研究所",
+                "dep_ename": "Institute of Public Health",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130224": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130224",
+                "cos_code": "MDPH30024",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "心理衛生流行病學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳娟瑜",
+                "cos_time": "W78-YS103[YM]",
+                "memo": "需滿6人才開課。",
+                "cos_ename": "Mental Health Epidemiology",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "104",
+                "dep_primary": "2",
+                "dep_cname": "公共衛生研究所",
+                "dep_ename": "Institute of Public Health",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130225": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130225",
+                "cos_code": "MDPH30083",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "身心障礙者權利公約專題討論",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "黃嵩立",
+                "cos_time": "R34-YS103[YM]",
+                "memo": "",
+                "cos_ename": "Seminar on the Convention on the Rights of Persons with Disabilities",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "104",
+                "dep_primary": "2",
+                "dep_cname": "公共衛生研究所",
+                "dep_ename": "Institute of Public Health",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130511": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130511",
+                "cos_code": "MDHH30089",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "醫療照護研究法",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "黃心苑",
+                "cos_time": "W56-YN511[YM]",
+                "memo": "研究法必選修之一，限公衛所、醫管所選修。",
+                "cos_ename": "Health Services Research & Practice",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "104",
+                "dep_primary": "2",
+                "dep_cname": "公共衛生研究所",
+                "dep_ename": "Institute of Public Health",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_130703": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130703",
+                "cos_code": "MDHW30019",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "社會科學與行為原理",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "喬芷、藍祚運、陳信任、林文旭、陳翎",
+                "cos_time": "W34-YN613[YM]",
+                "memo": "",
+                "cos_ename": "Social science & Behavioral Science",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "104",
+                "dep_primary": "2",
+                "dep_cname": "公共衛生研究所",
+                "dep_ename": "Institute of Public Health",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_131214": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131214",
+                "cos_code": "MDIH30034",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "醫療照護研究方法",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "黃心苑、陳娟瑜",
+                "cos_time": "R234-YS405[YM]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Health Services Research Methods",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "104",
+                "dep_primary": "2",
+                "dep_cname": "公共衛生研究所",
+                "dep_ename": "Institute of Public Health",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_131218": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131218",
+                "cos_code": "MDIH30028",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "社會正義與人權",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "黃嵩立",
+                "cos_time": "F34-YS405[YM]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Social Justice and Human Rights",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "104",
+                "dep_primary": "2",
+                "dep_cname": "公共衛生研究所",
+                "dep_ename": "Institute of Public Health",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_131220": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131220",
+                "cos_code": "MDIH30038",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "營養流行病學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳信任",
+                "cos_time": "F56-YS405[YM]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Nutritional Epidemiology",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "104",
+                "dep_primary": "2",
+                "dep_cname": "公共衛生研究所",
+                "dep_ename": "Institute of Public Health",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132023": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132023",
+                "cos_code": "PSPM30029",
+                "num_limit": "40",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "藥物流行病學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "東雅惠、王孟廷、許家禎、周千瀅、黃彥銘、黃莉茵、黃薇伊、謝斯婷",
+                "cos_time": "T56-YL405[YM]",
+                "memo": "限乙丙組同學修課，丙組同學為必修\n",
+                "cos_ename": "Pharmacoepidemiology",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "104",
+                "dep_primary": "2",
+                "dep_cname": "公共衛生研究所",
+                "dep_ename": "Institute of Public Health",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_133202": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "133202",
+                "cos_code": "SHTS30004",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "境況分析",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "陳嘉新",
+                "cos_time": "T34n-YX207[YM]",
+                "memo": "每次上課3小時，共6週。",
+                "cos_ename": "Situational Analysis: Grounded Theory After the Interpretive Turn",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "104",
+                "dep_primary": "2",
+                "dep_cname": "公共衛生研究所",
+                "dep_ename": "Institute of Public Health",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_133203": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "133203",
+                "cos_code": "SHTS30027",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "當代醫療的社會研究",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "郭文華",
+                "cos_time": "T789-YX207[YM]",
+                "memo": "實際上課時間會在第一次上課時，由師生共同決定。",
+                "cos_ename": "Medicine in Society: a Critical Introduction",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "104",
+                "dep_primary": "2",
+                "dep_cname": "公共衛生研究所",
+                "dep_ename": "Institute of Public Health",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            }
+        },
+        "costype": {
+            "1121_130200": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130201": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130202": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130203": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130204": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130205": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130206": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130207": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130208": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130211": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130213": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130214": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130215": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130216": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130217": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130218": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130219": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130220": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130221": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130222": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130223": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130224": {
+                "跨校區課程_跨校區課程": {
+                    "course_category_cname": "跨校區課程_跨校區課程",
+                    "course_category_ename": "Cross-Campus Course_Cross-Campus Course",
+                    "course_category_type": "57",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130225": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130511": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_130703": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131214": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131218": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131220": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132023": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_133202": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_133203": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_140200": {
+                "遠距課程_遠距": {
+                    "course_category_cname": "遠距課程_遠距",
+                    "course_category_ename": "Distance  Learning Courses_DL",
+                    "course_category_type": "4",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_140201": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_140202": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_140203": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_140204": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_130200": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130201": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130202": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130203": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130204": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130205": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130206": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130207": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130208": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130211": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130213": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130214": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130215": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130216": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130217": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130218": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130219": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130220": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130221": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130222": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130223": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130224": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130225": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130511": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_130703": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131214": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131218": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131220": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132023": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_133202": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_133203": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_140200": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_140201": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_140202": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_140203": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_140204": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_130200": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130201": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130202": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130203": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130204": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130205": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130206": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130207": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130208": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130211": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130213": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130214": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130215": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130216": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130217": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130218": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130219": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130220": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130221": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130222": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130223": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130224": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130225": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130511": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_130703": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131214": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_131218": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_131220": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_132023": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_133202": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_133203": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_140200": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_140201": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_140202": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_140203": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_140204": {
+                "授課語言代碼": "zh-tw"
+            }
+        },
+        "1": {
+            "1121_140200": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "140200",
+                "cos_code": "MDPH30086",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "進階流行病學實證討論",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "莊宜芳、林明薇、陳娟瑜、蒲正筠、陳信任、東雅惠、劉家軒",
+                "cos_time": "R2-",
+                "memo": "本門課程為遠距授課。",
+                "cos_ename": "Advanced Seminars in Epidemiology",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "104",
+                "dep_primary": "1",
+                "dep_cname": "公共衛生研究所",
+                "dep_ename": "Institute of Public Health",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_140201": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "140201",
+                "cos_code": "MDPH30040",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "流行病學實證討論(博)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳信任、楊振昌、林明薇、黃心苑、周穎政、陳娟瑜、莊宜芳、潘文驥、東雅惠、劉嘉仁、劉家軒",
+                "cos_time": "Rn5-YN511[YM]",
+                "memo": "",
+                "cos_ename": "Seminars in Epidemiology (PhD)",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "104",
+                "dep_primary": "1",
+                "dep_cname": "公共衛生研究所",
+                "dep_ename": "Institute of Public Health",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_140202": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "140202",
+                "cos_code": "MDPH30048",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生物統計與資料科學實證討論(博)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "林明薇、林逸芬、郭炤裕、陳瓊梅",
+                "cos_time": "R56-YN511[YM]",
+                "memo": "限主修生物統計領域學生選修",
+                "cos_ename": "Seminars in Biostatistics and Data Science (PhD)",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "104",
+                "dep_primary": "1",
+                "dep_cname": "公共衛生研究所",
+                "dep_ename": "Institute of Public Health",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_140203": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "140203",
+                "cos_code": "MDPH30002",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "健康政法實證討論(博)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "鄧宗業、郭文華、楊振昌、黃心苑、黃嵩立、周穎政、簡莉盈、陳娟瑜、蒲正筠、梁立霖、黃宣穎、楊秀儀、雷文玫、林雅萍",
+                "cos_time": "Rn5-",
+                "memo": "政法組博士班必修",
+                "cos_ename": "Seminars in Health Policy and Law (PhD)",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "104",
+                "dep_primary": "1",
+                "dep_cname": "公共衛生研究所",
+                "dep_ename": "Institute of Public Health",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_140204": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "140204",
+                "cos_code": "MDPH30033",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "流行病學教學實務",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "https://sites.google.com/site/taiwanwenchipan/about-me",
+                "teacher": "潘文驥、陳信任、莊宜芳",
+                "cos_time": "M12-",
+                "memo": "此為流病祖博士班助教實習課程",
+                "cos_ename": "Teaching Assistants’ Training and Practice",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "104",
+                "dep_primary": "1",
+                "dep_cname": "公共衛生研究所",
+                "dep_ename": "Institute of Public Health",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            }
+        }
+    }
+}

@@ -1,0 +1,2613 @@
+{
+    "1E5783D1-E28B-492A-8B08-E588F79635A9": {
+        "dep_id": "1E5783D1-E28B-492A-8B08-E588F79635A9",
+        "dep_cname": "人工智慧跨域學程-管理組",
+        "dep_ename": "Artificial Intelligence-Management",
+        "1": {
+            "1121_510000": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "510000",
+                "cos_code": "EEAE00004",
+                "num_limit": "110",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "統計學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "彭南夫",
+                "cos_time": "M56R2-EE105[GF]",
+                "memo": "電機院級(學) (院級課程)基本素養-量性推理/通識校基本/通識核心/通識跨院/核心通識-社會與經濟。 1.電機學院大三、大四優先 2.電機學院學生可列為跨院基本素養通識課程。應數.傳科系及管理學院不同意所屬學生採計通識學分。",
+                "cos_ename": "Statistics",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_510001": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "510001",
+                "cos_code": "EEAE00004",
+                "num_limit": "78",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "統計學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://www.stat.nctu.edu.tw/subhtml/source/teachers/cchen.htm",
+                "teacher": "陳志榮",
+                "cos_time": "M56R2-MB506[GF]",
+                "memo": "電機院級(學) (院級課程)基本素養-量性推理/通識校基本/通識核心/通識跨院/核心通識-社會與經濟。 1.電機學院大三、大四優先 2.電機學院學生可列為跨院基本素養通識課程。應數.傳科系及管理學院不同意所屬學生採計通識學分。",
+                "cos_ename": "Statistics",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_515102": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515102",
+                "cos_code": "EEEC10012",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "計算機概論與程式設計",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://cialab.web.nycu.edu.tw",
+                "teacher": "溫宏斌",
+                "cos_time": "Mn56-ED203[GF]",
+                "memo": "電機系大一新生優先。開放電機系A~F班、醫師工程師組同學自由選課。實驗時間為週一abc -ED713。 資工.電物.應數.機械.「108學年起入學奈米學士班」.生科系及管理學院不同意所屬學生採計通識學分。以電機系學生優先，請其他系所學生於開學後再開放加選。",
+                "cos_ename": "Introduction to Computers and Programming",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_515103": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515103",
+                "cos_code": "EEEC10012",
+                "num_limit": "60",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "計算機概論與程式設計",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://vdalab.web.nctu.edu.tw/advisor/",
+                "teacher": "陳宏明",
+                "cos_time": "M56R2-ED220[GF]",
+                "memo": "電機系大一新生優先。開放電機系A~F班、醫師工程師組同學自由選課。實驗時間為週二abc(地點：PC2、PC3)。資工.電物.應數.機械.「108學年起入學奈米學士班」.生科系及管理學院不同意所屬學生採計通識學分。以電機系學生優先，請其他系所學生於開學後再開放加選。",
+                "cos_ename": "Introduction to Computers and Programming",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_515106": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515106",
+                "cos_code": "EEEC10012",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "計算機概論與程式設計",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "王傑智",
+                "cos_time": "M56R2-EE635[GF]",
+                "memo": "電機系大一新生優先。開放電機系A~F班、醫師工程師組同學自由選課。上課教室:工程五館635室。實驗時間為週一abc(EE635)。資工.電物.應數.機械.「108學年起入學奈米學士班」.生科系及管理學院不同意所屬學生採計通識學分。以電機系學生優先，請其他系所學生於開學後再開放加選。",
+                "cos_ename": "Introduction to Computers and Programming",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_515107": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515107",
+                "cos_code": "EEEC10012",
+                "num_limit": "85",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "計算機概論與程式設計",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://mseda.ee.nctu.edu.tw/jimmyliu/",
+                "teacher": "劉建男",
+                "cos_time": "M56R2-ED116[GF]",
+                "memo": "電機系大一新生優先。開放電機系A~F班、醫師工程師組同學自由選課。實驗時間為週一abc(地點：PC2、PC3)。資工.電物.應數.機械.「108學年起入學奈米學士班」.生科系及管理學院不同意所屬學生採計通識學分。以電機系學生優先，請其他系所學生於開學後再開放加選。",
+                "cos_ename": "Introduction to Computers and Programming",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_515108": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515108",
+                "cos_code": "EEEC10012",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "計算機概論與程式設計",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://rtes.cn.nctu.edu.tw",
+                "teacher": "黃育綸",
+                "cos_time": "M56R2-ED713[GF]",
+                "memo": "電機系大一新生優先。開放電機系A~F班、醫師工程師組同學自由選課。課程教室工四館ED713、實作於週二abc (ED713)。資工.電物.應數.機械.「108學年起入學奈米學士班」.生科系及管理學院不同意所屬學生採計通識學分。以電機系學生優先，請其他系所學生於開學後再開放加選。",
+                "cos_ename": "Introduction to Computers and Programming",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_515165": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515165",
+                "cos_code": "EEEC10006",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "機率",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://wang.web.nycu.edu.tw",
+                "teacher": "王蒞君",
+                "cos_time": "Tn56F2-ED103[GF]",
+                "memo": "課程時間為週二56節+週五第2節，週五第2節為助教時間與考試安排。請同學於每週二12:30提前至教室(工四館103)開始上課。",
+                "cos_ename": "Probability",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_515401": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515401",
+                "cos_code": "EEDP10018",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "https://github.com/bruce88617/nycudopcs",
+                "cos_cname": "計算機概論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "李杰恩",
+                "cos_time": "M56R2-CY203[GF]",
+                "memo": "",
+                "cos_ename": "Introduction to Computer and Computer Science",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_515500": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515500",
+                "cos_code": "CSCS10015",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "計算機概論與程式設計",
+                "cos_credit": "3.00",
+                "cos_hours": "5.00",
+                "TURL": "",
+                "teacher": "王豐堅",
+                "cos_time": "M56R2-EC015[GF],Rabc-EC315[GF],Rabc-EC316[GF],Rabc-EC324[GF]",
+                "memo": "一年級必修僅開學才開放選課；外系生請於開學上網加選；資工系與電資學士班學生優先選課；Rabc上課教室:EC315、EC316 ；主開1年級；本系生優先權順序：1年級，4年級，3年級，2年級",
+                "cos_ename": "Introduction to Computers and Programming",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_515501": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515501",
+                "cos_code": "CSCS10015",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "計算機概論與程式設計",
+                "cos_credit": "3.00",
+                "cos_hours": "5.00",
+                "TURL": "http://www.cs.nctu.edu.tw/~tfchen",
+                "teacher": "陳添福",
+                "cos_time": "M56R2-EC122[GF],Mabc-EC315[GF],Mabc-EC316[GF],Mabc-EC324[GF]",
+                "memo": "一年級必修僅開學才開放選課；外系生請於開學上網加選；資工系與電資學士班學生優先選課；Mabc上課教室:EC315、EC316 ；主開1年級；本系生優先權順序：1年級，4年級，3年級，2年級",
+                "cos_ename": "Introduction to Computers and Programming",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_515502": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515502",
+                "cos_code": "CSCS10015",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "計算機概論與程式設計",
+                "cos_credit": "3.00",
+                "cos_hours": "5.00",
+                "TURL": "http://acm.cs.nctu.edu.tw/",
+                "teacher": "黃敬群",
+                "cos_time": "M56R2-EC114[GF],Tabc-EC315[GF],Tabc-EC316[GF],Tabc-EC324[GF]",
+                "memo": "一年級必修僅開學才開放選課；外系生請於開學上網加選；資工系與電資學士班學生優先選課；Tabc上課教室:EC315、EC316 ；主開1年級[English Medium Course]，本系生優先權順序：1年級，4年級，3年級，2年級。實地線上混合教學課程 (陽明校區：線上，請向教師索取線上連結)",
+                "cos_ename": "Introduction to Computers and Programming",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_515503": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515503",
+                "cos_code": "CSCS10011",
+                "num_limit": "140",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "線性代數",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://people.cs.nctu.edu.tw/~yi/",
+                "teacher": "易志偉",
+                "cos_time": "W34-EDB27[GF]",
+                "memo": "一年級必修僅開學才開放選課；外系生請於開學上網加選；資工系與電資學士班學生優先選課；；主開1年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously];本系生優先權順序：1年級，4年級，3年級，2年級",
+                "cos_ename": "Linear Algebra",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_515504": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515504",
+                "cos_code": "CSCS10011",
+                "num_limit": "70",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "線性代數",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://sites.google.com/view/wei-cecnl",
+                "teacher": "魏群樹",
+                "cos_time": "W34-EC115[GF]",
+                "memo": "一年級必修僅開學才開放選課；外系生請於開學上網加選；資工系與電資學士班學生優先選課；；主開1年級；[另外1小時(第3節)以非同步上課方式; the third period of class will be held asynchronously][English Medium Course];本系生優先權順序：1年級，4年級，3年級，2年級;開放隨班附讀",
+                "cos_ename": "Linear Algebra",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_515505": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515505",
+                "cos_code": "CSCS10009",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "演算法概論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "吳凱強",
+                "cos_time": "T34R7-EC114[GF]",
+                "memo": "[English Medium Course]外系生請於開學上網加選；資訊共同；需修過『資料結構與物件導向程式設計』才可修『演算法概論』；Pass the “Data Structures and Object-oriented Programming” before taking “Intro. to Algorithms”；主開2年級；本系生優先權順序：2年級，4年級，3年級，1年級。實地線上混合教學課程 (陽明校區：線上，請向教師索取線上連結)",
+                "cos_ename": "Introduction to Algorithms",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_515506": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515506",
+                "cos_code": "CSCS10009",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "演算法概論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "施仁忠",
+                "cos_time": "T34R7-EC122[GF]",
+                "memo": "外系生請於開學上網加選；資訊共同；需修過『資料結構與物件導向程式設計』才可修『演算法概論』；Pass the “Data Structures and Object-oriented Programming” before taking “Intro. to Algorithms”；主開2年級；本系生優先權順序：2年級，4年級，3年級，1年級",
+                "cos_ename": "Introduction to Algorithms",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_515507": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515507",
+                "cos_code": "CSCS10009",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "演算法概論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://www.cs.nctu.edu.tw/~sctsai",
+                "teacher": "蔡錫鈞",
+                "cos_time": "T34R7-ED117[GF]",
+                "memo": "外系生請於開學上網加選；資訊共同；需修過『資料結構與物件導向程式設計』才可修『演算法概論』；Pass the “Data Structures and Object-oriented Programming” before taking “Intro. to Algorithms”；主開2年級；本系生優先權順序：2年級，4年級，3年級，1年級",
+                "cos_ename": "Introduction to Algorithms",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_515511": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515511",
+                "cos_code": "CSCS10007",
+                "num_limit": "90",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "機率",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://www.csie.nctu.edu.tw/~mfchang",
+                "teacher": "張明峰",
+                "cos_time": "W34F7-EE105[GF]",
+                "memo": "外系生請於開學上網加選；資訊共同；資訊工程組必修；網路與多媒體工程組必修；資工系與電資學士班學生優先選課；主開2年級；本系生優先權順序：2年級，4年級，3年級，1年級\n",
+                "cos_ename": "Probability ",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_515512": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "515512",
+                "cos_code": "CSCS10007",
+                "num_limit": "90",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "機率",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "謝秉均",
+                "cos_time": "W34F7-ED117[GF]",
+                "memo": "外系生請於開學上網加選；資訊共同；資訊工程組必修；網路與多媒體工程組必修；資工系與電資學士班學生優先選課；主開2年級[English Medium Course]；本系生優先權順序：2年級，4年級，3年級，1年級",
+                "cos_ename": "Probability ",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_516128": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "516128",
+                "cos_code": "ENME10024",
+                "num_limit": "53",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "計算機概論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://iottalk.vip/6",
+                "teacher": "蔡文能",
+                "cos_time": "R34n-",
+                "memo": "EE527電腦教室。一B  專業選修/非核心選修",
+                "cos_ename": "Introduction to Computer Science",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_516130": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "516130",
+                "cos_code": "ENME10024",
+                "num_limit": "53",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "計算機概論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "待聘",
+                "cos_time": "Wabc-",
+                "memo": "EE527電腦教室。一A  專業選修/非核心選修",
+                "cos_ename": "Introduction to Computer Science",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_516215": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "516215",
+                "cos_code": "ENCV10023",
+                "num_limit": "50",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "計算機概論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "洪士林",
+                "cos_time": "M567-EB415[GF]",
+                "memo": "AB班",
+                "cos_ename": "Introduction to Computer Science",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_516309": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "516309",
+                "cos_code": "ENMS10033",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "計算機概論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "鄒年棣",
+                "cos_time": "W5-,R5-EF201[GF]",
+                "memo": "1.T5網路授課 2.上課教室： W5電腦教室4、R5 EF201教室",
+                "cos_ename": "Introduction to Computer Science",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "49",
+                "depType": "Q"
+            },
+            "1121_517005": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "517005",
+                "cos_code": "MGCM10017",
+                "num_limit": "70",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "計算機概論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "吳浩庠",
+                "cos_time": "T567-A316[GF]",
+                "memo": "管院、雙主修、跨領域學程學生請於9月4日上網選課；非管院學生請於9月11日上網加選。管院大學部共同必修課程；管院學生優先選課；上限70人，各班老師不再額外人工加簽，若超過人數上限請填寫線上表單登記(9/4提供)，登記時間至開學上課第一週週三(9/13)下午四點截止，於當週四分發，逾時不候，每班超過人數上限5人之分發以管院大學部學生優先（非管院學生具雙主修、輔系、跨域學程資格者，請提供相關證明）；若有演習課則安排於9a。",
+                "cos_ename": "Introduction to Computer Science",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_517006": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "517006",
+                "cos_code": "MGCM10017",
+                "num_limit": "70",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "計算機概論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://www.cc.nctu.edu.tw/~cclin321/",
+                "teacher": "林春成",
+                "cos_time": "T567-MB520[GF]",
+                "memo": "管院、雙主修、跨領域學程學生請於9月4日上網選課；非管院學生請於9月11日上網加選。管院大學部共同必修課程；管院學生優先選課；上限70人，各班老師不再額外人工加簽，若超過人數上限請填寫線上表單登記(9/4提供)，登記時間至開學上課第一週週三(9/13)下午四點截止，於當週四分發，逾時不候，每班超過人數上限5人之分發以管院大學部學生優先（非管院學生具雙主修、輔系、跨域學程資格者，請提供相關證明）；若有演習課則安排於9a。",
+                "cos_ename": "Introduction to Computer Science",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_517007": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "517007",
+                "cos_code": "MGCM10017",
+                "num_limit": "70",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "計算機概論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "游家牧",
+                "cos_time": "T567-AB101[GF]",
+                "memo": "管院、雙主修、跨領域學程學生請於9月4日上網選課；非管院學生請於9月11日上網加選。管院大學部共同必修課程；管院學生優先選課；上限70人，各班老師不再額外人工加簽，若超過人數上限請填寫線上表單登記(9/4提供)，登記時間至開學上課第一週週三(9/13)下午四點截止，於當週四分發，逾時不候，每班超過人數上限5人之分發以管院大學部學生優先（非管院學生具雙主修、輔系、跨域學程資格者，請提供相關證明）；若有演習課則安排於9a。",
+                "cos_ename": "Introduction to Computer Science",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_517008": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "517008",
+                "cos_code": "MGCM10008",
+                "num_limit": "55",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "程式設計",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "黃思皓",
+                "cos_time": "R567-M-b01[GF]",
+                "memo": "管院、雙主修、跨領域學程學生請於9月4日上網選課；非管院學生請於9月11日上網加選。管院學生優先選課；資財系必修；上限55人，得請授課教師簽准後可放寬至60人；若有演習課安排於9a。",
+                "cos_ename": "Programming",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_517009": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "517009",
+                "cos_code": "MGCM10011",
+                "num_limit": "90",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "統計學(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "巫佳煌",
+                "cos_time": "M234-A316[GF]",
+                "memo": "非管院學生請於9月4日上網加選。管院學生優先選課；上限90人，得請授課教師簽准後可放寬至95人；若有演習課則安排於9a；管理基礎學分學程課程。",
+                "cos_ename": "Statistics (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "73",
+                "depType": "Q"
+            },
+            "1121_517010": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "517010",
+                "cos_code": "MGCM10011",
+                "num_limit": "90",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "統計學(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "彭文理",
+                "cos_time": "M234-MB520[GF]",
+                "memo": "非管院學生請於9月4日上網加選。管院學生優先選課；上限90人，得請授課教師簽准後可放寬至95人；若有演習課則安排於9a；管理基礎學分學程課程。",
+                "cos_ename": "Statistics (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "71",
+                "depType": "Q"
+            },
+            "1121_517011": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "517011",
+                "cos_code": "MGCM10011",
+                "num_limit": "90",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "統計學(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "林陳佑",
+                "cos_time": "M234-AB101[GF]",
+                "memo": "非管院學生請於9月5日上網加選。管院學生優先選課；上限90人，得請授課教師簽准後可放寬至95人；若有演習課則安排於9a；管理基礎學分學程課程。",
+                "cos_ename": "Statistics (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "73",
+                "depType": "Q"
+            },
+            "1121_517202": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "517202",
+                "cos_code": "MGTM10012",
+                "num_limit": "55",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "巨集程式與資料分析應用",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://www.tlm.nctu.edu.tw/zh/faculty/%E9%BB%83%E6%98%8E%E5%B1%85/",
+                "teacher": "黃明居、黃家耀、陳彥佑",
+                "cos_time": "R234-MB210[GF]",
+                "memo": "",
+                "cos_ename": "Macro programming and data analytics",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "53",
+                "depType": "Q"
+            },
+            "1121_517215": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "517215",
+                "cos_code": "MGTM10004",
+                "num_limit": "50",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "智慧型運輸系統概論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "王晉元",
+                "cos_time": "R234-A901[GF]",
+                "memo": "運管系同學優先選課",
+                "cos_ename": "Introduction of ITS",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_517502": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "517502",
+                "cos_code": "MGCM10010",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "管理資訊系統",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "陳耀宗",
+                "cos_time": "T234-M-b01[GF]",
+                "memo": "管院管理基礎課程；主開大二資財系；上限60人，資財系大二、管科系大三必修；限資財系大二以上、其他學系大三以上同學選修。管院學生優先選課；輔開管理學院、管科系、運管系、工管系；工管系學生需自下列五門課(財務管理、行銷學、人力資源管理、管理資訊系統、物流運籌管理)任選一門為必修。運管系學生需自下列六門課(財務管理、行銷學、人力資源管理、管理資訊系統、資料庫管理、生產與作業管理)任選二門為必修。非管院學生請於開學加退選階段上網選課。",
+                "cos_ename": "Management Information System",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "39",
+                "depType": "Q"
+            },
+            "1121_517503": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "517503",
+                "cos_code": "MGCM10010",
+                "num_limit": "80",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "管理資訊系統",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "向倩儀",
+                "cos_time": "T234-M205[GF]",
+                "memo": "管院管理基礎課程；主開大二資財系；上限80人，資財系大二、管科系大三必修；限資財系大二以上、其他學系大三以上同學選修。管院學生優先選課；輔開管理學院、管科系、運管系、工管系；工管系學生需自下列五門課(財務管理、行銷學、人力資源管理、管理資訊系統、物流運籌管理)任選一門為必修。運管系學生需自下列六門課(財務管理、行銷學、人力資源管理、管理資訊系統、資料庫管理、生產與作業管理)任選二門為必修。資財系限必修本門課程。",
+                "cos_ename": "Management Information System",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_517506": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "517506",
+                "cos_code": "MGIF10005",
+                "num_limit": "35",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "演算法",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "游家牧",
+                "cos_time": "M567-M102[GF]",
+                "memo": "大二資管組必修；資財系優先選課；外系學生請於開學加退選階段上網選課。",
+                "cos_ename": "Computer Algorithms",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "39",
+                "depType": "Q"
+            },
+            "1121_517508": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "517508",
+                "cos_code": "MGIF10009",
+                "num_limit": "80",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "金融科技概論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "謝文良",
+                "cos_time": "R567-M-b10[GF]",
+                "memo": "大二必修，資財系優先選課；外系學生請於開學加退選階段上網選課。已修過資財導論同學不得選修。",
+                "cos_ename": "Introduction to Financial Technology",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "39",
+                "depType": "Q"
+            },
+            "1121_534006": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "534006",
+                "cos_code": "HSIE30073",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "應用多變量分析與機器學習",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "吳俊育",
+                "cos_time": "W34n-HA220[GF]",
+                "memo": "遠距教學課程",
+                "cos_ename": "Applied Multivariate Analysis and Machine Learning",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_535369": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535369",
+                "cos_code": "EECM30064",
+                "num_limit": "100",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "深度學習",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://www.eed.nctu.edu.tw/people/bio.php?PID=10805",
+                "teacher": "李佳翰",
+                "cos_time": "T567-ED219[GF]",
+                "memo": "[English Medium Course]、【AI學程專業必修】、[智能所甲丙組核心]",
+                "cos_ename": "Deep Learning",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_535513": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "535513",
+                "cos_code": "CSIC30072",
+                "num_limit": "120",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "演算法",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "荊宇泰",
+                "cos_time": "T7F34-ED117[GF]",
+                "memo": "[English Medium Course]請依各所入學年度之修業要點選課；博士班資格考考核科目；資訊學院優先(不開放在職專班網路選課)；本系生優先權順序：碩士班+博士班(資訊學院)，4年級，3年級，2&1年級",
+                "cos_ename": "Algorithms",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_537206": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537206",
+                "cos_code": "MGTM30019",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "智慧型運輸系統",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "黃家耀",
+                "cos_time": "T234-A905[GF]",
+                "memo": "新竹校區開課[English Medium Course]",
+                "cos_ename": "Intelligent Transportation Systems",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_537213": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537213",
+                "cos_code": "MGTM30009",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "多變量分析與應用",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "邱裕鈞",
+                "cos_time": "F234-TB429[BM]",
+                "memo": "台北校區開課",
+                "cos_ename": "Multivariate Analysis and Application",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_537214": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537214",
+                "cos_code": "MGTM30014",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "巨量資料分析",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "陳穆臻",
+                "cos_time": "W678-TB429[BM]",
+                "memo": "台北校區主開",
+                "cos_ename": "Big Data Analytics",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_537215": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537215",
+                "cos_code": "MGTM30026",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "網路模式分析",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "盧宗成",
+                "cos_time": "R567-TB429[BM]",
+                "memo": "台北校區開課",
+                "cos_ename": "Network Modeling Analysis",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_537217": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537217",
+                "cos_code": "MGTM30062",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "車流理論與交通統計",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "邱裕鈞",
+                "cos_time": "T567-TB429[BM]",
+                "memo": "台北校區開課",
+                "cos_ename": "Traffic Flow Theory and  Traffic Statistics",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_537402": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537402",
+                "cos_code": "MGEM30078",
+                "num_limit": "40",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "深度學習",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "劉建良",
+                "cos_time": "T234-MB415[GF]",
+                "memo": "限40人，工工系學生優先，不可旁聽，開放社會人士選讀",
+                "cos_ename": "Deep Learning with PyTorch",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_537403": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537403",
+                "cos_code": "MGEM30058",
+                "num_limit": "30",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "資料採礦",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "王志軒",
+                "cos_time": "T567-MB415[GF]",
+                "memo": "博士班專業核心課程。英文授課，限30人，不開放社會人士選讀[English Medium Course]",
+                "cos_ename": "Data Mining",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_537404": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537404",
+                "cos_code": "MGEM30053",
+                "num_limit": "30",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "萬用啟發式演算法",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://www.cc.nctu.edu.tw/~cclin321/",
+                "teacher": "林春成",
+                "cos_time": "T89a-MB506[GF]",
+                "memo": "博士班專業核心課程。限30人，不可旁聽，不開放社會人士選讀",
+                "cos_ename": "Metaheuristic Algorithms",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_537603": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537603",
+                "cos_code": "MGIM30035",
+                "num_limit": "50",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "資訊安全",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "古政元",
+                "cos_time": "W34n-MB312[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Information Security",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_537604": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537604",
+                "cos_code": "MGIM30013",
+                "num_limit": "40",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "數位內容與機器學習",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "蔡銘箴",
+                "cos_time": "M34n-MB312[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Digital Content and Machine Learning",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_537606": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537606",
+                "cos_code": "MGIM30019",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "演算式決策與學習",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "陳柏安",
+                "cos_time": "T567-MB311[GF]",
+                "memo": "開放大三、大四選課[English Medium Course]",
+                "cos_ename": "Algorithmic Decision & Learning",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_537804": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537804",
+                "cos_code": "MGMT30003",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "人工智慧與高科技之商業運用",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "李昕潔",
+                "cos_time": "W234-A701[GF]",
+                "memo": "",
+                "cos_ename": "Artificial Intelligence and Its Application to High-Tech Business",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QLL",
+                "dep_primary": "1",
+                "dep_cname": "人工智慧跨域學程-管理組",
+                "dep_ename": "Artificial Intelligence-Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            }
+        },
+        "costype": {
+            "1121_510000": {
+                "基本素養-量性推理_基本素養-量性推理": {
+                    "course_category_cname": "基本素養-量性推理_基本素養-量性推理",
+                    "course_category_ename": "Foundation-quantitative_FCQR",
+                    "course_category_type": "45",
+                    "GECIName": "電,資,工,跨",
+                    "GECIEngName": "ECE,CCS,COE,CI"
+                },
+                "通識校基本素養_通識校基本": {
+                    "course_category_cname": "通識校基本素養_通識校基本",
+                    "course_category_ename": "General Education Course: Literacy_GECL",
+                    "course_category_type": "15",
+                    "GECIName": "電,資,工,跨",
+                    "GECIEngName": "ECE,CCS,COE,CI"
+                },
+                "通識核心課程_通識核心": {
+                    "course_category_cname": "通識核心課程_通識核心",
+                    "course_category_ename": "General Education Course_GEC",
+                    "course_category_type": "17",
+                    "GECIName": "電,資,工,跨",
+                    "GECIEngName": "ECE,CCS,COE,CI"
+                },
+                "通識跨院基本素養_通識跨院": {
+                    "course_category_cname": "通識跨院基本素養_通識跨院",
+                    "course_category_ename": "General Education Course: Intercollegiate_GECI",
+                    "course_category_type": "16",
+                    "GECIName": "電,資,工,跨",
+                    "GECIEngName": "ECE,CCS,COE,CI"
+                }
+            },
+            "1121_510001": {
+                "基本素養-量性推理_基本素養-量性推理": {
+                    "course_category_cname": "基本素養-量性推理_基本素養-量性推理",
+                    "course_category_ename": "Foundation-quantitative_FCQR",
+                    "course_category_type": "45",
+                    "GECIName": "電,資,工,跨",
+                    "GECIEngName": "ECE,CCS,COE,CI"
+                },
+                "通識校基本素養_通識校基本": {
+                    "course_category_cname": "通識校基本素養_通識校基本",
+                    "course_category_ename": "General Education Course: Literacy_GECL",
+                    "course_category_type": "15",
+                    "GECIName": "電,資,工,跨",
+                    "GECIEngName": "ECE,CCS,COE,CI"
+                },
+                "通識核心課程_通識核心": {
+                    "course_category_cname": "通識核心課程_通識核心",
+                    "course_category_ename": "General Education Course_GEC",
+                    "course_category_type": "17",
+                    "GECIName": "電,資,工,跨",
+                    "GECIEngName": "ECE,CCS,COE,CI"
+                },
+                "通識跨院基本素養_通識跨院": {
+                    "course_category_cname": "通識跨院基本素養_通識跨院",
+                    "course_category_ename": "General Education Course: Intercollegiate_GECI",
+                    "course_category_type": "16",
+                    "GECIName": "電,資,工,跨",
+                    "GECIEngName": "ECE,CCS,COE,CI"
+                }
+            },
+            "1121_515102": {
+                "基本素養-量性推理_基本素養-量性推理": {
+                    "course_category_cname": "基本素養-量性推理_基本素養-量性推理",
+                    "course_category_ename": "Foundation-quantitative_FCQR",
+                    "course_category_type": "45",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                },
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                },
+                "通識校基本素養_通識校基本": {
+                    "course_category_cname": "通識校基本素養_通識校基本",
+                    "course_category_ename": "General Education Course: Literacy_GECL",
+                    "course_category_type": "15",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                },
+                "通識跨院基本素養_通識跨院": {
+                    "course_category_cname": "通識跨院基本素養_通識跨院",
+                    "course_category_ename": "General Education Course: Intercollegiate_GECI",
+                    "course_category_type": "16",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                }
+            },
+            "1121_515103": {
+                "基本素養-量性推理_基本素養-量性推理": {
+                    "course_category_cname": "基本素養-量性推理_基本素養-量性推理",
+                    "course_category_ename": "Foundation-quantitative_FCQR",
+                    "course_category_type": "45",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                },
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                },
+                "通識校基本素養_通識校基本": {
+                    "course_category_cname": "通識校基本素養_通識校基本",
+                    "course_category_ename": "General Education Course: Literacy_GECL",
+                    "course_category_type": "15",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                },
+                "通識跨院基本素養_通識跨院": {
+                    "course_category_cname": "通識跨院基本素養_通識跨院",
+                    "course_category_ename": "General Education Course: Intercollegiate_GECI",
+                    "course_category_type": "16",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                }
+            },
+            "1121_515106": {
+                "基本素養-量性推理_基本素養-量性推理": {
+                    "course_category_cname": "基本素養-量性推理_基本素養-量性推理",
+                    "course_category_ename": "Foundation-quantitative_FCQR",
+                    "course_category_type": "45",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                },
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                },
+                "通識校基本素養_通識校基本": {
+                    "course_category_cname": "通識校基本素養_通識校基本",
+                    "course_category_ename": "General Education Course: Literacy_GECL",
+                    "course_category_type": "15",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                },
+                "通識跨院基本素養_通識跨院": {
+                    "course_category_cname": "通識跨院基本素養_通識跨院",
+                    "course_category_ename": "General Education Course: Intercollegiate_GECI",
+                    "course_category_type": "16",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                }
+            },
+            "1121_515107": {
+                "基本素養-量性推理_基本素養-量性推理": {
+                    "course_category_cname": "基本素養-量性推理_基本素養-量性推理",
+                    "course_category_ename": "Foundation-quantitative_FCQR",
+                    "course_category_type": "45",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                },
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                },
+                "通識校基本素養_通識校基本": {
+                    "course_category_cname": "通識校基本素養_通識校基本",
+                    "course_category_ename": "General Education Course: Literacy_GECL",
+                    "course_category_type": "15",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                },
+                "通識跨院基本素養_通識跨院": {
+                    "course_category_cname": "通識跨院基本素養_通識跨院",
+                    "course_category_ename": "General Education Course: Intercollegiate_GECI",
+                    "course_category_type": "16",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                }
+            },
+            "1121_515108": {
+                "基本素養-量性推理_基本素養-量性推理": {
+                    "course_category_cname": "基本素養-量性推理_基本素養-量性推理",
+                    "course_category_ename": "Foundation-quantitative_FCQR",
+                    "course_category_type": "45",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                },
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                },
+                "通識校基本素養_通識校基本": {
+                    "course_category_cname": "通識校基本素養_通識校基本",
+                    "course_category_ename": "General Education Course: Literacy_GECL",
+                    "course_category_type": "15",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                },
+                "通識跨院基本素養_通識跨院": {
+                    "course_category_cname": "通識跨院基本素養_通識跨院",
+                    "course_category_ename": "General Education Course: Intercollegiate_GECI",
+                    "course_category_type": "16",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                }
+            },
+            "1121_515165": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515401": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515500": {
+                "基本素養-量性推理_基本素養-量性推理": {
+                    "course_category_cname": "基本素養-量性推理_基本素養-量性推理",
+                    "course_category_ename": "Foundation-quantitative_FCQR",
+                    "course_category_type": "45",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                },
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                },
+                "通識校基本素養_通識校基本": {
+                    "course_category_cname": "通識校基本素養_通識校基本",
+                    "course_category_ename": "General Education Course: Literacy_GECL",
+                    "course_category_type": "15",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                },
+                "通識跨院基本素養_通識跨院": {
+                    "course_category_cname": "通識跨院基本素養_通識跨院",
+                    "course_category_ename": "General Education Course: Intercollegiate_GECI",
+                    "course_category_type": "16",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                }
+            },
+            "1121_515501": {
+                "基本素養-量性推理_基本素養-量性推理": {
+                    "course_category_cname": "基本素養-量性推理_基本素養-量性推理",
+                    "course_category_ename": "Foundation-quantitative_FCQR",
+                    "course_category_type": "45",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                },
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                },
+                "通識校基本素養_通識校基本": {
+                    "course_category_cname": "通識校基本素養_通識校基本",
+                    "course_category_ename": "General Education Course: Literacy_GECL",
+                    "course_category_type": "15",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                },
+                "通識跨院基本素養_通識跨院": {
+                    "course_category_cname": "通識跨院基本素養_通識跨院",
+                    "course_category_ename": "General Education Course: Intercollegiate_GECI",
+                    "course_category_type": "16",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                }
+            },
+            "1121_515502": {
+                "基本素養-量性推理_基本素養-量性推理": {
+                    "course_category_cname": "基本素養-量性推理_基本素養-量性推理",
+                    "course_category_ename": "Foundation-quantitative_FCQR",
+                    "course_category_type": "45",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                },
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                },
+                "跨校區課程_跨校區課程": {
+                    "course_category_cname": "跨校區課程_跨校區課程",
+                    "course_category_ename": "Cross-Campus Course_Cross-Campus Course",
+                    "course_category_type": "57",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                },
+                "通識校基本素養_通識校基本": {
+                    "course_category_cname": "通識校基本素養_通識校基本",
+                    "course_category_ename": "General Education Course: Literacy_GECL",
+                    "course_category_type": "15",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                },
+                "通識跨院基本素養_通識跨院": {
+                    "course_category_cname": "通識跨院基本素養_通識跨院",
+                    "course_category_ename": "General Education Course: Intercollegiate_GECI",
+                    "course_category_type": "16",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                }
+            },
+            "1121_515503": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515504": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_515505": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "工,生,跨",
+                    "GECIEngName": "COE,CBT,CI"
+                },
+                "跨校區課程_跨校區課程": {
+                    "course_category_cname": "跨校區課程_跨校區課程",
+                    "course_category_ename": "Cross-Campus Course_Cross-Campus Course",
+                    "course_category_type": "57",
+                    "GECIName": "工,生,跨",
+                    "GECIEngName": "COE,CBT,CI"
+                },
+                "通識跨院基本素養_通識跨院": {
+                    "course_category_cname": "通識跨院基本素養_通識跨院",
+                    "course_category_ename": "General Education Course: Intercollegiate_GECI",
+                    "course_category_type": "16",
+                    "GECIName": "工,生,跨",
+                    "GECIEngName": "COE,CBT,CI"
+                }
+            },
+            "1121_515506": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "工,生,跨",
+                    "GECIEngName": "COE,CBT,CI"
+                },
+                "通識跨院基本素養_通識跨院": {
+                    "course_category_cname": "通識跨院基本素養_通識跨院",
+                    "course_category_ename": "General Education Course: Intercollegiate_GECI",
+                    "course_category_type": "16",
+                    "GECIName": "工,生,跨",
+                    "GECIEngName": "COE,CBT,CI"
+                }
+            },
+            "1121_515507": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "工,生,跨",
+                    "GECIEngName": "COE,CBT,CI"
+                },
+                "通識跨院基本素養_通識跨院": {
+                    "course_category_cname": "通識跨院基本素養_通識跨院",
+                    "course_category_ename": "General Education Course: Intercollegiate_GECI",
+                    "course_category_type": "16",
+                    "GECIName": "工,生,跨",
+                    "GECIEngName": "COE,CBT,CI"
+                }
+            },
+            "1121_515511": {
+                "通識跨院基本素養_通識跨院": {
+                    "course_category_cname": "通識跨院基本素養_通識跨院",
+                    "course_category_ename": "General Education Course: Intercollegiate_GECI",
+                    "course_category_type": "16",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                }
+            },
+            "1121_515512": {
+                "通識跨院基本素養_通識跨院": {
+                    "course_category_cname": "通識跨院基本素養_通識跨院",
+                    "course_category_ename": "General Education Course: Intercollegiate_GECI",
+                    "course_category_type": "16",
+                    "GECIName": "工,跨",
+                    "GECIEngName": "COE,CI"
+                }
+            },
+            "1121_516128": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_516130": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_516215": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_516309": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_517005": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_517006": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_517007": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_517008": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_517009": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_517010": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_517011": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_517202": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_517215": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_517502": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_517503": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_517506": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_517508": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_534006": {
+                "遠距課程_遠距": {
+                    "course_category_cname": "遠距課程_遠距",
+                    "course_category_ename": "Distance  Learning Courses_DL",
+                    "course_category_type": "4",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535369": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_535513": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537206": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537213": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537214": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537215": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537217": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537402": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537403": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537404": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537603": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537604": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537606": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537804": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_510000": {
+                "A503,A504,A505,Z102": {
+                    "brief_code": "A503,A504,A505,Z102",
+                    "brief": "核心-自然(106),跨院基本素養(106),校基本素養(106),基本素養-量性推理(110)"
+                }
+            },
+            "1121_510001": {
+                "A503,A504,A505,Z102": {
+                    "brief_code": "A503,A504,A505,Z102",
+                    "brief": "核心-自然(106),跨院基本素養(106),校基本素養(106),基本素養-量性推理(110)"
+                }
+            },
+            "1121_515102": {
+                "A504,A505,Z102": {
+                    "brief_code": "A504,A505,Z102",
+                    "brief": "跨院基本素養(106),校基本素養(106),基本素養-量性推理(110)"
+                }
+            },
+            "1121_515103": {
+                "A504,A505,Z102": {
+                    "brief_code": "A504,A505,Z102",
+                    "brief": "跨院基本素養(106),校基本素養(106),基本素養-量性推理(110)"
+                }
+            },
+            "1121_515106": {
+                "A504,A505,Z102": {
+                    "brief_code": "A504,A505,Z102",
+                    "brief": "跨院基本素養(106),校基本素養(106),基本素養-量性推理(110)"
+                }
+            },
+            "1121_515107": {
+                "A504,A505,Z102": {
+                    "brief_code": "A504,A505,Z102",
+                    "brief": "跨院基本素養(106),校基本素養(106),基本素養-量性推理(110)"
+                }
+            },
+            "1121_515108": {
+                "A504,A505,Z102": {
+                    "brief_code": "A504,A505,Z102",
+                    "brief": "跨院基本素養(106),校基本素養(106),基本素養-量性推理(110)"
+                }
+            },
+            "1121_515165": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515401": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515500": {
+                "A504,A505,Z102": {
+                    "brief_code": "A504,A505,Z102",
+                    "brief": "跨院基本素養(106),校基本素養(106),基本素養-量性推理(110)"
+                }
+            },
+            "1121_515501": {
+                "A504,A505,Z102": {
+                    "brief_code": "A504,A505,Z102",
+                    "brief": "跨院基本素養(106),校基本素養(106),基本素養-量性推理(110)"
+                }
+            },
+            "1121_515502": {
+                "A504,A505,Z102": {
+                    "brief_code": "A504,A505,Z102",
+                    "brief": "跨院基本素養(106),校基本素養(106),基本素養-量性推理(110)"
+                }
+            },
+            "1121_515503": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515504": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_515505": {
+                "A504": {
+                    "brief_code": "A504",
+                    "brief": "跨院基本素養(106)"
+                }
+            },
+            "1121_515506": {
+                "A504": {
+                    "brief_code": "A504",
+                    "brief": "跨院基本素養(106)"
+                }
+            },
+            "1121_515507": {
+                "A504": {
+                    "brief_code": "A504",
+                    "brief": "跨院基本素養(106)"
+                }
+            },
+            "1121_515511": {
+                "A504": {
+                    "brief_code": "A504",
+                    "brief": "跨院基本素養(106)"
+                }
+            },
+            "1121_515512": {
+                "A504": {
+                    "brief_code": "A504",
+                    "brief": "跨院基本素養(106)"
+                }
+            },
+            "1121_516128": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_516130": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_516215": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_516309": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_517005": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_517006": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_517007": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_517008": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_517009": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_517010": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_517011": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_517202": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_517215": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_517502": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_517503": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_517506": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_517508": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_534006": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535369": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_535513": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537206": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537213": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537214": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537215": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537217": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537402": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537403": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537404": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537603": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537604": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537606": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537804": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_510000": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_510001": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515102": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515103": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515106": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515107": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515108": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515165": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515401": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515500": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515501": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515502": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_515503": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515504": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_515505": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_515506": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515507": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515511": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_515512": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_516128": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_516130": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_516215": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_516309": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_517005": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_517006": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_517007": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_517008": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_517009": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_517010": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_517011": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_517202": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_517215": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_517502": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_517503": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_517506": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_517508": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_534006": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_535369": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_535513": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_537206": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_537213": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_537214": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_537215": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_537217": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_537402": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_537403": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_537404": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_537603": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_537604": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_537606": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_537804": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    }
+}

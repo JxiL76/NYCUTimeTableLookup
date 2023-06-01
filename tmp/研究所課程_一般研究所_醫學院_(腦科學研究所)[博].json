@@ -1,0 +1,990 @@
+{
+    "6214CA63-8F07-41FE-AC64-48EA680E5C71": {
+        "dep_id": "6214CA63-8F07-41FE-AC64-48EA680E5C71",
+        "dep_cname": "腦科學研究所",
+        "dep_ename": "Institute of Brain Science",
+        "2": {
+            "1121_130200": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130200",
+                "cos_code": "MDPH30051",
+                "num_limit": "135",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生物統計學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "林逸芬",
+                "cos_time": "R34-YX216[YM]",
+                "memo": "",
+                "cos_ename": "Biostatistics",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "113",
+                "dep_primary": "2",
+                "dep_cname": "腦科學研究所",
+                "dep_ename": "Institute of Brain Science",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_131100": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131100",
+                "cos_code": "MDBS30016",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "數位醫學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "楊智傑、楊永正、吳俊穎、唐高駿",
+                "cos_time": "W56-YR104[YM]",
+                "memo": "碩博班均可，開放大學部選修",
+                "cos_ename": "Digital Medicine",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "113",
+                "dep_primary": "2",
+                "dep_cname": "腦科學研究所",
+                "dep_ename": "Institute of Brain Science",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_131101": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131101",
+                "cos_code": "MDBS30034",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "腦科學實習",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "鄭菡若、陳麗芬、楊定一、楊靜修、盧俊良、王署君、蔡金吾、林嘉澍、陳世彬、楊智傑、柯立偉、鄭彥甫、侯珮珊、李怡慧、蘇東平、尼大衛",
+                "cos_time": "Un-YL845[YM]",
+                "memo": "必選",
+                "cos_ename": "Experimental Brain Science ",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "113",
+                "dep_primary": "2",
+                "dep_cname": "腦科學研究所",
+                "dep_ename": "Institute of Brain Science",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_131102": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131102",
+                "cos_code": "MDBS30048",
+                "num_limit": "25",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "非侵入性腦刺激:原理及臨床應用",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "待聘",
+                "cos_time": "R34-YL837[YM]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Noninvasive Brain Stimulation: Basic Principles and Clinical Applications",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "113",
+                "dep_primary": "2",
+                "dep_cname": "腦科學研究所",
+                "dep_ename": "Institute of Brain Science",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_131103": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131103",
+                "cos_code": "MDBS30049",
+                "num_limit": "25",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "神經科技之應用",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "待聘",
+                "cos_time": "W34-YL837[YM]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Application of Neurotech",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "113",
+                "dep_primary": "2",
+                "dep_cname": "腦科學研究所",
+                "dep_ename": "Institute of Brain Science",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_131104": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131104",
+                "cos_code": "MDBS30027",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "神經資訊造影概論",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "楊智傑",
+                "cos_time": "T2-YL839[YM]",
+                "memo": "腦科所碩博班（六週上完，一週上課3小時），開放隨班附讀",
+                "cos_ename": "Introduction to Neuroinformatics",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "113",
+                "dep_primary": "2",
+                "dep_cname": "腦科學研究所",
+                "dep_ename": "Institute of Brain Science",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_131105": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131105",
+                "cos_code": "MDBS30008",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "小鼠行為學特論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "鄭菡若",
+                "cos_time": "F567-YL745[YM]",
+                "memo": "開放其他所選修和隨班附讀及大學部選修",
+                "cos_ename": "Current Topics in Mouse Behavioral Studies",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "113",
+                "dep_primary": "2",
+                "dep_cname": "腦科學研究所",
+                "dep_ename": "Institute of Brain Science",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_131106": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131106",
+                "cos_code": "MDBS30005",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "實驗神經概論",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "蔡金吾、楊定一、楊靜修、鄭菡若、洪成志",
+                "cos_time": "T3-YL839[YM]",
+                "memo": "腦科所碩博班（六週上完，一週上課3小時），開放隨班附讀",
+                "cos_ename": "Introduction to Experimental Neuroscience",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "113",
+                "dep_primary": "2",
+                "dep_cname": "腦科學研究所",
+                "dep_ename": "Institute of Brain Science",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_131108": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131108",
+                "cos_code": "MDBS30036",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "菌- 腦 - 腸‘ 軸特論",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "盧俊良",
+                "cos_time": "F4n-YL845[YM]",
+                "memo": "碩、博士班均可，開放隨班附讀",
+                "cos_ename": "Microbiiota - Brain - Gut interaction",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "113",
+                "dep_primary": "2",
+                "dep_cname": "腦科學研究所",
+                "dep_ename": "Institute of Brain Science",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_131109": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131109",
+                "cos_code": "MDBS30025",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "神經退化致病機轉",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "楊定一",
+                "cos_time": "R56-YL837[YM]",
+                "memo": "開放隨班附讀",
+                "cos_ename": "Molecular Mechanisms Underlying Neurodgeneration",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "113",
+                "dep_primary": "2",
+                "dep_cname": "腦科學研究所",
+                "dep_ename": "Institute of Brain Science",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_131110": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131110",
+                "cos_code": "MDBS30026",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "神經發育與幹細胞",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "蔡金吾",
+                "cos_time": "F34-YL837[YM]",
+                "memo": "碩、博士班均可，開放隨班附讀",
+                "cos_ename": "Neural Development and Stem Cells",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "113",
+                "dep_primary": "2",
+                "dep_cname": "腦科學研究所",
+                "dep_ename": "Institute of Brain Science",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_131111": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131111",
+                "cos_code": "MDBS30050",
+                "num_limit": "6",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "睡眠訊號分析與臨床判讀實務",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "蔡欣融",
+                "cos_time": "M78-YL845[YM]",
+                "memo": "",
+                "cos_ename": "Rules and Practice of Sleep Stage Scoring",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "113",
+                "dep_primary": "2",
+                "dep_cname": "腦科學研究所",
+                "dep_ename": "Institute of Brain Science",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_131112": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131112",
+                "cos_code": "MDBS30035",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "臨床腦疾病概論",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "http://vghtpe2015.hihost.com.tw/doctors_view.php?mpid=18&lmenuid=4",
+                "teacher": "李怡慧、盧俊良、陳世彬、楊智傑、吳昭慶、廖翊筑、李正達、王嚴鋒、劉祐岑",
+                "cos_time": "T4-YL839[YM]",
+                "memo": "腦科所碩博班（六週上完，一週上課3小時），開放隨班附讀",
+                "cos_ename": "Clinical Introduction to Brain Disease",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "113",
+                "dep_primary": "2",
+                "dep_cname": "腦科學研究所",
+                "dep_ename": "Institute of Brain Science",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "49",
+                "depType": "D"
+            },
+            "1121_131113": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131113",
+                "cos_code": "MDBS30030",
+                "num_limit": "10",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "精神疾病臨床案例",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "洪成志",
+                "cos_time": "R78-YL745[YM]",
+                "memo": "隔週上課，每週上課2小時（未限制學生 background）[English Medium Course]",
+                "cos_ename": "Clinical cases of psychiatric disorders",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "113",
+                "dep_primary": "2",
+                "dep_cname": "腦科學研究所",
+                "dep_ename": "Institute of Brain Science",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_131114": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131114",
+                "cos_code": "MDBS30020",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "機器學習概論與實作",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://bmlab.web.nycu.edu.tw",
+                "teacher": "陳麗芬",
+                "cos_time": "R789-YL839[YM]",
+                "memo": "1.本堂課將會以同步遠距教學方式上課，同學可提早5分鐘進入虛擬教室準備上課，連結每周會公告於E3系統上。2.有部分課程提早於開學前三週開始上課，詳細時間將會公告於E3. 3.開放隨班附讀,本課程亦為「人工智慧生醫應用學分學程」進階課程之一、「資料科學與智慧儀控學分學程」課程之一、《醫學系智慧健康照護跨域學程》醫護模組選修課程之一。",
+                "cos_ename": "Introduction to Machine Learning and Practice",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "113",
+                "dep_primary": "2",
+                "dep_cname": "腦科學研究所",
+                "dep_ename": "Institute of Brain Science",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_131115": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131115",
+                "cos_code": "MDBS30031",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "腦與生理訊號分析理論與實作",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "楊智傑",
+                "cos_time": "F234-YL839[YM]",
+                "memo": "碩博班均可，開放大學部選修，開放隨班附讀[English Medium Course]",
+                "cos_ename": "Brain and Physiololgic Signal Analylsis: Theory and Hands-On Applications",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "113",
+                "dep_primary": "2",
+                "dep_cname": "腦科學研究所",
+                "dep_ename": "Institute of Brain Science",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_131117": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131117",
+                "cos_code": "MDBS30039",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "遺傳性疾病的基因治療",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "鄭彥甫",
+                "cos_time": "M78-",
+                "memo": "隔週上課，每次上課2小時，碩、博士班均可，開放隨班附讀。(上課地點：榮總醫學科技大樓8F會議室)",
+                "cos_ename": "Gene therapy for hereditary diseases",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "113",
+                "dep_primary": "2",
+                "dep_cname": "腦科學研究所",
+                "dep_ename": "Institute of Brain Science",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_131118": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131118",
+                "cos_code": "MDBS30051",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "整合性睡眠醫學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "楊靜修",
+                "cos_time": "W567-YL845[YM]",
+                "memo": "",
+                "cos_ename": "Integration of Sleep Medicine",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "113",
+                "dep_primary": "2",
+                "dep_cname": "腦科學研究所",
+                "dep_ename": "Institute of Brain Science",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_131119": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131119",
+                "cos_code": "MDBS30052",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "智慧醫療的開發與應用",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "楊靜修",
+                "cos_time": "T9a-YL402[YM]",
+                "memo": "隔週上課，每次上課2小時",
+                "cos_ename": "Development and Application of Smart Health",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "113",
+                "dep_primary": "2",
+                "dep_cname": "腦科學研究所",
+                "dep_ename": "Institute of Brain Science",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_140314": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "140314",
+                "cos_code": "MDCM30059",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "基因治療與基因編輯文獻選讀三",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "牛道明、鄭彥甫",
+                "cos_time": "M2-",
+                "memo": "",
+                "cos_ename": "Journal reading in gene therapy and genome editing III",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "113",
+                "dep_primary": "2",
+                "dep_cname": "腦科學研究所",
+                "dep_ename": "Institute of Brain Science",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            }
+        },
+        "costype": {
+            "1121_130200": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131100": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131101": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131102": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131103": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131104": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131105": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131106": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131108": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131109": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131110": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131111": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131112": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131113": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131114": {
+                "跨校區課程_跨校區課程": {
+                    "course_category_cname": "跨校區課程_跨校區課程",
+                    "course_category_ename": "Cross-Campus Course_Cross-Campus Course",
+                    "course_category_type": "57",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131115": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131117": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131118": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131119": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_140314": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_140900": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_130200": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131100": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131101": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131102": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131103": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131104": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131105": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131106": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131108": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131109": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131110": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131111": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131112": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131113": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131114": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131115": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131117": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131118": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131119": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_140314": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_140900": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_130200": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131100": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131101": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131102": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_131103": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_131104": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131105": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131106": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131108": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131109": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131110": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131111": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131112": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131113": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_131114": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131115": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_131117": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131118": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131119": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_140314": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_140900": {
+                "授課語言代碼": "en-us"
+            }
+        },
+        "1": {
+            "1121_140900": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "140900",
+                "cos_code": "MDBS30006",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "專題討論(博)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "楊靜修、楊定一、蔡金吾、陳世彬、白雅美、楊智傑、鄭彥甫、鄭菡若、侯珮珊、李正達",
+                "cos_time": "T78-YL839[YM]",
+                "memo": "腦科所博士班[English Medium Course]",
+                "cos_ename": "Seminar",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "113",
+                "dep_primary": "1",
+                "dep_cname": "腦科學研究所",
+                "dep_ename": "Institute of Brain Science",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            }
+        }
+    }
+}

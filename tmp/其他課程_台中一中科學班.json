@@ -1,0 +1,339 @@
+{
+    "60A7936E-B0C0-4C0F-9DE7-33D16A367F20": {
+        "dep_id": "60A7936E-B0C0-4C0F-9DE7-33D16A367F20",
+        "dep_cname": "台中一中科學班",
+        "dep_ename": "Taichung First Senior High School",
+        "1": {
+            "1121_516400": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "516400",
+                "cos_code": "AATF10002",
+                "num_limit": "30",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "藝術生活",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "http://www.cc.nctu.edu.tw/~globe/",
+                "teacher": "王美鴻",
+                "cos_time": "T56-SC152[GF]",
+                "memo": "限中一中科學班",
+                "cos_ename": "Arts and Life",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUG",
+                "dep_primary": "1",
+                "dep_cname": "台中一中科學班",
+                "dep_ename": "Taichung First Senior High School",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "S"
+            },
+            "1121_516401": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "516401",
+                "cos_code": "AATF10003",
+                "num_limit": "30",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "個別科學研究",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "台中一中",
+                "cos_time": "Mz12-SC109[GF]",
+                "memo": "限中一中科學班",
+                "cos_ename": "Individual Science Study",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUG",
+                "dep_primary": "1",
+                "dep_cname": "台中一中科學班",
+                "dep_ename": "Taichung First Senior High School",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "S"
+            }
+        },
+        "costype": {
+            "1121_516400": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_516401": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_563010": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_566001": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_566011": {
+                "實驗課程_實驗課程": {
+                    "course_category_cname": "實驗課程_實驗課程",
+                    "course_category_ename": "",
+                    "course_category_type": "59",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_567002": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_567003": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_516400": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_516401": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_563010": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_566001": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_566011": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_567002": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_567003": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_516400": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_516401": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_563010": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_566001": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_566011": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_567002": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_567003": {
+                "授課語言代碼": "zh-tw"
+            }
+        },
+        "2": {
+            "1121_563010": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "563010",
+                "cos_code": "GEPE00001",
+                "num_limit": "0",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "大一體育",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "伍啟萌",
+                "cos_time": "R12-PE[GF]",
+                "memo": "",
+                "cos_ename": "Physical Education",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUG",
+                "dep_primary": "2",
+                "dep_cname": "台中一中科學班",
+                "dep_ename": "Taichung First Senior High School",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "S"
+            },
+            "1121_566001": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "566001",
+                "cos_code": "GECH00001",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "化學(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://140.113.206.58/index.html",
+                "teacher": "黃立心",
+                "cos_time": "M56W9-SC109[GF]",
+                "memo": "台中一中科學班優先",
+                "cos_ename": "Chemistry (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUG",
+                "dep_primary": "2",
+                "dep_cname": "台中一中科學班",
+                "dep_ename": "Taichung First Senior High School",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "S"
+            },
+            "1121_566011": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "566011",
+                "cos_code": "GECH00002",
+                "num_limit": "20",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "化學實驗(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "3.00",
+                "TURL": "http://140.113.206.58/index.html",
+                "teacher": "黃立心",
+                "cos_time": "T234-SB119[GF]",
+                "memo": "台中一中科學班優先",
+                "cos_ename": "Chemistry Lab. (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUG",
+                "dep_primary": "2",
+                "dep_cname": "台中一中科學班",
+                "dep_ename": "Taichung First Senior High School",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "S"
+            },
+            "1121_567002": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "567002",
+                "cos_code": "GEBT00001",
+                "num_limit": "90",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "普通生物學(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://yslin.lab.ncyu.edu.tw/",
+                "teacher": "林勇欣、莊碧簪、蘇昱誠",
+                "cos_time": "Wn56-SA320[GF]",
+                "memo": " 生物科技學系大一新生/本系生及中一中科學班優先，上限90人 通識校基本 通識跨院",
+                "cos_ename": "General Biology(I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUG",
+                "dep_primary": "2",
+                "dep_cname": "台中一中科學班",
+                "dep_ename": "Taichung First Senior High School",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "S"
+            },
+            "1121_567003": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "567003",
+                "cos_code": "GEBT00004",
+                "num_limit": "40",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "普通生物學實驗(一)",
+                "cos_credit": "1.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "陳文亮",
+                "cos_time": "M9ab-",
+                "memo": "限中一中科學班學生選課",
+                "cos_ename": "General Biology Lab.(I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "OUG",
+                "dep_primary": "2",
+                "dep_cname": "台中一中科學班",
+                "dep_ename": "Taichung First Senior High School",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "S"
+            }
+        }
+    }
+}

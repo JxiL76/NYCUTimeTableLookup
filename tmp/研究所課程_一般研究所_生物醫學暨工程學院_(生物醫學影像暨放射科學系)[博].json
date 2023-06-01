@@ -1,0 +1,201 @@
+{
+    "FB1E3735-2DE5-4ADD-A162-E33E60800FC4": {
+        "dep_id": "FB1E3735-2DE5-4ADD-A162-E33E60800FC4",
+        "dep_cname": "生物醫學影像暨放射科學系",
+        "dep_ename": "Department of Biomedical Imaging and Radiological Sciences ",
+        "2": {
+            "1121_130200": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130200",
+                "cos_code": "MDPH30051",
+                "num_limit": "135",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生物統計學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "林逸芬",
+                "cos_time": "R34-YX216[YM]",
+                "memo": "",
+                "cos_ename": "Biostatistics",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "263",
+                "dep_primary": "2",
+                "dep_cname": "生物醫學影像暨放射科學系",
+                "dep_ename": "Department of Biomedical Imaging and Radiological Sciences ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_132713": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132713",
+                "cos_code": "LSNS30070",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "核磁共振影像特論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "林慶波、周坤賢",
+                "cos_time": "M234-YL837[YM]",
+                "memo": "開放醫放及生物醫學工程學系選修。生醫影像學程。",
+                "cos_ename": "Current Topics in MRI",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "263",
+                "dep_primary": "2",
+                "dep_cname": "生物醫學影像暨放射科學系",
+                "dep_ename": "Department of Biomedical Imaging and Radiological Sciences ",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            }
+        },
+        "costype": {
+            "1121_130200": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132713": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_142000": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_142001": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_130200": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132713": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_142000": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_142001": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_130200": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132713": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_142000": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_142001": {
+                "授課語言代碼": "en-us"
+            }
+        },
+        "1": {
+            "1121_142000": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "142000",
+                "cos_code": "BEIR30027",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生醫影像暨放射科學總論",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "莊惠燕",
+                "cos_time": "",
+                "memo": "",
+                "cos_ename": "General Biomedical Imagingand Radiological Sciences",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "263",
+                "dep_primary": "1",
+                "dep_cname": "生物醫學影像暨放射科學系",
+                "dep_ename": "Department of Biomedical Imaging and Radiological Sciences ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_142001": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "142001",
+                "cos_code": "BEIR30009",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "專題討論(博士班)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "高瑀絜、詹明賢",
+                "cos_time": "",
+                "memo": "博士班必修[English Medium Course]",
+                "cos_ename": "Seminar",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "263",
+                "dep_primary": "1",
+                "dep_cname": "生物醫學影像暨放射科學系",
+                "dep_ename": "Department of Biomedical Imaging and Radiological Sciences ",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            }
+        }
+    }
+}

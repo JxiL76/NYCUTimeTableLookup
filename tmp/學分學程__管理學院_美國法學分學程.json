@@ -1,0 +1,153 @@
+{
+    "FBBA2369-B7C3-44E4-A3B9-611C25C63135": {
+        "dep_id": "FBBA2369-B7C3-44E4-A3B9-611C25C63135",
+        "dep_cname": "美國法學分學程",
+        "dep_ename": "American Law Program",
+        "1": {
+            "1121_537912": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537912",
+                "cos_code": "LWLW30190",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "美國財產法",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "施明遠",
+                "cos_time": "F567-MB1063[GF]",
+                "memo": "[English Medium Course]英文授課\n限科法博、科法碩及科法專班同學選修",
+                "cos_ename": "U.S. Property Law",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "PBM",
+                "dep_primary": "1",
+                "dep_cname": "美國法學分學程",
+                "dep_ename": "American Law Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "P"
+            },
+            "1121_557914": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "557914",
+                "cos_code": "LWLW30188",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "美國智慧財產權案例研析",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "劉尚志、陳在方、陳豐奇、蔡志宏、黃崧洺",
+                "cos_time": "Fabc-ES806[GF]",
+                "memo": "限科法博、科法碩及科法專班同學選修\n大學部須先修過智財課程(須審核)",
+                "cos_ename": "Case Analysis of U.S. Intellectual Property Litigation",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "PBM",
+                "dep_primary": "1",
+                "dep_cname": "美國法學分學程",
+                "dep_ename": "American Law Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "P"
+            },
+            "1121_557919": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "557919",
+                "cos_code": "LWLW30273",
+                "num_limit": "15",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "證據法",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "http://mhchin.blog.nycu.edu.tw",
+                "teacher": "金孟華",
+                "cos_time": "S678-MB1069[GF]",
+                "memo": "",
+                "cos_ename": "U.S. Evidence Law",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "PBM",
+                "dep_primary": "1",
+                "dep_cname": "美國法學分學程",
+                "dep_ename": "American Law Program",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "P"
+            }
+        },
+        "costype": {
+            "1121_537912": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_557914": {
+                "智財權課程_智財權": {
+                    "course_category_cname": "智財權課程_智財權",
+                    "course_category_ename": "Intellectual Property_IP",
+                    "course_category_type": "8",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_557919": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_537912": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_557914": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_557919": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_537912": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_557914": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_557919": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    }
+}

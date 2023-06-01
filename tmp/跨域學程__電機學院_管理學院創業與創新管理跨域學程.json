@@ -1,0 +1,1057 @@
+{
+    "84BDFAC5-12EB-41FB-B46D-8C78D1EB208A": {
+        "dep_id": "84BDFAC5-12EB-41FB-B46D-8C78D1EB208A",
+        "dep_cname": "管理學院創業與創新管理跨域學程",
+        "dep_ename": "College of Management Venture & Innovation Management Cross-Discipl",
+        "1": {
+            "1121_230002": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "230002",
+                "cos_code": "MGBM30048",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "組織設計與管理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://sites.google.com/nctu.edu.tw/profuenspages/",
+                "teacher": "溫金豐",
+                "cos_time": "M567-TB307[BM]",
+                "memo": "",
+                "cos_ename": "Organization Design and Management",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKQ",
+                "dep_primary": "1",
+                "dep_cname": "管理學院創業與創新管理跨域學程",
+                "dep_ename": "College of Management Venture & Innovation Management Cross-Discipl",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_517000": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "517000",
+                "cos_code": "MGCM10013",
+                "num_limit": "135",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "經濟學(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "郭家豪",
+                "cos_time": "W234-M101[GF]",
+                "memo": "管院、雙主修、跨領域學程學生請於9月4日上網選課；非管院學生請於9月11日上網加選。管院大學部共同必修課程；管院學生優先選課；上限135人，得請授課教師簽准後可放寬至140人；若有演習課則安排於9a；管理基礎學分學程課程。",
+                "cos_ename": "Economics (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKQ",
+                "dep_primary": "1",
+                "dep_cname": "管理學院創業與創新管理跨域學程",
+                "dep_ename": "College of Management Venture & Innovation Management Cross-Discipl",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_517001": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "517001",
+                "cos_code": "MGCM10013",
+                "num_limit": "135",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "經濟學(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://imf.nycu.edu.tw/",
+                "teacher": "黃星華",
+                "cos_time": "W234-M-b10[GF]",
+                "memo": "管院、雙主修、跨領域學程學生請於9月4日上網選課；非管院學生請於9月11日上網加選。管院大學部共同必修課程；管院學生優先選課；上限135人，得請授課教師簽准後可放寬至140人；若有演習課則安排於9a；管理基礎學分學程課程。已被鎖定選課的同學，如欲退選請Email老師，可協助進行線上即時退選。",
+                "cos_ename": "Economics (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKQ",
+                "dep_primary": "1",
+                "dep_cname": "管理學院創業與創新管理跨域學程",
+                "dep_ename": "College of Management Venture & Innovation Management Cross-Discipl",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_517002": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "517002",
+                "cos_code": "MGCM10004",
+                "num_limit": "98",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "會計學(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "陳宗岡",
+                "cos_time": "M567-M-b10[GF]",
+                "memo": "管院、雙主修、跨領域學程學生請於9月4日上網選課；非管院學生請於9月11日上網加選。管院大學部共同必修課程；管院學生優先選課；上限98人，得請授課教師簽准後可放寬至103人；若有演習課則安排於9a；管理基礎學分學程課程。",
+                "cos_ename": "Accounting (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKQ",
+                "dep_primary": "1",
+                "dep_cname": "管理學院創業與創新管理跨域學程",
+                "dep_ename": "College of Management Venture & Innovation Management Cross-Discipl",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_517003": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "517003",
+                "cos_code": "MGCM10004",
+                "num_limit": "135",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "會計學(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "蔡璧徽",
+                "cos_time": "M567-M101[GF]",
+                "memo": "管院、雙主修、跨領域學程學生請於9月4日上網選課；非管院學生請於9月11日上網加選。管院大學部共同必修課程；管院學生優先選課；上限135人，得請授課教師簽准後可放寬至140人；若有演習課則安排於9a；管理基礎學分學程課程。實地線上混合教學課程 (陽明校區：線上，請向教師索取線上連結)",
+                "cos_ename": "Accounting (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKQ",
+                "dep_primary": "1",
+                "dep_cname": "管理學院創業與創新管理跨域學程",
+                "dep_ename": "College of Management Venture & Innovation Management Cross-Discipl",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_517004": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "517004",
+                "cos_code": "MGCM10004",
+                "num_limit": "75",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "會計學(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "林瑞嘉、劉志諒",
+                "cos_time": "M567-M205[GF]",
+                "memo": "管院、雙主修、跨領域學程學生請於9月4日上網選課；非管院學生請於9月11日上網加選。管院大學部共同必修課程；管院學生優先選課；上限75人，得請授課教師簽准後可放寬至80人；若有演習課則安排於9a；管理基礎學分學程課程。",
+                "cos_ename": "Accounting (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKQ",
+                "dep_primary": "1",
+                "dep_cname": "管理學院創業與創新管理跨域學程",
+                "dep_ename": "College of Management Venture & Innovation Management Cross-Discipl",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_517009": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "517009",
+                "cos_code": "MGCM10011",
+                "num_limit": "90",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "統計學(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "巫佳煌",
+                "cos_time": "M234-A316[GF]",
+                "memo": "非管院學生請於9月4日上網加選。管院學生優先選課；上限90人，得請授課教師簽准後可放寬至95人；若有演習課則安排於9a；管理基礎學分學程課程。",
+                "cos_ename": "Statistics (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKQ",
+                "dep_primary": "1",
+                "dep_cname": "管理學院創業與創新管理跨域學程",
+                "dep_ename": "College of Management Venture & Innovation Management Cross-Discipl",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "73",
+                "depType": "Q"
+            },
+            "1121_517010": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "517010",
+                "cos_code": "MGCM10011",
+                "num_limit": "90",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "統計學(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "彭文理",
+                "cos_time": "M234-MB520[GF]",
+                "memo": "非管院學生請於9月4日上網加選。管院學生優先選課；上限90人，得請授課教師簽准後可放寬至95人；若有演習課則安排於9a；管理基礎學分學程課程。",
+                "cos_ename": "Statistics (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKQ",
+                "dep_primary": "1",
+                "dep_cname": "管理學院創業與創新管理跨域學程",
+                "dep_ename": "College of Management Venture & Innovation Management Cross-Discipl",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "71",
+                "depType": "Q"
+            },
+            "1121_517011": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "517011",
+                "cos_code": "MGCM10011",
+                "num_limit": "90",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "統計學(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "林陳佑",
+                "cos_time": "M234-AB101[GF]",
+                "memo": "非管院學生請於9月5日上網加選。管院學生優先選課；上限90人，得請授課教師簽准後可放寬至95人；若有演習課則安排於9a；管理基礎學分學程課程。",
+                "cos_ename": "Statistics (I)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKQ",
+                "dep_primary": "1",
+                "dep_cname": "管理學院創業與創新管理跨域學程",
+                "dep_ename": "College of Management Venture & Innovation Management Cross-Discipl",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "73",
+                "depType": "Q"
+            },
+            "1121_517150": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "517150",
+                "cos_code": "MGBA10002",
+                "num_limit": "10",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "創業與創新實作專案(II)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "黃仕斌",
+                "cos_time": "W567-A703B[GF]",
+                "memo": "VIP跨域學程、百川學程、科管所學生優先選課，限大學部學生選課(undergraduate only)，研究所僅開放科管所",
+                "cos_ename": "Foundations of Management and Entrepeneurship(II)",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKQ",
+                "dep_primary": "1",
+                "dep_cname": "管理學院創業與創新管理跨域學程",
+                "dep_ename": "College of Management Venture & Innovation Management Cross-Discipl",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_517151": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "517151",
+                "cos_code": "MGBA10003",
+                "num_limit": "50",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "經營管理-創業與興業家精神",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "黃寬丞、黃仕斌、姜真秀、吳昆峰、黃宜侯、蔡蕙安、蔡銘箴、姚銘忠、王志軒、蕭嬋、林士平、陳詩欣、閻姿慧、楊志偉",
+                "cos_time": "Wabc-",
+                "memo": "VIP跨域學程優先選課，若外系生欲修習本課程，需遞送選課動機及CV至pennynycuvip@nycu.edu.tw(信件請註明課名)，授課教師評估審查同意後可加入課程，僅開放大學部學生選課(undergraduate only)。",
+                "cos_ename": "Entrepreneurs and Entrepreneurship",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKQ",
+                "dep_primary": "1",
+                "dep_cname": "管理學院創業與創新管理跨域學程",
+                "dep_ename": "College of Management Venture & Innovation Management Cross-Discipl",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_537003": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537003",
+                "cos_code": "MGMS30079",
+                "num_limit": "50",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "自我領導",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://www.heartcreaction.org/",
+                "teacher": "蕭嬋",
+                "cos_time": "T234-M301[GF]",
+                "memo": "開放全校大三大四及全校研究所同學選修。",
+                "cos_ename": "Leadership Development",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKQ",
+                "dep_primary": "1",
+                "dep_cname": "管理學院創業與創新管理跨域學程",
+                "dep_ename": "College of Management Venture & Innovation Management Cross-Discipl",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_537008": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537008",
+                "cos_code": "MGMS30084",
+                "num_limit": "60",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "行銷管理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "張家齊",
+                "cos_time": "W678-M115[GF]",
+                "memo": "管科所同學優先選修。",
+                "cos_ename": "Marketing Management",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKQ",
+                "dep_primary": "1",
+                "dep_cname": "管理學院創業與創新管理跨域學程",
+                "dep_ename": "College of Management Venture & Innovation Management Cross-Discipl",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_537801": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537801",
+                "cos_code": "MGMT30010",
+                "num_limit": "30",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "創意與創新管理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "林士平",
+                "cos_time": "T234-A701[GF]",
+                "memo": "[English Medium Course]大學部學生請於開學後紙本加選。",
+                "cos_ename": "Creativity and Innovation Management",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKQ",
+                "dep_primary": "1",
+                "dep_cname": "管理學院創業與創新管理跨域學程",
+                "dep_ename": "College of Management Venture & Innovation Management Cross-Discipl",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_537808": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537808",
+                "cos_code": "MGMT30030",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "專利與創新策略",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "蘇信寧",
+                "cos_time": "R234-A701[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Patent and Innovation Strategy",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKQ",
+                "dep_primary": "1",
+                "dep_cname": "管理學院創業與創新管理跨域學程",
+                "dep_ename": "College of Management Venture & Innovation Management Cross-Discipl",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_537809": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537809",
+                "cos_code": "MGMT30018",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "創新與網路創業",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "黃仕斌",
+                "cos_time": "R567-A701[GF]",
+                "memo": "",
+                "cos_ename": "Innovation and Internet Entrepreneurship",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKQ",
+                "dep_primary": "1",
+                "dep_cname": "管理學院創業與創新管理跨域學程",
+                "dep_ename": "College of Management Venture & Innovation Management Cross-Discipl",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_537810": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537810",
+                "cos_code": "MGMT30078",
+                "num_limit": "12",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "基礎專利分析與技術預測",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "蘇信寧",
+                "cos_time": "F234-A722[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Fundamentals of Patent Analytics and Technological Forecast",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKQ",
+                "dep_primary": "1",
+                "dep_cname": "管理學院創業與創新管理跨域學程",
+                "dep_ename": "College of Management Venture & Innovation Management Cross-Discipl",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_537817": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537817",
+                "cos_code": "MGMT30083",
+                "num_limit": "20",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "設計思考與商業模式創新",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "陳詩欣",
+                "cos_time": "M34n-A722[GF]",
+                "memo": "[English Medium Course]\n實地線上混合教學課程。\n陽明校區：線上，請向教師索取線上連結。",
+                "cos_ename": "Design Thinking and Business Model Innovation",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKQ",
+                "dep_primary": "1",
+                "dep_cname": "管理學院創業與創新管理跨域學程",
+                "dep_ename": "College of Management Venture & Innovation Management Cross-Discipl",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            },
+            "1121_537820": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537820",
+                "cos_code": "MGMT30086",
+                "num_limit": "35",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "永續創新與轉型創業",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "陳詩欣、高啟明",
+                "cos_time": "M678-A701[GF]",
+                "memo": "實地線上混合教學課程。\n陽明校區：線上，請向教師索取線上連結",
+                "cos_ename": "Sustainable Innovation and Entrepreneurship Transition",
+                "brief": "",
+                "degree": "1",
+                "dep_id": "QKQ",
+                "dep_primary": "1",
+                "dep_cname": "管理學院創業與創新管理跨域學程",
+                "dep_ename": "College of Management Venture & Innovation Management Cross-Discipl",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "Q"
+            }
+        },
+        "costype": {
+            "1121_230002": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_517000": {
+                "基本素養-量性推理_基本素養-量性推理": {
+                    "course_category_cname": "基本素養-量性推理_基本素養-量性推理",
+                    "course_category_ename": "Foundation-quantitative_FCQR",
+                    "course_category_type": "45",
+                    "GECIName": "電,資,工,理,生,人,客,跨",
+                    "GECIEngName": "ECE,CCS,COE,COS,CBT,CHS,CHK,CI"
+                },
+                "核心通識-社會與經濟_核心通識-社會與經濟": {
+                    "course_category_cname": "核心通識-社會與經濟_核心通識-社會與經濟",
+                    "course_category_ename": "Society and Economy_Society and Economy",
+                    "course_category_type": "33",
+                    "GECIName": "電,資,工,理,生,人,客,跨",
+                    "GECIEngName": "ECE,CCS,COE,COS,CBT,CHS,CHK,CI"
+                },
+                "通識跨院基本素養_通識跨院": {
+                    "course_category_cname": "通識跨院基本素養_通識跨院",
+                    "course_category_ename": "General Education Course: Intercollegiate_GECI",
+                    "course_category_type": "16",
+                    "GECIName": "電,資,工,理,生,人,客,跨",
+                    "GECIEngName": "ECE,CCS,COE,COS,CBT,CHS,CHK,CI"
+                }
+            },
+            "1121_517001": {
+                "基本素養-量性推理_基本素養-量性推理": {
+                    "course_category_cname": "基本素養-量性推理_基本素養-量性推理",
+                    "course_category_ename": "Foundation-quantitative_FCQR",
+                    "course_category_type": "45",
+                    "GECIName": "電,資,工,理,生,人,客,跨",
+                    "GECIEngName": "ECE,CCS,COE,COS,CBT,CHS,CHK,CI"
+                },
+                "核心通識-社會與經濟_核心通識-社會與經濟": {
+                    "course_category_cname": "核心通識-社會與經濟_核心通識-社會與經濟",
+                    "course_category_ename": "Society and Economy_Society and Economy",
+                    "course_category_type": "33",
+                    "GECIName": "電,資,工,理,生,人,客,跨",
+                    "GECIEngName": "ECE,CCS,COE,COS,CBT,CHS,CHK,CI"
+                },
+                "通識跨院基本素養_通識跨院": {
+                    "course_category_cname": "通識跨院基本素養_通識跨院",
+                    "course_category_ename": "General Education Course: Intercollegiate_GECI",
+                    "course_category_type": "16",
+                    "GECIName": "電,資,工,理,生,人,客,跨",
+                    "GECIEngName": "ECE,CCS,COE,COS,CBT,CHS,CHK,CI"
+                }
+            },
+            "1121_517002": {
+                "基本素養-量性推理_基本素養-量性推理": {
+                    "course_category_cname": "基本素養-量性推理_基本素養-量性推理",
+                    "course_category_ename": "Foundation-quantitative_FCQR",
+                    "course_category_type": "45",
+                    "GECIName": "電,資,工,理,生,人,客,跨",
+                    "GECIEngName": "ECE,CCS,COE,COS,CBT,CHS,CHK,CI"
+                },
+                "核心通識-社會與經濟_核心通識-社會與經濟": {
+                    "course_category_cname": "核心通識-社會與經濟_核心通識-社會與經濟",
+                    "course_category_ename": "Society and Economy_Society and Economy",
+                    "course_category_type": "33",
+                    "GECIName": "電,資,工,理,生,人,客,跨",
+                    "GECIEngName": "ECE,CCS,COE,COS,CBT,CHS,CHK,CI"
+                },
+                "通識跨院基本素養_通識跨院": {
+                    "course_category_cname": "通識跨院基本素養_通識跨院",
+                    "course_category_ename": "General Education Course: Intercollegiate_GECI",
+                    "course_category_type": "16",
+                    "GECIName": "電,資,工,理,生,人,客,跨",
+                    "GECIEngName": "ECE,CCS,COE,COS,CBT,CHS,CHK,CI"
+                }
+            },
+            "1121_517003": {
+                "基本素養-量性推理_基本素養-量性推理": {
+                    "course_category_cname": "基本素養-量性推理_基本素養-量性推理",
+                    "course_category_ename": "Foundation-quantitative_FCQR",
+                    "course_category_type": "45",
+                    "GECIName": "電,資,工,理,生,人,客,跨",
+                    "GECIEngName": "ECE,CCS,COE,COS,CBT,CHS,CHK,CI"
+                },
+                "核心通識-社會與經濟_核心通識-社會與經濟": {
+                    "course_category_cname": "核心通識-社會與經濟_核心通識-社會與經濟",
+                    "course_category_ename": "Society and Economy_Society and Economy",
+                    "course_category_type": "33",
+                    "GECIName": "電,資,工,理,生,人,客,跨",
+                    "GECIEngName": "ECE,CCS,COE,COS,CBT,CHS,CHK,CI"
+                },
+                "跨校區課程_跨校區課程": {
+                    "course_category_cname": "跨校區課程_跨校區課程",
+                    "course_category_ename": "Cross-Campus Course_Cross-Campus Course",
+                    "course_category_type": "57",
+                    "GECIName": "電,資,工,理,生,人,客,跨",
+                    "GECIEngName": "ECE,CCS,COE,COS,CBT,CHS,CHK,CI"
+                },
+                "通識跨院基本素養_通識跨院": {
+                    "course_category_cname": "通識跨院基本素養_通識跨院",
+                    "course_category_ename": "General Education Course: Intercollegiate_GECI",
+                    "course_category_type": "16",
+                    "GECIName": "電,資,工,理,生,人,客,跨",
+                    "GECIEngName": "ECE,CCS,COE,COS,CBT,CHS,CHK,CI"
+                }
+            },
+            "1121_517004": {
+                "基本素養-量性推理_基本素養-量性推理": {
+                    "course_category_cname": "基本素養-量性推理_基本素養-量性推理",
+                    "course_category_ename": "Foundation-quantitative_FCQR",
+                    "course_category_type": "45",
+                    "GECIName": "電,資,工,理,生,人,客,跨",
+                    "GECIEngName": "ECE,CCS,COE,COS,CBT,CHS,CHK,CI"
+                },
+                "核心通識-社會與經濟_核心通識-社會與經濟": {
+                    "course_category_cname": "核心通識-社會與經濟_核心通識-社會與經濟",
+                    "course_category_ename": "Society and Economy_Society and Economy",
+                    "course_category_type": "33",
+                    "GECIName": "電,資,工,理,生,人,客,跨",
+                    "GECIEngName": "ECE,CCS,COE,COS,CBT,CHS,CHK,CI"
+                },
+                "通識跨院基本素養_通識跨院": {
+                    "course_category_cname": "通識跨院基本素養_通識跨院",
+                    "course_category_ename": "General Education Course: Intercollegiate_GECI",
+                    "course_category_type": "16",
+                    "GECIName": "電,資,工,理,生,人,客,跨",
+                    "GECIEngName": "ECE,CCS,COE,COS,CBT,CHS,CHK,CI"
+                }
+            },
+            "1121_517009": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_517010": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_517011": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_517150": {
+                "基本素養-組織管理_基本素養-組織管理": {
+                    "course_category_cname": "基本素養-組織管理_基本素養-組織管理",
+                    "course_category_ename": "Foundation-management_FCOM",
+                    "course_category_type": "46",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "通識校基本素養_通識校基本": {
+                    "course_category_cname": "通識校基本素養_通識校基本",
+                    "course_category_ename": "General Education Course: Literacy_GECL",
+                    "course_category_type": "15",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_517151": {
+                "博雅選修通識_博雅選修通識": {
+                    "course_category_cname": "博雅選修通識_博雅選修通識",
+                    "course_category_ename": "Optional Liberal Education_Optional Liberal Education",
+                    "course_category_type": "37",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "基本素養-組織管理_基本素養-組織管理": {
+                    "course_category_cname": "基本素養-組織管理_基本素養-組織管理",
+                    "course_category_ename": "Foundation-management_FCOM",
+                    "course_category_type": "46",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "通識校基本素養_通識校基本": {
+                    "course_category_cname": "通識校基本素養_通識校基本",
+                    "course_category_ename": "General Education Course: Literacy_GECL",
+                    "course_category_type": "15",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537003": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537008": {
+                "基本素養-組織管理_基本素養-組織管理": {
+                    "course_category_cname": "基本素養-組織管理_基本素養-組織管理",
+                    "course_category_ename": "Foundation-management_FCOM",
+                    "course_category_type": "46",
+                    "GECIName": "電",
+                    "GECIEngName": "ECE"
+                },
+                "核心通識-社會與經濟_核心通識-社會與經濟": {
+                    "course_category_cname": "核心通識-社會與經濟_核心通識-社會與經濟",
+                    "course_category_ename": "Society and Economy_Society and Economy",
+                    "course_category_type": "33",
+                    "GECIName": "電",
+                    "GECIEngName": "ECE"
+                },
+                "通識校基本素養_通識校基本": {
+                    "course_category_cname": "通識校基本素養_通識校基本",
+                    "course_category_ename": "General Education Course: Literacy_GECL",
+                    "course_category_type": "15",
+                    "GECIName": "電",
+                    "GECIEngName": "ECE"
+                },
+                "通識跨院基本素養_通識跨院": {
+                    "course_category_cname": "通識跨院基本素養_通識跨院",
+                    "course_category_ename": "General Education Course: Intercollegiate_GECI",
+                    "course_category_type": "16",
+                    "GECIName": "電",
+                    "GECIEngName": "ECE"
+                }
+            },
+            "1121_537801": {
+                "博雅選修通識_博雅選修通識": {
+                    "course_category_cname": "博雅選修通識_博雅選修通識",
+                    "course_category_ename": "Optional Liberal Education_Optional Liberal Education",
+                    "course_category_type": "37",
+                    "GECIName": "電,資,理,生,人,客",
+                    "GECIEngName": "ECE,CCS,COS,CBT,CHS,CHK"
+                },
+                "基本素養-組織管理_基本素養-組織管理": {
+                    "course_category_cname": "基本素養-組織管理_基本素養-組織管理",
+                    "course_category_ename": "Foundation-management_FCOM",
+                    "course_category_type": "46",
+                    "GECIName": "電,資,理,生,人,客",
+                    "GECIEngName": "ECE,CCS,COS,CBT,CHS,CHK"
+                },
+                "通識跨院基本素養_通識跨院": {
+                    "course_category_cname": "通識跨院基本素養_通識跨院",
+                    "course_category_ename": "General Education Course: Intercollegiate_GECI",
+                    "course_category_type": "16",
+                    "GECIName": "電,資,理,生,人,客",
+                    "GECIEngName": "ECE,CCS,COS,CBT,CHS,CHK"
+                }
+            },
+            "1121_537808": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537809": {
+                "博雅選修通識_博雅選修通識": {
+                    "course_category_cname": "博雅選修通識_博雅選修通識",
+                    "course_category_ename": "Optional Liberal Education_Optional Liberal Education",
+                    "course_category_type": "37",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "基本素養-組織管理_基本素養-組織管理": {
+                    "course_category_cname": "基本素養-組織管理_基本素養-組織管理",
+                    "course_category_ename": "Foundation-management_FCOM",
+                    "course_category_type": "46",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "通識校基本素養_通識校基本": {
+                    "course_category_cname": "通識校基本素養_通識校基本",
+                    "course_category_ename": "General Education Course: Literacy_GECL",
+                    "course_category_type": "15",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537810": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537817": {
+                "跨校區課程_跨校區課程": {
+                    "course_category_cname": "跨校區課程_跨校區課程",
+                    "course_category_ename": "Cross-Campus Course_Cross-Campus Course",
+                    "course_category_type": "57",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537820": {
+                "基本素養-組織管理_基本素養-組織管理": {
+                    "course_category_cname": "基本素養-組織管理_基本素養-組織管理",
+                    "course_category_ename": "Foundation-management_FCOM",
+                    "course_category_type": "46",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "跨校區課程_跨校區課程": {
+                    "course_category_cname": "跨校區課程_跨校區課程",
+                    "course_category_ename": "Cross-Campus Course_Cross-Campus Course",
+                    "course_category_type": "57",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "通識校基本素養_通識校基本": {
+                    "course_category_cname": "通識校基本素養_通識校基本",
+                    "course_category_ename": "General Education Course: Literacy_GECL",
+                    "course_category_type": "15",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "遠距課程_遠距": {
+                    "course_category_cname": "遠距課程_遠距",
+                    "course_category_ename": "Distance  Learning Courses_DL",
+                    "course_category_type": "4",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_230002": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_517000": {
+                "A504,A905,Z102": {
+                    "brief_code": "A504,A905,Z102",
+                    "brief": "跨院基本素養(106),核心通識-社會與經濟(90),基本素養-量性推理(110)"
+                }
+            },
+            "1121_517001": {
+                "A504,A905,Z102": {
+                    "brief_code": "A504,A905,Z102",
+                    "brief": "跨院基本素養(106),核心通識-社會與經濟(90),基本素養-量性推理(110)"
+                }
+            },
+            "1121_517002": {
+                "A504,A905,Z102": {
+                    "brief_code": "A504,A905,Z102",
+                    "brief": "跨院基本素養(106),核心通識-社會與經濟(90),基本素養-量性推理(110)"
+                }
+            },
+            "1121_517003": {
+                "A504,A905,Z102": {
+                    "brief_code": "A504,A905,Z102",
+                    "brief": "跨院基本素養(106),核心通識-社會與經濟(90),基本素養-量性推理(110)"
+                }
+            },
+            "1121_517004": {
+                "A504,A905,Z102": {
+                    "brief_code": "A504,A905,Z102",
+                    "brief": "跨院基本素養(106),核心通識-社會與經濟(90),基本素養-量性推理(110)"
+                }
+            },
+            "1121_517009": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_517010": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_517011": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_517150": {
+                "A505,Z103": {
+                    "brief_code": "A505,Z103",
+                    "brief": "校基本素養(106),基本素養-組織管理(110)"
+                }
+            },
+            "1121_517151": {
+                "A505,A909,Z103": {
+                    "brief_code": "A505,A909,Z103",
+                    "brief": "校基本素養(106),博雅選修通識 (90),基本素養-組織管理(110)"
+                }
+            },
+            "1121_537003": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537008": {
+                "A504,A505,A905,Z103": {
+                    "brief_code": "A504,A505,A905,Z103",
+                    "brief": "跨院基本素養(106),校基本素養(106),核心通識-社會與經濟(90),基本素養-組織管理(110)"
+                }
+            },
+            "1121_537801": {
+                "A504,A909,Z103": {
+                    "brief_code": "A504,A909,Z103",
+                    "brief": "跨院基本素養(106),博雅選修通識 (90),基本素養-組織管理(110)"
+                }
+            },
+            "1121_537808": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537809": {
+                "A505,A909,Z103": {
+                    "brief_code": "A505,A909,Z103",
+                    "brief": "校基本素養(106),博雅選修通識 (90),基本素養-組織管理(110)"
+                }
+            },
+            "1121_537810": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537817": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537820": {
+                "A505,Z103": {
+                    "brief_code": "A505,Z103",
+                    "brief": "校基本素養(106),基本素養-組織管理(110)"
+                }
+            }
+        },
+        "language": {
+            "1121_230002": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_517000": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_517001": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_517002": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_517003": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_517004": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_517009": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_517010": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_517011": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_517150": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_517151": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_537003": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_537008": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_537801": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_537808": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_537809": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_537810": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_537817": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_537820": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    }
+}

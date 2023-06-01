@@ -1,0 +1,477 @@
+{
+    "30412F02-B776-4030-9A81-DBEC284FB354": {
+        "dep_id": "30412F02-B776-4030-9A81-DBEC284FB354",
+        "dep_cname": "護理學系",
+        "dep_ename": "Department of Nursing",
+        "2": {
+            "1121_131711": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131711",
+                "cos_code": "NSCN30080",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "高齡健康照護與處置",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "陳怡如、王子芳、邱愛富、楊曼華",
+                "cos_time": "T567-YN419[YM]",
+                "memo": "臨護所、在職專班、長照學程、博士班合班上課。",
+                "cos_ename": "Health care and intervention in older adults",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "201",
+                "dep_primary": "2",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_131715": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131715",
+                "cos_code": "NSCN30047",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "護理關懷與療癒專題研討(三)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "穆佩芬",
+                "cos_time": "W9a-YN416[YM]",
+                "memo": "與臨護所、在職專班、博士班合班上課。",
+                "cos_ename": "Seminar in Nursing Caring and Healing (III)",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "201",
+                "dep_primary": "2",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_131802": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131802",
+                "cos_code": "NSCH30018",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "感染管制與實證研究",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳瑛瑛",
+                "cos_time": "R89-YN419[YM]",
+                "memo": "與臨護所、在職專班、社區所、博士班合班上課",
+                "cos_ename": "Infection Control and Evidence Research",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "201",
+                "dep_primary": "2",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_131803": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131803",
+                "cos_code": "NSCH30019",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "流行病學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳瑛瑛",
+                "cos_time": "T89-YN322[YM]",
+                "memo": "與臨護所、在職專班、社區所、博士班合班上課",
+                "cos_ename": "Epidemiology",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "201",
+                "dep_primary": "2",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_150216": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "150216",
+                "cos_code": "NSDN30077",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "精神心理衛生護理專題",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "楊秋月",
+                "cos_time": "R9a-YN322[YM]",
+                "memo": "開放臨護所、博士班合班上課",
+                "cos_ename": "Seminar in Psychiatric Mental Health Nursing",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "201",
+                "dep_primary": "2",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            }
+        },
+        "costype": {
+            "1121_131711": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131715": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131802": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131803": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_141400": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_141401": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_141403": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_141404": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_150207": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_150216": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_131711": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131715": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131802": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131803": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_141400": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_141401": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_141403": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_141404": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_150207": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_150216": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_131711": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131715": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131802": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131803": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_141400": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_141401": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_141403": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_141404": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_150207": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_150216": {
+                "授課語言代碼": "zh-tw"
+            }
+        },
+        "1": {
+            "1121_141400": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "141400",
+                "cos_code": "NSDN30072",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "量性研究方法論",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "黃子庭、蔡慈儀、簡莉盈",
+                "cos_time": "F56-YN301[YM]",
+                "memo": "",
+                "cos_ename": "Quantitative Methodology",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "201",
+                "dep_primary": "1",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_141401": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "141401",
+                "cos_code": "NSDN30058",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "護理哲理與知識建構",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "許樹珍、陳紀雯",
+                "cos_time": "F234-YN301[YM]",
+                "memo": "",
+                "cos_ename": "Philosophy and Knowledge Construction in Nursing",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "201",
+                "dep_primary": "1",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_141403": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "141403",
+                "cos_code": "NSDN30036",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "研究專論",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "蔡慈儀、孫秀卿、陳律言",
+                "cos_time": "F78-YN301[YM]",
+                "memo": "全英語授課，護理系博士班必選課程，須修兩次。歡迎其他系所選修。[English Medium Course]",
+                "cos_ename": "Seminar",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "201",
+                "dep_primary": "1",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_141404": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "141404",
+                "cos_code": "NSDN30019",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "家庭健康策略與評值",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "蔡慈儀、穆佩芬、陳紀雯、劉佩青",
+                "cos_time": "F234-YN603[YM]",
+                "memo": "",
+                "cos_ename": "Family Health Strategy and Outcome Evaluation",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "201",
+                "dep_primary": "1",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_150207": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "150207",
+                "cos_code": "NSDN30016",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "兒童照護專題討論",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳紀雯",
+                "cos_time": "R56-YN419[YM]",
+                "memo": "開放臨護所、博士班合班上課",
+                "cos_ename": "Seminar for Selective Topics on Child Health Nursing",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "201",
+                "dep_primary": "1",
+                "dep_cname": "護理學系",
+                "dep_ename": "Department of Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            }
+        }
+    }
+}

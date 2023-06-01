@@ -1,0 +1,760 @@
+{
+    "EBBCC9FB-890B-47DD-9FE6-C865633444BC": {
+        "dep_id": "EBBCC9FB-890B-47DD-9FE6-C865633444BC",
+        "dep_cname": "物理研究所",
+        "dep_ename": "Institute of Physics",
+        "2": {
+            "1121_536601": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536601",
+                "cos_code": "SCEP30010",
+                "num_limit": "80",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "半導體物理及元件（一）",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://140.113.28.160/",
+                "teacher": "趙天生",
+                "cos_time": "W789-SC162[GF]",
+                "memo": "",
+                "cos_ename": "Semiconductor Physics and Devices (I)",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "658",
+                "dep_primary": "2",
+                "dep_cname": "物理研究所",
+                "dep_ename": "Institute of Physics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536602": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536602",
+                "cos_code": "SCEP30045",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "高等固態物理（一）",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://gate.ep.nctu.edu.tw/~chenyc",
+                "teacher": "陳煜璋",
+                "cos_time": "T234-SC162[GF]",
+                "memo": "",
+                "cos_ename": "Advanced Solid State Physics (I)",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "658",
+                "dep_primary": "2",
+                "dep_cname": "物理研究所",
+                "dep_ename": "Institute of Physics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536603": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536603",
+                "cos_code": "SCEP30012",
+                "num_limit": "130",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "半導體製程技術",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "蘇俊榮",
+                "cos_time": "T789-SC162[GF]",
+                "memo": "",
+                "cos_ename": "Semiconductor Process and Technology",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "658",
+                "dep_primary": "2",
+                "dep_cname": "物理研究所",
+                "dep_ename": "Institute of Physics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536606": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536606",
+                "cos_code": "SCEP30040",
+                "num_limit": "40",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "雷射導論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "徐琅",
+                "cos_time": "R234-SC162[GF]",
+                "memo": "",
+                "cos_ename": "Int. to Laser",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "658",
+                "dep_primary": "2",
+                "dep_cname": "物理研究所",
+                "dep_ename": "Institute of Physics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            }
+        },
+        "costype": {
+            "1121_536601": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536602": {
+                "OCW_OCW": {
+                    "course_category_cname": "OCW_OCW",
+                    "course_category_ename": "OCW_OCW",
+                    "course_category_type": "28",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536603": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536606": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536950": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536951": {
+                "專題演講_專題演講": {
+                    "course_category_cname": "專題演講_專題演講",
+                    "course_category_ename": "",
+                    "course_category_type": "62",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536952": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536953": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536954": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536955": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536956": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536957": {
+                "專題演講_專題演講": {
+                    "course_category_cname": "專題演講_專題演講",
+                    "course_category_ename": "",
+                    "course_category_type": "62",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536958": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536960": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536961": {
+                "跨校區課程_跨校區課程": {
+                    "course_category_cname": "跨校區課程_跨校區課程",
+                    "course_category_ename": "Cross-Campus Course_Cross-Campus Course",
+                    "course_category_type": "57",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_536962": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_536601": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536602": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536603": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536606": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536950": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536951": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536952": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536953": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536954": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536955": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536956": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536957": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536958": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536960": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536961": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_536962": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_536601": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536602": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536603": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536606": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536950": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_536951": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_536952": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_536953": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_536954": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_536955": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_536956": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536957": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_536958": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_536960": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_536961": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_536962": {
+                "授課語言代碼": "zh-tw"
+            }
+        },
+        "1": {
+            "1121_536950": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536950",
+                "cos_code": "SCIP30035",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "量子力學(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://140.113.143.87/main.php",
+                "teacher": "寺西慶哲",
+                "cos_time": "T78F7-SC157[GF]",
+                "memo": "英文授課 [English Medium Course]",
+                "cos_ename": "Quantum Mechanics (I)",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "658",
+                "dep_primary": "1",
+                "dep_cname": "物理研究所",
+                "dep_ename": "Institute of Physics",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536951": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536951",
+                "cos_code": "SCIP30018",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "書報討論",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "孟心飛",
+                "cos_time": "R56-SC157[GF]",
+                "memo": "英文授課 [English Medium Course]",
+                "cos_ename": "Seminar",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "658",
+                "dep_primary": "1",
+                "dep_cname": "物理研究所",
+                "dep_ename": "Institute of Physics",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536952": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536952",
+                "cos_code": "SCIP30044",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "高等量子力學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://www.cc.nctu.edu.tw/~cjdlin/",
+                "teacher": "林及仁",
+                "cos_time": "R789-SC157[GF]",
+                "memo": "1. 英文授課[English Medium Course] 2. 同意社會人士隨班附讀，上限2人 [Allow up to 2 seats for the public to audit the course]\n",
+                "cos_ename": "Advanced Quantum Mechanics",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "658",
+                "dep_primary": "1",
+                "dep_cname": "物理研究所",
+                "dep_ename": "Institute of Physics",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536953": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536953",
+                "cos_code": "SCIP30050",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "新穎晶格場論方法",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://www.cc.nctu.edu.tw/~cjdlin/",
+                "teacher": "林及仁",
+                "cos_time": "Wn56-",
+                "memo": "1. 英文授課 [English Medium Course] 2. 同意社會人士隨班附讀，上限1人 [Allow up to 1 seats for the public to audit the course] 3. 教室: 【光復】科學三館_SC427 [Classroom: 【Guangfu】Science Building 3_SC427]\n",
+                "cos_ename": "Novel Methods In Lattice Field Theory",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "658",
+                "dep_primary": "1",
+                "dep_cname": "物理研究所",
+                "dep_ename": "Institute of Physics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536954": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536954",
+                "cos_code": "SCIP30009",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "固態物理(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "林俊源",
+                "cos_time": "M567-SC157[GF]",
+                "memo": "英文授課 [English Medium Course]",
+                "cos_ename": "Solid State Physics (I)",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "658",
+                "dep_primary": "1",
+                "dep_cname": "物理研究所",
+                "dep_ename": "Institute of Physics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536955": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536955",
+                "cos_code": "SCIP30053",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "超導與磁性薄膜",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "林俊源",
+                "cos_time": "Tabc-SC157[GF]",
+                "memo": "英文授課 [English Medium Course]",
+                "cos_ename": "Superconducting & Magnetic Thin Film",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "658",
+                "dep_primary": "1",
+                "dep_cname": "物理研究所",
+                "dep_ename": "Institute of Physics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536956": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536956",
+                "cos_code": "SCIP10003",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "經典物理(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "林俊源、寺西慶哲",
+                "cos_time": "F234-SC157[GF]",
+                "memo": "1. 中英文授課 [Bilingual teaching in Chinese and English] 2. 本課程為大學部課程 [This course is an undergraduate course]\n",
+                "cos_ename": "Classical Physics (I)",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "658",
+                "dep_primary": "1",
+                "dep_cname": "物理研究所",
+                "dep_ename": "Institute of Physics",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536957": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536957",
+                "cos_code": "SCIP30043",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "高能物理專題演講",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "林貴林",
+                "cos_time": "T6-",
+                "memo": "1. 英文授課 [English Medium Course] 2. 同意社會人士隨班附讀，上限5人 [Allow up to 5 seats for the public to audit the course] 3. 教室: 【光復】科學三館_SC427 [Classroom: 【Guangfu】Science Building 3_SC427]",
+                "cos_ename": "Seminar in High Energy Physics",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "658",
+                "dep_primary": "1",
+                "dep_cname": "物理研究所",
+                "dep_ename": "Institute of Physics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536958": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536958",
+                "cos_code": "SCIP30033",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "量子場論(二)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "高崇文",
+                "cos_time": "R789-SC159[GF]",
+                "memo": "英文授課 [English Medium Course]",
+                "cos_ename": "Quantum Field Theory (II)",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "658",
+                "dep_primary": "1",
+                "dep_cname": "物理研究所",
+                "dep_ename": "Institute of Physics",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536960": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536960",
+                "cos_code": "SCIP30039",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "電動力學(一)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "傅嵐熙 Anthony Francis",
+                "cos_time": "Tn5W7-SC157[GF]",
+                "memo": "1. 英文授課[English Medium Course] 2. 博士班必修[Required course for PhD Program] 3. 碩士班選修[Required elective course for Master’s Program] 4. 同意社會人士隨班附讀，上限5人 [Allow up to 5 seats for the public to audit the course]\n",
+                "cos_ename": "Electrodynamics (I)",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "658",
+                "dep_primary": "1",
+                "dep_cname": "物理研究所",
+                "dep_ename": "Institute of Physics",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536961": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536961",
+                "cos_code": "SCIP20001",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "天文學初探",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "https://gore-physics.blogspot.com/2021/06/blog-post_20.html?m=1",
+                "teacher": "高文芳",
+                "cos_time": "F78-SC162[GF]",
+                "memo": "1. 本課程為師資生認證國中自然與生活科技領域教育專門課程學生使用，不能採計為教育專業學分。2. 本課程為「特別」課程，不能採計為研究所(含物理研究所)畢業學分，且大學生如欲將此課程列為畢業學分，需自行向各系確認是否承認該學分。3. 本課程無法於線上選課，請直接聯繫授課教師加選。",
+                "cos_ename": "Astronomy 101",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "658",
+                "dep_primary": "1",
+                "dep_cname": "物理研究所",
+                "dep_ename": "Institute of Physics",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_536962": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "536962",
+                "cos_code": "SCIP30054",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "宇宙學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://gore-physics.blogspot.com/2021/06/blog-post_20.html?m=1",
+                "teacher": "高文芳",
+                "cos_time": "Rabc-SC162[GF]",
+                "memo": "",
+                "cos_ename": "Cosmology",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "658",
+                "dep_primary": "1",
+                "dep_cname": "物理研究所",
+                "dep_ename": "Institute of Physics",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            }
+        }
+    }
+}

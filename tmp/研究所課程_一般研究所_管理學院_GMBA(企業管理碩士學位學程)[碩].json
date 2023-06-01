@@ -1,0 +1,767 @@
+{
+    "DEB2325B-3B51-4F08-8CD8-CD1AA022F182": {
+        "dep_id": "DEB2325B-3B51-4F08-8CD8-CD1AA022F182",
+        "dep_cname": "企業管理碩士學位學程",
+        "dep_ename": "Degree Program of Global Business Administration",
+        "2": {
+            "1121_230004": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "230004",
+                "cos_code": "MGBM30025",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "研究方法",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "陳燕諭",
+                "cos_time": "T234-TB307[BM]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Research Methods",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "712",
+                "dep_primary": "2",
+                "dep_cname": "企業管理碩士學位學程",
+                "dep_ename": "Degree Program of Global Business Administration",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "H"
+            },
+            "1121_230005": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "230005",
+                "cos_code": "MGBM30028",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "科技產業分析",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "http://www.ibm.nctu.edu.tw/ibm/faculty/proTsaidnWebsite/proTsaidn.html",
+                "teacher": "蔡蕙安",
+                "cos_time": "T567-TB435[BM]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Science & Technology Industry Analysis",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "712",
+                "dep_primary": "2",
+                "dep_cname": "企業管理碩士學位學程",
+                "dep_ename": "Degree Program of Global Business Administration",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "H"
+            },
+            "1121_230010": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "230010",
+                "cos_code": "MGBM30059",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "行銷管理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "高瑞麟",
+                "cos_time": "W567-TB307[BM]",
+                "memo": "[English Medium Course]For undergraduate students who want to take this course, please consult the teacher via email first. GMBA輔開;IMBA學程;",
+                "cos_ename": "Marketing Management",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "712",
+                "dep_primary": "2",
+                "dep_cname": "企業管理碩士學位學程",
+                "dep_ename": "Degree Program of Global Business Administration",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "H"
+            },
+            "1121_230013": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "230013",
+                "cos_code": "MGBM30022",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "現代行銷觀點",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "高瑞麟",
+                "cos_time": "R567-TB435[BM]",
+                "memo": "[English Medium Course]For undergraduate students who want to take this course, please consult the teacher via email first. GMBA輔開;IMBA學程;",
+                "cos_ename": "Modern Marketing Perspectives",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "712",
+                "dep_primary": "2",
+                "dep_cname": "企業管理碩士學位學程",
+                "dep_ename": "Degree Program of Global Business Administration",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "H"
+            },
+            "1121_230015": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "230015",
+                "cos_code": "MGBM30065",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "財務管理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "劉志諒",
+                "cos_time": "F234-TB307[BM]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Financial Management",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "712",
+                "dep_primary": "2",
+                "dep_cname": "企業管理碩士學位學程",
+                "dep_ename": "Degree Program of Global Business Administration",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "H"
+            },
+            "1121_230016": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "230016",
+                "cos_code": "MGBM30001",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "人力資源管理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://sites.google.com/nctu.edu.tw/profuenspages/",
+                "teacher": "溫金豐",
+                "cos_time": "F567-TB307[BM]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Human Resource Management",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "712",
+                "dep_primary": "2",
+                "dep_cname": "企業管理碩士學位學程",
+                "dep_ename": "Degree Program of Global Business Administration",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "H"
+            },
+            "1121_537013": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537013",
+                "cos_code": "MGMS30028",
+                "num_limit": "40",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "國際企業管理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "郭國泰",
+                "cos_time": "F567-M301[GF]",
+                "memo": "英語授課。開放大三大四同學選修。管科所主開;GMBA輔開。[English Medium Course]",
+                "cos_ename": "International Business Management",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "712",
+                "dep_primary": "2",
+                "dep_cname": "企業管理碩士學位學程",
+                "dep_ename": "Degree Program of Global Business Administration",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "H"
+            },
+            "1121_537712": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537712",
+                "cos_code": "MGIF30043",
+                "num_limit": "80",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "機器學習與金融科技",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://hackmd.io/@hwteng/HyKOPoA6d",
+                "teacher": "鄧惠文",
+                "cos_time": "F234-M101[GF]",
+                "memo": "[English Medium Course]財務類課程；財務金融碩博士班、GMBA學生優先；英語授課。",
+                "cos_ename": "Machine Learning and FinTech",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "712",
+                "dep_primary": "2",
+                "dep_cname": "企業管理碩士學位學程",
+                "dep_ename": "Degree Program of Global Business Administration",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "H"
+            },
+            "1121_537801": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537801",
+                "cos_code": "MGMT30010",
+                "num_limit": "30",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "創意與創新管理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "林士平",
+                "cos_time": "T234-A701[GF]",
+                "memo": "[English Medium Course]大學部學生請於開學後紙本加選。",
+                "cos_ename": "Creativity and Innovation Management",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "712",
+                "dep_primary": "2",
+                "dep_cname": "企業管理碩士學位學程",
+                "dep_ename": "Degree Program of Global Business Administration",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "H"
+            },
+            "1121_537817": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537817",
+                "cos_code": "MGMT30083",
+                "num_limit": "20",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "設計思考與商業模式創新",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "陳詩欣",
+                "cos_time": "M34n-A722[GF]",
+                "memo": "[English Medium Course]\n實地線上混合教學課程。\n陽明校區：線上，請向教師索取線上連結。",
+                "cos_ename": "Design Thinking and Business Model Innovation",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "712",
+                "dep_primary": "2",
+                "dep_cname": "企業管理碩士學位學程",
+                "dep_ename": "Degree Program of Global Business Administration",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "H"
+            }
+        },
+        "costype": {
+            "1121_230004": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_230005": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_230010": {
+                "通識跨院基本素養_通識跨院": {
+                    "course_category_cname": "通識跨院基本素養_通識跨院",
+                    "course_category_ename": "General Education Course: Intercollegiate_GECI",
+                    "course_category_type": "16",
+                    "GECIName": "電,資",
+                    "GECIEngName": "ECE,CCS"
+                }
+            },
+            "1121_230013": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_230015": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_230016": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537013": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537153": {
+                "智財權課程_智財權": {
+                    "course_category_cname": "智財權課程_智財權",
+                    "course_category_ename": "Intellectual Property_IP",
+                    "course_category_type": "8",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537154": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537155": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537156": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537157": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537158": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537712": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_537801": {
+                "博雅選修通識_博雅選修通識": {
+                    "course_category_cname": "博雅選修通識_博雅選修通識",
+                    "course_category_ename": "Optional Liberal Education_Optional Liberal Education",
+                    "course_category_type": "37",
+                    "GECIName": "電,資,理,生,人,客",
+                    "GECIEngName": "ECE,CCS,COS,CBT,CHS,CHK"
+                },
+                "基本素養-組織管理_基本素養-組織管理": {
+                    "course_category_cname": "基本素養-組織管理_基本素養-組織管理",
+                    "course_category_ename": "Foundation-management_FCOM",
+                    "course_category_type": "46",
+                    "GECIName": "電,資,理,生,人,客",
+                    "GECIEngName": "ECE,CCS,COS,CBT,CHS,CHK"
+                },
+                "通識跨院基本素養_通識跨院": {
+                    "course_category_cname": "通識跨院基本素養_通識跨院",
+                    "course_category_ename": "General Education Course: Intercollegiate_GECI",
+                    "course_category_type": "16",
+                    "GECIName": "電,資,理,生,人,客",
+                    "GECIEngName": "ECE,CCS,COS,CBT,CHS,CHK"
+                }
+            },
+            "1121_537817": {
+                "跨校區課程_跨校區課程": {
+                    "course_category_cname": "跨校區課程_跨校區課程",
+                    "course_category_ename": "Cross-Campus Course_Cross-Campus Course",
+                    "course_category_type": "57",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_230004": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_230005": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_230010": {
+                "A504": {
+                    "brief_code": "A504",
+                    "brief": "跨院基本素養(106)"
+                }
+            },
+            "1121_230013": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_230015": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_230016": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537013": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537153": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537154": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537155": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537156": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537157": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537158": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537712": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_537801": {
+                "A504,A909,Z103": {
+                    "brief_code": "A504,A909,Z103",
+                    "brief": "跨院基本素養(106),博雅選修通識 (90),基本素養-組織管理(110)"
+                }
+            },
+            "1121_537817": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_230004": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_230005": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_230010": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_230013": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_230015": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_230016": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_537013": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_537153": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_537154": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_537155": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_537156": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_537157": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_537158": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_537712": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_537801": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_537817": {
+                "授課語言代碼": "en-us"
+            }
+        },
+        "1": {
+            "1121_537153": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537153",
+                "cos_code": "MGBA30006",
+                "num_limit": "40",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "全球智慧財產權管理與企業法律",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "陳在方、林建中、金孟華、施明遠、李界昇、郭詠華",
+                "cos_time": "M567-MB110[GF]",
+                "memo": "英文授課,GMBA學生優先,限40人、限碩班以上選修[English Medium Course]",
+                "cos_ename": "Global IP Management & Business Law",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "712",
+                "dep_primary": "1",
+                "dep_cname": "企業管理碩士學位學程",
+                "dep_ename": "Degree Program of Global Business Administration",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "H"
+            },
+            "1121_537154": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537154",
+                "cos_code": "MGBA30011",
+                "num_limit": "36",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "行銷管理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "林士平",
+                "cos_time": "T567-MB110[GF]",
+                "memo": "英文授課、非IMBA課程、GMBA及科管所學生優先、限30人、限碩班以上選修。學分班與GMBA碩班合開。\nIs currently a graduate student. 2. Is approved by the lecturer.[English Medium Course]",
+                "cos_ename": "Marketing Management",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "712",
+                "dep_primary": "1",
+                "dep_cname": "企業管理碩士學位學程",
+                "dep_ename": "Degree Program of Global Business Administration",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "H"
+            },
+            "1121_537155": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537155",
+                "cos_code": "MGBA30016",
+                "num_limit": "36",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "領導與組織行為",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "高國揚",
+                "cos_time": "W567-",
+                "memo": "英文授課、限GMBA學生。學分班與GMBA碩班合開。[English Medium Course]",
+                "cos_ename": "Leadership and Organizational Behavior",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "712",
+                "dep_primary": "1",
+                "dep_cname": "企業管理碩士學位學程",
+                "dep_ename": "Degree Program of Global Business Administration",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "H"
+            },
+            "1121_537156": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537156",
+                "cos_code": "MGBA30008",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "營運與供應鏈管理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://wenchihchen.wordpress.com/",
+                "teacher": "陳文智、呂錦山、黃寬丞",
+                "cos_time": "R567-MB110[GF]",
+                "memo": "英文授課、非IMBA課程、限GMBA學生，學分班與GMBA碩班合開[English Medium Course]",
+                "cos_ename": "Operations and Supply Chain Management",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "712",
+                "dep_primary": "1",
+                "dep_cname": "企業管理碩士學位學程",
+                "dep_ename": "Degree Program of Global Business Administration",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "H"
+            },
+            "1121_537157": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537157",
+                "cos_code": "MGBA30001",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "MBA碩士論文",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "GMBA",
+                "cos_time": "Mz-MB202[GF]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "MBA Thesis",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "712",
+                "dep_primary": "1",
+                "dep_cname": "企業管理碩士學位學程",
+                "dep_ename": "Degree Program of Global Business Administration",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "H"
+            },
+            "1121_537158": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "537158",
+                "cos_code": "MGBA30019",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "領航科技產業的創新與管理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "姜真秀、黃寬丞",
+                "cos_time": "Wabc-MB110[GF]",
+                "memo": "英文授課、非IMBA課程、限GMBA學生[English Medium Course]",
+                "cos_ename": "Pioneering Innovation and Management in the Tech Industry",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "712",
+                "dep_primary": "1",
+                "dep_cname": "企業管理碩士學位學程",
+                "dep_ename": "Degree Program of Global Business Administration",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "H"
+            }
+        }
+    }
+}

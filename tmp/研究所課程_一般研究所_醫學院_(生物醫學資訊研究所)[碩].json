@@ -1,0 +1,1351 @@
+{
+    "550F3DB0-31CD-4605-965E-A385C23D5880": {
+        "dep_id": "550F3DB0-31CD-4605-965E-A385C23D5880",
+        "dep_cname": "生物醫學資訊研究所",
+        "dep_ename": "Institute of Biomedical Informatics",
+        "2": {
+            "1121_130200": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130200",
+                "cos_code": "MDPH30051",
+                "num_limit": "135",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生物統計學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "林逸芬",
+                "cos_time": "R34-YX216[YM]",
+                "memo": "",
+                "cos_ename": "Biostatistics",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "112",
+                "dep_primary": "2",
+                "dep_cname": "生物醫學資訊研究所",
+                "dep_ename": "Institute of Biomedical Informatics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_133603": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "133603",
+                "cos_code": "LSSL30008",
+                "num_limit": "155",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生命科學院-生物醫學講座",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "連正章",
+                "cos_time": "W78-",
+                "memo": "1.全英語授課課程。\n2.本課程原則上僅限本校生命科學院學生(含大學部)及藥物科學院生物藥學研究所學生修習,其他學生如欲修課,需經本院審核同意。 \n3.不開放校際選課。\n4.本課程於陽明校區活動中心第三會議室上課[English Medium Course]",
+                "cos_ename": "Special lectures on biomedicine",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "112",
+                "dep_primary": "2",
+                "dep_cname": "生物醫學資訊研究所",
+                "dep_ename": "Institute of Biomedical Informatics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_143301": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "143301",
+                "cos_code": "MDIM30003",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "計算機概論",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "巫坤品",
+                "cos_time": "M78-YR104[YM]",
+                "memo": "不開放外系、所選修，跨領域醫學學程、生醫資訊所、生科系一年級、醫學系B班一年級合班上課。",
+                "cos_ename": "Introduction to Computer Science",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "112",
+                "dep_primary": "2",
+                "dep_cname": "生物醫學資訊研究所",
+                "dep_ename": "Institute of Biomedical Informatics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            }
+        },
+        "costype": {
+            "1121_130200": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131000": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131001": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131002": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131003": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131004": {
+                "專題演講_專題演講": {
+                    "course_category_cname": "專題演講_專題演講",
+                    "course_category_ename": "",
+                    "course_category_type": "62",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131005": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131006": {
+                "一般實習_一般實習": {
+                    "course_category_cname": "一般實習_一般實習",
+                    "course_category_ename": "Off-Campus Internship_Off-Campus Internship",
+                    "course_category_type": "26",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131007": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131008": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131009": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131010": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131011": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131012": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131013": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131014": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131015": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131016": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131017": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131018": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131019": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131020": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131021": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131022": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131023": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131024": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131025": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_133603": {
+                "專題演講_專題演講": {
+                    "course_category_cname": "專題演講_專題演講",
+                    "course_category_ename": "",
+                    "course_category_type": "62",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_143301": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_130200": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131000": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131001": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131002": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131003": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131004": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131005": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131006": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131007": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131008": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131009": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131010": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131011": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131012": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131013": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131014": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131015": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131016": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131017": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131018": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131019": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131020": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131021": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131022": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131023": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131024": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131025": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_133603": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_143301": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_130200": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131000": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131001": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131002": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131003": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131004": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131005": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131006": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131007": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131008": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131009": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131010": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_131011": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131012": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131013": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131014": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131015": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131016": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131017": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131018": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131019": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131020": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_131021": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131022": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_131023": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131024": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131025": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_133603": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_143301": {
+                "授課語言代碼": "zh-tw"
+            }
+        },
+        "1": {
+            "1121_131000": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131000",
+                "cos_code": "MDBI30028",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生物醫學資訊專題討論(碩一A)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "林振慶、王禹超",
+                "cos_time": "M56-YR101[YM]",
+                "memo": "",
+                "cos_ename": "Biomedical Informatics Seminar",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "112",
+                "dep_primary": "1",
+                "dep_cname": "生物醫學資訊研究所",
+                "dep_ename": "Institute of Biomedical Informatics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_131001": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131001",
+                "cos_code": "MDBI30029",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生物醫學資訊專題討論(碩一B)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "黃彥華、巫坤品",
+                "cos_time": "M56-YR103[YM]",
+                "memo": "",
+                "cos_ename": "Biomedical Informatics Seminar",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "112",
+                "dep_primary": "1",
+                "dep_cname": "生物醫學資訊研究所",
+                "dep_ename": "Institute of Biomedical Informatics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_131002": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131002",
+                "cos_code": "MDBI30076",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生物醫學資訊專題討論(碩一C)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳卓逸、鍾翊方",
+                "cos_time": "M56-YR104[YM]",
+                "memo": "",
+                "cos_ename": "Biomedical Informatics Seminar",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "112",
+                "dep_primary": "1",
+                "dep_cname": "生物醫學資訊研究所",
+                "dep_ename": "Institute of Biomedical Informatics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_131003": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131003",
+                "cos_code": "MDBI30032",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生物醫學資訊學研究",
+                "cos_credit": "1.00",
+                "cos_hours": "1.00",
+                "TURL": "",
+                "teacher": "吳俊穎、巫坤品、黃宣誠、鍾翊方、張博論、洪哲倫、李國彬、王禹超、林振慶、黃彥華、陳卓逸",
+                "cos_time": "Un-",
+                "memo": "",
+                "cos_ename": "Research in Biomedical Informatics",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "112",
+                "dep_primary": "1",
+                "dep_cname": "生物醫學資訊研究所",
+                "dep_ename": "Institute of Biomedical Informatics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_131004": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131004",
+                "cos_code": "MDBI30089",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生物醫學資訊學新知（一）",
+                "cos_credit": ".00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "吳俊穎、張博論",
+                "cos_time": "Rn5-YL402[YM]",
+                "memo": "",
+                "cos_ename": "Advances in Biomedical Informatics I",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "112",
+                "dep_primary": "1",
+                "dep_cname": "生物醫學資訊研究所",
+                "dep_ename": "Institute of Biomedical Informatics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_131005": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131005",
+                "cos_code": "MDBI30036",
+                "num_limit": "45",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "生物醫學資訊學基礎(一)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "黃宣誠、巫坤品、吳俊穎、王禹超、陳卓逸",
+                "cos_time": "M78-YR101[YM]",
+                "memo": "第一階段及第二階段初選限生醫資訊所學生選修，生醫資訊所、微菌學程、跨領域醫學學程合班上課。",
+                "cos_ename": "Foundations for Biomedical Informatics I",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "112",
+                "dep_primary": "1",
+                "dep_cname": "生物醫學資訊研究所",
+                "dep_ename": "Institute of Biomedical Informatics",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_131006": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131006",
+                "cos_code": "MDBI30046",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生醫資訊學實務",
+                "cos_credit": "2.00",
+                "cos_hours": "4.00",
+                "TURL": "",
+                "teacher": "李國彬",
+                "cos_time": "Un-",
+                "memo": "實習課程，須經授課教師同意方得選修。",
+                "cos_ename": "Internship in Biomedical Informatics",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "112",
+                "dep_primary": "1",
+                "dep_cname": "生物醫學資訊研究所",
+                "dep_ename": "Institute of Biomedical Informatics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_131007": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131007",
+                "cos_code": "MDBI30006",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "分子細胞生物學概論",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "楊永正",
+                "cos_time": "T78-YR105[YM]",
+                "memo": "生醫資訊所、微菌學程合班上課。",
+                "cos_ename": "Molecular & Cell Biology",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "112",
+                "dep_primary": "1",
+                "dep_cname": "生物醫學資訊研究所",
+                "dep_ename": "Institute of Biomedical Informatics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_131008": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131008",
+                "cos_code": "MDBI30022",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "深度學習應用",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "洪哲倫",
+                "cos_time": "M34-YL403[YM]",
+                "memo": "須具備python程式撰寫經驗以及深度學習或是神經網路套件使用經驗，生醫資訊所、微菌學程合班上課。",
+                "cos_ename": "Deep Learning Applications",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "112",
+                "dep_primary": "1",
+                "dep_cname": "生物醫學資訊研究所",
+                "dep_ename": "Institute of Biomedical Informatics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_131009": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131009",
+                "cos_code": "MDBI30075",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "計算機概論",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "巫坤品",
+                "cos_time": "W56-YK104[YM]",
+                "memo": "不開放外系、所選修，生醫資訊所、不分系一年級、數位醫療學程合班上課。",
+                "cos_ename": "Introduction to Computer Science",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "112",
+                "dep_primary": "1",
+                "dep_cname": "生物醫學資訊研究所",
+                "dep_ename": "Institute of Biomedical Informatics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_131010": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131010",
+                "cos_code": "MDBI30004",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "健康大數據研究方法",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "吳俊穎、梁立霖、許耀峻",
+                "cos_time": "T56-YR101[YM]",
+                "memo": "[English Medium Course]全英文授課，生醫資訊所、臨醫所、國際衛生學程、跨領域醫學學程合班上課。",
+                "cos_ename": "Health big data research methodology",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "112",
+                "dep_primary": "1",
+                "dep_cname": "生物醫學資訊研究所",
+                "dep_ename": "Institute of Biomedical Informatics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_131011": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131011",
+                "cos_code": "MDBI30048",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "程式設計",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳卓逸",
+                "cos_time": "M34-YL401[YM]",
+                "memo": "生醫資訊所、醫技系一年級、藥學系一年級合班上課。",
+                "cos_ename": "Programming Design",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "112",
+                "dep_primary": "1",
+                "dep_cname": "生物醫學資訊研究所",
+                "dep_ename": "Institute of Biomedical Informatics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_131012": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131012",
+                "cos_code": "MDBI30074",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "模擬系統與數據分析",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "巫坤品",
+                "cos_time": "W78-YL401[YM]",
+                "memo": "不開放外系、所選修，生醫資訊所、生科系二年級、醫學系B班二年級合班上課。",
+                "cos_ename": "Simulation Models and Data Analysis",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "112",
+                "dep_primary": "1",
+                "dep_cname": "生物醫學資訊研究所",
+                "dep_ename": "Institute of Biomedical Informatics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "10",
+                "depType": "G"
+            },
+            "1121_131013": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131013",
+                "cos_code": "MDBI30025",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生物數學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "王禹超",
+                "cos_time": "T34-YL405[YM]",
+                "memo": "開放大學部選修。",
+                "cos_ename": "Mathematics for Biology",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "112",
+                "dep_primary": "1",
+                "dep_cname": "生物醫學資訊研究所",
+                "dep_ename": "Institute of Biomedical Informatics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_131014": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131014",
+                "cos_code": "MDBI30013",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "基因體數據分析",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "鍾翊方",
+                "cos_time": "T34-YR102[YM]",
+                "memo": "開放大學部選修。",
+                "cos_ename": "Genomic Data Analysis",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "112",
+                "dep_primary": "1",
+                "dep_cname": "生物醫學資訊研究所",
+                "dep_ename": "Institute of Biomedical Informatics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_131015": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131015",
+                "cos_code": "MDBI30045",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生醫資訊程式設計",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "黃彥華、鍾翊方",
+                "cos_time": "Uyz-",
+                "memo": "預計授課時間：暑期七月底至八月初。暑假上課日期：7/18、7/20、7/25、7/27、8/1、8/3，時間：上午9:00-12:00及下午13:30-16:30，線上授課。",
+                "cos_ename": "Biomedical Informatics Programming",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "112",
+                "dep_primary": "1",
+                "dep_cname": "生物醫學資訊研究所",
+                "dep_ename": "Institute of Biomedical Informatics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_131016": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131016",
+                "cos_code": "MDBI30049",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "系統生物學專題(一)",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "黃宣誠、王禹超、林振慶、陳卓逸",
+                "cos_time": "T78-YR101[YM]",
+                "memo": "",
+                "cos_ename": "Topics in Systems Biology (Ⅰ)",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "112",
+                "dep_primary": "1",
+                "dep_cname": "生物醫學資訊研究所",
+                "dep_ename": "Institute of Biomedical Informatics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_131017": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131017",
+                "cos_code": "MDBI30015",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "整合性基因體資料庫之應用程式設計",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "黃彥華",
+                "cos_time": "F34-YR102[YM]",
+                "memo": "",
+                "cos_ename": "Integrated genome database programming",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "112",
+                "dep_primary": "1",
+                "dep_cname": "生物醫學資訊研究所",
+                "dep_ename": "Institute of Biomedical Informatics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_131018": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131018",
+                "cos_code": "MDBI30073",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "設計思考",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "康仕仲",
+                "cos_time": "F34-YR103[YM]",
+                "memo": "",
+                "cos_ename": "Design Thinking",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "112",
+                "dep_primary": "1",
+                "dep_cname": "生物醫學資訊研究所",
+                "dep_ename": "Institute of Biomedical Informatics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_131019": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131019",
+                "cos_code": "MDBI30088",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生物網路分析",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "林振慶、黃宣誠",
+                "cos_time": "T56-YR103[YM]",
+                "memo": "生醫資訊所、微菌學程合班上課。",
+                "cos_ename": "Biological Network Analysis",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "112",
+                "dep_primary": "1",
+                "dep_cname": "生物醫學資訊研究所",
+                "dep_ename": "Institute of Biomedical Informatics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_131020": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131020",
+                "cos_code": "MDBI30001",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "JAVA程式設計",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "李國彬",
+                "cos_time": "W56-YR101[YM]",
+                "memo": "[English Medium Course] 全英文授課。",
+                "cos_ename": "Java programming language",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "112",
+                "dep_primary": "1",
+                "dep_cname": "生物醫學資訊研究所",
+                "dep_ename": "Institute of Biomedical Informatics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_131021": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131021",
+                "cos_code": "MDBI30052",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "論文寫作",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "黃彥華、李國彬",
+                "cos_time": "F56-YR102[YM]",
+                "memo": "",
+                "cos_ename": "Thesis Writing",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "112",
+                "dep_primary": "1",
+                "dep_cname": "生物醫學資訊研究所",
+                "dep_ename": "Institute of Biomedical Informatics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_131022": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131022",
+                "cos_code": "MDBI30005",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "健康資訊學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "張博論",
+                "cos_time": "M12-YR104[YM]",
+                "memo": "[English Medium Course]全英文授課。",
+                "cos_ename": "Introduction to Health Informatics",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "112",
+                "dep_primary": "1",
+                "dep_cname": "生物醫學資訊研究所",
+                "dep_ename": "Institute of Biomedical Informatics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_131023": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131023",
+                "cos_code": "MDBI30003",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "使用者經驗及界面設計",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "張博論",
+                "cos_time": "M34-YR104[YM]",
+                "memo": "",
+                "cos_ename": "User Experience and Interface Design",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "112",
+                "dep_primary": "1",
+                "dep_cname": "生物醫學資訊研究所",
+                "dep_ename": "Institute of Biomedical Informatics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_131024": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131024",
+                "cos_code": "MDBI30009",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "合成生物學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "鍾翊方、李國彬",
+                "cos_time": "Tab-YR104[YM]",
+                "memo": "開放大學部選修，須經授課教師同意後方得選修。",
+                "cos_ename": "Synthetic Biology",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "112",
+                "dep_primary": "1",
+                "dep_cname": "生物醫學資訊研究所",
+                "dep_ename": "Institute of Biomedical Informatics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_131025": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131025",
+                "cos_code": "MDBI30011",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "合成生物學應用",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "鍾翊方、李國彬",
+                "cos_time": "Rab-YR104[YM]",
+                "memo": "開放大學部選修，須先經授課教師簽名同意後方得選修。",
+                "cos_ename": "Applied Synthetic Biology",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "112",
+                "dep_primary": "1",
+                "dep_cname": "生物醫學資訊研究所",
+                "dep_ename": "Institute of Biomedical Informatics",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            }
+        }
+    }
+}

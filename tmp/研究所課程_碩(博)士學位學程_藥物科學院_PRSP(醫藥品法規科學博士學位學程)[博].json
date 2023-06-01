@@ -1,0 +1,247 @@
+{
+    "216E37DD-E171-ED11-8600-005056816DA7": {
+        "dep_id": "216E37DD-E171-ED11-8600-005056816DA7",
+        "dep_cname": "醫藥品法規科學博士學位學程",
+        "dep_ename": "Ph.D. Program in Regulatory Science and Policy",
+        "2": {
+            "1121_130504": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "130504",
+                "cos_code": "MDHH30010",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "健康科技與經濟評估",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "郎慧珠",
+                "cos_time": "T34-YN514[YM]",
+                "memo": "管理與政策必選修之一。",
+                "cos_ename": "Health Technology Assessment",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "233",
+                "dep_primary": "2",
+                "dep_cname": "醫藥品法規科學博士學位學程",
+                "dep_ename": "Ph.D. Program in Regulatory Science and Policy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_132007": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132007",
+                "cos_code": "PSPM20018",
+                "num_limit": "35",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "衛生行政與健康保險",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "許銘能、吳肖琪、李玉春、楊靖慧、黃彥芳、廖薰香、蔡淑鈴、吳全峰、張淑卿、廖家鼎、李巧玲",
+                "cos_time": "R56-YK533[YM]",
+                "memo": "",
+                "cos_ename": "Health Policy and Health Insurance",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "233",
+                "dep_primary": "2",
+                "dep_cname": "醫藥品法規科學博士學位學程",
+                "dep_ename": "Ph.D. Program in Regulatory Science and Policy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "M"
+            },
+            "1121_132014": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132014",
+                "cos_code": "PSPM30005",
+                "num_limit": "50",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "專題討論",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "東雅惠、王孟廷、許銘能、姜紹青、周月卿、張豫立、許家禎、周千瀅、陳寬軒、王笙帆",
+                "cos_time": "F34-YL402[YM]",
+                "memo": "乙丙組學生於圖資405教室上課，甲組學生請勿選擇此堂[English Medium Course]",
+                "cos_ename": "Seminar",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "233",
+                "dep_primary": "2",
+                "dep_cname": "醫藥品法規科學博士學位學程",
+                "dep_ename": "Ph.D. Program in Regulatory Science and Policy",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "35",
+                "depType": "M"
+            },
+            "1121_132025": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132025",
+                "cos_code": "PSPM30049",
+                "num_limit": "30",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "藥品臨床試驗法規科學與專利實務",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "張連成、許銘能",
+                "cos_time": "W34-YR103[YM]",
+                "memo": "",
+                "cos_ename": "Clinical Trial Regulatory Science and Patent Practice",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "233",
+                "dep_primary": "2",
+                "dep_cname": "醫藥品法規科學博士學位學程",
+                "dep_ename": "Ph.D. Program in Regulatory Science and Policy",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "M"
+            }
+        },
+        "costype": {
+            "1121_130504": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132007": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132014": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132025": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_143400": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_130504": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132007": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132014": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132025": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_143400": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_130504": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132007": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132014": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_132025": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_143400": {
+                "授課語言代碼": "zh-tw"
+            }
+        },
+        "1": {
+            "1121_143400": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "143400",
+                "cos_code": "PSRS30002",
+                "num_limit": "45",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "醫藥品產業概論",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "楊世偉",
+                "cos_time": "W89-YR105[YM]",
+                "memo": "",
+                "cos_ename": "Introduction to the Pharmaceutical and Medical Device Industry",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "233",
+                "dep_primary": "1",
+                "dep_cname": "醫藥品法規科學博士學位學程",
+                "dep_ename": "Ph.D. Program in Regulatory Science and Policy",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "M"
+            }
+        }
+    }
+}

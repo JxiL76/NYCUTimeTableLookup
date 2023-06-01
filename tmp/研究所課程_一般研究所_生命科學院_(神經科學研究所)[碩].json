@@ -1,0 +1,1050 @@
+{
+    "DBBF8086-1475-4CBE-9610-06329DB022F8": {
+        "dep_id": "DBBF8086-1475-4CBE-9610-06329DB022F8",
+        "dep_cname": "神經科學研究所",
+        "dep_ename": "Institute of Neuroscience",
+        "1": {
+            "1121_132700": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132700",
+                "cos_code": "LSNS30033",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "神經科學研究方法",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "蔡惠珍、連正章、劉福清、林士傑、陳摘文、林貝容、郭紘志",
+                "cos_time": "M67-YL837[YM]",
+                "memo": "政大學生選修、開放大學部學生修讀、開放非中文母語使用者選修。",
+                "cos_ename": "Neuroscience Research Methods",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "301",
+                "dep_primary": "1",
+                "dep_cname": "神經科學研究所",
+                "dep_ename": "Institute of Neuroscience",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_132701": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132701",
+                "cos_code": "LSNS30031",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "神經科學專論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://lin-lab.org",
+                "teacher": "林士傑、連正章、劉福清、蔡惠珍、陳摘文、林貝容",
+                "cos_time": "M234-YL839[YM]",
+                "memo": "開放隨班附讀、政大學生選課、開放非中文母語使用者選。開放大學部學生修讀。",
+                "cos_ename": "Special topics in neuroscience",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "301",
+                "dep_primary": "1",
+                "dep_cname": "神經科學研究所",
+                "dep_ename": "Institute of Neuroscience",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_132702": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132702",
+                "cos_code": "LSNS30034",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "神經科學總論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "https://lin-lab.org",
+                "teacher": "林士傑、連正章、劉福清、蔡惠珍、陳摘文、林貝容",
+                "cos_time": "R234-YL839[YM]",
+                "memo": "開放隨班附讀、政大學生選課、開放非中文母語使用者選。開放大學部學生修讀。",
+                "cos_ename": "Principles of Neuroscience",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "301",
+                "dep_primary": "1",
+                "dep_cname": "神經科學研究所",
+                "dep_ename": "Institute of Neuroscience",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_132703": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132703",
+                "cos_code": "LSNS30049",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "認知神經科學總論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "郭文瑞、林慶波、鄭雅薇、吳仕煒",
+                "cos_time": "M567-YL839[YM]",
+                "memo": "開放非中文母語使用者選修、開放大學部學生修讀。",
+                "cos_ename": "Cognitive Neuroscience",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "301",
+                "dep_primary": "1",
+                "dep_cname": "神經科學研究所",
+                "dep_ename": "Institute of Neuroscience",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_132704": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132704",
+                "cos_code": "LSNS30050",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "認知神經科學方法：理論與實作",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "郭文瑞、林慶波、鄭雅薇、吳仕煒",
+                "cos_time": "T34-YL837[YM]",
+                "memo": "開放非中文母語使用者選修、開放大學部學生修讀。",
+                "cos_ename": "Research Methods in Cognitive Neuroscience",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "301",
+                "dep_primary": "1",
+                "dep_cname": "神經科學研究所",
+                "dep_ename": "Institute of Neuroscience",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_132705": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132705",
+                "cos_code": "LSNS30024",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "神經科學專題討論(一)(碩士班)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "蔡惠珍、連正章、劉福清、林士傑、陳摘文、林貝容",
+                "cos_time": "R56-YL839[YM]",
+                "memo": "參與老師尚包括劉福清等6位；開放隨班附讀、政大學生選修。開放大學部學生修讀。",
+                "cos_ename": "Seminar",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "301",
+                "dep_primary": "1",
+                "dep_cname": "神經科學研究所",
+                "dep_ename": "Institute of Neuroscience",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_132706": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132706",
+                "cos_code": "LSNS30046",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "認知神經科學專題討論(碩,博)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "吳仕煒、林慶波、郭文瑞、鄭雅薇",
+                "cos_time": "T67-",
+                "memo": "1.開放非中文母語使用者選修。開放大學部學生修讀。\n2.上課地點暫定為活動中心第一會議室，TA會提早寫信通知修課學生上課地點。",
+                "cos_ename": "Seminar",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "301",
+                "dep_primary": "1",
+                "dep_cname": "神經科學研究所",
+                "dep_ename": "Institute of Neuroscience",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_132707": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132707",
+                "cos_code": "LSNS30027",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "神經科學專題討論(二)(博士班)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "蔡惠珍、連正章、劉福清、林士傑、陳摘文、林貝容",
+                "cos_time": "R56-YL839[YM]",
+                "memo": "參與老師尚包括劉福清等6位；開放隨班附讀、政大學生選修。開放大學部學生修讀。\n",
+                "cos_ename": "Seminar",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "301",
+                "dep_primary": "1",
+                "dep_cname": "神經科學研究所",
+                "dep_ename": "Institute of Neuroscience",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_132708": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132708",
+                "cos_code": "LSNS30069",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "結構腦影像分析",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "郭文瑞、尼大衛",
+                "cos_time": "M234-YL824[YM]",
+                "memo": "開放大學部學生修讀。",
+                "cos_ename": "Structural Brain Imaging Analysis",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "301",
+                "dep_primary": "1",
+                "dep_cname": "神經科學研究所",
+                "dep_ename": "Institute of Neuroscience",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_132709": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132709",
+                "cos_code": "LSNS30038",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "系統神經科學：腦與行為",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "https://lin-lab.org",
+                "teacher": "林士傑",
+                "cos_time": "T34-YL402[YM]",
+                "memo": "本課程將介紹當代系統神經科學技術，開放大學部學生修讀。視訊同步遠距課程 (陽明校區：YL402；交大校區：EE129)",
+                "cos_ename": "Systems Neuroscience: Brain and Behavior",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "301",
+                "dep_primary": "1",
+                "dep_cname": "神經科學研究所",
+                "dep_ename": "Institute of Neuroscience",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_132710": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132710",
+                "cos_code": "LSNS30003",
+                "num_limit": "10",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "大腦核磁共振影像實務探討(1)",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "周坤賢、林慶波",
+                "cos_time": "R678-YL823[YM]",
+                "memo": "本課程限修10人。開放大學部學生修讀。修課學生必須先接受過相關磁振造影原理或實作課程才能修習此課程。",
+                "cos_ename": "Principles and practice of magnetic resonance image of the human brain (1)",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "301",
+                "dep_primary": "1",
+                "dep_cname": "神經科學研究所",
+                "dep_ename": "Institute of Neuroscience",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_132711": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132711",
+                "cos_code": "LSNS30045",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "計算神經科學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "陳俊仲",
+                "cos_time": "W234-YL839[YM]",
+                "memo": "全英語授課，開放大學部學生修讀。[English Medium Course]",
+                "cos_ename": "Computational Neuroscience",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "301",
+                "dep_primary": "1",
+                "dep_cname": "神經科學研究所",
+                "dep_ename": "Institute of Neuroscience",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_132712": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132712",
+                "cos_code": "LSNS30004",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "學習與記憶導論",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "林貝容、陳摘文",
+                "cos_time": "F34-YL824[YM]",
+                "memo": "開放大學部學生修讀。",
+                "cos_ename": "Introduction of Neurobiology of Learning and Memory",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "301",
+                "dep_primary": "1",
+                "dep_cname": "神經科學研究所",
+                "dep_ename": "Institute of Neuroscience",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_132713": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132713",
+                "cos_code": "LSNS30070",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "核磁共振影像特論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "林慶波、周坤賢",
+                "cos_time": "M234-YL837[YM]",
+                "memo": "開放醫放及生物醫學工程學系選修。生醫影像學程。",
+                "cos_ename": "Current Topics in MRI",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "301",
+                "dep_primary": "1",
+                "dep_cname": "神經科學研究所",
+                "dep_ename": "Institute of Neuroscience",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_132714": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132714",
+                "cos_code": "LSNS30037",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "神經迴路與動態文獻選讀",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳摘文",
+                "cos_time": "W23-YL823[YM]",
+                "memo": "開放大學部學生修讀。",
+                "cos_ename": "Special topics on neural circuit and dynamics ",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "301",
+                "dep_primary": "1",
+                "dep_cname": "神經科學研究所",
+                "dep_ename": "Institute of Neuroscience",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_132715": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132715",
+                "cos_code": "LSNS30072",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "大腦皮質基底核神經迴路結構功能文獻選讀",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "劉福清",
+                "cos_time": "T89-YL823[YM]",
+                "memo": "開放大學部學生修讀。\n",
+                "cos_ename": "Literature reading of neural circuits in the cerebral cortex and basal ganglia",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "301",
+                "dep_primary": "1",
+                "dep_cname": "神經科學研究所",
+                "dep_ename": "Institute of Neuroscience",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_132716": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132716",
+                "cos_code": "LSNS30061",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "社會神經科學發展史",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "鄭雅薇",
+                "cos_time": "F9a-YL823[YM]",
+                "memo": "開放大學部學生修讀。",
+                "cos_ename": "HistorySocial Neuroscience",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "301",
+                "dep_primary": "1",
+                "dep_cname": "神經科學研究所",
+                "dep_ename": "Institute of Neuroscience",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_132717": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "132717",
+                "cos_code": "LSNS30019",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "神經生物學",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "劉福清、蔡惠珍、林貝容、周韻家",
+                "cos_time": "F567-YK101[YM]",
+                "memo": "開放隨班附讀、政大學生選修及大學部選修。開放大學部學生修讀。\n基因體所碩博任選必修科目。大三任選必修課程，十門課至少選三門。\n實地線上混合教學課程 (陽明校區：YK101；交大校區：線上，請向教師索取線上連結)",
+                "cos_ename": "Neurobiology",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "301",
+                "dep_primary": "1",
+                "dep_cname": "神經科學研究所",
+                "dep_ename": "Institute of Neuroscience",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            }
+        },
+        "costype": {
+            "1121_132700": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132701": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132702": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132703": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132704": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132705": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132706": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132707": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132708": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132709": {
+                "跨校區課程_跨校區課程": {
+                    "course_category_cname": "跨校區課程_跨校區課程",
+                    "course_category_ename": "Cross-Campus Course_Cross-Campus Course",
+                    "course_category_type": "57",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132710": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132711": {
+                "程式相關_程式相關": {
+                    "course_category_cname": "程式相關_程式相關",
+                    "course_category_ename": "",
+                    "course_category_type": "58",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132712": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132713": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132714": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132715": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132716": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_132717": {
+                "跨校區課程_跨校區課程": {
+                    "course_category_cname": "跨校區課程_跨校區課程",
+                    "course_category_ename": "Cross-Campus Course_Cross-Campus Course",
+                    "course_category_type": "57",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                },
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_133601": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_133602": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_133603": {
+                "專題演講_專題演講": {
+                    "course_category_cname": "專題演講_專題演講",
+                    "course_category_ename": "",
+                    "course_category_type": "62",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_133604": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_132700": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132701": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132702": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132703": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132704": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132705": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132706": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132707": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132708": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132709": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132710": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132711": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132712": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132713": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132714": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132715": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132716": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_132717": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_133601": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_133602": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_133603": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_133604": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_132700": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132701": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132702": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132703": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132704": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132705": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132706": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132707": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132708": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132709": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132710": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132711": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_132712": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132713": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132714": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132715": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132716": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_132717": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_133601": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_133602": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_133603": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_133604": {
+                "授課語言代碼": "en-us"
+            }
+        },
+        "2": {
+            "1121_133601": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "133601",
+                "cos_code": "LSSL30005",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生理學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳儀聰、黃自強、李曉暉、侯珮珊",
+                "cos_time": "F56-YR104[YM]",
+                "memo": "1.\t全英語授課課程，歡迎本地生修課。\n2.\t本英文課程以三名(含)以上的外籍學生選修為開課原則。[English Medium Course]",
+                "cos_ename": "Physiology",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "301",
+                "dep_primary": "2",
+                "dep_cname": "神經科學研究所",
+                "dep_ename": "Institute of Neuroscience",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_133602": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "133602",
+                "cos_code": "LSSL30013",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生醫科學實驗技術",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "郭津岑",
+                "cos_time": "W567-YC516[YM]",
+                "memo": "1.\t全英語授課課程，歡迎本地生修課。\n2.\t本英文課程以三名(含)以上的外籍學生選修為開課原則。[English Medium Course]",
+                "cos_ename": "Experimental techniques for biomedical science",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "301",
+                "dep_primary": "2",
+                "dep_cname": "神經科學研究所",
+                "dep_ename": "Institute of Neuroscience",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_133603": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "133603",
+                "cos_code": "LSSL30008",
+                "num_limit": "155",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "生命科學院-生物醫學講座",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "連正章",
+                "cos_time": "W78-",
+                "memo": "1.全英語授課課程。\n2.本課程原則上僅限本校生命科學院學生(含大學部)及藥物科學院生物藥學研究所學生修習,其他學生如欲修課,需經本院審核同意。 \n3.不開放校際選課。\n4.本課程於陽明校區活動中心第三會議室上課[English Medium Course]",
+                "cos_ename": "Special lectures on biomedicine",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "301",
+                "dep_primary": "2",
+                "dep_cname": "神經科學研究所",
+                "dep_ename": "Institute of Neuroscience",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_133604": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "133604",
+                "cos_code": "LSSL30003",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "分子細胞生物概論",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "王琬菁、俞震亞、張佩靖、郭津岑、黃介嶸、許翺麟、金翠庭、李曉暉、陳威儀、林貝容、姜為中、藍昇輝、張崇德、袁維謙",
+                "cos_time": "F34-YC516[YM]",
+                "memo": "1.\t全英語授課課程，歡迎本地生修課。\n2.\t本英文課程以三名(含)以上的外籍學生選修為開課原則。\n3.\t本課程歡迎大三(含)以上學生修課。[English Medium Course]",
+                "cos_ename": "Molecular Cell Biology",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "301",
+                "dep_primary": "2",
+                "dep_cname": "神經科學研究所",
+                "dep_ename": "Institute of Neuroscience",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            }
+        }
+    }
+}

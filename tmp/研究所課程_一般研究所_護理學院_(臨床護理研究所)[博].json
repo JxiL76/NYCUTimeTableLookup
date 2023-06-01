@@ -1,0 +1,661 @@
+{
+    "7B5C0463-4402-4BF0-9FD1-BFDFB81F0C48": {
+        "dep_id": "7B5C0463-4402-4BF0-9FD1-BFDFB81F0C48",
+        "dep_cname": "臨床護理研究所",
+        "dep_ename": "Institute of Clinical Nursing",
+        "2": {
+            "1121_131714": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131714",
+                "cos_code": "NSCN30086",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "護理角色於社會心理以及社會福祉的照護",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳律言、黃子庭、孫秀卿、陳俞琪、張秀如、林承霈",
+                "cos_time": "W89-YN419[YM]",
+                "memo": "[English Medium Course]採全英文授課，歡迎其他系所選修",
+                "cos_ename": "Nurses’role on psychosocial and well-being",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "202",
+                "dep_primary": "2",
+                "dep_cname": "臨床護理研究所",
+                "dep_ename": "Institute of Clinical Nursing",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_131715": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131715",
+                "cos_code": "NSCN30047",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "護理關懷與療癒專題研討(三)",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "穆佩芬",
+                "cos_time": "W9a-YN416[YM]",
+                "memo": "與臨護所、在職專班、博士班合班上課。",
+                "cos_ename": "Seminar in Nursing Caring and Healing (III)",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "202",
+                "dep_primary": "2",
+                "dep_cname": "臨床護理研究所",
+                "dep_ename": "Institute of Clinical Nursing",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_131716": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131716",
+                "cos_code": "NSCN30087",
+                "num_limit": "15",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "跨文化進階護理角色與功能",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "蕭照彬、孫秀卿",
+                "cos_time": "S12345678-YN419[YM]",
+                "memo": "本課程擬於2023年7、8月暑假開課，將前往國外進行授課，採密集授課，預計8月底結束。\n僅限護理學院有報名同學選修。",
+                "cos_ename": "Cross-cultural advanced nursing roles and functions",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "202",
+                "dep_primary": "2",
+                "dep_cname": "臨床護理研究所",
+                "dep_ename": "Institute of Clinical Nursing",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_131802": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131802",
+                "cos_code": "NSCH30018",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "感染管制與實證研究",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳瑛瑛",
+                "cos_time": "R89-YN419[YM]",
+                "memo": "與臨護所、在職專班、社區所、博士班合班上課",
+                "cos_ename": "Infection Control and Evidence Research",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "202",
+                "dep_primary": "2",
+                "dep_cname": "臨床護理研究所",
+                "dep_ename": "Institute of Clinical Nursing",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_131803": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131803",
+                "cos_code": "NSCH30019",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "流行病學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "陳瑛瑛",
+                "cos_time": "T89-YN322[YM]",
+                "memo": "與臨護所、在職專班、社區所、博士班合班上課",
+                "cos_ename": "Epidemiology",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "202",
+                "dep_primary": "2",
+                "dep_cname": "臨床護理研究所",
+                "dep_ename": "Institute of Clinical Nursing",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_150200": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "150200",
+                "cos_code": "NSCN30077",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "進階病理生理學案例討論",
+                "cos_credit": "1.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "劉佩青、童恒新、胡慧蘭",
+                "cos_time": "F78-YN322[YM]",
+                "memo": "臨護所、在職專班合班上課。",
+                "cos_ename": "Advanced Pathophysiology case  discussion",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "202",
+                "dep_primary": "2",
+                "dep_cname": "臨床護理研究所",
+                "dep_ename": "Institute of Clinical Nursing",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_150201": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "150201",
+                "cos_code": "NSDN30068",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "進階病理生理學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "劉佩青、童恒新、胡慧蘭",
+                "cos_time": "F56-YN322[YM]",
+                "memo": "開放隨班附讀，臨護所、護理系在職專班合班上課。",
+                "cos_ename": "Advanced Pathophysiology",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "202",
+                "dep_primary": "2",
+                "dep_cname": "臨床護理研究所",
+                "dep_ename": "Institute of Clinical Nursing",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            }
+        },
+        "costype": {
+            "1121_131714": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131715": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131716": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131802": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131803": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_141500": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_141501": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_141502": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_141503": {
+                "一般實習_一般實習": {
+                    "course_category_cname": "一般實習_一般實習",
+                    "course_category_ename": "Off-Campus Internship_Off-Campus Internship",
+                    "course_category_type": "26",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_141504": {
+                "一般實習_一般實習": {
+                    "course_category_cname": "一般實習_一般實習",
+                    "course_category_ename": "Off-Campus Internship_Off-Campus Internship",
+                    "course_category_type": "26",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_141505": {
+                "一般實習_一般實習": {
+                    "course_category_cname": "一般實習_一般實習",
+                    "course_category_ename": "Off-Campus Internship_Off-Campus Internship",
+                    "course_category_type": "26",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_141506": {
+                "一般實習_一般實習": {
+                    "course_category_cname": "一般實習_一般實習",
+                    "course_category_ename": "Off-Campus Internship_Off-Campus Internship",
+                    "course_category_type": "26",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_150200": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_150201": {
+                "開放隨班附讀_開放隨班附讀": {
+                    "course_category_cname": "開放隨班附讀_開放隨班附讀",
+                    "course_category_ename": "",
+                    "course_category_type": "71",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_131714": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131715": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131716": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131802": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131803": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_141500": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_141501": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_141502": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_141503": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_141504": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_141505": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_141506": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_150200": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_150201": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_131714": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_131715": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131716": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131802": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131803": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_141500": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_141501": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_141502": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_141503": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_141504": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_141505": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_141506": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_150200": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_150201": {
+                "授課語言代碼": "zh-tw"
+            }
+        },
+        "1": {
+            "1121_141500": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "141500",
+                "cos_code": "NSDN30031",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "照護實務之管理與領導",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "童恒新、陳怡如、劉影梅、蔡仁貞、李亭亭、侯宜菁、王桂芸",
+                "cos_time": "F5678-YN419[YM]",
+                "memo": "開放隨班附讀。單週為照護實務之管理與領導，雙週為實證研究方法。",
+                "cos_ename": "Leadership and Organization Management",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "202",
+                "dep_primary": "1",
+                "dep_cname": "臨床護理研究所",
+                "dep_ename": "Institute of Clinical Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_141501": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "141501",
+                "cos_code": "NSDN30020",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "實證研究方法",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "邱愛富、孫秀卿、陳俞琪、穆佩芬、楊秋月、鄭浩民、黃淑鶴、鄒樂起、徐德福",
+                "cos_time": "F34-YN416[YM]",
+                "memo": "開放隨班附讀。單週為照護實務之管理與領導，雙周為實證研究方法。",
+                "cos_ename": "Introduction of EBP research methods",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "202",
+                "dep_primary": "1",
+                "dep_cname": "臨床護理研究所",
+                "dep_ename": "Institute of Clinical Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_141502": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "141502",
+                "cos_code": "NSDN30001",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "健康與健康處置",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "張秀如、胡慧蘭",
+                "cos_time": "F234-YN419[YM]",
+                "memo": "開放隨班附讀。",
+                "cos_ename": "Wellness and Health Management",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "202",
+                "dep_primary": "1",
+                "dep_cname": "臨床護理研究所",
+                "dep_ename": "Institute of Clinical Nursing",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_141503": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "141503",
+                "cos_code": "NSCN30061",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "進階護理照護實習",
+                "cos_credit": "4.00",
+                "cos_hours": "8.00",
+                "TURL": "",
+                "teacher": "孫秀卿",
+                "cos_time": "F12345678-",
+                "memo": "碩士級進階實習可免修",
+                "cos_ename": "Advanced Practicum in Nursing",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "202",
+                "dep_primary": "1",
+                "dep_cname": "臨床護理研究所",
+                "dep_ename": "Institute of Clinical Nursing",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_141504": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "141504",
+                "cos_code": "NSCN30031",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "特定領域護理實習",
+                "cos_credit": "4.00",
+                "cos_hours": "8.00",
+                "TURL": "",
+                "teacher": "孫秀卿、陳俞琪、胡慧蘭",
+                "cos_time": "F12345678-",
+                "memo": "碩士級課程實習(APN)可申請抵免",
+                "cos_ename": "Professional field nursing practice",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "202",
+                "dep_primary": "1",
+                "dep_cname": "臨床護理研究所",
+                "dep_ename": "Institute of Clinical Nursing",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_141505": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "141505",
+                "cos_code": "NSCN30039",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "群體健康實證措施發展",
+                "cos_credit": "4.00",
+                "cos_hours": "8.00",
+                "TURL": "",
+                "teacher": "童恒新、孫秀卿、穆佩芬",
+                "cos_time": "F12345678-",
+                "memo": "",
+                "cos_ename": "Development of Evidence-based Practices for Enhancing Population Health (practicum)",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "202",
+                "dep_primary": "1",
+                "dep_cname": "臨床護理研究所",
+                "dep_ename": "Institute of Clinical Nursing",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            },
+            "1121_141506": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "141506",
+                "cos_code": "NSCN30041",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "臨床實證措施應用與評值",
+                "cos_credit": "4.00",
+                "cos_hours": "8.00",
+                "TURL": "",
+                "teacher": "童恒新、穆佩芬",
+                "cos_time": "F12345678-",
+                "memo": "",
+                "cos_ename": "Clinical evidence-based intervention and ",
+                "brief": "",
+                "degree": "4",
+                "dep_id": "202",
+                "dep_primary": "1",
+                "dep_cname": "臨床護理研究所",
+                "dep_ename": "Institute of Clinical Nursing",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "D"
+            }
+        }
+    }
+}

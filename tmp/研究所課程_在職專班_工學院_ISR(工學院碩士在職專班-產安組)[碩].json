@@ -1,0 +1,291 @@
+{
+    "571ADF90-0648-4891-87C4-1840CF588EC0": {
+        "dep_id": "571ADF90-0648-4891-87C4-1840CF588EC0",
+        "dep_cname": "工學院碩士在職專班-產安組",
+        "dep_ename": "Degree Program of Industrial Safety and Risk Management",
+        "1": {
+            "1121_556000": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "556000",
+                "cos_code": "ENSR30015",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "碩士論文研究  ",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "產安專班",
+                "cos_time": "",
+                "memo": "",
+                "cos_ename": "Thesis Research",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "606",
+                "dep_primary": "1",
+                "dep_cname": "工學院碩士在職專班-產安組",
+                "dep_ename": "Degree Program of Industrial Safety and Risk Management",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_556001": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "556001",
+                "cos_code": "ENSR30018",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "空氣品質管理",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "林亮毅",
+                "cos_time": "Tabc-EV407[GF]",
+                "memo": "",
+                "cos_ename": "Air Quality Management",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "606",
+                "dep_primary": "1",
+                "dep_cname": "工學院碩士在職專班-產安組",
+                "dep_ename": "Degree Program of Industrial Safety and Risk Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_556002": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "556002",
+                "cos_code": "ENSR30006",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "機率、統計與可靠度",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "陳俊勳、金大仁",
+                "cos_time": "Wabc-EE324[GF]",
+                "memo": "",
+                "cos_ename": "Probability Statistics and Reliability",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "606",
+                "dep_primary": "1",
+                "dep_cname": "工學院碩士在職專班-產安組",
+                "dep_ename": "Degree Program of Industrial Safety and Risk Management",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_556003": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "556003",
+                "cos_code": "ENSR30025",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "產業安全之檢測與保固技術",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "張起明、尹慶中",
+                "cos_time": "Rabc-EE324[GF]",
+                "memo": "",
+                "cos_ename": "Quality Assurance Test and Inspection",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "606",
+                "dep_primary": "1",
+                "dep_cname": "工學院碩士在職專班-產安組",
+                "dep_ename": "Degree Program of Industrial Safety and Risk Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_556004": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "556004",
+                "cos_code": "ENSR30008",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "火災力學導論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "邱晨瑋、雷明遠",
+                "cos_time": "S234-EE324[GF]",
+                "memo": "",
+                "cos_ename": "Introduction to Fire Dynamics",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "606",
+                "dep_primary": "1",
+                "dep_cname": "工學院碩士在職專班-產安組",
+                "dep_ename": "Degree Program of Industrial Safety and Risk Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "J"
+            },
+            "1121_556005": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "556005",
+                "cos_code": "ENSR30010",
+                "num_limit": "9999",
+                "dep_limit": "N",
+                "URL": "",
+                "cos_cname": "產業衛生特論",
+                "cos_credit": "3.00",
+                "cos_hours": "3.00",
+                "TURL": "",
+                "teacher": "汪禧年、游逸駿、陳志勇",
+                "cos_time": "S567-EE324[GF]",
+                "memo": "",
+                "cos_ename": "Special Issues on Occupational Health",
+                "brief": "",
+                "degree": "5",
+                "dep_id": "606",
+                "dep_primary": "1",
+                "dep_cname": "工學院碩士在職專班-產安組",
+                "dep_ename": "Degree Program of Industrial Safety and Risk Management",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": "data",
+                "reg_num": "0",
+                "depType": "J"
+            }
+        },
+        "costype": {
+            "1121_556000": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_556001": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_556002": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_556003": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_556004": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_556005": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_556000": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_556001": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_556002": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_556003": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_556004": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_556005": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_556000": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_556001": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_556002": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_556003": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_556004": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_556005": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    }
+}

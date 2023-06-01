@@ -1,0 +1,199 @@
+{
+    "B91F507E-946F-EC11-85F4-005056816DA7": {
+        "dep_id": "B91F507E-946F-EC11-85F4-005056816DA7",
+        "dep_cname": "口腔組織工程暨生技材料研究所",
+        "dep_ename": "Institute of Oral Tissue Engineering and Biomaterials",
+        "1": {
+            "1121_131600": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131600",
+                "cos_code": "DETM30001",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "高等牙醫材料工程學",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "林元敏、李士元、黃何雄",
+                "cos_time": "R34-YD415[YM]",
+                "memo": "",
+                "cos_ename": "Advanced Dentist Materials Engineering",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "152",
+                "dep_primary": "1",
+                "dep_cname": "口腔組織工程暨生技材料研究所",
+                "dep_ename": "Institute of Oral Tissue Engineering and Biomaterials",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_131601": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131601",
+                "cos_code": "DETM30002",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "口腔組織工程與生技材料專題討論",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "林元敏、李士元",
+                "cos_time": "W9a-YD207[YM]",
+                "memo": "",
+                "cos_ename": "Oral Tissue Engineering and Biotechnology Materials Panel Discussion",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "152",
+                "dep_primary": "1",
+                "dep_cname": "口腔組織工程暨生技材料研究所",
+                "dep_ename": "Institute of Oral Tissue Engineering and Biomaterials",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_131602": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131602",
+                "cos_code": "DETM30005",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "臨床細胞治療導論",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "張婷菡",
+                "cos_time": "W34-YD415[YM]",
+                "memo": "[English Medium Course]",
+                "cos_ename": "Clinical Cell Therapy",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "152",
+                "dep_primary": "1",
+                "dep_cname": "口腔組織工程暨生技材料研究所",
+                "dep_ename": "Institute of Oral Tissue Engineering and Biomaterials",
+                "cos_type": "選修",
+                "cos_type_e": "Elective",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            },
+            "1121_131605": {
+                "acy": "112",
+                "sem": "1",
+                "cos_id": "131605",
+                "cos_code": "DETM30003",
+                "num_limit": "9999",
+                "dep_limit": "*",
+                "URL": "",
+                "cos_cname": "組織工程與材料科學技術導論",
+                "cos_credit": "2.00",
+                "cos_hours": "2.00",
+                "TURL": "",
+                "teacher": "林元敏",
+                "cos_time": "M34-YD209[YM]",
+                "memo": "",
+                "cos_ename": "Introduction to Tissue Engineering and Materials Science and Technology",
+                "brief": "",
+                "degree": "3",
+                "dep_id": "152",
+                "dep_primary": "1",
+                "dep_cname": "口腔組織工程暨生技材料研究所",
+                "dep_ename": "Institute of Oral Tissue Engineering and Biomaterials",
+                "cos_type": "必修",
+                "cos_type_e": "Required",
+                "crsoutline_type": null,
+                "reg_num": "0",
+                "depType": "G"
+            }
+        },
+        "costype": {
+            "1121_131600": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131601": {
+                "書報專題討論_書報專題討論": {
+                    "course_category_cname": "書報專題討論_書報專題討論",
+                    "course_category_ename": "",
+                    "course_category_type": "63",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131602": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            },
+            "1121_131605": {
+                "": {
+                    "course_category_cname": "",
+                    "course_category_ename": "",
+                    "course_category_type": "",
+                    "GECIName": "",
+                    "GECIEngName": ""
+                }
+            }
+        },
+        "brief": {
+            "1121_131600": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131601": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131602": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            },
+            "1121_131605": {
+                "": {
+                    "brief_code": "",
+                    "brief": ""
+                }
+            }
+        },
+        "language": {
+            "1121_131600": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131601": {
+                "授課語言代碼": "zh-tw"
+            },
+            "1121_131602": {
+                "授課語言代碼": "en-us"
+            },
+            "1121_131605": {
+                "授課語言代碼": "zh-tw"
+            }
+        }
+    }
+}
