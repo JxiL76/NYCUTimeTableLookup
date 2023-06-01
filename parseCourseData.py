@@ -64,15 +64,15 @@ def saveCourses(courses, coursePath, coursesWithPath):
                 courseTeacher = courseInfo['teacher']
                 courseTime = courseInfo['cos_time']
                 courseIndex = f"{courseId}_{courseName}"
-                coursesWithPath.append({
+                coursesWithPath[courseId] = {
                     "courseId": courseId,
                     "courseName": courseName,
                     "courseSemester": courseSemester,
                     "courseTeacher": courseTeacher,
                     "courseTime": courseTime,
                     "coursePath": coursePath
-                })
-courseWithPath = []
+                }
+courseWithPath = {}
 # Print all the file name in the tmp folder
 loopCounter = 0
 for file in os.listdir("tmp"):
@@ -84,4 +84,6 @@ for file in os.listdir("tmp"):
     loopCounter += 1
 
 with open("result.json", "w") as f:
-    json.dump(courseWithPath, f, indent=4, ensure_ascii=False, sort_keys=True)
+    #Turn dictionary to list
+    courseWithPathList = list(courseWithPath.values())
+    json.dump(courseWithPathList, f, indent=4, ensure_ascii=False, sort_keys=True)
