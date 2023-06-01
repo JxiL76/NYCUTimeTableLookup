@@ -1,63 +1,67 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <meta charset="UTF-8">
-  <title>Type Ahead 👀</title>
-  <link rel="stylesheet" href="style.css">
-  <link rel="icon" href="https://fav.farm/🔥" />
+    <meta charset="UTF-8">
+    <title>Type Ahead 👀</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="https://fav.farm/🔥" />
 </head>
+
 <body>
+    <div class="search-form"> 
+        <input type="text" class="search" placeholder="課程名稱或授課老師">
+        <ul class="suggestions">
+        </ul>
+    </div>
+    <script>
+        let courses = []
+        fetch('./result.json').then(blob => blob.json()).then(data => {
+            courses.push(...data);
+        });
 
-  <form class="search-form">
-    <input type="text" class="search" placeholder="課程名稱或授課老師">
-    <ul class="suggestions">
-    </ul>
-  </form>
-<script>
-  let courses = []
-  fetch('./result.json').then(blob => blob.json()).then(data => {
-    courses.push(...data);
-  });
+        function findMatch(keyword, courses) {
+            const regex = RegExp(`${keyword}`, "gi");
+            return courses.filter(place => {
+                return place.courseName.match(regex) || place.courseTeacher.match(regex);
+            })
+        }
 
-  function findMatch(keyword, courses){
-    const regex = RegExp(`${keyword}`, "gi");
-    return courses.filter(place => {
-      return place.courseName.match(regex) || place.courseTeacher.match(regex);
-    })
-  }
+        function displayMatch(e) {
+            if (this.value === '') {
+                listElement.innerHTML = '';
+                return;
+            }
+            const matches = findMatch(this.value, courses);
+            const regex = RegExp(`${this.value}`, "gi");
+            const htmlAll = matches.map(course => {
+                const courseName = course.courseName.replace(regex, `<span class="hl">${this.value}</span>`)
+                const coursePath = course.coursePath
+                const courseTeacher = course.courseTeacher.replace(regex, `<span class="hl">${this.value}</span>`)
+                const courseTime = course.courseTime
+                return `
+                    <li>
+                        <span class="courseName"> 課程名稱：${courseName} </span>
+                        <span class="coursePath"> 課程路徑：${coursePath}</span>
+                        <span class="courseTeacher"> 授課老師：${courseTeacher}</span>
+                        <span class="courseTime"> 課程時間：${courseTime}</span>
+                    </li>
+                    `
+            });
 
-  function displayMatch() {
-    const matches = findMatch(this.value, courses);
-    const regex = RegExp(`${this.value}`, "gi");
-    const htmlAll = matches.map( course => {
-      const courseName = course.courseName.replace(regex, `<span class="hl">${this.value}</span>`)
-      const coursePath = course.coursePath
-      const courseTeacher = course.courseTeacher.replace(regex, `<span class="hl">${this.value}</span>` )
-      const courseTime = course.courseTime
-      return `
-      <li>
-        <span class="courseName"> 課程名稱：${courseName} </span>
-        <span class="coursePath"> 課程路徑：${coursePath}</span>
-        <span class="courseTeacher"> 授課老師：${courseTeacher}</span>
-        <span class="courseTime"> 課程時間：${courseTime}</span>
-      </li>
-      `
-    });
+            const html = htmlAll.length < 10 ? htmlAll.join('') : htmlAll.slice(0, 10).join('');
+            listElement.innerHTML = html;
+        }
 
-    const html = htmlAll.length < 10 ? htmlAll.join('') : htmlAll.slice(0,10).join('');
-    
-    console.log(html);
-    listElement.innerHTML = html;
-  }
+        const inputElement = document.querySelector(".search");
+        const listElement = document.querySelector(".suggestions");
 
-  const inputElement = document.querySelector(".search");
-  const listElement = document.querySelector(".suggestions");
-
-  inputElement.addEventListener('change', displayMatch);
-  inputElement.addEventListener('keyup', displayMatch);
+        inputElement.addEventListener('change', displayMatch);
+        inputElement.addEventListener('keyup', displayMatch);
 
 
 
-</script>
+    </script>
 </body>
+
 </html>
