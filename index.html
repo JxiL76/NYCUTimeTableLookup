@@ -9,9 +9,10 @@
 <body>
 
   <form class="search-form">
-    <input type="text" class="search" placeholder="City or State">
+    <input type="text" class="search" placeholder="課程名稱或授課老師">
     <ul class="suggestions">
       <li>輸入課程名稱</li>
+      <li>或是授課老師</li>
     </ul>
   </form>
 <script>
@@ -40,10 +41,10 @@
       const courseTime = course.courseTime
       return `
       <li>
-        <span class="name"> ${courseName} </span>
-        <span class="population"> ${coursePath}</span>
-        <span class="population"> ${courseTeacher}</span>
-        <span class="population"> ${courseTime}</span>
+        <span class="courseName"> ${courseName} </span>
+        <span class="coursePath"> ${coursePath}</span>
+        <span class="courseTeacher"> ${courseTeacher}</span>
+        <span class="courseTime"> ${courseTime}</span>
       </li>
       `
     });
