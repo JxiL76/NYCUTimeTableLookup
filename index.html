@@ -16,6 +16,9 @@
         <ul class="suggestions">
         </ul>
     </div>
+    <div class="iframe-container">
+        <iframe src="" class="called"></iframe>
+    </div>
     <script>
         let courses = []
         fetch('./result.json').then(blob => blob.json()).then(data => {
@@ -58,15 +61,18 @@
             listElement.innerHTML = html;
         }
 
+        function updateIframe(url) {
+            const iframeElement = document.querySelector(".called");
+            iframeElement.src = url;
+        }
         const inputElement = document.querySelector(".search");
         const listElement = document.querySelector(".suggestions");
 
         inputElement.addEventListener('change', displayMatch);
         inputElement.addEventListener('keyup', displayMatch);
-
-
-
     </script>
+
+    
 </body>
 
 </html>

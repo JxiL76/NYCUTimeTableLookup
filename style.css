@@ -20,11 +20,6 @@ html {
     flex-direction: row;
   }
   
-  .search-form {
-    max-width: 800px;
-    margin: 50px auto;
-  }
-  
   input.search {
     margin: 0;
     text-align: center;
@@ -110,3 +105,27 @@ html {
     text-decoration: none;
     cursor: pointer;
   }
+
+
+
+body {
+    display: flex;
+    flex-direction: row;
+}
+
+.search-form {
+    width: 40%;
+}
+
+.iframe-container {
+    width: 40%;
+    box-sizing: border-box;
+    padding: 10px;
+    position: fixed;
+    right: 0;
+}
+
+.called {
+    width: 100%;
+    height: 100%;
+}
