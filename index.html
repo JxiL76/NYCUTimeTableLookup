@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Type Ahead 👀</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="https://fav.farm/🔥" />
+</head>
+<body>
+
+  <form class="search-form">
+    <input type="text" class="search" placeholder="City or State">
+    <ul class="suggestions">
+      <li>Filter for a city</li>
+      <li>or a state</li>
+    </ul>
+  </form>
+<script>
+  const endpoint = 'https://raw.githubusercontent.com/JadarTheObscurity/NYCUTimeTableLookup/main/result.json';
+  let cities = []
+  fetch(endpoint).then(blob => blob.json()).then(data => {
+    // console.log(data);
+    cities.push(data);
+    console.log(cities);
+  });
+
+  function findMatch(keyword, cities){
+    const regex = RegExp(`${keyword}`, "gi");
+    return cities.filter(place => {
+      return place.city.match(regex);
+    })
+  }
+
+  function displayMatch() {
+    const matches = findMatch(this.value, cities);
+    const regex = RegExp(`${this.value}`, "gi");
+    const html = matches.map( place => {
+      const cityName = place.city.replace(regex, `<span class="hl">${this.value}</span>`)
+      const cityState = place.state.replace(regex, `<span class="hl">${this.value}</span>`)
+      return `
+      <li>
+        <span class="name"> ${cityName} ${cityState}</span>
+        <span class="population"> ${place.population}</span>
+      </li>
+      `
+    }).join('');
+    console.log(html);
+    listElement.innerHTML = html;
+  }
+
+  const inputElement = document.querySelector(".search");
+  const listElement = document.querySelector(".suggestions");
+
+  inputElement.addEventListener('change', displayMatch);
+  inputElement.addEventListener('keyup', displayMatch);
+
+
+
+</script>
+</body>
+</html>

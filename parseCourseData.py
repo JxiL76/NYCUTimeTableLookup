@@ -64,15 +64,15 @@ def saveCourses(courses, coursePath, coursesWithPath):
                 courseTeacher = courseInfo['teacher']
                 courseTime = courseInfo['cos_time']
                 courseIndex = f"{courseId}_{courseName}"
-                coursesWithPath[courseIndex] = {
+                coursesWithPath.append({
                     "courseId": courseId,
                     "courseName": courseName,
                     "courseSemester": courseSemester,
                     "courseTeacher": courseTeacher,
                     "courseTime": courseTime,
                     "coursePath": coursePath
-                }
-courseWithPath = {}
+                })
+courseWithPath = []
 # Print all the file name in the tmp folder
 loopCounter = 0
 for file in os.listdir("tmp"):
